@@ -1,0 +1,721 @@
+2020-01-26,14:11:40,0,Rebo4AI,1580044301491,Hiii Behzad!,TUTOR
+2020-01-26,14:11:47,0,Behzad,1580044308041,hi,GREETING
+2020-01-26,14:11:48,0,Rebo4AI,1580044309519,judgement1,TUTOR
+2020-01-26,14:11:58,0,Behzad,1580044318245,positive,POSITIVE
+2020-01-26,14:11:58,0,Rebo4AI,1580044319532,positiveExp1,TUTOR
+2020-01-26,14:12:20,0,Behzad,1580044340260,posda,
+2020-01-26,14:12:24,0,Rebo4AI,1580044345556,Heute wieder einmal kurz angebunden.,TUTOR
+2020-01-26,14:12:24,0,Rebo4AI,1580044345560,emotions2,TUTOR
+2020-01-26,14:12:42,0,Behzad,1580044362998,negative,NEGATIVE
+2020-01-26,14:12:42,0,Behzad,1580044363004,negative,NEGATIVE
+2020-01-26,14:12:44,0,Rebo4AI,1580044365579,learning1,TUTOR
+2020-01-26,14:13:21,0,Behzad,1580044401655,adsad a,
+2020-01-26,14:13:21,0,Behzad,1580044401657,adsad a,
+2020-01-26,14:13:21,0,Behzad,1580044401658,adsad a,
+2020-01-26,14:13:25,0,Rebo4AI,1580044407610,planning3,TUTOR
+2020-01-26,14:13:58,0,Behzad,1580044438407,planing,
+2020-01-26,14:14:01,0,Rebo4AI,1580044441637,planningNoCategory1,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-01-26,14:14:54,0,Rebo4AI,1580044495095,Hiii Behzad!,TUTOR
+2020-01-26,14:14:59,0,Behzad,1580044499100,hi,GREETING
+2020-01-26,14:14:59,0,Rebo4AI,1580044501119,judgement1,TUTOR
+2020-01-26,14:15:05,0,Behzad,1580044505377,negative,NEGATIVE
+2020-01-26,14:15:09,0,Rebo4AI,1580044511135,negativeExp3,TUTOR
+2020-01-26,14:15:18,0,Behzad,1580044518141,sth sth,
+2020-01-26,14:15:19,0,Rebo4AI,1580044521150,Heute wieder einmal kurz angebunden.,TUTOR
+2020-01-26,14:15:19,0,Rebo4AI,1580044521154,negativExpAskFurther,TUTOR
+2020-01-26,14:15:51,0,Behzad,1580044551107,sadsad asd sad ,
+2020-01-26,14:15:55,0,Rebo4AI,1580044557185,emotions1,TUTOR
+2020-01-26,14:16:02,0,Behzad,1580044562868,sda asd sad sad ,
+2020-01-26,14:16:05,0,Rebo4AI,1580044567195,learning2,TUTOR
+2020-01-26,14:16:14,0,Behzad,1580044574132,sasd asd sadsa das ,
+2020-01-26,14:16:16,0,Rebo4AI,1580044577205,planning3,TUTOR
+2020-01-26,14:16:36,0,Behzad,1580044596640,planing,
+2020-01-26,14:16:36,0,Rebo4AI,1580044597218,planningNoCategory1,TUTOR
+2020-01-26,14:16:56,0,Behzad,1580044616843,ssad ads ,
+2020-01-26,14:16:57,0,Rebo4AI,1580044617236,closing3,TUTOR
+2020-01-26,14:17:11,0,Behzad,1580044631821,zcsdfs dsd,
+2020-01-26,14:17:12,0,Rebo4AI,1580044633254,goodbye1,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-01-26,17:26:24,0,Rebo4AI,1580055985737,Salam Behzad,TUTOR
+2020-01-26,17:26:30,0,Behzad,1580055990269,hi,GREETING
+2020-01-26,17:26:30,0,Rebo4AI,1580055991756,judgement1,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-01-26,17:27:12,0,Rebo4AI,1580056033626,Salam Behzad,TUTOR
+2020-01-26,17:27:18,0,Behzad,1580056038564,hi,GREETING
+2020-01-26,17:27:18,0,Rebo4AI,1580056039655,emotions1,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-01-26,17:39:14,0,Rebo4AI,1580056755544,Hello Behzad,TUTOR
+2020-01-26,17:39:18,0,Behzad,1580056758534,hi,GREETING
+2020-01-26,17:39:18,0,Rebo4AI,1580056759571,I hope you have read the AI essential course.,TUTOR
+2020-01-26,17:39:18,0,Rebo4AI,1580056759574,emotions1,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-01-26,17:53:50,0,Rebo4AI,1580057631892,Hello Behzad,TUTOR
+2020-01-26,17:53:55,0,Behzad,1580057635967,hi,GREETING
+2020-01-26,17:53:56,0,Rebo4AI,1580057637916,I hope you have read the AI essential course.,TUTOR
+2020-01-26,17:53:56,0,Rebo4AI,1580057637923,Did you enjoy this experience? Why / Why not?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-01-26,17:54:32,0,Rebo4AI,1580057673915,Hi Behzad!,TUTOR
+2020-01-26,17:54:36,0,Behzad,1580057676117,hi,GREETING
+2020-01-26,17:54:36,0,Rebo4AI,1580057677946,I hope you have read the AI essential course.,TUTOR
+2020-01-26,17:54:36,0,Rebo4AI,1580057677948,"How did you feel before, during and after the experience?",TUTOR
+2020-01-26,17:55:22,0,Behzad,1580057722883,positive,POSITIVE
+2020-01-26,17:55:27,0,Rebo4AI,1580057727995,Great to hear!,TUTOR
+2020-01-26,17:55:27,0,Rebo4AI,1580057728000,What makes this task interesting for you?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-01-26,17:59:32,0,Rebo4AI,1580057973049,Hi Behzad!,TUTOR
+2020-01-26,17:59:36,0,Behzad,1580057976388,hi,GREETING
+2020-01-26,17:59:36,0,Rebo4AI,1580057977076,I hope you have read the AI essential course.,TUTOR
+2020-01-26,17:59:36,0,Rebo4AI,1580057977078,"Now, do you have a good feeling about AI?",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-01-26,18:03:42,0,Rebo4AI,1580058223439,Hi Behzad!,TUTOR
+2020-01-26,18:03:48,0,Behzad,1580058228326,hi,GREETING
+2020-01-26,18:03:48,0,Rebo4AI,1580058229470,I hope you have read the AI essential course.,TUTOR
+2020-01-26,18:03:48,0,Rebo4AI,1580058229473,"Now, do you have a good feeling about AI?",TUTOR
+2020-01-26,18:04:49,0,Behzad,1580058289571,positive,POSITIVE
+2020-01-26,18:04:50,0,Rebo4AI,1580058291523,Great to hear!,TUTOR
+2020-01-26,18:04:50,0,Rebo4AI,1580058291529,What did you particularly enjoy doing the experience? Why?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-01-26,18:05:43,0,Rebo4AI,1580058344949,Hello Behzad,TUTOR
+2020-01-26,18:05:51,0,Behzad,1580058351115,hi,GREETING
+2020-01-26,18:05:51,0,Rebo4AI,1580058352993,I hope you have read the AI essential course.,TUTOR
+2020-01-26,18:05:51,0,Rebo4AI,1580058352997,"Now, do you have a good feeling about AI?",TUTOR
+2020-01-26,18:05:59,0,Behzad,1580058359900,negative,NEGATIVE
+2020-01-26,18:06:01,0,Rebo4AI,1580058363011,Oh dear!,TUTOR
+2020-01-26,18:06:01,0,Rebo4AI,1580058363017,What didn't you particularly like about the experience?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-01-26,18:06:52,0,Rebo4AI,1580058413234,Hello Behzad,TUTOR
+2020-01-26,18:06:56,0,Behzad,1580058416195,hi,GREETING
+2020-01-26,18:06:56,0,Rebo4AI,1580058417264,I hope you have read the AI essential course.,TUTOR
+2020-01-26,18:06:56,0,Rebo4AI,1580058417267,"Now, do you have a good feeling about AI?",TUTOR
+2020-01-26,18:07:05,0,Behzad,1580058425776,so so,
+2020-01-26,18:07:06,0,Rebo4AI,1580058427280,Could you explain more about your feeling? Why do you like or dislike it?,TUTOR
+2020-01-26,18:07:18,0,Behzad,1580058438949,asdasd asd asd ,
+2020-01-26,18:07:21,0,Rebo4AI,1580058443298,Heute wieder einmal kurz angebunden.,TUTOR
+2020-01-26,18:07:21,0,Rebo4AI,1580058443302,What interested you in the job?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-01-26,18:13:50,0,Rebo4AI,1580058831266,Hello Behzad,TUTOR
+2020-01-26,18:13:53,0,Behzad,1580058833361,hi,GREETING
+2020-01-26,18:13:53,0,Rebo4AI,1580058835307,I hope you have read the AI essential course.,TUTOR
+2020-01-26,18:13:53,0,Rebo4AI,1580058835311,"Now, do you have a good feeling about AI?",TUTOR
+2020-01-26,18:13:58,0,Behzad,1580058838938,negative,NEGATIVE
+2020-01-26,18:14:03,0,Rebo4AI,1580058845324,Oh dear!,TUTOR
+2020-01-26,18:14:03,0,Rebo4AI,1580058845327,What didn't you particularly like about the experience?,TUTOR
+2020-01-26,18:14:13,0,Behzad,1580058853226,kjh hlhlkh lkjhlkjhlkhlk,
+2020-01-26,18:14:13,0,Rebo4AI,1580058855338,Heute wieder einmal kurz angebunden.,TUTOR
+2020-01-26,18:14:13,0,Rebo4AI,1580058855343,Was it fun anyway?,TUTOR
+2020-01-26,18:15:07,0,Behzad,1580058907690,adsadasdasf  sad sad sad sa,
+2020-01-26,18:15:10,0,Rebo4AI,1580058911396,How do you see AI affecting you in the future?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-01-26,18:18:30,0,Rebo4AI,1580059111508,Hi Behzad!,TUTOR
+2020-01-26,18:18:34,0,Behzad,1580059114469,hi,GREETING
+2020-01-26,18:18:34,0,Rebo4AI,1580059115536,I hope you have read the AI essential course.,TUTOR
+2020-01-26,18:18:34,0,Rebo4AI,1580059115539,"Now, do you have a good feeling about AI?",TUTOR
+2020-01-26,18:18:45,0,Behzad,1580059125562,negative,NEGATIVE
+2020-01-26,18:18:49,0,Rebo4AI,1580059131558,Oh dear!,TUTOR
+2020-01-26,18:18:49,0,Rebo4AI,1580059131563,What didn't you particularly like about the experience?,TUTOR
+2020-01-26,18:19:12,0,Behzad,1580059152304,sd asdas dasd asd sad asd sad sad a,
+2020-01-26,18:19:15,0,Rebo4AI,1580059157590,How do you see AI affecting you in the future?,TUTOR
+2020-01-26,18:19:40,0,Behzad,1580059180850,positive,POSITIVE
+2020-01-26,18:19:41,0,Rebo4AI,1580059181614,Heute wieder einmal kurz angebunden.,TUTOR
+2020-01-26,18:19:41,0,Rebo4AI,1580059181615,Great to hear!,TUTOR
+2020-01-26,18:19:41,0,Rebo4AI,1580059181616,What did you particularly enjoy doing the experience? Why?,TUTOR
+2020-01-26,18:29:41,0,Rebo4AI,1580059782131,How well did you understand the task?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-01-26,18:38:17,0,Rebo4AI,1580060298254,Hi Behzad!,TUTOR
+2020-01-26,18:38:22,0,Behzad,1580060302660,hi,GREETING
+2020-01-26,18:38:22,0,Rebo4AI,1580060304281,I hope you have read the AI essential course.,TUTOR
+2020-01-26,18:38:22,0,Rebo4AI,1580060304287,"Now, do you have a good feeling about AI?",TUTOR
+2020-01-26,18:38:37,0,Behzad,1580060317477,negative,NEGATIVE
+2020-01-26,18:38:38,0,Rebo4AI,1580060318302,Oh dear!,TUTOR
+2020-01-26,18:38:38,0,Rebo4AI,1580060318304,What didn't you particularly enjoy doing the experience? Why?,TUTOR
+2020-01-26,18:38:48,0,Behzad,1580060328542,sdsd sd sd sd d .asd sad sd sada .,
+2020-01-26,18:38:53,0,Rebo4AI,1580060334316,How do you see AI affecting you in the future?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-01-26,18:39:09,0,Rebo4AI,1580060349923,Hello Behzad,TUTOR
+2020-01-26,18:39:11,0,Behzad,1580060351764,hi,GREETING
+2020-01-26,18:39:11,0,Rebo4AI,1580060351936,I hope you have read the AI essential course.,TUTOR
+2020-01-26,18:39:11,0,Rebo4AI,1580060351938,"Now, do you have a good feeling about AI?",TUTOR
+2020-01-26,18:39:14,0,Behzad,1580060354926,so so ,
+2020-01-26,18:39:16,0,Rebo4AI,1580060357945,emotions_unknownExp,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-01-26,18:40:13,0,Rebo4AI,1580060414740,Hello Behzad,TUTOR
+2020-01-26,18:40:16,0,Behzad,1580060416571,hi,GREETING
+2020-01-26,18:40:16,0,Rebo4AI,1580060416767,I hope you have read the AI essential course.,TUTOR
+2020-01-26,18:40:16,0,Rebo4AI,1580060416768,"Now, do you have a good feeling about AI?",TUTOR
+2020-01-26,18:40:20,0,Behzad,1580060420424,so so,
+2020-01-26,18:40:21,0,Rebo4AI,1580060422774,Could you explain more about your feeling? Why do you like or dislike it?,TUTOR
+2020-01-26,18:40:32,0,Behzad,1580060432191,sd sad asd. ad sad.sa dsad a.s,
+2020-01-26,18:40:37,0,Rebo4AI,1580060438792,What interested you in the job?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-01-26,18:42:04,0,Rebo4AI,1580060525193,Hello Behzad,TUTOR
+2020-01-26,18:42:06,0,Behzad,1580060526782,hi,GREETING
+2020-01-26,18:42:06,0,Rebo4AI,1580060527206,I hope you have read the AI essential course.,TUTOR
+2020-01-26,18:42:06,0,Rebo4AI,1580060527207,"Now, do you have a good feeling about AI?",TUTOR
+2020-01-26,18:42:09,0,Behzad,1580060529532,so so,
+2020-01-26,18:42:11,0,Rebo4AI,1580060533213,Could you explain more about your feeling? Why do you like or dislike it?,TUTOR
+2020-01-26,18:42:16,0,Behzad,1580060536876,no ,
+2020-01-26,18:42:17,0,Rebo4AI,1580060537220,Heute wieder einmal kurz angebunden.,TUTOR
+2020-01-26,18:42:17,0,Rebo4AI,1580060537221,How do you see AI affecting you in the future?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-01-26,18:53:06,0,Rebo4AI,1580061187064,Hi Behzad!,TUTOR
+2020-01-26,18:53:11,0,Behzad,1580061191679,hi,GREETING
+2020-01-26,18:53:11,0,Rebo4AI,1580061193116,I hope you have read the AI essential course.,TUTOR
+2020-01-26,18:53:11,0,Rebo4AI,1580061193121,"Now, do you have a good feeling about AI?",TUTOR
+2020-01-26,18:53:17,0,Behzad,1580061197144,positive,POSITIVE
+2020-01-26,18:53:21,0,Rebo4AI,1580061203133,Great to hear!,TUTOR
+2020-01-26,18:53:21,0,Rebo4AI,1580061203138,What did you particularly enjoy doing the experience? Why?,TUTOR
+2020-01-26,18:53:42,0,Behzad,1580061222481,dksad ksaodko aksodk oakods dsa ,
+2020-01-26,18:53:42,0,Rebo4AI,1580061223157,Heute wieder einmal kurz angebunden.,TUTOR
+2020-01-26,18:53:42,0,Rebo4AI,1580061223157,How do you see AI affecting you in the future?,TUTOR
+2020-01-26,18:53:51,0,Behzad,1580061231030,positive,POSITIVE
+2020-01-26,18:53:52,0,Rebo4AI,1580061233166,You are optimistic!,TUTOR
+2020-01-26,18:53:52,0,Rebo4AI,1580061233169,"What about negative concequences, Do you think it maybe has bad effects?",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-01-26,18:54:31,0,Rebo4AI,1580061272198,Hi Behzad!,TUTOR
+2020-01-26,18:54:39,0,Behzad,1580061279677,hi,GREETING
+2020-01-26,18:54:39,0,Rebo4AI,1580061280220,I hope you have read the AI essential course.,TUTOR
+2020-01-26,18:54:39,0,Rebo4AI,1580061280221,"Now, do you have a good feeling about AI?",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-01-26,18:56:02,0,Rebo4AI,1580061362244,Hi Behzad!,TUTOR
+2020-01-26,18:56:14,0,Behzad,1580061374742,hi,GREETING
+2020-01-26,18:56:14,0,Rebo4AI,1580061376274,I hope you have read the AI essential course.,TUTOR
+2020-01-26,18:56:14,0,Rebo4AI,1580061376278,"Now, do you have a good feeling about AI?",TUTOR
+2020-01-26,18:56:19,0,Behzad,1580061379609,negative,NEGATIVE
+2020-01-26,18:56:19,0,Rebo4AI,1580061380283,Oh dear!,TUTOR
+2020-01-26,18:56:19,0,Rebo4AI,1580061380284,What didn't you particularly enjoy doing the experience? Why?,TUTOR
+2020-01-26,18:56:51,0,Behzad,1580061411171,ddsfdsfd fds f,
+2020-01-26,18:56:55,0,Rebo4AI,1580061416318,Heute wieder einmal kurz angebunden.,TUTOR
+2020-01-26,18:56:55,0,Rebo4AI,1580061416322,How do you see AI affecting you in the future?,TUTOR
+2020-01-26,18:57:05,0,Behzad,1580061425843,negative,NEGATIVE
+2020-01-26,18:57:06,0,Rebo4AI,1580061426335,Don‘t be gloomy!,TUTOR
+2020-01-26,18:57:06,0,Rebo4AI,1580061426337,Do you really think AI can not have any positive effetcs on our life?,TUTOR
+2020-01-26,18:57:25,0,Behzad,1580061445149,dsa dkasdk sakd sada s.,
+2020-01-26,18:57:26,0,Rebo4AI,1580061448355,What did you learn from this course?,TUTOR
+2020-01-26,18:57:31,0,Behzad,1580061451689,dasmd ksamdk sakdmsa kdsakd sad sad.,
+2020-01-26,18:57:31,0,Rebo4AI,1580061452359,What will you pay special attention next time you read or hear about AI?,TUTOR
+2020-01-26,18:57:47,0,Behzad,1580061468071,negative,NEGATIVE
+2020-01-26,18:57:52,0,Rebo4AI,1580061474379,Wasn't there something interesting for you?,TUTOR
+2020-01-26,18:58:00,0,Behzad,1580061480545,sdas ds d,
+2020-01-26,18:58:02,0,Rebo4AI,1580061484393,Thank you for discussing this with me!,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-01-26,19:02:01,0,Rebo4AI,1580061722392,Hello Behzad,TUTOR
+2020-01-26,19:02:07,0,Behzad,1580061727858,hi,GREETING
+2020-01-26,19:02:07,0,Rebo4AI,1580061728413,I hope you have read the AI essential course.,TUTOR
+2020-01-26,19:02:07,0,Rebo4AI,1580061728414,"Now, do you have a good feeling about AI?",TUTOR
+2020-01-26,19:02:21,0,Behzad,1580061741674,negative,NEGATIVE
+2020-01-26,19:02:23,0,Rebo4AI,1580061744431,Oh dear!,TUTOR
+2020-01-26,19:02:23,0,Rebo4AI,1580061744436,What didn't you particularly enjoy doing the experience? Why?,TUTOR
+2020-01-26,19:02:33,0,Behzad,1580061754047,sad sad sadsa dksad as.d sad sad. sdad .,
+2020-01-26,19:02:38,0,Rebo4AI,1580061760453,How do you see AI affecting you in the future?,TUTOR
+2020-01-26,19:03:11,0,Behzad,1580061791032,so so,
+2020-01-26,19:03:14,0,Rebo4AI,1580061796489,Could you talk about a positive and a negative consequence of AI?,TUTOR
+2020-01-26,19:03:27,0,Behzad,1580061807317,sd sad.s dsa d.sa ,
+2020-01-26,19:03:30,0,Rebo4AI,1580061810504,What did you learn from this course?,TUTOR
+2020-01-26,19:03:33,0,Behzad,1580061814059,ad sd.s d.sd .sad.s d.sa ds,
+2020-01-26,19:03:35,0,Rebo4AI,1580061816512,What will you pay special attention next time you read or hear about AI?,TUTOR
+2020-01-26,19:04:05,0,Behzad,1580061845926,negative,NEGATIVE
+2020-01-26,19:04:06,0,Rebo4AI,1580061846545,Heute wieder einmal kurz angebunden.,TUTOR
+2020-01-26,19:04:06,0,Rebo4AI,1580061846547,Wasn't there something interesting for you?,TUTOR
+2020-01-26,19:04:15,0,Behzad,1580061855785,ye asjdsal dksad sadsa dsd ,
+2020-01-26,19:04:16,0,Rebo4AI,1580061856554,"If one of your friend talk to you about an inteligent machine, what do you think about first?",TUTOR
+2020-01-26,19:04:23,0,Behzad,1580061863530,dsakd skdsajdlk sad sad s,
+2020-01-26,19:04:26,0,Rebo4AI,1580061868565,Thank you for discussing this with me!,TUTOR
+2020-01-26,19:04:34,0,Behzad,1580061874290,sadsad asd sd,
+2020-01-26,19:04:36,0,Rebo4AI,1580061878581,See you soon!,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-01-28,14:19:51,0,Rebo4AI,1580217592636,Hello Behzad,TUTOR
+2020-01-28,14:19:59,0,Behzad,1580217599380,hi,GREETING
+2020-01-28,14:19:59,0,Rebo4AI,1580217600657,I hope you have read the AI essential course.,TUTOR
+2020-01-28,14:19:59,0,Rebo4AI,1580217600661,"Now, do you have a good feeling about AI?",TUTOR
+2020-01-28,14:20:11,0,Behzad,1580217611919,no,
+2020-01-28,14:20:13,0,Behzad,1580217614035,negative,NEGATIVE
+2020-01-28,14:20:14,0,Rebo4AI,1580217616679,Heute wieder einmal kurz angebunden.,TUTOR
+2020-01-28,14:20:14,0,Rebo4AI,1580217616683,Oh dear!,TUTOR
+2020-01-28,14:20:14,0,Rebo4AI,1580217616687,What didn't you particularly enjoy doing the experience? Why?,TUTOR
+2020-01-28,14:20:25,0,Behzad,1580217625907,op,OPTIMISTIC
+2020-01-28,14:20:30,0,Rebo4AI,1580217630703,How do you see AI affecting you in the future?,TUTOR
+2020-01-28,14:20:51,0,Behzad,1580217651447,op,OPTIMISTIC
+2020-01-28,14:20:55,0,Rebo4AI,1580217656726,You are optimistic!,TUTOR
+2020-01-28,14:20:55,0,Rebo4AI,1580217656727,"What about negative concequences, Do you think it maybe has bad effects?",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-01-28,14:21:39,0,Rebo4AI,1580217700697,Hi Behzad!,TUTOR
+2020-01-28,14:21:46,0,Behzad,1580217706694,hi,GREETING
+2020-01-28,14:21:46,0,Rebo4AI,1580217708726,I hope you have read the AI essential course.,TUTOR
+2020-01-28,14:21:46,0,Rebo4AI,1580217708730,"Now, do you have a good feeling about AI?",TUTOR
+2020-01-28,14:22:01,0,Behzad,1580217721105,positive,POSITIVE
+2020-01-28,14:22:02,0,Rebo4AI,1580217722745,Great to hear!,TUTOR
+2020-01-28,14:22:02,0,Rebo4AI,1580217722748,What did you particularly enjoy doing the experience? Why?,TUTOR
+2020-01-28,14:22:13,0,Behzad,1580217733682,dfdsf sdf dsfds fdsfdf ,
+2020-01-28,14:22:17,0,Rebo4AI,1580217738765,Heute wieder einmal kurz angebunden.,TUTOR
+2020-01-28,14:22:17,0,Rebo4AI,1580217738770,How do you see AI affecting you in the future?,TUTOR
+2020-01-28,14:26:14,0,Behzad,1580217974619,sdasdasc ,
+2020-01-28,14:26:19,0,Rebo4AI,1580217980955,Could you talk about a positive and a negative consequence of AI?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-01-28,14:56:11,0,Rebo4AI,1580219772331,Hi Behzad!,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-01-28,14:58:13,0,Rebo4AI,1580219894551,Hi Behzad!,TUTOR
+2020-01-28,14:58:27,0,Behzad,1580219907528,hi,GREETING
+2020-01-28,14:58:27,0,Rebo4AI,1580219908582,I hope you have read the AI essential course.,TUTOR
+2020-01-28,14:58:27,0,Rebo4AI,1580219908583,"Now, do you have a good feeling about AI?",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-01-28,15:01:21,0,Rebo4AI,1580220082889,Hello Behzad,TUTOR
+2020-01-28,15:01:25,0,Behzad,1580220085112,hi,GREETING
+2020-01-28,15:01:25,0,Rebo4AI,1580220086907,I hope you have read the AI essential course.,TUTOR
+2020-01-28,15:01:25,0,Rebo4AI,1580220086912,"Now, do you have a good feeling about AI?",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-01-28,15:03:03,0,Rebo4AI,1580220184861,Hello Behzad,TUTOR
+2020-01-28,15:03:08,0,Behzad,1580220188698,hi,GREETING
+2020-01-28,15:03:08,0,Rebo4AI,1580220188885,I hope you have read the AI essential course.,TUTOR
+2020-01-28,15:03:08,0,Rebo4AI,1580220188886,"Now, do you have a good feeling about AI?",TUTOR
+2020-01-28,15:03:18,0,Behzad,1580220198097,negative,NEGATIVE
+2020-01-28,15:03:18,0,Rebo4AI,1580220200898,Oh dear!,TUTOR
+2020-01-28,15:03:18,0,Rebo4AI,1580220200902,What didn't you particularly enjoy doing the experience? Why?,TUTOR
+2020-01-28,15:03:42,0,Behzad,1580220222834,asd asd asd sad sad as ds.ad asd ,
+2020-01-28,15:03:44,0,Rebo4AI,1580220224924,How do you see AI affecting you in the future?,TUTOR
+2020-01-28,15:03:51,0,Behzad,1580220231380,pessimistic,PESSIMISTIC
+2020-01-28,15:03:54,0,Rebo4AI,1580220234932,Heute wieder einmal kurz angebunden.,TUTOR
+2020-01-28,15:03:54,0,Rebo4AI,1580220234933,Don‘t be gloomy!,TUTOR
+2020-01-28,15:03:54,0,Rebo4AI,1580220234934,Do you really think AI can not have any positive effetcs on our life?,TUTOR
+2020-01-28,15:04:21,0,Behzad,1580220261132,das dasd asd asd. asd asd asd .,
+2020-01-28,15:04:25,0,Rebo4AI,1580220266964,What did you learn from this course?,TUTOR
+2020-01-28,15:04:30,0,Behzad,1580220270889,asd asd asd asd asd asd as.d ad asd a.,
+2020-01-28,15:04:30,0,Rebo4AI,1580220270968,What will you pay special attention next time you read or hear about AI?,TUTOR
+2020-01-28,15:04:44,0,Behzad,1580220284859,wplanning,WPALNNING
+2020-01-28,15:04:46,0,Rebo4AI,1580220286979,"If one of your friend talk to you about an intelligent machine, what do you think about first?",TUTOR
+2020-01-28,15:05:15,0,Behzad,1580220315317,adasd asd asd s,
+2020-01-28,15:05:17,0,Rebo4AI,1580220319010,Thank you for discussing this with me!,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-01-28,15:15:43,0,Rebo4AI,1580220945087,Hello Behzad,TUTOR
+2020-01-28,15:15:48,0,Behzad,1580220948405,hi,GREETING
+2020-01-28,15:15:48,0,Rebo4AI,1580220949101,I hope you have read the AI essential course.,TUTOR
+2020-01-28,15:15:48,0,Rebo4AI,1580220949102,"Now, do you have a good feeling about AI?",TUTOR
+2020-01-28,15:15:54,0,Behzad,1580220954171,unknown,
+2020-01-28,15:15:58,0,Rebo4AI,1580220959113,Could you explain more about your feeling? Why do you like or dislike it?,TUTOR
+2020-01-28,15:16:01,0,Behzad,1580220961309,no,
+2020-01-28,15:16:03,0,Rebo4AI,1580220965125,Heute wieder einmal kurz angebunden.,TUTOR
+2020-01-28,15:16:03,0,Rebo4AI,1580220965129,How do you see AI affecting you in the future?,TUTOR
+2020-01-28,15:18:57,0,Behzad,1580221137097,optimistic,OPTIMISTIC
+2020-01-28,15:18:58,0,Rebo4AI,1580221139266,You are optimistic!,TUTOR
+2020-01-28,15:18:58,0,Rebo4AI,1580221139266,"What about negative concequences, Do you think it maybe has bad effects?",TUTOR
+2020-01-28,15:19:10,0,Behzad,1580221150975,dadsa djkslajd ajd;lkajs;d as,
+2020-01-28,15:19:13,0,Rebo4AI,1580221155278,What did you learn from this course?,TUTOR
+2020-01-28,15:19:20,0,Behzad,1580221161032,ljkasjdaskldj klajsdj askdj ;las dasd ,
+2020-01-28,15:19:24,0,Rebo4AI,1580221165284,What will you pay special attention next time you read or hear about AI?,TUTOR
+2020-01-28,15:19:30,0,Behzad,1580221170786,planning,PLANNING
+2020-01-28,15:19:34,0,Rebo4AI,1580221175291,It seems you figure it out.,TUTOR
+2020-01-28,15:19:44,0,Behzad,1580221184959,asdasd asd ads,
+2020-01-28,15:19:49,0,Rebo4AI,1580221191300,Thank you for discussing this with me!,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-01-28,15:23:34,0,Rebo4AI,1580221414382,Hello Behzad,TUTOR
+2020-01-28,15:23:40,0,Behzad,1580221420501,hi,GREETING
+2020-01-28,15:23:40,0,Rebo4AI,1580221422406,I hope you have read the AI essential course.,TUTOR
+2020-01-28,15:23:40,0,Rebo4AI,1580221422410,"Now, do you have a good feeling about AI?",TUTOR
+2020-01-28,15:23:47,0,Behzad,1580221427075,positive,POSITIVE
+2020-01-28,15:23:50,0,Rebo4AI,1580221432421,Great to hear!,TUTOR
+2020-01-28,15:23:50,0,Rebo4AI,1580221432426,What did you particularly enjoy doing the experience? Why?,TUTOR
+2020-01-28,15:23:57,0,Behzad,1580221437337,dksad kaskd askdk asdk,
+2020-01-28,15:24:01,0,Rebo4AI,1580221442436,Heute wieder einmal kurz angebunden.,TUTOR
+2020-01-28,15:24:01,0,Rebo4AI,1580221442441,How do you see AI affecting you in the future?,TUTOR
+2020-01-28,15:24:09,0,Behzad,1580221449201,pessimistic,PESSIMISTIC
+2020-01-28,15:24:11,0,Rebo4AI,1580221452459,Don‘t be gloomy!,TUTOR
+2020-01-28,15:24:11,0,Rebo4AI,1580221452465,Do you really think AI can not have any positive effetcs on our life?,TUTOR
+2020-01-28,15:24:18,0,Behzad,1580221458253,sd asd asd asdl asdl s,
+2020-01-28,15:24:21,0,Rebo4AI,1580221462476,What did you learn from this course?,TUTOR
+2020-01-28,15:24:29,0,Behzad,1580221469615,;alkdf kadf;k;ldksf lkfldlfdf llk eok salla lsa,
+2020-01-28,15:24:31,0,Rebo4AI,1580221472485,What will you pay special attention next time you read or hear about AI?,TUTOR
+2020-01-28,15:24:50,0,Behzad,1580221490726,planning,PLANNING
+2020-01-28,15:24:52,0,Rebo4AI,1580221492503,It seems you figure it out.,TUTOR
+2020-01-28,15:24:52,0,Rebo4AI,1580221492504,Thank you for discussing this with me!,TUTOR
+2020-01-28,15:25:05,0,Behzad,1580221505816,hi,GREETING
+2020-01-28,15:25:07,0,Rebo4AI,1580221508514,And bye :-),TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-01-28,15:25:45,0,Rebo4AI,1580221546473,Hello Behzad,TUTOR
+2020-01-28,15:25:49,0,Behzad,1580221549100,hi,GREETING
+2020-01-28,15:25:49,0,Rebo4AI,1580221550510,I hope you have read the AI essential course.,TUTOR
+2020-01-28,15:25:49,0,Rebo4AI,1580221550513,"Now, do you have a good feeling about AI?",TUTOR
+2020-01-28,15:25:54,0,Behzad,1580221554271,unknownsd asd as,
+2020-01-28,15:25:59,0,Rebo4AI,1580221560524,Could you explain more about your feeling? Why do you like or dislike it?,TUTOR
+2020-01-28,15:26:03,0,Behzad,1580221563925,k dlskdlk asdkl sakd ,
+2020-01-28,15:26:04,0,Rebo4AI,1580221564527,Heute wieder einmal kurz angebunden.,TUTOR
+2020-01-28,15:26:04,0,Rebo4AI,1580221564528,How do you see AI affecting you in the future?,TUTOR
+2020-01-28,15:26:12,0,Behzad,1580221572169,k jdklasjdklj kasjdklj klsajdkl sa,
+2020-01-28,15:26:14,0,Rebo4AI,1580221576540,Could you talk about a positive and a negative consequence of AI?,TUTOR
+2020-01-28,15:26:21,0,Behzad,1580221581624,dklsk dlslkd laskld saldk slad ,
+2020-01-28,15:26:25,0,Rebo4AI,1580221586549,What did you learn from this course?,TUTOR
+2020-01-28,15:26:29,0,Behzad,1580221589568,jklfadl;jkfdsjlk ljkdsf ljdsf ,
+2020-01-28,15:26:30,0,Rebo4AI,1580221590554,What will you pay special attention next time you read or hear about AI?,TUTOR
+2020-01-28,15:26:39,0,Behzad,1580221599122,wplanning,WPALNNING
+2020-01-28,15:26:40,0,Rebo4AI,1580221600563,"If one of your friend talk to you about an intelligent machine, what do you think about first?",TUTOR
+2020-01-28,15:26:46,0,Behzad,1580221606263,asdsad asd s,
+2020-01-28,15:26:50,0,Rebo4AI,1580221612574,Thank you for discussing this with me!,TUTOR
+2020-01-28,15:26:54,0,Behzad,1580221614510,asdasd,
+2020-01-28,15:26:55,0,Rebo4AI,1580221616581,And bye :-),TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-01-28,15:56:41,0,Rebo4AI,1580223402501,Hi Behzad!,TUTOR
+2020-01-28,15:56:47,0,Behzad,1580223407108,hi,GREETING
+2020-01-28,15:56:47,0,Rebo4AI,1580223408518,I hope you have read the AI essential course.,TUTOR
+2020-01-28,15:56:47,0,Rebo4AI,1580223408520,"Now, do you have a good feeling about AI?",TUTOR
+2020-01-28,15:56:51,0,Behzad,1580223411670,positive,POSITIVE
+2020-01-28,15:56:52,0,Rebo4AI,1580223412522,Great to hear!,TUTOR
+2020-01-28,15:56:52,0,Rebo4AI,1580223412523,What did you particularly enjoy doing the experience? Why?,TUTOR
+2020-01-28,15:57:01,0,Behzad,1580223421835,asd asda sdsa d,
+2020-01-28,15:57:02,0,Rebo4AI,1580223422530,Heute wieder einmal kurz angebunden.,TUTOR
+2020-01-28,15:57:02,0,Rebo4AI,1580223422531,How do you see AI affecting you in the future?,TUTOR
+2020-01-28,15:57:08,0,Behzad,1580223428979,adasd asd sad ,
+2020-01-28,15:57:12,0,Rebo4AI,1580223434539,Could you talk about a positive and a negative consequence of AI?,TUTOR
+2020-01-28,15:57:17,0,Behzad,1580223437529,dsd sd ds ds,
+2020-01-28,15:57:17,0,Rebo4AI,1580223438541,What did you learn from this course?,TUTOR
+2020-01-28,15:57:22,0,Behzad,1580223442357,ad ada dsad ,
+2020-01-28,15:57:23,0,Rebo4AI,1580223444547,What will you pay special attention next time you read or hear about AI?,TUTOR
+2020-01-28,15:57:31,0,Behzad,1580223451505,wpanning,
+2020-01-28,15:57:33,0,Rebo4AI,1580223454557,"If one of your friend talk to you about an intelligent machine, what do you think about first?",TUTOR
+2020-01-28,15:57:40,0,Behzad,1580223460252,dasd asd asd ,
+2020-01-28,15:57:43,0,Rebo4AI,1580223464569,Thank you for discussing this with me!,TUTOR
+2020-01-28,15:57:47,0,Behzad,1580223467794,asd,
+2020-01-28,15:57:48,0,Rebo4AI,1580223470580,Have a nice day :),TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-01-28,15:58:04,0,Rebo4AI,1580223485326,Hi Behzad!,TUTOR
+2020-01-28,15:58:08,0,Behzad,1580223488460,hi,GREETING
+2020-01-28,15:58:08,0,Rebo4AI,1580223489343,I hope you have read the AI essential course.,TUTOR
+2020-01-28,15:58:08,0,Rebo4AI,1580223489344,"Now, do you have a good feeling about AI?",TUTOR
+2020-01-28,15:58:12,0,Behzad,1580223492725,sd asd asd ,
+2020-01-28,15:58:13,0,Rebo4AI,1580223495349,Could you explain more about your feeling? Why do you like or dislike it?,TUTOR
+2020-01-28,15:58:17,0,Behzad,1580223498059,d asd asd ,
+2020-01-28,15:58:18,0,Rebo4AI,1580223499354,Heute wieder einmal kurz angebunden.,TUTOR
+2020-01-28,15:58:18,0,Rebo4AI,1580223499355,How do you see AI affecting you in the future?,TUTOR
+2020-01-28,15:58:23,0,Behzad,1580223503289,lsdl sld lsd lasd a,
+2020-01-28,15:58:23,0,Rebo4AI,1580223505359,Could you talk about a positive and a negative consequence of AI?,TUTOR
+2020-01-28,15:58:29,0,Behzad,1580223509325,sadl palpsdl palspdl ,
+2020-01-28,15:58:34,0,Rebo4AI,1580223515367,What did you learn from this course?,TUTOR
+2020-01-28,15:58:36,0,Behzad,1580223516963,wepfl pdlplf e,
+2020-01-28,15:58:39,0,Rebo4AI,1580223519369,What will you pay special attention next time you read or hear about AI?,TUTOR
+2020-01-28,15:58:46,0,Behzad,1580223526512,planning,PLANNING
+2020-01-28,15:58:49,0,Rebo4AI,1580223531380,It seems you figure it out.,TUTOR
+2020-01-28,15:58:49,0,Rebo4AI,1580223531384,Thank you for discussing this with me!,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-01-28,16:01:08,0,Rebo4AI,1580223670462,Hello Behzad,TUTOR
+2020-01-28,16:01:18,0,Behzad,1580223678242,hi,GREETING
+2020-01-28,16:01:18,0,Rebo4AI,1580223678480,I hope you have read the AI essential course.,TUTOR
+2020-01-28,16:01:18,0,Rebo4AI,1580223678481,"Now, do you have a good feeling about AI?",TUTOR
+2020-01-28,16:01:23,0,Behzad,1580223684016,';lk lk ,
+2020-01-28,16:01:28,0,Rebo4AI,1580223690489,Could you explain more about your feeling? Why do you like or dislike it?,TUTOR
+2020-01-28,16:01:33,0,Behzad,1580223693664,;l;l;l;l;l;l,
+2020-01-28,16:01:38,0,Rebo4AI,1580223700497,Heute wieder einmal kurz angebunden.,TUTOR
+2020-01-28,16:01:38,0,Rebo4AI,1580223700498,How do you see AI affecting you in the future?,TUTOR
+2020-01-28,16:01:55,0,Behzad,1580223715869,kkoko,
+2020-01-28,16:01:59,0,Rebo4AI,1580223720512,Could you talk about a positive and a negative consequence of AI?,TUTOR
+2020-01-28,16:02:05,0,Behzad,1580223725823,jhjhjkhjhjkkj,
+2020-01-28,16:02:09,0,Rebo4AI,1580223730521,What did you learn from this course?,TUTOR
+2020-01-28,16:05:07,0,Behzad,1580223907688,xczxczxc s,
+2020-01-28,16:05:09,0,Rebo4AI,1580223910662,What will you pay special attention next time you read or hear about AI?,TUTOR
+2020-01-28,16:05:22,0,Behzad,1580223922667,wplanning,UNK
+2020-01-28,16:05:24,0,Rebo4AI,1580223926673,"If one of your friend talk to you about an intelligent machine, what do you think about first?",TUTOR
+2020-01-28,16:15:25,0,Rebo4AI,1580224527158,Thank you for discussing this with me!,TUTOR
+2020-01-28,16:25:25,0,Rebo4AI,1580225127528,See you next time :),TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-01-29,08:33:19,0,Rebo4AI,1580283201369,Hello Behzad,TUTOR
+2020-01-29,08:33:26,0,Behzad,1580283206064,hi,GREETING
+2020-01-29,08:33:26,0,Rebo4AI,1580283207389,I hope you have read the AI essential course.,TUTOR
+2020-01-29,08:33:26,0,Rebo4AI,1580283207392,"Now, do you have a good feeling about AI?",TUTOR
+2020-01-29,08:33:38,0,Behzad,1580283219003,positive,POSITIVE
+2020-01-29,08:33:41,0,Rebo4AI,1580283223408,Great to hear!,TUTOR
+2020-01-29,08:33:41,0,Rebo4AI,1580283223412,What did you particularly enjoy doing the experience? Why?,TUTOR
+2020-01-29,08:33:53,0,Behzad,1580283233586,da fdsf dsf sf sdf ,
+2020-01-29,08:33:56,0,Rebo4AI,1580283237429,Heute wieder einmal kurz angebunden.,TUTOR
+2020-01-29,08:33:56,0,Rebo4AI,1580283237433,How do you see AI affecting you in the future?,TUTOR
+2020-01-29,08:34:07,0,Behzad,1580283247269,pessimistic,PESSIMISTIC
+2020-01-29,08:34:12,0,Rebo4AI,1580283253449,Don‘t be gloomy!,TUTOR
+2020-01-29,08:34:12,0,Rebo4AI,1580283253454,Do you really think AI can not have any positive effetcs on our life?,TUTOR
+2020-01-29,08:34:19,0,Behzad,1580283259639,no,
+2020-01-29,08:34:22,0,Rebo4AI,1580283263464,What did you learn from this course?,TUTOR
+2020-01-29,08:34:51,0,Behzad,1580283291397,cdsf sdf sd .,
+2020-01-29,08:34:53,0,Rebo4AI,1580283293487,What will you pay special attention next time you read or hear about AI?,TUTOR
+2020-01-29,08:35:39,0,Behzad,1580283340043,wplanning,WPLANNING
+2020-01-29,08:35:44,0,Rebo4AI,1580283345528,"If one of your friend talk to you about an intelligent machine, what do you think about first?",TUTOR
+2020-01-29,08:36:07,0,Behzad,1580283367076,dsad asd ,
+2020-01-29,08:36:10,0,Rebo4AI,1580283371554,Thank you for discussing this with me!,TUTOR
+2020-01-29,08:36:17,0,Behzad,1580283377438,ok,
+2020-01-29,08:36:20,0,Rebo4AI,1580283381566,Thank you and see you next time;),TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-01-29,08:51:36,0,Rebo4AI,1580284298490,Hello Behzad,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-01-29,08:52:26,0,Rebo4AI,1580284347569,Hi Behzad!,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-01-29,08:55:37,0,Rebo4AI,1580284538308,Hello Behzad,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-01-29,08:56:45,0,Rebo4AI,1580284605961,Hello Behzad,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-01-29,09:05:00,0,Rebo4AI,1580285102390,Hello Behzad,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-01-29,09:07:01,0,Rebo4AI,1580285221847,Hello Behzad,TUTOR
+2020-01-29,09:07:07,0,Behzad,1580285268288,hi,GREETING
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-01-29,09:08:41,0,Rebo4AI,1580285323773,Hi Behzad!,TUTOR
+2020-01-29,09:08:48,0,Behzad,1580285333903,hi,GREETING
+2020-01-29,09:09:35,0,Rebo4AI,1580285375817,I hope you have read the AI essential course.,TUTOR
+2020-01-29,09:09:35,0,Rebo4AI,1580285375819,"Now, do you have a good feeling about AI?",TUTOR
+2020-01-29,09:09:52,0,Behzad,1580285438993,negative,NEGATIVE
+2020-01-29,09:10:46,0,Rebo4AI,1580285447867,Oh dear!,TUTOR
+2020-01-29,09:10:46,0,Rebo4AI,1580285447871,What didn't you particularly enjoy doing the experience? Why?,TUTOR
+2020-01-29,09:10:53,0,Behzad,1580285492882,dsf sdfd sfdsfdsf  .,
+2020-01-29,09:11:38,0,Rebo4AI,1580285499920,Heute wieder einmal kurz angebunden.,TUTOR
+2020-01-29,09:11:38,0,Rebo4AI,1580285499921,How do you see AI affecting you in the future?,TUTOR
+2020-01-29,09:11:55,0,Behzad,1580285532436,optimistic,OPTIMISTIC
+2020-01-29,09:12:14,0,Rebo4AI,1580285535942,You are optimistic!,TUTOR
+2020-01-29,09:12:14,0,Rebo4AI,1580285535943,"What about negative concequences, Do you think it maybe has bad effects?",TUTOR
+2020-01-29,09:12:47,0,Behzad,1580285572449,sfsdf dsf dsf sdf ,
+2020-01-29,09:12:55,0,Rebo4AI,1580285575967,What did you learn from this course?,TUTOR
+2020-01-29,09:13:00,0,Behzad,1580285582448,fdfsdf dsf sdfsd fdf ,
+2020-01-29,09:13:06,0,Rebo4AI,1580285587975,What will you pay special attention next time you read or hear about AI?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-01-29,09:20:15,0,Rebo4AI,1580286016387,Hello Behzad,TUTOR
+2020-01-29,09:20:20,0,Behzad,1580286045809,hi,GREETING
+2020-01-29,09:20:45,0,Rebo4AI,1580286046421,I hope you have read the AI essential course.,TUTOR
+2020-01-29,09:20:45,0,Rebo4AI,1580286046424,"Now, do you have a good feeling about AI?",TUTOR
+2020-01-29,09:20:51,0,Behzad,1580286051907,sdf sdf sd,
+2020-01-29,09:20:56,0,Rebo4AI,1580286056431,Could you explain more about your feeling? Why do you like or dislike it?,TUTOR
+2020-01-29,09:20:59,0,Behzad,1580286059546,sdfsd fdsf ,
+2020-01-29,09:21:01,0,Rebo4AI,1580286062437,Heute wieder einmal kurz angebunden.,TUTOR
+2020-01-29,09:21:01,0,Rebo4AI,1580286062438,How do you see AI affecting you in the future?,TUTOR
+2020-01-29,09:21:09,0,Behzad,1580286069308,wplanning,WPLANNING
+2020-01-29,09:21:11,0,Rebo4AI,1580286072449,Could you talk about a positive and a negative consequence of AI?,TUTOR
+2020-01-29,09:21:20,0,Behzad,1580286080069,wplanning,WPLANNING
+2020-01-29,09:21:21,0,Rebo4AI,1580286082456,What did you learn from this course?,TUTOR
+2020-01-29,09:21:27,0,Behzad,1580286087113,dasd a,
+2020-01-29,09:21:31,0,Rebo4AI,1580286092459,What will you pay special attention next time you read or hear about AI?,TUTOR
+2020-01-29,09:21:38,0,Behzad,1580286098678,wplanning,WPLANNING
+2020-01-29,09:21:42,0,Rebo4AI,1580286102464,Wasn't there something interesting for you?,TUTOR
+2020-01-29,09:22:13,0,Behzad,1580286133444,dasd asda,
+2020-01-29,09:22:18,0,Rebo4AI,1580286138487,"If one of your friend talk to you about an intelligent machine, what do you think about first?",TUTOR
+2020-01-29,09:22:20,0,Behzad,1580286140786,asdasda,
+2020-01-29,09:22:23,0,Rebo4AI,1580286144491,Thank you for discussing this with me!,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-01-29,09:24:07,0,Rebo4AI,1580286248132,Hello Behzad,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-01-29,09:25:06,0,Rebo4AI,1580286307406,Hi Behzad!,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-01-29,09:28:41,0,Rebo4AI,1580286522842,Hi Behzad!,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-01-29,09:31:05,0,Rebo4AI,1580286666152,Hi Behzad!,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-01-29,09:31:32,0,Rebo4AI,1580286693140,Hello Behzad,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-01-29,11:52:45,0,Rebo4AI,1580295167138,Hi Behzad!,TUTOR
+2020-01-29,11:52:55,0,Behzad,1580295176020,hi,GREETING
+2020-01-29,11:52:56,0,Rebo4AI,1580295177157,I hope you have read the AI essential course.,TUTOR
+2020-01-29,11:52:56,0,Rebo4AI,1580295177158,"Now, do you have a good feeling about AI?",TUTOR
+2020-01-29,11:53:07,0,Behzad,1580295187727,negative,NEGATIVE
+2020-01-29,11:53:11,0,Rebo4AI,1580295193168,Oh dear!,TUTOR
+2020-01-29,11:53:11,0,Rebo4AI,1580295193169,What didn't you particularly enjoy doing the experience? Why?,TUTOR
+2020-01-29,11:53:17,0,Behzad,1580295197291,adasdk askdka kdsakd as.,
+2020-01-29,11:53:21,0,Rebo4AI,1580295203180,Heute wieder einmal kurz angebunden.,TUTOR
+2020-01-29,11:53:21,0,Rebo4AI,1580295203183,How do you see AI affecting you in the future?,TUTOR
+2020-01-29,11:53:27,0,Behzad,1580295207852,optimistic,OPTIMISTIC
+2020-01-29,11:53:31,0,Rebo4AI,1580295213192,You are optimistic!,TUTOR
+2020-01-29,11:53:31,0,Rebo4AI,1580295213195,"What about negative concequences, Do you think it maybe has bad effects?",TUTOR
+2020-01-29,11:53:36,0,Behzad,1580295217010,fskdof koskf osdkfo sdf sd ,
+2020-01-29,11:53:37,0,Rebo4AI,1580295217199,What did you learn from this course?,TUTOR
+2020-01-29,11:53:41,0,Behzad,1580295221742,fo ksdofko sdokf osdofk ds,
+2020-01-29,11:53:42,0,Rebo4AI,1580295223204,What will you pay special attention next time you read or hear about AI?,TUTOR
+2020-01-29,11:53:46,0,Behzad,1580295226779,wplanning,WPLANNING
+2020-01-29,11:53:47,0,Rebo4AI,1580295229211,Wasn't there something interesting for you?,TUTOR
+2020-01-29,11:53:53,0,Behzad,1580295233417,dfkodskfo kdsfko dsfk d,
+2020-01-29,11:53:57,0,Rebo4AI,1580295239221,"If one of your friend talk to you about an intelligent machine, what do you think about first?",TUTOR
+2020-01-29,11:54:01,0,Behzad,1580295241766,okdfo kdfok dfokdo ,
+2020-01-29,11:54:02,0,Rebo4AI,1580295243225,Thank you for discussing this with me!,TUTOR
+2020-01-29,11:54:10,0,Behzad,1580295250817,bye,
+2020-01-29,11:54:13,0,Rebo4AI,1580295253237,And bye :-),TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-01-29,12:05:39,0,Rebo4AI,1580295940227,Hello Behzad,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-01-29,12:06:08,0,Rebo4AI,1580295969350,Hi Behzad!,TUTOR
+2020-01-29,12:06:14,0,Behzad,1580295974646,hi,GREETING
+2020-01-29,12:06:14,0,Rebo4AI,1580295975360,I hope you have read the AI essential course.,TUTOR
+2020-01-29,12:06:14,0,Rebo4AI,1580295975361,"Now, do you have a good feeling about AI?",TUTOR
+2020-01-29,12:06:42,0,Behzad,1580296002406,negative,NEGATIVE
+2020-01-29,12:06:45,0,Rebo4AI,1580296007358,Oh dear!,TUTOR
+2020-01-29,12:06:45,0,Rebo4AI,1580296007362,What didn't you particularly enjoy doing the experience? Why?,TUTOR
+2020-01-29,12:06:55,0,Behzad,1580296016062,dhfl dslflsjl kdsf df.df ldfo d,
+2020-01-29,12:07:00,0,Rebo4AI,1580296021365,Heute wieder einmal kurz angebunden.,TUTOR
+2020-01-29,12:07:00,0,Rebo4AI,1580296021369,How do you see AI affecting you in the future?,TUTOR
+2020-01-29,12:08:29,0,Behzad,1580296109854,optimistic,OPTIMISTIC
+2020-01-29,12:08:33,0,Rebo4AI,1580296113368,You are optimistic!,TUTOR
+2020-01-29,12:08:33,0,Rebo4AI,1580296113370,"What about negative concequences, Do you think it maybe has bad effects?",TUTOR
+2020-01-29,12:08:54,0,Behzad,1580296134959,fvfvfgfvfevfee,
+2020-01-29,12:08:58,0,Rebo4AI,1580296139372,What did you learn from this course?,TUTOR
+2020-01-29,12:09:05,0,Behzad,1580296145811,jkkdjfflklk lkdlf ldklfk df,
+2020-01-29,12:09:09,0,Rebo4AI,1580296149373,What will you pay special attention next time you read or hear about AI?,TUTOR
+2020-01-29,12:09:14,0,Behzad,1580296154653,dkfjkdjkf jdf; ,
+2020-01-29,12:09:19,0,Rebo4AI,1580296159376,"If one of your friend talk to you about an intelligent machine, what do you think about first?",TUTOR
+2020-01-29,12:09:24,0,Behzad,1580296164806,jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj,
+2020-01-29,12:09:29,0,Rebo4AI,1580296171378,Thank you for discussing this with me!,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-01-29,12:10:40,0,Rebo4AI,1580296241297,Hi Behzad!,TUTOR
+2020-01-29,12:10:52,0,Behzad,1580296252477,hi,GREETING
+2020-01-29,12:10:52,0,Rebo4AI,1580296253327,I hope you have read the AI essential course.,TUTOR
+2020-01-29,12:10:52,0,Rebo4AI,1580296253328,"Now, do you have a good feeling about AI?",TUTOR
+2020-01-29,12:11:03,0,Behzad,1580296263174,"hm, i'm not sure actually.",
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-01-29,12:11:54,0,Rebo4AI,1580296315601,Hello Behzad,TUTOR
+2020-01-29,12:12:07,0,Behzad,1580296327457,hi,GREETING
+2020-01-29,12:12:07,0,Rebo4AI,1580296327633,I hope you have read the AI essential course.,TUTOR
+2020-01-29,12:12:07,0,Rebo4AI,1580296327635,"Now, do you have a good feeling about AI?",TUTOR
+2020-01-29,12:12:19,0,Behzad,1580296339160,"hm, i'm not sure actually.",
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-01-29,13:45:04,0,Rebo4AI,1580301906108,Hi Behzad!,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-01-29,13:45:57,0,Rebo4AI,1580301958873,Hi Behzad!,TUTOR
+2020-01-29,13:46:39,0,Behzad,1580302000055,hi,GREETING
+2020-01-29,13:46:40,0,Rebo4AI,1580302000914,I hope you have read the AI essential course.,TUTOR
+2020-01-29,13:46:40,0,Rebo4AI,1580302000915,"Now, do you have a good feeling about AI?",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-01-29,13:49:14,0,Rebo4AI,1580302155732,Hi Behzad!,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-01-29,13:49:33,0,Rebo4AI,1580302173355,Hello Behzad,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-01-29,13:50:19,0,Rebo4AI,1580302219118,Hi Behzad!,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-01-29,13:59:24,0,Rebo4AI,1580302764955,Hi Behzad!,TUTOR
+2020-01-29,13:59:31,0,Behzad,1580302809031,hi,GREETING
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-01-29,14:00:49,0,Rebo4AI,1580302850259,Hello Behzad,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-01-29,14:03:00,0,Rebo4AI,1580302981512,Hi Behzad!. This is the hugs dialog!!!,TUTOR
+2020-01-29,14:03:09,0,Behzad,1580302989253,hi,GREETING
+2020-01-29,14:03:09,0,Rebo4AI,1580302989526,Would you like a hug?,TUTOR
+2020-01-29,14:03:15,0,Behzad,1580302995411,yes,
+2020-01-29,14:03:19,0,Rebo4AI,1580303001538,:-(,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-01-29,14:27:33,0,Rebo4AI,1580304455488,"Thank you for participating in the discussion. You now have just 5 minutes to finalize a joint argument in favor of one plan and complete your proposal on the left. Keep in mind that you will be evaluated solely based on the quality of your proposal (i.e., the thoroughness of the reasoning displayed).",Thank you for participating in the discussion. You now have just 5 minutes to finalize a joint argument in favor of one plan and complete your proposal on the left. Keep in mind that you will be evaluated solely based on the quality of your proposal (i.e., the thoroughness of the reasoning displayed).
+2020-01-29,14:28:04,0,Behzad,1580304484903,ok,
+2020-01-29,14:28:11,0,Behzad,1580304491739,okay,AFFIRMATIVE
+2020-01-29,14:32:06,0,Behzad,1580304726652,ddd,
+2020-01-29,14:32:10,0,Behzad,1580304730971,ok,
+2020-01-29,14:32:13,0,Behzad,1580304733085,okay,AFFIRMATIVE
+2020-01-29,14:32:16,0,Behzad,1580304736507,hu,
+2020-01-29,14:32:17,0,Behzad,1580304737916,hi,GREETING
+2020-01-29,14:32:21,0,Behzad,1580304741739,positive,POSITIVE
+2020-01-29,14:32:26,0,Behzad,1580304746469,optimistic,OPTIMISTIC
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-01-29,14:35:27,0,Rebo4AI,1580304928740,"Thank you for participating in the discussion. You now have just 5 minutes to finalize a joint argument in favor of one plan and complete your proposal on the left. Keep in mind that you will be evaluated solely based on the quality of your proposal (i.e., the thoroughness of the reasoning displayed).",Thank you for participating in the discussion. You now have just 5 minutes to finalize a joint argument in favor of one plan and complete your proposal on the left. Keep in mind that you will be evaluated solely based on the quality of your proposal (i.e., the thoroughness of the reasoning displayed).
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-01-29,14:36:30,0,Rebo4AI,1580304991104,Hi Behzad!. Do you want a hug or want to talk about AI?,TUTOR
+2020-01-29,14:36:38,0,Behzad,1580304998762,hug,HUG
+2020-01-29,14:36:38,0,Rebo4AI,1580304999121,Would you like a hug?,TUTOR
+2020-01-29,14:36:45,0,Behzad,1580305005223,okay,AFFIRMATIVE
+2020-01-29,14:36:49,0,Rebo4AI,1580305009126,...hug!,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-01-29,14:37:07,0,Rebo4AI,1580305028658,Hi Behzad!. Do you want a hug or want to talk about AI?,TUTOR
+2020-01-29,14:37:12,0,Behzad,1580305032829,no,
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-01-29,14:41:12,0,Rebo4AI,1580305274512,Hi Behzad!. Do you want a hug?,TUTOR
+2020-01-29,14:41:19,0,Behzad,1580305279651,negative,NEGATIVE
+2020-01-29,14:41:19,0,Behzad,1580305279663,negative,NEGATIVE
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-01-29,14:41:40,0,Rebo4AI,1580305301197,Hi Behzad!. Do you want a hug?,TUTOR
+2020-01-29,14:41:46,0,Behzad,1580305306205,positive,POSITIVE
+2020-01-29,14:41:46,0,Rebo4AI,1580305307212,Let's get started.,TUTOR
+2020-01-29,14:41:46,0,Rebo4AI,1580305309214,Would you like a hug?,TUTOR
+2020-01-29,14:42:14,0,Behzad,1580305334974,ok,AFFIRMATIVE
+2020-01-29,14:42:17,0,Rebo4AI,1580305337238,...hug!,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-01-29,15:07:58,0,Rebo4AI,1580306879640,Hi Behzad!,TUTOR
+2020-01-29,15:08:02,0,Behzad,1580306883037,hi,GREETING
+2020-01-29,15:08:03,0,Rebo4AI,1580306883656,I hope you have read the AI essential course.,TUTOR
+2020-01-29,15:08:03,0,Rebo4AI,1580306883657,"Now, do you have a good feeling about AI?",TUTOR
+2020-01-29,15:08:21,0,Behzad,1580306901163,i dont know,
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-01-29,15:15:24,0,Rebo4AI,1580307324739,Hi Behzad!,TUTOR
+2020-01-29,15:15:30,0,Behzad,1580307330870,hi,GREETING
+2020-01-29,15:15:30,0,Rebo4AI,1580307332753,I hope you have read the AI essential course.,TUTOR
+2020-01-29,15:15:30,0,Rebo4AI,1580307332755,"Now, do you have a good feeling about AI?",TUTOR
+2020-01-29,15:15:44,0,Behzad,1580307344893,how should i know,
+2020-01-29,15:16:10,0,Behzad,1580307370727,positive,POSITIVE
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-01-29,15:23:43,0,Rebo4AI,1580307824537,Hello Behzad,TUTOR
+2020-01-29,15:23:48,0,Behzad,1580307828368,hi,GREETING
+2020-01-29,15:27:37,0,Rebo4AI,1580308058693,I hope you have read the AI essential course.,TUTOR
+2020-01-29,15:27:37,0,Rebo4AI,1580308058694,"Now, do you have a good feeling about AI?",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-01-29,15:37:35,0,Rebo4AI,1580308657750,Hello Behzad,TUTOR
+2020-01-29,15:37:43,0,Behzad,1580308663589,hi,GREETING
+2020-01-29,15:37:43,0,Rebo4AI,1580308663767,Wie gut erfüllt dein Ergebnis die gestellte Aufgabe?,TUTOR
+2020-01-29,15:38:55,0,Behzad,1580308735351,dsadl aldkask dasdkl asdls .,
+2020-01-29,15:38:55,0,Rebo4AI,1580308735820,Wie gut erfüllt dein Ergebnis die gestellte Aufgabe?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-01-29,15:45:09,0,Rebo4AI,1580309110165,Hi Behzad!,TUTOR
+2020-01-29,15:45:14,0,Behzad,1580309114506,hi,GREETING
+2020-01-29,15:45:14,0,Rebo4AI,1580309116182,I hope you have read the AI essential course.,TUTOR
+2020-01-29,15:45:14,0,Rebo4AI,1580309116185,"Now, do you have a good feeling about AI?",TUTOR
+2020-01-29,15:45:23,0,Behzad,1580309123999,positive,POSITIVE
+2020-01-29,15:45:24,0,Rebo4AI,1580309126192,Great to hear!,TUTOR
+2020-01-29,15:45:24,0,Rebo4AI,1580309126196,What did you particularly enjoy doing the experience? Why?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-01-29,15:45:59,0,Rebo4AI,1580309160426,Hi Behzad!,TUTOR
+2020-01-29,15:46:04,0,Behzad,1580309164102,hi,GREETING
+2020-01-29,15:46:04,0,Rebo4AI,1580309164439,I hope you have read the AI essential course.,TUTOR
+2020-01-29,15:46:04,0,Rebo4AI,1580309164440,"Now, do you have a good feeling about AI?",TUTOR
+2020-01-29,15:46:18,0,Behzad,1580309178211,dks;ajdklj alkjsdlk asjd asd asd.,
+2020-01-29,15:46:19,0,Rebo4AI,1580309180450,Could you explain more about your feeling? Why do you like or dislike it?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-01-29,15:47:00,0,Rebo4AI,1580309222365,Hi Behzad!,TUTOR
+2020-01-29,15:47:07,0,Behzad,1580309227447,hi,GREETING
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-01-29,15:47:57,0,Rebo4AI,1580309278474,Hi Behzad!,TUTOR
+2020-01-29,15:48:02,0,Behzad,1580309282211,hi,GREETING
+2020-01-29,15:48:13,0,Rebo4AI,1580309294513,I hope you have read the AI essential course.,TUTOR
+2020-01-29,15:48:13,0,Rebo4AI,1580309294514,"Now, do you have a good feeling about AI?",TUTOR
+2020-01-29,15:48:26,0,Behzad,1580309306333,i dont know,
+2020-01-29,15:49:04,0,Behzad,1580309344929,postive,
+2020-01-29,15:49:22,0,Behzad,1580309362321,positive,POSITIVE
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-01-29,15:49:51,0,Rebo4AI,1580309393363,Hi Behzad!,TUTOR
+2020-01-29,15:50:35,0,Behzad,1580309435838,hi,GREETING
+2020-01-29,15:50:35,0,Rebo4AI,1580309437401,I hope you have read the AI essential course.,TUTOR
+2020-01-29,15:50:35,0,Rebo4AI,1580309437403,"Now, do you have a good feeling about AI?",TUTOR
+2020-01-29,15:50:48,0,Behzad,1580309448644,jakjd;sajdk jaskdj 'akd,
+2020-01-29,15:50:51,0,Rebo4AI,1580309451414,Could you explain more about your feeling? Why do you like or dislike it?,TUTOR
+2020-01-29,15:51:24,0,Behzad,1580309484035,i dont now,
+2020-01-29,15:51:27,0,Rebo4AI,1580309487432,Heute wieder einmal kurz angebunden.,TUTOR
+2020-01-29,15:51:27,0,Rebo4AI,1580309487433,How do you see AI affecting you in the future?,TUTOR
+2020-01-29,15:51:34,0,Behzad,1580309494307,i dont know,
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-01-29,15:57:40,0,Rebo4AI,1580309861892,Hi Behzad!,TUTOR
+2020-01-29,15:57:45,0,Behzad,1580309882382,hi,GREETING
+2020-01-29,15:58:02,0,Rebo4AI,1580309883933,I hope you have read the AI essential course.,TUTOR
+2020-01-29,15:58:02,0,Rebo4AI,1580309883935,"Now, do you have a good feeling about AI?",TUTOR
+2020-01-29,15:58:12,0,Behzad,1580309967998,i dont know,
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-01-29,16:01:35,0,Rebo4AI,1580310097287,Hello Behzad,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-01-29,16:05:17,0,Rebo4AI,1580310318205,Hi Behzad!,TUTOR
+2020-01-29,16:05:25,0,Behzad,1580310325489,hi,GREETING
+2020-01-29,16:05:25,0,Rebo4AI,1580310326220,I hope you have read the AI essential course.,TUTOR
+2020-01-29,16:05:25,0,Rebo4AI,1580310326221,"Now, do you have a good feeling about AI?",TUTOR
+2020-01-29,16:05:30,0,Behzad,1580310330964,a dont know,
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-01-29,16:07:08,0,Rebo4AI,1580310428400,Hi Behzad!,TUTOR
+2020-01-29,16:07:12,0,Behzad,1580310442337,hi,GREETING
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-01-29,16:09:02,0,Rebo4AI,1580310544641,Hi Behzad!,TUTOR
+2020-01-29,16:09:09,0,Behzad,1580310549397,hi,GREETING
+2020-01-29,16:09:09,0,Rebo4AI,1580310550655,I hope you have read the AI essential course.,TUTOR
+2020-01-29,16:09:09,0,Rebo4AI,1580310550657,"Now, do you have a good feeling about AI?",TUTOR
+2020-01-29,16:09:16,0,Behzad,1580310556282,i dont know,
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-01-29,16:10:44,0,Rebo4AI,1580310645325,Hello Behzad,TUTOR
+2020-01-29,16:10:49,0,Behzad,1580310649875,hi,GREETING
+2020-01-29,16:10:49,0,Behzad,1580310649877,hi,GREETING
+2020-01-29,16:10:49,0,Rebo4AI,1580310651343,I hope you have read the AI essential course.,TUTOR
+2020-01-29,16:10:49,0,Rebo4AI,1580310651345,"Now, do you have a good feeling about AI?",TUTOR
+2020-01-29,16:11:00,0,Behzad,1580310660486,i dont know,
+2020-01-29,16:11:00,0,Behzad,1580310660550,i dont know,
+2020-01-29,16:11:05,0,Rebo4AI,1580310665353,Could you explain more about your feeling? Why do you like or dislike it?,TUTOR
+2020-01-29,16:11:13,0,Behzad,1580310673321,i dont know,
+2020-01-29,16:11:13,0,Behzad,1580310673358,i dont know,
+2020-01-29,16:11:15,0,Rebo4AI,1580310677360,Heute wieder einmal kurz angebunden.,TUTOR
+2020-01-29,16:11:15,0,Rebo4AI,1580310677361,How do you see AI affecting you in the future?,TUTOR
+2020-01-29,16:19:09,0,Rebo4AI,1580311151078,Heute wieder einmal kurz angebunden.,TUTOR
+2020-01-29,16:19:09,0,Rebo4AI,1580311151080,Could you explain more about your feeling? Why do you like or dislike it?,TUTOR
+2020-01-29,16:21:16,0,Rebo4AI,1580311277731,Could you talk about a positive and a negative consequence of AI?,TUTOR

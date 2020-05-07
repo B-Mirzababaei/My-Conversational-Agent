@@ -1,0 +1,44 @@
+<entry timestamp="2020-02-20#08:10:02" user="FactoryBuiltAgent" level="NORMAL">CONFIGURING AGENT Rebo4AI_idsai</entry>
+<entry timestamp="2020-02-20#08:10:02" user="Rebo4AI_idsai.AGENT" level="NORMAL"><created>Rebo4AI_idsai</created></entry>
+<entry timestamp="2020-02-20#08:10:02" user="Rebo4AI_idsai.stateMemory" level="INFO">Informing 0 Observers of CREATED</entry>
+<entry timestamp="2020-02-20#08:10:02" user="Rebo4AI_idsai.stateMemory" level="NORMAL"><created>stateMemory</created></entry>
+<entry timestamp="2020-02-20#08:10:02" user="Rebo4AI_idsai.client" level="INFO">Informing 0 Observers of CREATED</entry>
+<entry timestamp="2020-02-20#08:10:02" user="Rebo4AI_idsai.client" level="NORMAL"><created>client</created></entry>
+<entry timestamp="2020-02-20#08:10:02" user="Rebo4AI_idsai.client" level="NORMAL">Property read: socket_url =	http://kcs-rebo4ai.demo.know-center.at/</entry>
+<entry timestamp="2020-02-20#08:10:02" user="Rebo4AI_idsai.client" level="NORMAL">Property read: socket_suburl =	/bazsocket/socket.io</entry>
+<entry timestamp="2020-02-20#08:10:02" user="Rebo4AI_idsai.inputCoordinator" level="INFO">Informing 0 Observers of CREATED</entry>
+<entry timestamp="2020-02-20#08:10:02" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL"><created>inputCoordinator</created></entry>
+<entry timestamp="2020-02-20#08:10:02" user="Rebo4AI_idsai.outputCoordinator" level="INFO">Informing 0 Observers of CREATED</entry>
+<entry timestamp="2020-02-20#08:10:02" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL"><created>outputCoordinator</created></entry>
+<entry timestamp="2020-02-20#08:10:02" user="(client->inputCoordinator)" level="INFO">Connection initialized. Id=1582182602492</entry>
+<entry timestamp="2020-02-20#08:10:02" user="Rebo4AI_idsai.client" level="INFO">Outgoing connection added from client to inputCoordinator</entry>
+<entry timestamp="2020-02-20#08:10:02" user="Rebo4AI_idsai.inputCoordinator" level="INFO">Inward connection added from inputCoordinator to client</entry>
+<entry timestamp="2020-02-20#08:10:02" user="(inputCoordinator->inputCoordinator)" level="INFO">Connection initialized. Id=1582182602503</entry>
+<entry timestamp="2020-02-20#08:10:02" user="Rebo4AI_idsai.inputCoordinator" level="INFO">Outgoing connection added from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2020-02-20#08:10:02" user="Rebo4AI_idsai.inputCoordinator" level="INFO">Outgoing connection added from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2020-02-20#08:10:02" user="(inputCoordinator->outputCoordinator)" level="INFO">Connection initialized. Id=1582182602514</entry>
+<entry timestamp="2020-02-20#08:10:02" user="Rebo4AI_idsai.inputCoordinator" level="INFO">Outgoing connection added from inputCoordinator to outputCoordinator</entry>
+<entry timestamp="2020-02-20#08:10:02" user="Rebo4AI_idsai.outputCoordinator" level="INFO">Inward connection added from outputCoordinator to inputCoordinator</entry>
+<entry timestamp="2020-02-20#08:10:02" user="(outputCoordinator->client)" level="INFO">Connection initialized. Id=1582182602525</entry>
+<entry timestamp="2020-02-20#08:10:02" user="Rebo4AI_idsai.outputCoordinator" level="INFO">Outgoing connection added from outputCoordinator to client</entry>
+<entry timestamp="2020-02-20#08:10:02" user="Rebo4AI_idsai.client" level="INFO">Inward connection added from client to outputCoordinator</entry>
+<entry timestamp="2020-02-20#08:10:02" user="Rebo4AI_idsai.AGENT" level="NORMAL"><initialized>Rebo4AI_idsai</initialized></entry>
+<entry timestamp="2020-02-20#08:10:02" user="Rebo4AI_idsai.stateMemory" level="INFO">Observer Added:stateMemory.ui.cell. 1 Observers now.</entry>
+<entry timestamp="2020-02-20#08:10:02" user="Rebo4AI_idsai.inputCoordinator" level="INFO">Observer Added:inputCoordinator.ui.cell. 1 Observers now.</entry>
+<entry timestamp="2020-02-20#08:10:02" user="Rebo4AI_idsai.client" level="INFO">Observer Added:client.ui.cell. 1 Observers now.</entry>
+<entry timestamp="2020-02-20#08:10:02" user="Rebo4AI_idsai.outputCoordinator" level="INFO">Observer Added:outputCoordinator.ui.cell. 1 Observers now.</entry>
+<entry timestamp="2020-02-20#08:10:02" user="(client->inputCoordinator)" level="NORMAL">Observer Added:(client->inputCoordinator).ui.edge</entry>
+<entry timestamp="2020-02-20#08:10:02" user="(inputCoordinator->inputCoordinator)" level="NORMAL">Observer Added:(inputCoordinator->inputCoordinator).ui.edge</entry>
+<entry timestamp="2020-02-20#08:10:02" user="(inputCoordinator->outputCoordinator)" level="NORMAL">Observer Added:(inputCoordinator->outputCoordinator).ui.edge</entry>
+<entry timestamp="2020-02-20#08:10:02" user="(outputCoordinator->client)" level="NORMAL">Observer Added:(outputCoordinator->client).ui.edge</entry>
+<entry timestamp="2020-02-20#08:10:02" user="Rebo4AI_idsai.stateMemory" level="INFO">Observer Added:stateMemory.ui.panel. 2 Observers now.</entry>
+<entry timestamp="2020-02-20#08:10:02" user="Rebo4AI_idsai.inputCoordinator" level="INFO">Observer Added:inputCoordinator.ui.panel. 2 Observers now.</entry>
+<entry timestamp="2020-02-20#08:10:02" user="Rebo4AI_idsai.client" level="INFO">Observer Added:client.ui.panel. 2 Observers now.</entry>
+<entry timestamp="2020-02-20#08:10:02" user="Rebo4AI_idsai.outputCoordinator" level="INFO">Observer Added:outputCoordinator.ui.panel. 2 Observers now.</entry>
+<entry timestamp="2020-02-20#08:10:02" user="(client->inputCoordinator)" level="NORMAL">Observer Added:(client->inputCoordinator).ui.panel</entry>
+<entry timestamp="2020-02-20#08:10:02" user="(inputCoordinator->inputCoordinator)" level="NORMAL">Observer Added:(inputCoordinator->inputCoordinator).ui.panel</entry>
+<entry timestamp="2020-02-20#08:10:02" user="(inputCoordinator->outputCoordinator)" level="NORMAL">Observer Added:(inputCoordinator->outputCoordinator).ui.panel</entry>
+<entry timestamp="2020-02-20#08:10:02" user="(outputCoordinator->client)" level="NORMAL">Observer Added:(outputCoordinator->client).ui.panel</entry>
+<entry timestamp="2020-02-20#08:10:02" user="PlanExecutor" level="NORMAL"><configuration planfile="plans/plan_steps.xml"></entry>
+<entry timestamp="2020-02-20#08:10:02" user="PlanExecutor" level="ERROR">PlanExecutor: Can't do that...java.io.IOException: The system cannot find the path specified</entry>
+<entry timestamp="2020-02-20#08:10:02" user="PlanExecutor" level="ERROR">Error while reading Status File (java.io.FileNotFoundException: planstatus\Rebo4AI_idsai.planstatus.txt (The system cannot find the path specified))</entry>

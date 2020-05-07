@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="jar://$MODULE_DIR$/lib/OtherLibraries/JGraph/jgraph.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/OtherLibraries/Xerces/resolver.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/OtherLibraries/Xerces/serializer.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/OtherLibraries/Xerces/xercesImpl.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/OtherLibraries/Xerces/xml-apis.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/OtherLibraries/Utilities.jar!/" />
+    <src_description expected_position="0">
+      <src_folder value="file://$MODULE_DIR$/src" expected_position="0" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/bin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="module-library" exported="">
+      <library name="jgraph.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/OtherLibraries/JGraph/jgraph.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="resolver.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/OtherLibraries/Xerces/resolver.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="serializer.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/OtherLibraries/Xerces/serializer.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="xercesImpl.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/OtherLibraries/Xerces/xercesImpl.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="xml-apis.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/OtherLibraries/Xerces/xml-apis.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="Utilities.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/OtherLibraries/Utilities.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file:///Users/dadamson/Laboratory/basilica/911-Libraries/Utilities/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>

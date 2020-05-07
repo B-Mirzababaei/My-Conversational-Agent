@@ -1,0 +1,36 @@
+<entry timestamp="2020-02-04#11:49:36" user="NewAgentRunner" level="INFO">Logger initialized</entry>
+<entry timestamp="2020-02-04#11:49:36" user="NewAgentRunner" level="NORMAL">AgentOperator NewAgentRunner created</entry>
+<entry timestamp="2020-02-04#11:49:36" user="NewAgentRunner" level="NORMAL">Operation Created</entry>
+<entry timestamp="2020-02-04#11:49:36" user="NewAgentRunner" level="NORMAL">Classes: [class basilica2.agents.listeners.PresenceWatcher, class rebo4AI.MessageAnnotator.Rebo4AIMessageAnnotator, class basilica2.tutor.listeners.TutorialTriggerWatcher, class basilica2.tutor.listeners.TutorTurnWatcher]</entry>
+<entry timestamp="2020-02-04#11:49:36" user="NewAgentRunner" level="NORMAL">Classes: [class basilica2.agents.listeners.plan.PlanExecutor, class basilica2.tutor.listeners.TutorActor]</entry>
+<entry timestamp="2020-02-04#11:49:37" user="NewAgentRunner" level="NORMAL">Starting operation</entry>
+<entry timestamp="2020-02-04#11:49:37" user="NewAgentRunner" level="NORMAL">Operation started</entry>
+<entry timestamp="2020-02-04#11:49:37" user="NewAgentRunner" level="NORMAL">launching hands-free!</entry>
+<entry timestamp="2020-02-04#11:49:37" user="NewAgentRunner" level="NORMAL">setting basilica2.agents.room_name to testingDialog040220</entry>
+<entry timestamp="2020-02-04#11:49:37" user="NewAgentRunner" level="NORMAL"><launching room=testingDialog040220/></entry>
+<entry timestamp="2020-02-04#11:49:37" user="AgentFactory" level="NORMAL">Making Agent from agent.xml</entry>
+<entry timestamp="2020-02-04#11:49:37" user="AgentFactory" level="NORMAL">File Read</entry>
+<entry timestamp="2020-02-04#11:49:37" user="AgentFactory" level="NORMAL">Agent Tag Read</entry>
+<entry timestamp="2020-02-04#11:49:37" user="AgentFactory" level="NORMAL">Components Tag Read</entry>
+<entry timestamp="2020-02-04#11:49:37" user="AgentFactory" level="NORMAL">Components read. N=4</entry>
+<entry timestamp="2020-02-04#11:49:37" user="AgentFactory" level="NORMAL">Agent build. Rebo4AI_testingDialog040220</entry>
+<entry timestamp="2020-02-04#11:49:37" user="NewAgentRunner" level="NORMAL">Adding agent Rebo4AI_testingDialog040220</entry>
+<entry timestamp="2020-02-04#11:49:37" user="NewAgentRunner" level="INFO">Added. 1 agents now working</entry>
+<entry timestamp="2020-02-04#11:49:37" user="NewAgentRunner" level="INFO">Initializing new agent</entry>
+<entry timestamp="2020-02-04#11:49:37" user="PromptStepHandler" level="NORMAL">default priority=0.75, wait 0.1 seconds after prompts, +3.3333333333333335 wps</entry>
+<entry timestamp="2020-02-04#11:49:37" user="NewAgentRunner" level="INFO">Starting new Agent</entry>
+<entry timestamp="2020-02-04#11:49:37" user="NewAgentRunner" level="NORMAL">notified UI of agent launch for Rebo4AI_testingDialog040220</entry>
+<entry timestamp="2020-02-04#11:49:37" user="NewAgentRunner" level="NORMAL">Agent added Rebo4AI_testingDialog040220</entry>
+<entry timestamp="2020-02-04#11:49:38" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 1</entry>
+<entry timestamp="2020-02-04#11:49:38" user="PlanExecutor" level="NORMAL">PLAN: activiating next stage: initiate</entry>
+<entry timestamp="2020-02-04#11:49:38" user="PlanExecutor" level="NORMAL">Firing Stage 'initiate'</entry>
+<entry timestamp="2020-02-04#11:49:38" user="Step" level="NORMAL">Handlers for FIRST_REBO_TALK(dialogue): [basilica2.tutor.listeners.DialogStepHandler@71c4ec6b]</entry>
+<entry timestamp="2020-02-04#11:49:39" user="" level="NORMAL">ACCEPTED! Message from Rebo4AI: Hi Irmi! TUTOR</entry>
+<entry timestamp="2020-02-04#11:49:57" user="" level="NORMAL">ACCEPTED! Message from Rebo4AI: My name is Rebo4AI. Let's see in what extent you encounter AI on your personal life or professional career and how much AI changes our life.|What Do you think about how many times and how you use an AI-based system in a week? Please name some concrete examples which you use such as Google's search engine, Youtube, GoogleMap, or ridesharing apps. TUTOR</entry>
+<entry timestamp="2020-02-04#11:50:07" user="" level="NORMAL">ACCEPTED! Message from Rebo4AI: Good to hear that! So you are familiar with these kinds of stuff.|In our life, where are AI technologies being used right now and where will they come next? Are they useful or useless? TUTOR</entry>
+<entry timestamp="2020-02-04#11:50:59" user="" level="NORMAL">ACCEPTED! Message from Rebo4AI: That is a balanced answer!|What kind of work could you do to overcome negative consequences and increase positive ones? TUTOR</entry>
+<entry timestamp="2020-02-04#12:00:59" user="" level="NORMAL">ACCEPTED! Message from Rebo4AI: What exactly could you do to gain more from positive outcomes and avoid from negative results? TUTOR</entry>
+<entry timestamp="2020-02-04#12:11:00" user="" level="NORMAL">ACCEPTED! Message from Rebo4AI: Thank you for discussing this with me! TUTOR</entry>
+<entry timestamp="2020-02-04#12:21:00" user="" level="NORMAL">ACCEPTED! Message from Rebo4AI: Have a nice day and see you soon! TUTOR</entry>
+<entry timestamp="2020-02-04#12:21:00" user="Step" level="NORMAL">Handlers for LOG_OUT(logout): [basilica2.agents.listeners.plan.LogoutStepHandler@794482ee]</entry>
+<entry timestamp="2020-02-04#12:21:00" user="LogoutStepHandler" level="NORMAL">step Plan Step LOG_OUT: stopping agent</entry>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5b33d2aa-a960-4c78-936f-f90de43afac6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1YNnD7pYfjwh6S2y2cZA2OL14r0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b33d2aa-a960-4c78-936f-f90de43afac6" name="Default Changelist" comment="" />
+      <created>1582791796116</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582791796116</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1201" y="362" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1582791815063">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1201" y="362" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1582791815063" />
+    <state x="-1231" y="309" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1582791848089">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1231" y="309" key="#com.intellij.ide.util.TreeClassChooserDialog/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1582791848089" />
+    <state x="-1180" y="277" key="FileChooserDialogImpl" timestamp="1582791840682">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1180" y="277" key="FileChooserDialogImpl/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1582791840682" />
+    <state x="-1480" y="97" key="SettingsEditor" timestamp="1582791867855">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1480" y="97" key="SettingsEditor/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1582791867855" />
+    <state x="-1156" y="391" key="classpath-attribute-editor" timestamp="1582791851267">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1156" y="391" key="classpath-attribute-editor/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1582791851267" />
+    <state x="668" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1588377090007">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588377090007" />
+  </component>
+</project>

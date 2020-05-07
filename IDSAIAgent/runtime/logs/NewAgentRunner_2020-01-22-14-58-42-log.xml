@@ -1,0 +1,32 @@
+<entry timestamp="2020-01-22#14:58:42" user="NewAgentRunner" level="INFO">Logger initialized</entry>
+<entry timestamp="2020-01-22#14:58:42" user="NewAgentRunner" level="NORMAL">AgentOperator NewAgentRunner created</entry>
+<entry timestamp="2020-01-22#14:58:42" user="NewAgentRunner" level="NORMAL">Operation Created</entry>
+<entry timestamp="2020-01-22#14:58:42" user="NewAgentRunner" level="NORMAL">Classes: [class basilica2.agents.listeners.PresenceWatcher, class basilica2.agents.listeners.MessageAnnotator, class basilica2.tutor.listeners.TutorialTriggerWatcher, class basilica2.tutor.listeners.TutorTurnWatcher]</entry>
+<entry timestamp="2020-01-22#14:58:42" user="NewAgentRunner" level="NORMAL">Classes: [class basilica2.agents.listeners.plan.PlanExecutor, class basilica2.tutor.listeners.TutorActor]</entry>
+<entry timestamp="2020-01-22#14:58:42" user="NewAgentRunner" level="NORMAL">Starting operation</entry>
+<entry timestamp="2020-01-22#14:58:42" user="NewAgentRunner" level="NORMAL">Operation started</entry>
+<entry timestamp="2020-01-22#14:58:42" user="NewAgentRunner" level="NORMAL">launching hands-free!</entry>
+<entry timestamp="2020-01-22#14:58:42" user="NewAgentRunner" level="NORMAL">setting basilica2.agents.room_name to r1</entry>
+<entry timestamp="2020-01-22#14:58:42" user="NewAgentRunner" level="NORMAL"><launching room=r1/></entry>
+<entry timestamp="2020-01-22#14:58:42" user="AgentFactory" level="NORMAL">Making Agent from agent.xml</entry>
+<entry timestamp="2020-01-22#14:58:43" user="AgentFactory" level="NORMAL">File Read</entry>
+<entry timestamp="2020-01-22#14:58:43" user="AgentFactory" level="NORMAL">Agent Tag Read</entry>
+<entry timestamp="2020-01-22#14:58:43" user="AgentFactory" level="NORMAL">Components Tag Read</entry>
+<entry timestamp="2020-01-22#14:58:43" user="AgentFactory" level="NORMAL">Components read. N=4</entry>
+<entry timestamp="2020-01-22#14:58:43" user="AgentFactory" level="NORMAL">Agent build. Rebo_r1</entry>
+<entry timestamp="2020-01-22#14:58:43" user="NewAgentRunner" level="NORMAL">Adding agent Rebo_r1</entry>
+<entry timestamp="2020-01-22#14:58:43" user="NewAgentRunner" level="INFO">Added. 1 agents now working</entry>
+<entry timestamp="2020-01-22#14:58:43" user="NewAgentRunner" level="INFO">Initializing new agent</entry>
+<entry timestamp="2020-01-22#14:58:43" user="PromptStepHandler" level="NORMAL">default priority=0.75, wait 0.1 seconds after prompts, +3.3333333333333335 wps</entry>
+<entry timestamp="2020-01-22#14:58:43" user="NewAgentRunner" level="INFO">Starting new Agent</entry>
+<entry timestamp="2020-01-22#14:58:43" user="NewAgentRunner" level="NORMAL">notified UI of agent launch for Rebo_r1</entry>
+<entry timestamp="2020-01-22#14:58:43" user="NewAgentRunner" level="NORMAL">Agent added Rebo_r1</entry>
+<entry timestamp="2020-01-22#14:58:47" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 1</entry>
+<entry timestamp="2020-01-22#14:58:47" user="PlanExecutor" level="NORMAL">PLAN: activiating next stage: initiate</entry>
+<entry timestamp="2020-01-22#14:58:47" user="PlanExecutor" level="NORMAL">Firing Stage 'initiate'</entry>
+<entry timestamp="2020-01-22#14:58:47" user="Step" level="NORMAL">Handlers for FIRST_REBO_TALK(dialogue): [basilica2.tutor.listeners.DialogStepHandler@3bd3a0b9]</entry>
+<entry timestamp="2020-01-22#14:58:47" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 1</entry>
+<entry timestamp="2020-01-22#14:58:49" user="" level="NORMAL">ACCEPTED! Message from Rebo: Hey Behzad! TUTOR</entry>
+<entry timestamp="2020-01-22#14:58:57" user="" level="NORMAL">ACCEPTED! Message from Rebo: Und? Wie war's? TUTOR</entry>
+<entry timestamp="2020-01-22#14:59:02" user="NewAgentRunner" level="NORMAL">Starting operation</entry>
+<entry timestamp="2020-01-22#14:59:02" user="NewAgentRunner" level="NORMAL">Operation started</entry>

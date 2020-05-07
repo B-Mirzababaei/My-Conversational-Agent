@@ -1,0 +1,39 @@
+<entry timestamp="2020-02-05#15:53:15" user="NewAgentRunner" level="INFO">Logger initialized</entry>
+<entry timestamp="2020-02-05#15:53:15" user="NewAgentRunner" level="NORMAL">AgentOperator NewAgentRunner created</entry>
+<entry timestamp="2020-02-05#15:53:15" user="NewAgentRunner" level="NORMAL">Operation Created</entry>
+<entry timestamp="2020-02-05#15:53:15" user="NewAgentRunner" level="NORMAL">Classes: [class basilica2.agents.listeners.PresenceWatcher, class rebo4AI.MessageAnnotator.Rebo4AIMessageAnnotator, class basilica2.tutor.listeners.TutorialTriggerWatcher, class basilica2.tutor.listeners.TutorTurnWatcher]</entry>
+<entry timestamp="2020-02-05#15:53:15" user="NewAgentRunner" level="NORMAL">Classes: [class basilica2.agents.listeners.plan.PlanExecutor, class basilica2.tutor.listeners.TutorActor]</entry>
+<entry timestamp="2020-02-05#15:53:15" user="NewAgentRunner" level="NORMAL">Starting operation</entry>
+<entry timestamp="2020-02-05#15:53:15" user="NewAgentRunner" level="NORMAL">Operation started</entry>
+<entry timestamp="2020-02-05#15:53:15" user="NewAgentRunner" level="NORMAL">launching hands-free!</entry>
+<entry timestamp="2020-02-05#15:53:15" user="NewAgentRunner" level="NORMAL">setting basilica2.agents.room_name to debug-scenario-rebo</entry>
+<entry timestamp="2020-02-05#15:53:15" user="NewAgentRunner" level="NORMAL"><launching room=debug-scenario-rebo/></entry>
+<entry timestamp="2020-02-05#15:53:15" user="AgentFactory" level="NORMAL">Making Agent from agent.xml</entry>
+<entry timestamp="2020-02-05#15:53:15" user="AgentFactory" level="NORMAL">File Read</entry>
+<entry timestamp="2020-02-05#15:53:15" user="AgentFactory" level="NORMAL">Agent Tag Read</entry>
+<entry timestamp="2020-02-05#15:53:15" user="AgentFactory" level="NORMAL">Components Tag Read</entry>
+<entry timestamp="2020-02-05#15:53:15" user="AgentFactory" level="NORMAL">Components read. N=4</entry>
+<entry timestamp="2020-02-05#15:53:15" user="AgentFactory" level="NORMAL">Agent build. Rebo4AI_debug-scenario-rebo</entry>
+<entry timestamp="2020-02-05#15:53:15" user="NewAgentRunner" level="NORMAL">Adding agent Rebo4AI_debug-scenario-rebo</entry>
+<entry timestamp="2020-02-05#15:53:15" user="NewAgentRunner" level="INFO">Added. 1 agents now working</entry>
+<entry timestamp="2020-02-05#15:53:15" user="NewAgentRunner" level="INFO">Initializing new agent</entry>
+<entry timestamp="2020-02-05#15:53:15" user="PromptStepHandler" level="NORMAL">default priority=0.75, wait 0.1 seconds after prompts, +3.3333333333333335 wps</entry>
+<entry timestamp="2020-02-05#15:53:16" user="NewAgentRunner" level="INFO">Starting new Agent</entry>
+<entry timestamp="2020-02-05#15:53:16" user="NewAgentRunner" level="NORMAL">notified UI of agent launch for Rebo4AI_debug-scenario-rebo</entry>
+<entry timestamp="2020-02-05#15:53:16" user="NewAgentRunner" level="NORMAL">Agent added Rebo4AI_debug-scenario-rebo</entry>
+<entry timestamp="2020-02-05#15:53:16" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 1</entry>
+<entry timestamp="2020-02-05#15:53:16" user="PlanExecutor" level="NORMAL">PLAN: activiating next stage: initiate</entry>
+<entry timestamp="2020-02-05#15:53:16" user="PlanExecutor" level="NORMAL">Firing Stage 'initiate'</entry>
+<entry timestamp="2020-02-05#15:53:16" user="Step" level="NORMAL">Handlers for FIRST_REBO_TALK(dialogue): [basilica2.tutor.listeners.DialogStepHandler@3bd3a0b9]</entry>
+<entry timestamp="2020-02-05#15:53:17" user="" level="NORMAL">ACCEPTED! Message from Rebo4AI: Hi debugger! TUTOR</entry>
+<entry timestamp="2020-02-05#15:53:45" user="" level="NORMAL">ACCEPTED! Message from Rebo4AI: I'm Rebo4AI and here to talk about various perspectives on how AI is important in your life, the impact of AI on your life, and your own role in interacting with AI-based technologies.|Now, do you have a good feeling about AI? TUTOR</entry>
+<entry timestamp="2020-02-05#15:54:09" user="" level="NORMAL">ACCEPTED! Message from Rebo4AI: Could you explain more about your feeling? Why do you like or dislike it? TUTOR</entry>
+<entry timestamp="2020-02-05#15:54:25" user="" level="NORMAL">ACCEPTED! Message from Rebo4AI: How do you see AI affecting you in the future? TUTOR</entry>
+<entry timestamp="2020-02-05#15:55:11" user="" level="NORMAL">ACCEPTED! Message from Rebo4AI: You are optimistic! | What about negative consequences, Do you think it maybe has bad effects? TUTOR</entry>
+<entry timestamp="2020-02-05#15:55:27" user="" level="NORMAL">ACCEPTED! Message from Rebo4AI: What did you learn from this course? TUTOR</entry>
+<entry timestamp="2020-02-05#16:05:28" user="" level="NORMAL">ACCEPTED! Message from Rebo4AI: What will you pay special attention next time you read or hear about AI? TUTOR</entry>
+<entry timestamp="2020-02-05#16:15:28" user="" level="NORMAL">ACCEPTED! Message from Rebo4AI: If one of your friend talk to you about an intelligent machine, what do you think about first? TUTOR</entry>
+<entry timestamp="2020-02-05#16:25:29" user="" level="NORMAL">ACCEPTED! Message from Rebo4AI: Thank you for discussing this with me! TUTOR</entry>
+<entry timestamp="2020-02-05#16:35:29" user="" level="NORMAL">ACCEPTED! Message from Rebo4AI: See you soon! TUTOR</entry>
+<entry timestamp="2020-02-05#16:35:29" user="Step" level="NORMAL">Handlers for LOG_OUT(logout): [basilica2.agents.listeners.plan.LogoutStepHandler@38096693]</entry>
+<entry timestamp="2020-02-05#16:35:29" user="LogoutStepHandler" level="NORMAL">step Plan Step LOG_OUT: stopping agent</entry>

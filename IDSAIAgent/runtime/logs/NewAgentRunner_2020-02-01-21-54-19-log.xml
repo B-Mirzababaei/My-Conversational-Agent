@@ -1,0 +1,36 @@
+<entry timestamp="2020-02-01#21:54:19" user="NewAgentRunner" level="INFO">Logger initialized</entry>
+<entry timestamp="2020-02-01#21:54:19" user="NewAgentRunner" level="NORMAL">AgentOperator NewAgentRunner created</entry>
+<entry timestamp="2020-02-01#21:54:19" user="NewAgentRunner" level="NORMAL">Operation Created</entry>
+<entry timestamp="2020-02-01#21:54:19" user="NewAgentRunner" level="NORMAL">Classes: [class basilica2.agents.listeners.PresenceWatcher, class rebo4AI.MessageAnnotator.Rebo4AIMessageAnnotator, class basilica2.tutor.listeners.TutorialTriggerWatcher, class basilica2.tutor.listeners.TutorTurnWatcher]</entry>
+<entry timestamp="2020-02-01#21:54:19" user="NewAgentRunner" level="NORMAL">Classes: [class basilica2.agents.listeners.plan.PlanExecutor, class basilica2.tutor.listeners.TutorActor]</entry>
+<entry timestamp="2020-02-01#21:54:20" user="NewAgentRunner" level="NORMAL">Starting operation</entry>
+<entry timestamp="2020-02-01#21:54:20" user="NewAgentRunner" level="NORMAL">Operation started</entry>
+<entry timestamp="2020-02-01#21:54:20" user="NewAgentRunner" level="NORMAL">launching hands-free!</entry>
+<entry timestamp="2020-02-01#21:54:20" user="NewAgentRunner" level="NORMAL">setting basilica2.agents.room_name to newroom1</entry>
+<entry timestamp="2020-02-01#21:54:20" user="NewAgentRunner" level="NORMAL"><launching room=newroom1/></entry>
+<entry timestamp="2020-02-01#21:54:20" user="AgentFactory" level="NORMAL">Making Agent from agent.xml</entry>
+<entry timestamp="2020-02-01#21:54:20" user="AgentFactory" level="NORMAL">File Read</entry>
+<entry timestamp="2020-02-01#21:54:20" user="AgentFactory" level="NORMAL">Agent Tag Read</entry>
+<entry timestamp="2020-02-01#21:54:20" user="AgentFactory" level="NORMAL">Components Tag Read</entry>
+<entry timestamp="2020-02-01#21:54:20" user="AgentFactory" level="NORMAL">Components read. N=4</entry>
+<entry timestamp="2020-02-01#21:54:20" user="AgentFactory" level="NORMAL">Agent build. Rebo4AI_newroom1</entry>
+<entry timestamp="2020-02-01#21:54:20" user="NewAgentRunner" level="NORMAL">Adding agent Rebo4AI_newroom1</entry>
+<entry timestamp="2020-02-01#21:54:20" user="NewAgentRunner" level="INFO">Added. 1 agents now working</entry>
+<entry timestamp="2020-02-01#21:54:20" user="NewAgentRunner" level="INFO">Initializing new agent</entry>
+<entry timestamp="2020-02-01#21:54:20" user="PromptStepHandler" level="NORMAL">default priority=0.75, wait 0.1 seconds after prompts, +3.3333333333333335 wps</entry>
+<entry timestamp="2020-02-01#21:54:20" user="NewAgentRunner" level="INFO">Starting new Agent</entry>
+<entry timestamp="2020-02-01#21:54:20" user="NewAgentRunner" level="NORMAL">notified UI of agent launch for Rebo4AI_newroom1</entry>
+<entry timestamp="2020-02-01#21:54:20" user="NewAgentRunner" level="NORMAL">Agent added Rebo4AI_newroom1</entry>
+<entry timestamp="2020-02-01#21:54:29" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 1</entry>
+<entry timestamp="2020-02-01#21:54:29" user="PlanExecutor" level="NORMAL">PLAN: activiating next stage: initiate</entry>
+<entry timestamp="2020-02-01#21:54:29" user="PlanExecutor" level="NORMAL">Firing Stage 'initiate'</entry>
+<entry timestamp="2020-02-01#21:54:29" user="Step" level="NORMAL">Handlers for FIRST_REBO_TALK(dialogue): [basilica2.tutor.listeners.DialogStepHandler@3bd3a0b9]</entry>
+<entry timestamp="2020-02-01#21:54:29" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 1</entry>
+<entry timestamp="2020-02-01#21:54:30" user="" level="NORMAL">ACCEPTED! Message from Rebo4AI: Howdy, Behzad! TUTOR</entry>
+<entry timestamp="2020-02-01#21:54:34" user="" level="NORMAL">ACCEPTED! Message from Rebo4AI: My name is Rebo4AI. Let's see how much AI changes out life and in what extent you encounter AI on your personal life or professional career.|In your daily life, where or how do you encounter artificial intelligence? TUTOR</entry>
+<entry timestamp="2020-02-01#21:56:32" user="" level="NORMAL">ACCEPTED! Message from Rebo4AI: What is the effects (positive or negative) of such artificial intelligence systems or issues on your own life (professional or private)? TUTOR</entry>
+<entry timestamp="2020-02-01#21:58:40" user="" level="NORMAL">ACCEPTED! Message from Rebo4AI: I think it is better if Rebo4AI says sth like Uhum, OK or ask for talking vividly about ups and downs of rather than just go on to the next level.|WE CAN SKIP THIS PART OR JUST ASK: What did you learn or understand about AI from this course? TUTOR</entry>
+<entry timestamp="2020-02-01#22:01:04" user="" level="NORMAL">ACCEPTED! Message from Rebo4AI: Knowing essentials about how AI systems work, what could you do to increase the positive effects, and reduce negative effects? TUTOR</entry>
+<entry timestamp="2020-02-01#22:03:15" user="" level="NORMAL">ACCEPTED! Message from Rebo4AI: What exactly could you do to gain more from positive outcomes and avoid from negative results? TUTOR</entry>
+<entry timestamp="2020-02-02#11:22:01" user="NewAgentRunner" level="NORMAL">Starting operation</entry>
+<entry timestamp="2020-02-02#11:22:01" user="NewAgentRunner" level="NORMAL">Operation started</entry>

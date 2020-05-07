@@ -1,0 +1,44 @@
+<entry timestamp="2020-02-09#10:56:32" user="NewAgentRunner" level="INFO">Logger initialized</entry>
+<entry timestamp="2020-02-09#10:56:32" user="NewAgentRunner" level="NORMAL">AgentOperator NewAgentRunner created</entry>
+<entry timestamp="2020-02-09#10:56:32" user="NewAgentRunner" level="NORMAL">Operation Created</entry>
+<entry timestamp="2020-02-09#10:56:32" user="NewAgentRunner" level="NORMAL">Classes: [class basilica2.agents.listeners.PresenceWatcher, class rebo4AI.MessageAnnotator.Rebo4AIMessageAnnotator, class basilica2.tutor.listeners.TutorialTriggerWatcher, class basilica2.tutor.listeners.TutorTurnWatcher]</entry>
+<entry timestamp="2020-02-09#10:56:32" user="NewAgentRunner" level="NORMAL">Classes: [class basilica2.agents.listeners.plan.PlanExecutor, class basilica2.tutor.listeners.TutorActor]</entry>
+<entry timestamp="2020-02-09#10:56:32" user="NewAgentRunner" level="NORMAL">Starting operation</entry>
+<entry timestamp="2020-02-09#10:56:32" user="NewAgentRunner" level="NORMAL">Operation started</entry>
+<entry timestamp="2020-02-09#10:56:32" user="NewAgentRunner" level="NORMAL">launching hands-free!</entry>
+<entry timestamp="2020-02-09#10:56:32" user="NewAgentRunner" level="NORMAL">setting basilica2.agents.room_name to debug-scenario-googlemap</entry>
+<entry timestamp="2020-02-09#10:56:32" user="NewAgentRunner" level="NORMAL"><launching room=debug-scenario-googlemap/></entry>
+<entry timestamp="2020-02-09#10:56:32" user="AgentFactory" level="NORMAL">Making Agent from agent.xml</entry>
+<entry timestamp="2020-02-09#10:56:32" user="AgentFactory" level="NORMAL">File Read</entry>
+<entry timestamp="2020-02-09#10:56:32" user="AgentFactory" level="NORMAL">Agent Tag Read</entry>
+<entry timestamp="2020-02-09#10:56:32" user="AgentFactory" level="NORMAL">Components Tag Read</entry>
+<entry timestamp="2020-02-09#10:56:32" user="AgentFactory" level="NORMAL">Components read. N=4</entry>
+<entry timestamp="2020-02-09#10:56:32" user="AgentFactory" level="NORMAL">Agent build. Rebo4AI_debug-scenario-googlemap</entry>
+<entry timestamp="2020-02-09#10:56:32" user="NewAgentRunner" level="NORMAL">Adding agent Rebo4AI_debug-scenario-googlemap</entry>
+<entry timestamp="2020-02-09#10:56:32" user="NewAgentRunner" level="INFO">Added. 1 agents now working</entry>
+<entry timestamp="2020-02-09#10:56:32" user="NewAgentRunner" level="INFO">Initializing new agent</entry>
+<entry timestamp="2020-02-09#10:56:32" user="PromptStepHandler" level="NORMAL">default priority=0.75, wait 0.1 seconds after prompts, +3.3333333333333335 wps</entry>
+<entry timestamp="2020-02-09#10:56:33" user="NewAgentRunner" level="INFO">Starting new Agent</entry>
+<entry timestamp="2020-02-09#10:56:33" user="NewAgentRunner" level="NORMAL">notified UI of agent launch for Rebo4AI_debug-scenario-googlemap</entry>
+<entry timestamp="2020-02-09#10:56:33" user="NewAgentRunner" level="NORMAL">Agent added Rebo4AI_debug-scenario-googlemap</entry>
+<entry timestamp="2020-02-09#10:56:56" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 1</entry>
+<entry timestamp="2020-02-09#10:56:56" user="PlanExecutor" level="NORMAL">PLAN: activiating next stage: initiate</entry>
+<entry timestamp="2020-02-09#10:56:56" user="PlanExecutor" level="NORMAL">Firing Stage 'initiate'</entry>
+<entry timestamp="2020-02-09#10:56:56" user="Step" level="NORMAL">Handlers for FIRST_REBO_TALK(dialogue): [basilica2.tutor.listeners.DialogStepHandler@1bed989d]</entry>
+<entry timestamp="2020-02-09#10:56:57" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 1</entry>
+<entry timestamp="2020-02-09#10:56:58" user="" level="NORMAL">ACCEPTED! Message from Rebo4AI: Hi GENERAL_AI Behzad! TUTOR</entry>
+<entry timestamp="2020-02-09#10:57:28" user="" level="NORMAL">ACCEPTED! Message from Rebo4AI: Let's get started. TUTOR</entry>
+<entry timestamp="2020-02-09#10:57:30" user="" level="NORMAL">ACCEPTED! Message from Rebo4AI: I'm Rebo4AI and here to talk about various perspectives on how AI is important in your life, the impact of AI on your life, and your own role in interacting with AI-based technologies.|Can you tell me how you use an AI-based systems in your daily life? Please name some concrete examples which you use such as Google's search engine, Youtube, GoogleMap, or ridesharing apps. TUTOR</entry>
+<entry timestamp="2020-02-09#10:59:04" user="" level="NORMAL">ACCEPTED! Message from Rebo4AI: If you have an email address, play online video games, or at least have access to the Internet, you directly or indirectly derive the benefit from AI-based systems. There are many well-known websites and companies that use AI-based components, such as Youtube, Google, Microsoft.|In our life, where are AI technologies being used right now and where will they come next? Are they useful or useless? TUTOR</entry>
+<entry timestamp="2020-02-09#11:00:53" user="" level="NORMAL">ACCEPTED! Message from Rebo4AI: Please write whole sentences.|That sounds very dark! Do you think there are any positive side-effects as well? TUTOR</entry>
+<entry timestamp="2020-02-09#11:06:17" user="" level="NORMAL">ACCEPTED! Message from Rebo4AI: Knowing essentials about how AI systems work, what could you do to increase the positive effects, and reduce negative effects? TUTOR</entry>
+<entry timestamp="2020-02-09#11:06:53" user="" level="NORMAL">ACCEPTED! Message from Rebo4AI: Now, you know somethings about AI and its effects on your life. How can it be translated into practice? TUTOR</entry>
+<entry timestamp="2020-02-09#11:08:25" user="" level="NORMAL">ACCEPTED! Message from Rebo4AI: Wasn't there something interesting for you? TUTOR</entry>
+<entry timestamp="2020-02-09#11:08:55" user="" level="NORMAL">ACCEPTED! Message from Rebo4AI: OK, good. Thank you for discussing this with me! TUTOR</entry>
+<entry timestamp="2020-02-09#11:09:27" user="" level="NORMAL">ACCEPTED! Message from Rebo4AI: See you next time :) TUTOR</entry>
+<entry timestamp="2020-02-09#11:09:27" user="PlanExecutor" level="NORMAL">starting 5 second delay timer for FIRST_REBO_TALK</entry>
+<entry timestamp="2020-02-09#11:09:32" user="PlanExecutor" level="NORMAL">PLAN: current step done: FIRST_REBO_TALK</entry>
+<entry timestamp="2020-02-09#11:09:32" user="basilica2.agents.listeners.plan.Stage" level="NORMAL">finished stage initiate</entry>
+<entry timestamp="2020-02-09#11:09:32" user="PlanExecutor" level="NORMAL">Firing Stage 'body'</entry>
+<entry timestamp="2020-02-09#11:09:32" user="Step" level="NORMAL">Handlers for LOG_OUT(logout): [basilica2.agents.listeners.plan.LogoutStepHandler@4f57287f]</entry>
+<entry timestamp="2020-02-09#11:09:32" user="LogoutStepHandler" level="NORMAL">step Plan Step LOG_OUT: stopping agent</entry>

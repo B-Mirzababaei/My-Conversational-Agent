@@ -1,0 +1,36 @@
+Scenario: scenario-rebo.xml
+Info: Viktoria just went into the unknown branches.
+*****************************************
+My name is Rebo4AI and I'm here to find out what you know about AI.  I hope you have read the AI essential course
+Rebo4AI (10:09:10 AM): Now, do you have a good feeling about AI?
+
+debugger (10:09:24 AM): hm, i'm still undecided...
+debugger (10:09:30 AM): sometimes i wish i lived in the middle age.
+
+Rebo4AI (10:09:34 AM): Could you explain more about your feeling? Why do you like or dislike it?
+
+debugger (10:09:57 AM): hm...
+debugger (10:10:36 AM): it's not htat i like or dislike AI. it's just that i have the feeling that society as a whole doesn't really know what to do with it. and i'm concerned that a few big players like google or alibaba will rule the world in ten years.
+
+Rebo4AI (10:10:42 AM): How do you see AI affecting you in the future?
+
+debugger (10:12:46 AM): it already affects me in the sense that there are many websites and platforms that collect and analyse my data. in the future, i think the wish would be that there are great expert ai systems that make really good decisions, politically, or in medicine. but i'm afraid that the algorithms will _not_ be as good. or they will be biased by commercial interests...
+debugger (10:13:32 AM): as i've just read that a medication-recommender system used by physicians inthe AI was biased towards prescribing more medication because a pharamceutical company had invested a lot of money.
+
+Rebo4AI (10:13:36 AM): Could you talk about a positive and a negative consequence of AI?
+
+debugger (10:14:12 AM): well, on the positive side, we have something like Google, or Amazon, who provide very useful services to everyone
+
+Rebo4AI (10:14:18 AM): What did you learn from this course?
+
+debugger (10:15:00 AM): from the course, i learned that algorithms and also AI are really just mathematics not that i understand everything, but it's not as immediately we had magic systems.
+
+Rebo4AI (10:15:05 AM): What will you pay special attention next time you read or hear about AI?
+
+debugger (10:16:05 AM): i think i will be more intersested about the technical details - which data are used? which algorithms are actually used? it occurs to me that no one _really_ knows what Google or Amazon are exactly doing... they are making this more magic than it is.
+
+Rebo4AI (10:16:11 AM): If one of your friend talk to you about an intelligent machine, what do you think about first?
+
+debugger (10:16:34 AM): that i don't think it's all that intelligent ;-)
+
+Rebo4AI (10:16:37 AM): Thank you for discussing this with me!

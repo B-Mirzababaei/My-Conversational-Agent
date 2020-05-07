@@ -1,0 +1,1347 @@
+<entry timestamp="2020-02-20#15:28:01" user="FactoryBuiltAgent" level="NORMAL">CONFIGURING AGENT Rebo4AI_idsai</entry>
+<entry timestamp="2020-02-20#15:28:01" user="Rebo4AI_idsai.AGENT" level="NORMAL"><created>Rebo4AI_idsai</created></entry>
+<entry timestamp="2020-02-20#15:28:01" user="Rebo4AI_idsai.stateMemory" level="INFO">Informing 0 Observers of CREATED</entry>
+<entry timestamp="2020-02-20#15:28:01" user="Rebo4AI_idsai.stateMemory" level="NORMAL"><created>stateMemory</created></entry>
+<entry timestamp="2020-02-20#15:28:01" user="Rebo4AI_idsai.client" level="INFO">Informing 0 Observers of CREATED</entry>
+<entry timestamp="2020-02-20#15:28:01" user="Rebo4AI_idsai.client" level="NORMAL"><created>client</created></entry>
+<entry timestamp="2020-02-20#15:28:01" user="Rebo4AI_idsai.client" level="NORMAL">Property read: socket_url =	http://kcs-rebo4ai.demo.know-center.at/</entry>
+<entry timestamp="2020-02-20#15:28:01" user="Rebo4AI_idsai.client" level="NORMAL">Property read: socket_suburl =	/bazsocket/socket.io</entry>
+<entry timestamp="2020-02-20#15:28:01" user="Rebo4AI_idsai.inputCoordinator" level="INFO">Informing 0 Observers of CREATED</entry>
+<entry timestamp="2020-02-20#15:28:01" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL"><created>inputCoordinator</created></entry>
+<entry timestamp="2020-02-20#15:28:01" user="Rebo4AI_idsai.outputCoordinator" level="INFO">Informing 0 Observers of CREATED</entry>
+<entry timestamp="2020-02-20#15:28:01" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL"><created>outputCoordinator</created></entry>
+<entry timestamp="2020-02-20#15:28:01" user="(client->inputCoordinator)" level="INFO">Connection initialized. Id=1582208881434</entry>
+<entry timestamp="2020-02-20#15:28:01" user="Rebo4AI_idsai.client" level="INFO">Outgoing connection added from client to inputCoordinator</entry>
+<entry timestamp="2020-02-20#15:28:01" user="Rebo4AI_idsai.inputCoordinator" level="INFO">Inward connection added from inputCoordinator to client</entry>
+<entry timestamp="2020-02-20#15:28:01" user="(inputCoordinator->inputCoordinator)" level="INFO">Connection initialized. Id=1582208881434</entry>
+<entry timestamp="2020-02-20#15:28:01" user="Rebo4AI_idsai.inputCoordinator" level="INFO">Outgoing connection added from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2020-02-20#15:28:01" user="Rebo4AI_idsai.inputCoordinator" level="INFO">Outgoing connection added from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2020-02-20#15:28:01" user="(inputCoordinator->outputCoordinator)" level="INFO">Connection initialized. Id=1582208881434</entry>
+<entry timestamp="2020-02-20#15:28:01" user="Rebo4AI_idsai.inputCoordinator" level="INFO">Outgoing connection added from inputCoordinator to outputCoordinator</entry>
+<entry timestamp="2020-02-20#15:28:01" user="Rebo4AI_idsai.outputCoordinator" level="INFO">Inward connection added from outputCoordinator to inputCoordinator</entry>
+<entry timestamp="2020-02-20#15:28:01" user="(outputCoordinator->client)" level="INFO">Connection initialized. Id=1582208881434</entry>
+<entry timestamp="2020-02-20#15:28:01" user="Rebo4AI_idsai.outputCoordinator" level="INFO">Outgoing connection added from outputCoordinator to client</entry>
+<entry timestamp="2020-02-20#15:28:01" user="Rebo4AI_idsai.client" level="INFO">Inward connection added from client to outputCoordinator</entry>
+<entry timestamp="2020-02-20#15:28:01" user="Rebo4AI_idsai.AGENT" level="NORMAL"><initialized>Rebo4AI_idsai</initialized></entry>
+<entry timestamp="2020-02-20#15:28:01" user="Rebo4AI_idsai.stateMemory" level="INFO">Observer Added:stateMemory.ui.cell. 1 Observers now.</entry>
+<entry timestamp="2020-02-20#15:28:01" user="Rebo4AI_idsai.inputCoordinator" level="INFO">Observer Added:inputCoordinator.ui.cell. 1 Observers now.</entry>
+<entry timestamp="2020-02-20#15:28:01" user="Rebo4AI_idsai.client" level="INFO">Observer Added:client.ui.cell. 1 Observers now.</entry>
+<entry timestamp="2020-02-20#15:28:01" user="Rebo4AI_idsai.outputCoordinator" level="INFO">Observer Added:outputCoordinator.ui.cell. 1 Observers now.</entry>
+<entry timestamp="2020-02-20#15:28:01" user="(client->inputCoordinator)" level="NORMAL">Observer Added:(client->inputCoordinator).ui.edge</entry>
+<entry timestamp="2020-02-20#15:28:01" user="(inputCoordinator->inputCoordinator)" level="NORMAL">Observer Added:(inputCoordinator->inputCoordinator).ui.edge</entry>
+<entry timestamp="2020-02-20#15:28:01" user="(inputCoordinator->outputCoordinator)" level="NORMAL">Observer Added:(inputCoordinator->outputCoordinator).ui.edge</entry>
+<entry timestamp="2020-02-20#15:28:01" user="(outputCoordinator->client)" level="NORMAL">Observer Added:(outputCoordinator->client).ui.edge</entry>
+<entry timestamp="2020-02-20#15:28:01" user="Rebo4AI_idsai.stateMemory" level="INFO">Observer Added:stateMemory.ui.panel. 2 Observers now.</entry>
+<entry timestamp="2020-02-20#15:28:01" user="Rebo4AI_idsai.inputCoordinator" level="INFO">Observer Added:inputCoordinator.ui.panel. 2 Observers now.</entry>
+<entry timestamp="2020-02-20#15:28:01" user="Rebo4AI_idsai.client" level="INFO">Observer Added:client.ui.panel. 2 Observers now.</entry>
+<entry timestamp="2020-02-20#15:28:01" user="Rebo4AI_idsai.outputCoordinator" level="INFO">Observer Added:outputCoordinator.ui.panel. 2 Observers now.</entry>
+<entry timestamp="2020-02-20#15:28:01" user="(client->inputCoordinator)" level="NORMAL">Observer Added:(client->inputCoordinator).ui.panel</entry>
+<entry timestamp="2020-02-20#15:28:01" user="(inputCoordinator->inputCoordinator)" level="NORMAL">Observer Added:(inputCoordinator->inputCoordinator).ui.panel</entry>
+<entry timestamp="2020-02-20#15:28:01" user="(inputCoordinator->outputCoordinator)" level="NORMAL">Observer Added:(inputCoordinator->outputCoordinator).ui.panel</entry>
+<entry timestamp="2020-02-20#15:28:01" user="(outputCoordinator->client)" level="NORMAL">Observer Added:(outputCoordinator->client).ui.panel</entry>
+<entry timestamp="2020-02-20#15:28:01" user="PlanExecutor" level="NORMAL"><configuration planfile="plans/plan_steps.xml"></entry>
+<entry timestamp="2020-02-20#15:28:01" user="PlanExecutor" level="ERROR">PlanExecutor: Can't do that...java.io.IOException: The system cannot find the path specified</entry>
+<entry timestamp="2020-02-20#15:28:01" user="PlanExecutor" level="ERROR">Error while reading Status File (java.io.FileNotFoundException: planstatus\Rebo4AI_idsai.planstatus.txt (The system cannot find the path specified))</entry>
+<entry timestamp="2020-02-20#15:28:01" user="Rebo4AI_idsai.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="0" initiated="false">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+</State></commit></entry>
+<entry timestamp="2020-02-20#15:28:01" user="Rebo4AI_idsai.AGENT" level="NORMAL"><starting>Initializing each component</starting></entry>
+<entry timestamp="2020-02-20#15:28:01" user="Rebo4AI_idsai.stateMemory" level="INFO">Informing 2 Observers of STARTED</entry>
+<entry timestamp="2020-02-20#15:28:01" user="Rebo4AI_idsai.stateMemory" level="NORMAL"><initialized>stateMemory</initialized></entry>
+<entry timestamp="2020-02-20#15:28:01" user="Rebo4AI_idsai.inputCoordinator" level="INFO">Informing 2 Observers of STARTED</entry>
+<entry timestamp="2020-02-20#15:28:01" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL"><initialized>inputCoordinator</initialized></entry>
+<entry timestamp="2020-02-20#15:28:01" user="Rebo4AI_idsai.client" level="INFO">Informing 2 Observers of STARTED</entry>
+<entry timestamp="2020-02-20#15:28:01" user="Rebo4AI_idsai.client" level="NORMAL"><initialized>client</initialized></entry>
+<entry timestamp="2020-02-20#15:28:01" user="Rebo4AI_idsai.outputCoordinator" level="INFO">Informing 2 Observers of STARTED</entry>
+<entry timestamp="2020-02-20#15:28:01" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL"><initialized>outputCoordinator</initialized></entry>
+<entry timestamp="2020-02-20#15:28:01" user="Rebo4AI_idsai.AGENT" level="NORMAL"><starting>All components initialized</starting></entry>
+<entry timestamp="2020-02-20#15:28:01" user="Rebo4AI_idsai.inputCoordinator" level="INFO">Observer Added:frame0. 3 Observers now.</entry>
+<entry timestamp="2020-02-20#15:34:12" user="Rebo4AI_idsai.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-20#15:34:12" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2020-02-20#15:34:12" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2020-02-20#15:34:12" user="Rebo4AI_idsai.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#15:34:12" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processing name="PRESENCE_EVENT" from="client">Presence: Rebo4AI is now PRESENT</processing></entry>
+<entry timestamp="2020-02-20#15:34:12" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">InputCoordinator received event: Presence: Rebo4AI is now PRESENT</entry>
+<entry timestamp="2020-02-20#15:34:12" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Preprocessing: [Presence: Rebo4AI is now PRESENT]</entry>
+<entry timestamp="2020-02-20#15:34:12" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-20#15:34:12" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-20#15:34:12" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processed name="PRESENCE_EVENT" from="client"></processed></entry>
+<entry timestamp="2020-02-20#15:34:50" user="Rebo4AI_idsai.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-20#15:34:50" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2020-02-20#15:34:50" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2020-02-20#15:34:50" user="Rebo4AI_idsai.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#15:34:50" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processing name="PRESENCE_EVENT" from="client">Presence: Behzad is now PRESENT</processing></entry>
+<entry timestamp="2020-02-20#15:34:50" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">InputCoordinator received event: Presence: Behzad is now PRESENT</entry>
+<entry timestamp="2020-02-20#15:34:50" user="Rebo4AI_idsai.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="0" initiated="false">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+</State></retrieve></entry>
+<entry timestamp="2020-02-20#15:34:50" user="Rebo4AI_idsai.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="1" initiated="false">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="Behzad" name="Behzad" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2020-02-20#15:34:50" user="Rebo4AI_idsai.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="false">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="Behzad" name="Behzad" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2020-02-20#15:34:50" user="Rebo4AI_idsai.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="Behzad" name="Behzad" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2020-02-20#15:34:50" user="PlanExecutor" level="NORMAL">Plan: <stage name="initiate" timeout="1">set</stage></entry>
+<entry timestamp="2020-02-20#15:34:50" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-20#15:34:50" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-20#15:34:50" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Preprocessing: [Presence: Behzad is now PRESENT]</entry>
+<entry timestamp="2020-02-20#15:34:50" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-20#15:34:50" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-20#15:34:50" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processed name="PRESENCE_EVENT" from="client"></processed></entry>
+<entry timestamp="2020-02-20#15:34:50" user="Rebo4AI_idsai.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-20#15:34:50" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2020-02-20#15:34:50" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2020-02-20#15:34:50" user="Rebo4AI_idsai.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#15:34:50" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processing name="PRESENCE_EVENT" from="client">Presence: Behzad is now PRESENT</processing></entry>
+<entry timestamp="2020-02-20#15:34:50" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">InputCoordinator received event: Presence: Behzad is now PRESENT</entry>
+<entry timestamp="2020-02-20#15:34:50" user="Rebo4AI_idsai.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="Behzad" name="Behzad" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2020-02-20#15:34:50" user="Rebo4AI_idsai.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="Behzad" name="Behzad" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2020-02-20#15:34:50" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Preprocessing: [Presence: Behzad is now PRESENT]</entry>
+<entry timestamp="2020-02-20#15:34:50" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-20#15:34:50" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-20#15:34:50" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processed name="PRESENCE_EVENT" from="client"></processed></entry>
+<entry timestamp="2020-02-20#15:34:51" user="Rebo4AI_idsai.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="Behzad" name="Behzad" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2020-02-20#15:34:51" user="Rebo4AI_idsai.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="1" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="INTRODUCE" type="prompt"/>
+	<student id="Behzad" name="Behzad" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2020-02-20#15:34:51" user="Rebo4AI_idsai.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="INTRODUCE" type="prompt"/>
+	<student id="Behzad" name="Behzad" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2020-02-20#15:34:51" user="PlanExecutor" level="ERROR">Error while updating Status File (java.io.FileNotFoundException: planstatus\Rebo4AI_idsai.planstatus.txt (The system cannot find the path specified))</entry>
+<entry timestamp="2020-02-20#15:34:51" user="Rebo4AI_idsai.outputCoordinator" level="INFO">Proposal Queue: [Message from Rebo4AI: Hi, I'm Rebo4AI; I'm a prototype conversational agent. INTRODUCE]</entry>
+<entry timestamp="2020-02-20#15:34:51" user="Rebo4AI_idsai.outputCoordinator" level="INFO">Proposal Message from Rebo4AI: Hi, I'm Rebo4AI; I'm a prototype conversational agent. INTRODUCEbelief*priority: 1.0*0.75=0.75</entry>
+<entry timestamp="2020-02-20#15:34:51" user="Rebo4AI_idsai.outputCoordinator" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-20#15:34:51" user="(outputCoordinator->client)" level="INFO">Communicate MESSAGE_EVENT from outputCoordinator to client</entry>
+<entry timestamp="2020-02-20#15:34:51" user="Rebo4AI_idsai.client" level="INFO"><queued name="MESSAGE_EVENT" from="outputCoordinator"></queued></entry>
+<entry timestamp="2020-02-20#15:34:51" user="Rebo4AI_idsai.outputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#15:34:51" user="Rebo4AI_idsai.client" level="INFO"><processing name="MESSAGE_EVENT" from="outputCoordinator">Message from Rebo4AI: Hi, I'm Rebo4AI; I'm a prototype conversational agent. INTRODUCE</processing></entry>
+<entry timestamp="2020-02-20#15:34:51" user="Rebo4AI_idsai.client" level="INFO"><processed name="MESSAGE_EVENT" from="outputCoordinator"></processed></entry>
+<entry timestamp="2020-02-20#15:34:51" user="Rebo4AI_idsai.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-20#15:34:51" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2020-02-20#15:34:51" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2020-02-20#15:34:51" user="Rebo4AI_idsai.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#15:34:51" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from Rebo4AI: Hi, I'm Rebo4AI; I'm a prototype conversational agent. </processing></entry>
+<entry timestamp="2020-02-20#15:34:51" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from Rebo4AI: Hi, I'm Rebo4AI; I'm a prototype conversational agent. </entry>
+<entry timestamp="2020-02-20#15:34:51" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Preprocessing: [Echo: Message from Rebo4AI: Hi, I'm Rebo4AI; I'm a prototype conversational agent. ]</entry>
+<entry timestamp="2020-02-20#15:34:51" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-20#15:34:51" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-20#15:34:51" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2020-02-20#15:34:53" user="Rebo4AI_idsai.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="INTRODUCE" type="prompt"/>
+	<student id="Behzad" name="Behzad" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2020-02-20#15:34:53" user="Rebo4AI_idsai.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="1" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="IDSAI" type="dialogue"/>
+	<student id="Behzad" name="Behzad" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2020-02-20#15:34:53" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL"><dispatching to="inputCoordinator">DO_TUTORING_EVENT</dispatching></entry>
+<entry timestamp="2020-02-20#15:34:53" user="(inputCoordinator->inputCoordinator)" level="INFO">Communicate DO_TUTORING_EVENT from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2020-02-20#15:34:53" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><queued name="DO_TUTORING_EVENT" from="inputCoordinator"></queued></entry>
+<entry timestamp="2020-02-20#15:34:53" user="Rebo4AI_idsai.inputCoordinator" level="INFO">Informing 3 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#15:34:53" user="PlanExecutor" level="ERROR">Error while updating Status File (java.io.FileNotFoundException: planstatus\Rebo4AI_idsai.planstatus.txt (The system cannot find the path specified))</entry>
+<entry timestamp="2020-02-20#15:34:53" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processing name="DO_TUTORING_EVENT" from="inputCoordinator">Do Tutoring concept=IDSAI</processing></entry>
+<entry timestamp="2020-02-20#15:34:53" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">InputCoordinator received event: Do Tutoring concept=IDSAI</entry>
+<entry timestamp="2020-02-20#15:34:53" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Preprocessing: [Do Tutoring concept=IDSAI]</entry>
+<entry timestamp="2020-02-20#15:34:53" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-20#15:34:53" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-20#15:34:53" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processed name="DO_TUTORING_EVENT" from="inputCoordinator"></processed></entry>
+<entry timestamp="2020-02-20#15:34:53" user="Rebo4AI_idsai.outputCoordinator" level="INFO">Proposal Queue: [Message from Rebo4AI: How are you? TUTOR]</entry>
+<entry timestamp="2020-02-20#15:34:53" user="Rebo4AI_idsai.outputCoordinator" level="INFO">Proposal not allowed by Source: PromptStep: Message from Rebo4AI: How are you? TUTOR</entry>
+<entry timestamp="2020-02-20#15:34:53" user="Rebo4AI_idsai.outputCoordinator" level="INFO">Proposal Message from Rebo4AI: How are you? TUTORbelief*priority: 0.0*0.75=0.75</entry>
+<entry timestamp="2020-02-20#15:34:53" user="Rebo4AI_idsai.outputCoordinator" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-20#15:34:53" user="(outputCoordinator->client)" level="INFO">Communicate MESSAGE_EVENT from outputCoordinator to client</entry>
+<entry timestamp="2020-02-20#15:34:53" user="Rebo4AI_idsai.client" level="INFO"><queued name="MESSAGE_EVENT" from="outputCoordinator"></queued></entry>
+<entry timestamp="2020-02-20#15:34:53" user="Rebo4AI_idsai.outputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#15:34:53" user="Rebo4AI_idsai.client" level="INFO"><processing name="MESSAGE_EVENT" from="outputCoordinator">Message from Rebo4AI: How are you? TUTOR</processing></entry>
+<entry timestamp="2020-02-20#15:34:53" user="Rebo4AI_idsai.client" level="INFO"><processed name="MESSAGE_EVENT" from="outputCoordinator"></processed></entry>
+<entry timestamp="2020-02-20#15:34:53" user="Rebo4AI_idsai.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-20#15:34:53" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2020-02-20#15:34:53" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2020-02-20#15:34:53" user="Rebo4AI_idsai.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#15:34:53" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from Rebo4AI: How are you? </processing></entry>
+<entry timestamp="2020-02-20#15:34:53" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from Rebo4AI: How are you? </entry>
+<entry timestamp="2020-02-20#15:34:53" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Preprocessing: [Echo: Message from Rebo4AI: How are you? ]</entry>
+<entry timestamp="2020-02-20#15:34:53" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-20#15:34:53" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-20#15:34:53" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2020-02-20#15:36:05" user="Rebo4AI_idsai.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-20#15:36:05" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2020-02-20#15:36:05" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2020-02-20#15:36:05" user="Rebo4AI_idsai.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#15:36:05" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from Behzad: sd </processing></entry>
+<entry timestamp="2020-02-20#15:36:05" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from Behzad: sd </entry>
+<entry timestamp="2020-02-20#15:36:05" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Preprocessing: [Message from Behzad: sd IDSAI_QUESTION1_WITHOUT_REASON+TRUE]</entry>
+<entry timestamp="2020-02-20#15:36:05" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL"><dispatching to="inputCoordinator">TUTORING_STARTED_EVENT</dispatching></entry>
+<entry timestamp="2020-02-20#15:36:05" user="(inputCoordinator->inputCoordinator)" level="INFO">Communicate TUTORING_STARTED_EVENT from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2020-02-20#15:36:05" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><queued name="TUTORING_STARTED_EVENT" from="inputCoordinator"></queued></entry>
+<entry timestamp="2020-02-20#15:36:05" user="Rebo4AI_idsai.inputCoordinator" level="INFO">Informing 3 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#15:36:05" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-20#15:36:05" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-20#15:36:05" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2020-02-20#15:36:05" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processing name="TUTORING_STARTED_EVENT" from="inputCoordinator">TutoringStartedEvent: scenario=scenario-idsai, concept=IDSAI</processing></entry>
+<entry timestamp="2020-02-20#15:36:05" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">InputCoordinator received event: TutoringStartedEvent: scenario=scenario-idsai, concept=IDSAI</entry>
+<entry timestamp="2020-02-20#15:36:05" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Preprocessing: [TutoringStartedEvent: scenario=scenario-idsai, concept=IDSAI]</entry>
+<entry timestamp="2020-02-20#15:36:05" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL"><dispatching to="inputCoordinator">TUTOR_TURNS_EVENT</dispatching></entry>
+<entry timestamp="2020-02-20#15:36:05" user="(inputCoordinator->inputCoordinator)" level="INFO">Communicate TUTOR_TURNS_EVENT from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2020-02-20#15:36:05" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><queued name="TUTOR_TURNS_EVENT" from="inputCoordinator"></queued></entry>
+<entry timestamp="2020-02-20#15:36:05" user="Rebo4AI_idsai.inputCoordinator" level="INFO">Informing 3 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#15:36:05" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-20#15:36:05" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-20#15:36:05" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processed name="TUTORING_STARTED_EVENT" from="inputCoordinator"></processed></entry>
+<entry timestamp="2020-02-20#15:36:05" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processing name="TUTOR_TURNS_EVENT" from="inputCoordinator">Tutor Turns (1):
+{
+	You have learned in the "Introduction to Data Science and Artificial Intelligence" different definitions of intelligence; I have not been able to follow! | But I'm curious: Is a fish now intelligent or not? Why?
+}</processing></entry>
+<entry timestamp="2020-02-20#15:36:05" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">InputCoordinator received event: Tutor Turns (1):
+{
+	You have learned in the "Introduction to Data Science and Artificial Intelligence" different definitions of intelligence; I have not been able to follow! | But I'm curious: Is a fish now intelligent or not? Why?
+}</entry>
+<entry timestamp="2020-02-20#15:36:05" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Preprocessing: [Tutor Turns (1):
+{
+	You have learned in the "Introduction to Data Science and Artificial Intelligence" different definitions of intelligence; I have not been able to follow! | But I'm curious: Is a fish now intelligent or not? Why?
+}]</entry>
+<entry timestamp="2020-02-20#15:36:05" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-20#15:36:05" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-20#15:36:05" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processed name="TUTOR_TURNS_EVENT" from="inputCoordinator"></processed></entry>
+<entry timestamp="2020-02-20#15:36:05" user="Rebo4AI_idsai.outputCoordinator" level="INFO">Proposal Queue: [Message from Rebo4AI: Let's get started. TUTOR, Message from Rebo4AI: You have learned in the "Introduction to Data Science and Artificial Intelligence" different definitions of intelligence; I have not been able to follow! | But I'm curious: Is a fish now intelligent or not? Why? TUTOR]</entry>
+<entry timestamp="2020-02-20#15:36:05" user="Rebo4AI_idsai.outputCoordinator" level="INFO">Proposal Message from Rebo4AI: Let's get started. TUTORbelief*priority: 0.37490625*0.75=0.75</entry>
+<entry timestamp="2020-02-20#15:36:05" user="Rebo4AI_idsai.outputCoordinator" level="INFO">Proposal Message from Rebo4AI: You have learned in the "Introduction to Data Science and Artificial Intelligence" different definitions of intelligence; I have not been able to follow! | But I'm curious: Is a fish now intelligent or not? Why? TUTORbelief*priority: 0.37490625*0.75=0.75</entry>
+<entry timestamp="2020-02-20#15:36:05" user="Rebo4AI_idsai.outputCoordinator" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-20#15:36:05" user="(outputCoordinator->client)" level="INFO">Communicate MESSAGE_EVENT from outputCoordinator to client</entry>
+<entry timestamp="2020-02-20#15:36:05" user="Rebo4AI_idsai.client" level="INFO"><queued name="MESSAGE_EVENT" from="outputCoordinator"></queued></entry>
+<entry timestamp="2020-02-20#15:36:05" user="Rebo4AI_idsai.outputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#15:36:05" user="Rebo4AI_idsai.client" level="INFO"><processing name="MESSAGE_EVENT" from="outputCoordinator">Message from Rebo4AI: Let's get started. TUTOR</processing></entry>
+<entry timestamp="2020-02-20#15:36:05" user="Rebo4AI_idsai.client" level="INFO"><processed name="MESSAGE_EVENT" from="outputCoordinator"></processed></entry>
+<entry timestamp="2020-02-20#15:36:05" user="Rebo4AI_idsai.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-20#15:36:05" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2020-02-20#15:36:05" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2020-02-20#15:36:05" user="Rebo4AI_idsai.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#15:36:05" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from Rebo4AI: Let's get started. </processing></entry>
+<entry timestamp="2020-02-20#15:36:05" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from Rebo4AI: Let's get started. </entry>
+<entry timestamp="2020-02-20#15:36:05" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Preprocessing: [Echo: Message from Rebo4AI: Let's get started. ]</entry>
+<entry timestamp="2020-02-20#15:36:05" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-20#15:36:05" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-20#15:36:05" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2020-02-20#15:36:07" user="Rebo4AI_idsai.outputCoordinator" level="INFO">Proposal Queue: [Message from Rebo4AI: You have learned in the "Introduction to Data Science and Artificial Intelligence" different definitions of intelligence; I have not been able to follow! | But I'm curious: Is a fish now intelligent or not? Why? TUTOR]</entry>
+<entry timestamp="2020-02-20#15:36:07" user="Rebo4AI_idsai.outputCoordinator" level="INFO">Proposal Message from Rebo4AI: You have learned in the "Introduction to Data Science and Artificial Intelligence" different definitions of intelligence; I have not been able to follow! | But I'm curious: Is a fish now intelligent or not? Why? TUTORbelief*priority: 0.3748125234375*0.75=0.75</entry>
+<entry timestamp="2020-02-20#15:36:07" user="Rebo4AI_idsai.outputCoordinator" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-20#15:36:07" user="(outputCoordinator->client)" level="INFO">Communicate MESSAGE_EVENT from outputCoordinator to client</entry>
+<entry timestamp="2020-02-20#15:36:07" user="Rebo4AI_idsai.client" level="INFO"><queued name="MESSAGE_EVENT" from="outputCoordinator"></queued></entry>
+<entry timestamp="2020-02-20#15:36:07" user="Rebo4AI_idsai.outputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#15:36:07" user="Rebo4AI_idsai.outputCoordinator" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-20#15:36:07" user="(outputCoordinator->client)" level="INFO">Communicate MESSAGE_EVENT from outputCoordinator to client</entry>
+<entry timestamp="2020-02-20#15:36:07" user="Rebo4AI_idsai.client" level="INFO"><queued name="MESSAGE_EVENT" from="outputCoordinator"></queued></entry>
+<entry timestamp="2020-02-20#15:36:07" user="Rebo4AI_idsai.outputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#15:36:07" user="Rebo4AI_idsai.client" level="INFO"><processing name="MESSAGE_EVENT" from="outputCoordinator">Message from Rebo4AI: You have learned in the "Introduction to Data Science and Artificial Intelligence" different definitions of intelligence; I have not been able to follow! TUTOR</processing></entry>
+<entry timestamp="2020-02-20#15:36:07" user="Rebo4AI_idsai.client" level="INFO"><processed name="MESSAGE_EVENT" from="outputCoordinator"></processed></entry>
+<entry timestamp="2020-02-20#15:36:07" user="Rebo4AI_idsai.client" level="INFO"><processing name="MESSAGE_EVENT" from="outputCoordinator">Message from Rebo4AI: But I'm curious: Is a fish now intelligent or not? Why? TUTOR</processing></entry>
+<entry timestamp="2020-02-20#15:36:07" user="Rebo4AI_idsai.client" level="INFO"><processed name="MESSAGE_EVENT" from="outputCoordinator"></processed></entry>
+<entry timestamp="2020-02-20#15:36:07" user="Rebo4AI_idsai.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-20#15:36:07" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2020-02-20#15:36:07" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2020-02-20#15:36:07" user="Rebo4AI_idsai.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#15:36:07" user="Rebo4AI_idsai.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-20#15:36:07" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2020-02-20#15:36:07" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2020-02-20#15:36:07" user="Rebo4AI_idsai.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#15:36:07" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from Rebo4AI: You have learned in the "Introduction to Data Science and Artificial Intelligence" different definitions of intelligence; I have not been able to follow! </processing></entry>
+<entry timestamp="2020-02-20#15:36:07" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from Rebo4AI: You have learned in the "Introduction to Data Science and Artificial Intelligence" different definitions of intelligence; I have not been able to follow! </entry>
+<entry timestamp="2020-02-20#15:36:07" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Preprocessing: [Echo: Message from Rebo4AI: You have learned in the "Introduction to Data Science and Artificial Intelligence" different definitions of intelligence; I have not been able to follow! ]</entry>
+<entry timestamp="2020-02-20#15:36:07" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-20#15:36:07" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-20#15:36:07" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2020-02-20#15:36:07" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from Rebo4AI: But I'm curious: Is a fish now intelligent or not? Why? </processing></entry>
+<entry timestamp="2020-02-20#15:36:07" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from Rebo4AI: But I'm curious: Is a fish now intelligent or not? Why? </entry>
+<entry timestamp="2020-02-20#15:36:07" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Preprocessing: [Echo: Message from Rebo4AI: But I'm curious: Is a fish now intelligent or not? Why? ]</entry>
+<entry timestamp="2020-02-20#15:36:07" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-20#15:36:07" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-20#15:36:07" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2020-02-20#15:36:22" user="Rebo4AI_idsai.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-20#15:36:22" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2020-02-20#15:36:22" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2020-02-20#15:36:22" user="Rebo4AI_idsai.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#15:36:22" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from Behzad: in is not a inteligent </processing></entry>
+<entry timestamp="2020-02-20#15:36:22" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from Behzad: in is not a inteligent </entry>
+<entry timestamp="2020-02-20#15:36:22" user="TutorTurnWatcher" level="ERROR">Error while updating Episode Log File (java.io.FileNotFoundException: behaviors\episodes\Rebo4AI_idsai.episodes.txt (The system cannot find the path specified))</entry>
+<entry timestamp="2020-02-20#15:36:22" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Preprocessing: [Message from Behzad: in is not a inteligent IDSAI_QUESTION1_WITHOUT_REASON+TRUE+NO]</entry>
+<entry timestamp="2020-02-20#15:36:22" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-20#15:36:22" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-20#15:36:22" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2020-02-20#15:36:25" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL"><dispatching to="inputCoordinator">TUTOR_TURNS_EVENT</dispatching></entry>
+<entry timestamp="2020-02-20#15:36:25" user="(inputCoordinator->inputCoordinator)" level="INFO">Communicate TUTOR_TURNS_EVENT from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2020-02-20#15:36:25" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><queued name="TUTOR_TURNS_EVENT" from="inputCoordinator"></queued></entry>
+<entry timestamp="2020-02-20#15:36:25" user="Rebo4AI_idsai.inputCoordinator" level="INFO">Informing 3 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#15:36:25" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-20#15:36:25" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-20#15:36:25" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processing name="TUTOR_TURNS_EVENT" from="inputCoordinator">Tutor Turns (1):
+{
+	I'm not sure I understood - which definition of intelligence did you make in deciding that a fish is (not) intelligent?
+}</processing></entry>
+<entry timestamp="2020-02-20#15:36:25" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">InputCoordinator received event: Tutor Turns (1):
+{
+	I'm not sure I understood - which definition of intelligence did you make in deciding that a fish is (not) intelligent?
+}</entry>
+<entry timestamp="2020-02-20#15:36:25" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Preprocessing: [Tutor Turns (1):
+{
+	I'm not sure I understood - which definition of intelligence did you make in deciding that a fish is (not) intelligent?
+}]</entry>
+<entry timestamp="2020-02-20#15:36:25" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-20#15:36:25" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-20#15:36:25" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processed name="TUTOR_TURNS_EVENT" from="inputCoordinator"></processed></entry>
+<entry timestamp="2020-02-20#15:36:27" user="Rebo4AI_idsai.outputCoordinator" level="INFO">Proposal Queue: [Message from Rebo4AI: I'm not sure I understood - which definition of intelligence did you make in deciding that a fish is (not) intelligent? TUTOR]</entry>
+<entry timestamp="2020-02-20#15:36:27" user="Rebo4AI_idsai.outputCoordinator" level="INFO">Proposal Message from Rebo4AI: I'm not sure I understood - which definition of intelligence did you make in deciding that a fish is (not) intelligent? TUTORbelief*priority: 0.3747188203066406*0.75=0.75</entry>
+<entry timestamp="2020-02-20#15:36:27" user="Rebo4AI_idsai.outputCoordinator" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-20#15:36:27" user="(outputCoordinator->client)" level="INFO">Communicate MESSAGE_EVENT from outputCoordinator to client</entry>
+<entry timestamp="2020-02-20#15:36:27" user="Rebo4AI_idsai.client" level="INFO"><queued name="MESSAGE_EVENT" from="outputCoordinator"></queued></entry>
+<entry timestamp="2020-02-20#15:36:27" user="Rebo4AI_idsai.outputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#15:36:27" user="Rebo4AI_idsai.client" level="INFO"><processing name="MESSAGE_EVENT" from="outputCoordinator">Message from Rebo4AI: I'm not sure I understood - which definition of intelligence did you make in deciding that a fish is (not) intelligent? TUTOR</processing></entry>
+<entry timestamp="2020-02-20#15:36:27" user="Rebo4AI_idsai.client" level="INFO"><processed name="MESSAGE_EVENT" from="outputCoordinator"></processed></entry>
+<entry timestamp="2020-02-20#15:36:27" user="Rebo4AI_idsai.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-20#15:36:27" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2020-02-20#15:36:27" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2020-02-20#15:36:27" user="Rebo4AI_idsai.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#15:36:27" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from Rebo4AI: I'm not sure I understood - which definition of intelligence did you make in deciding that a fish is (not) intelligent? </processing></entry>
+<entry timestamp="2020-02-20#15:36:27" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from Rebo4AI: I'm not sure I understood - which definition of intelligence did you make in deciding that a fish is (not) intelligent? </entry>
+<entry timestamp="2020-02-20#15:36:27" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Preprocessing: [Echo: Message from Rebo4AI: I'm not sure I understood - which definition of intelligence did you make in deciding that a fish is (not) intelligent? ]</entry>
+<entry timestamp="2020-02-20#15:36:27" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-20#15:36:27" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-20#15:36:27" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2020-02-20#15:37:28" user="Rebo4AI_idsai.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-20#15:37:28" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2020-02-20#15:37:28" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2020-02-20#15:37:28" user="Rebo4AI_idsai.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#15:37:28" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from Behzad: it is not intelligent because they dont think like human </processing></entry>
+<entry timestamp="2020-02-20#15:37:28" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from Behzad: it is not intelligent because they dont think like human </entry>
+<entry timestamp="2020-02-20#15:37:28" user="TutorTurnWatcher" level="ERROR">Error while updating Episode Log File (java.io.FileNotFoundException: behaviors\episodes\Rebo4AI_idsai.episodes.txt (The system cannot find the path specified))</entry>
+<entry timestamp="2020-02-20#15:37:28" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Preprocessing: [Message from Behzad: it is not intelligent because they dont think like human IDSAI_QUESTION1_CONCEPTS+TRUE+NO]</entry>
+<entry timestamp="2020-02-20#15:37:28" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-20#15:37:28" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-20#15:37:28" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2020-02-20#15:37:32" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL"><dispatching to="inputCoordinator">TUTOR_TURNS_EVENT</dispatching></entry>
+<entry timestamp="2020-02-20#15:37:32" user="(inputCoordinator->inputCoordinator)" level="INFO">Communicate TUTOR_TURNS_EVENT from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2020-02-20#15:37:32" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><queued name="TUTOR_TURNS_EVENT" from="inputCoordinator"></queued></entry>
+<entry timestamp="2020-02-20#15:37:32" user="Rebo4AI_idsai.inputCoordinator" level="INFO">Informing 3 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#15:37:32" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-20#15:37:32" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-20#15:37:32" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processing name="TUTOR_TURNS_EVENT" from="inputCoordinator">Tutor Turns (1):
+{
+	Are you personally satisfied with this decision and definition?
+}</processing></entry>
+<entry timestamp="2020-02-20#15:37:32" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">InputCoordinator received event: Tutor Turns (1):
+{
+	Are you personally satisfied with this decision and definition?
+}</entry>
+<entry timestamp="2020-02-20#15:37:32" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Preprocessing: [Tutor Turns (1):
+{
+	Are you personally satisfied with this decision and definition?
+}]</entry>
+<entry timestamp="2020-02-20#15:37:32" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-20#15:37:32" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-20#15:37:32" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processed name="TUTOR_TURNS_EVENT" from="inputCoordinator"></processed></entry>
+<entry timestamp="2020-02-20#15:37:33" user="Rebo4AI_idsai.outputCoordinator" level="INFO">Proposal Queue: [Message from Rebo4AI: Are you personally satisfied with this decision and definition? TUTOR]</entry>
+<entry timestamp="2020-02-20#15:37:33" user="Rebo4AI_idsai.outputCoordinator" level="INFO">Proposal Message from Rebo4AI: Are you personally satisfied with this decision and definition? TUTORbelief*priority: 0.9990003749375035*0.75=0.75</entry>
+<entry timestamp="2020-02-20#15:37:33" user="Rebo4AI_idsai.outputCoordinator" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-20#15:37:33" user="(outputCoordinator->client)" level="INFO">Communicate MESSAGE_EVENT from outputCoordinator to client</entry>
+<entry timestamp="2020-02-20#15:37:33" user="Rebo4AI_idsai.client" level="INFO"><queued name="MESSAGE_EVENT" from="outputCoordinator"></queued></entry>
+<entry timestamp="2020-02-20#15:37:33" user="Rebo4AI_idsai.outputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#15:37:33" user="Rebo4AI_idsai.client" level="INFO"><processing name="MESSAGE_EVENT" from="outputCoordinator">Message from Rebo4AI: Are you personally satisfied with this decision and definition? TUTOR</processing></entry>
+<entry timestamp="2020-02-20#15:37:33" user="Rebo4AI_idsai.client" level="INFO"><processed name="MESSAGE_EVENT" from="outputCoordinator"></processed></entry>
+<entry timestamp="2020-02-20#15:37:33" user="Rebo4AI_idsai.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-20#15:37:33" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2020-02-20#15:37:33" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2020-02-20#15:37:33" user="Rebo4AI_idsai.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#15:37:34" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from Rebo4AI: Are you personally satisfied with this decision and definition? </processing></entry>
+<entry timestamp="2020-02-20#15:37:34" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from Rebo4AI: Are you personally satisfied with this decision and definition? </entry>
+<entry timestamp="2020-02-20#15:37:34" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Preprocessing: [Echo: Message from Rebo4AI: Are you personally satisfied with this decision and definition? ]</entry>
+<entry timestamp="2020-02-20#15:37:34" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-20#15:37:34" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-20#15:37:34" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2020-02-20#15:38:03" user="Rebo4AI_idsai.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-20#15:38:03" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2020-02-20#15:38:03" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2020-02-20#15:38:03" user="Rebo4AI_idsai.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#15:38:03" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from Behzad: yes </processing></entry>
+<entry timestamp="2020-02-20#15:38:03" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from Behzad: yes </entry>
+<entry timestamp="2020-02-20#15:38:03" user="TutorTurnWatcher" level="ERROR">Error while updating Episode Log File (java.io.FileNotFoundException: behaviors\episodes\Rebo4AI_idsai.episodes.txt (The system cannot find the path specified))</entry>
+<entry timestamp="2020-02-20#15:38:03" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Preprocessing: [Message from Behzad: yes IDSAI_QUESTION1_WITHOUT_REASON+TRUE+YES]</entry>
+<entry timestamp="2020-02-20#15:38:03" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-20#15:38:03" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-20#15:38:03" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2020-02-20#15:38:08" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL"><dispatching to="inputCoordinator">TUTOR_TURNS_EVENT</dispatching></entry>
+<entry timestamp="2020-02-20#15:38:08" user="(inputCoordinator->inputCoordinator)" level="INFO">Communicate TUTOR_TURNS_EVENT from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2020-02-20#15:38:08" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><queued name="TUTOR_TURNS_EVENT" from="inputCoordinator"></queued></entry>
+<entry timestamp="2020-02-20#15:38:08" user="Rebo4AI_idsai.inputCoordinator" level="INFO">Informing 3 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#15:38:08" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-20#15:38:08" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-20#15:38:08" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processing name="TUTOR_TURNS_EVENT" from="inputCoordinator">Tutor Turns (2):
+{
+	Good to hear that!
+	How interesting is it for you to know whether a fish is intelligent or not?
+}</processing></entry>
+<entry timestamp="2020-02-20#15:38:08" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">InputCoordinator received event: Tutor Turns (2):
+{
+	Good to hear that!
+	How interesting is it for you to know whether a fish is intelligent or not?
+}</entry>
+<entry timestamp="2020-02-20#15:38:08" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Preprocessing: [Tutor Turns (2):
+{
+	Good to hear that!
+	How interesting is it for you to know whether a fish is intelligent or not?
+}]</entry>
+<entry timestamp="2020-02-20#15:38:08" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-20#15:38:08" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-20#15:38:08" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processed name="TUTOR_TURNS_EVENT" from="inputCoordinator"></processed></entry>
+<entry timestamp="2020-02-20#15:38:09" user="Rebo4AI_idsai.outputCoordinator" level="INFO">Proposal Queue: [Message from Rebo4AI: Good to hear that!|How interesting is it for you to know whether a fish is intelligent or not? TUTOR]</entry>
+<entry timestamp="2020-02-20#15:38:09" user="Rebo4AI_idsai.outputCoordinator" level="INFO">Proposal Message from Rebo4AI: Good to hear that!|How interesting is it for you to know whether a fish is intelligent or not? TUTORbelief*priority: 0.9990003749375035*0.75=0.75</entry>
+<entry timestamp="2020-02-20#15:38:09" user="Rebo4AI_idsai.outputCoordinator" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-20#15:38:09" user="(outputCoordinator->client)" level="INFO">Communicate MESSAGE_EVENT from outputCoordinator to client</entry>
+<entry timestamp="2020-02-20#15:38:09" user="Rebo4AI_idsai.client" level="INFO"><queued name="MESSAGE_EVENT" from="outputCoordinator"></queued></entry>
+<entry timestamp="2020-02-20#15:38:09" user="Rebo4AI_idsai.outputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#15:38:09" user="Rebo4AI_idsai.outputCoordinator" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-20#15:38:09" user="(outputCoordinator->client)" level="INFO">Communicate MESSAGE_EVENT from outputCoordinator to client</entry>
+<entry timestamp="2020-02-20#15:38:09" user="Rebo4AI_idsai.client" level="INFO"><queued name="MESSAGE_EVENT" from="outputCoordinator"></queued></entry>
+<entry timestamp="2020-02-20#15:38:09" user="Rebo4AI_idsai.outputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#15:38:09" user="Rebo4AI_idsai.client" level="INFO"><processing name="MESSAGE_EVENT" from="outputCoordinator">Message from Rebo4AI: Good to hear that! TUTOR</processing></entry>
+<entry timestamp="2020-02-20#15:38:09" user="Rebo4AI_idsai.client" level="INFO"><processed name="MESSAGE_EVENT" from="outputCoordinator"></processed></entry>
+<entry timestamp="2020-02-20#15:38:09" user="Rebo4AI_idsai.client" level="INFO"><processing name="MESSAGE_EVENT" from="outputCoordinator">Message from Rebo4AI: How interesting is it for you to know whether a fish is intelligent or not? TUTOR</processing></entry>
+<entry timestamp="2020-02-20#15:38:09" user="Rebo4AI_idsai.client" level="INFO"><processed name="MESSAGE_EVENT" from="outputCoordinator"></processed></entry>
+<entry timestamp="2020-02-20#15:38:09" user="Rebo4AI_idsai.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-20#15:38:09" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2020-02-20#15:38:09" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2020-02-20#15:38:09" user="Rebo4AI_idsai.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#15:38:09" user="Rebo4AI_idsai.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-20#15:38:09" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2020-02-20#15:38:09" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2020-02-20#15:38:09" user="Rebo4AI_idsai.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#15:38:10" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from Rebo4AI: Good to hear that! </processing></entry>
+<entry timestamp="2020-02-20#15:38:10" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from Rebo4AI: Good to hear that! </entry>
+<entry timestamp="2020-02-20#15:38:10" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Preprocessing: [Echo: Message from Rebo4AI: Good to hear that! ]</entry>
+<entry timestamp="2020-02-20#15:38:10" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-20#15:38:10" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-20#15:38:10" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2020-02-20#15:38:10" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from Rebo4AI: How interesting is it for you to know whether a fish is intelligent or not? </processing></entry>
+<entry timestamp="2020-02-20#15:38:10" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from Rebo4AI: How interesting is it for you to know whether a fish is intelligent or not? </entry>
+<entry timestamp="2020-02-20#15:38:10" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Preprocessing: [Echo: Message from Rebo4AI: How interesting is it for you to know whether a fish is intelligent or not? ]</entry>
+<entry timestamp="2020-02-20#15:38:10" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-20#15:38:10" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-20#15:38:10" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2020-02-20#15:38:29" user="Rebo4AI_idsai.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-20#15:38:29" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2020-02-20#15:38:29" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2020-02-20#15:38:29" user="Rebo4AI_idsai.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#15:38:29" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from Behzad: so what? </processing></entry>
+<entry timestamp="2020-02-20#15:38:29" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from Behzad: so what? </entry>
+<entry timestamp="2020-02-20#15:38:29" user="TutorTurnWatcher" level="ERROR">Error while updating Episode Log File (java.io.FileNotFoundException: behaviors\episodes\Rebo4AI_idsai.episodes.txt (The system cannot find the path specified))</entry>
+<entry timestamp="2020-02-20#15:38:29" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Preprocessing: [Message from Behzad: so what? IDSAI_QUESTION1_WITHOUT_REASON+TRUE]</entry>
+<entry timestamp="2020-02-20#15:38:29" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-20#15:38:29" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-20#15:38:29" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2020-02-20#15:38:34" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL"><dispatching to="inputCoordinator">TUTOR_TURNS_EVENT</dispatching></entry>
+<entry timestamp="2020-02-20#15:38:34" user="(inputCoordinator->inputCoordinator)" level="INFO">Communicate TUTOR_TURNS_EVENT from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2020-02-20#15:38:34" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><queued name="TUTOR_TURNS_EVENT" from="inputCoordinator"></queued></entry>
+<entry timestamp="2020-02-20#15:38:34" user="Rebo4AI_idsai.inputCoordinator" level="INFO">Informing 3 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#15:38:34" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-20#15:38:34" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-20#15:38:34" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processing name="TUTOR_TURNS_EVENT" from="inputCoordinator">Tutor Turns (1):
+{
+	What in your life would change, depending on whether you see a fish as intelligent or not?
+}</processing></entry>
+<entry timestamp="2020-02-20#15:38:34" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">InputCoordinator received event: Tutor Turns (1):
+{
+	What in your life would change, depending on whether you see a fish as intelligent or not?
+}</entry>
+<entry timestamp="2020-02-20#15:38:34" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Preprocessing: [Tutor Turns (1):
+{
+	What in your life would change, depending on whether you see a fish as intelligent or not?
+}]</entry>
+<entry timestamp="2020-02-20#15:38:34" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-20#15:38:34" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-20#15:38:34" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processed name="TUTOR_TURNS_EVENT" from="inputCoordinator"></processed></entry>
+<entry timestamp="2020-02-20#15:38:35" user="Rebo4AI_idsai.outputCoordinator" level="INFO">Proposal Queue: [Message from Rebo4AI: What in your life would change, depending on whether you see a fish as intelligent or not? TUTOR]</entry>
+<entry timestamp="2020-02-20#15:38:35" user="Rebo4AI_idsai.outputCoordinator" level="INFO">Proposal Message from Rebo4AI: What in your life would change, depending on whether you see a fish as intelligent or not? TUTORbelief*priority: 0.9990003749375035*0.75=0.75</entry>
+<entry timestamp="2020-02-20#15:38:35" user="Rebo4AI_idsai.outputCoordinator" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-20#15:38:35" user="(outputCoordinator->client)" level="INFO">Communicate MESSAGE_EVENT from outputCoordinator to client</entry>
+<entry timestamp="2020-02-20#15:38:35" user="Rebo4AI_idsai.client" level="INFO"><queued name="MESSAGE_EVENT" from="outputCoordinator"></queued></entry>
+<entry timestamp="2020-02-20#15:38:35" user="Rebo4AI_idsai.outputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#15:38:35" user="Rebo4AI_idsai.client" level="INFO"><processing name="MESSAGE_EVENT" from="outputCoordinator">Message from Rebo4AI: What in your life would change, depending on whether you see a fish as intelligent or not? TUTOR</processing></entry>
+<entry timestamp="2020-02-20#15:38:35" user="Rebo4AI_idsai.client" level="INFO"><processed name="MESSAGE_EVENT" from="outputCoordinator"></processed></entry>
+<entry timestamp="2020-02-20#15:38:35" user="Rebo4AI_idsai.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-20#15:38:35" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2020-02-20#15:38:35" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2020-02-20#15:38:35" user="Rebo4AI_idsai.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#15:38:36" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from Rebo4AI: What in your life would change, depending on whether you see a fish as intelligent or not? </processing></entry>
+<entry timestamp="2020-02-20#15:38:36" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from Rebo4AI: What in your life would change, depending on whether you see a fish as intelligent or not? </entry>
+<entry timestamp="2020-02-20#15:38:36" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Preprocessing: [Echo: Message from Rebo4AI: What in your life would change, depending on whether you see a fish as intelligent or not? ]</entry>
+<entry timestamp="2020-02-20#15:38:36" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-20#15:38:36" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-20#15:38:36" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2020-02-20#15:38:41" user="Rebo4AI_idsai.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-20#15:38:41" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2020-02-20#15:38:41" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2020-02-20#15:38:41" user="Rebo4AI_idsai.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#15:38:41" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from Behzad: dasd asd </processing></entry>
+<entry timestamp="2020-02-20#15:38:41" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from Behzad: dasd asd </entry>
+<entry timestamp="2020-02-20#15:38:41" user="TutorTurnWatcher" level="ERROR">Error while updating Episode Log File (java.io.FileNotFoundException: behaviors\episodes\Rebo4AI_idsai.episodes.txt (The system cannot find the path specified))</entry>
+<entry timestamp="2020-02-20#15:38:41" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Preprocessing: [Message from Behzad: dasd asd IDSAI_QUESTION1_WITHOUT_REASON+TRUE]</entry>
+<entry timestamp="2020-02-20#15:38:41" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-20#15:38:41" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-20#15:38:41" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2020-02-20#15:38:44" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL"><dispatching to="inputCoordinator">TUTOR_TURNS_EVENT</dispatching></entry>
+<entry timestamp="2020-02-20#15:38:44" user="(inputCoordinator->inputCoordinator)" level="INFO">Communicate TUTOR_TURNS_EVENT from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2020-02-20#15:38:44" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><queued name="TUTOR_TURNS_EVENT" from="inputCoordinator"></queued></entry>
+<entry timestamp="2020-02-20#15:38:44" user="Rebo4AI_idsai.inputCoordinator" level="INFO">Informing 3 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#15:38:44" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-20#15:38:44" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-20#15:38:44" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processing name="TUTOR_TURNS_EVENT" from="inputCoordinator">Tutor Turns (2):
+{
+	Interesting! Thanks!
+	See you next time :)
+}</processing></entry>
+<entry timestamp="2020-02-20#15:38:44" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">InputCoordinator received event: Tutor Turns (2):
+{
+	Interesting! Thanks!
+	See you next time :)
+}</entry>
+<entry timestamp="2020-02-20#15:38:44" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Preprocessing: [Tutor Turns (2):
+{
+	Interesting! Thanks!
+	See you next time :)
+}]</entry>
+<entry timestamp="2020-02-20#15:38:44" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-20#15:38:44" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-20#15:38:44" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processed name="TUTOR_TURNS_EVENT" from="inputCoordinator"></processed></entry>
+<entry timestamp="2020-02-20#15:38:45" user="Rebo4AI_idsai.outputCoordinator" level="INFO">Proposal Queue: [Message from Rebo4AI: Interesting! Thanks!|See you next time :) TUTOR]</entry>
+<entry timestamp="2020-02-20#15:38:45" user="Rebo4AI_idsai.outputCoordinator" level="INFO">Proposal Message from Rebo4AI: Interesting! Thanks!|See you next time :) TUTORbelief*priority: 0.9990003749375035*0.75=0.75</entry>
+<entry timestamp="2020-02-20#15:38:45" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL"><dispatching to="inputCoordinator">DONE_TUTORING_EVENT</dispatching></entry>
+<entry timestamp="2020-02-20#15:38:45" user="(inputCoordinator->inputCoordinator)" level="INFO">Communicate DONE_TUTORING_EVENT from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2020-02-20#15:38:45" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><queued name="DONE_TUTORING_EVENT" from="inputCoordinator"></queued></entry>
+<entry timestamp="2020-02-20#15:38:45" user="Rebo4AI_idsai.inputCoordinator" level="INFO">Informing 3 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#15:38:45" user="Rebo4AI_idsai.outputCoordinator" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-20#15:38:45" user="(outputCoordinator->client)" level="INFO">Communicate MESSAGE_EVENT from outputCoordinator to client</entry>
+<entry timestamp="2020-02-20#15:38:45" user="Rebo4AI_idsai.client" level="INFO"><queued name="MESSAGE_EVENT" from="outputCoordinator"></queued></entry>
+<entry timestamp="2020-02-20#15:38:45" user="Rebo4AI_idsai.outputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#15:38:45" user="Rebo4AI_idsai.outputCoordinator" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-20#15:38:45" user="(outputCoordinator->client)" level="INFO">Communicate MESSAGE_EVENT from outputCoordinator to client</entry>
+<entry timestamp="2020-02-20#15:38:45" user="Rebo4AI_idsai.client" level="INFO"><queued name="MESSAGE_EVENT" from="outputCoordinator"></queued></entry>
+<entry timestamp="2020-02-20#15:38:45" user="Rebo4AI_idsai.outputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#15:38:45" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processing name="DONE_TUTORING_EVENT" from="inputCoordinator">Done Tutoring concept IDSAI</processing></entry>
+<entry timestamp="2020-02-20#15:38:45" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">InputCoordinator received event: Done Tutoring concept IDSAI</entry>
+<entry timestamp="2020-02-20#15:38:45" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Preprocessing: [Done Tutoring concept IDSAI]</entry>
+<entry timestamp="2020-02-20#15:38:45" user="PlanExecutor" level="NORMAL">received step done event for DONE_TUTORING_EVENT</entry>
+<entry timestamp="2020-02-20#15:38:45" user="Rebo4AI_idsai.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="IDSAI" type="dialogue"/>
+	<student id="Behzad" name="Behzad" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2020-02-20#15:38:45" user="Rebo4AI_idsai.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="1" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="GENERAL_AI" type="dialogue"/>
+	<student id="Behzad" name="Behzad" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2020-02-20#15:38:45" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL"><dispatching to="inputCoordinator">DO_TUTORING_EVENT</dispatching></entry>
+<entry timestamp="2020-02-20#15:38:45" user="(inputCoordinator->inputCoordinator)" level="INFO">Communicate DO_TUTORING_EVENT from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2020-02-20#15:38:45" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><queued name="DO_TUTORING_EVENT" from="inputCoordinator"></queued></entry>
+<entry timestamp="2020-02-20#15:38:45" user="Rebo4AI_idsai.inputCoordinator" level="INFO">Informing 3 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#15:38:45" user="PlanExecutor" level="ERROR">Error while updating Status File (java.io.FileNotFoundException: planstatus\Rebo4AI_idsai.planstatus.txt (The system cannot find the path specified))</entry>
+<entry timestamp="2020-02-20#15:38:45" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-20#15:38:45" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-20#15:38:45" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processed name="DONE_TUTORING_EVENT" from="inputCoordinator"></processed></entry>
+<entry timestamp="2020-02-20#15:38:45" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processing name="DO_TUTORING_EVENT" from="inputCoordinator">Do Tutoring concept=GENERAL_AI</processing></entry>
+<entry timestamp="2020-02-20#15:38:45" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">InputCoordinator received event: Do Tutoring concept=GENERAL_AI</entry>
+<entry timestamp="2020-02-20#15:38:45" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Preprocessing: [Do Tutoring concept=GENERAL_AI]</entry>
+<entry timestamp="2020-02-20#15:38:45" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-20#15:38:45" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-20#15:38:45" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processed name="DO_TUTORING_EVENT" from="inputCoordinator"></processed></entry>
+<entry timestamp="2020-02-20#15:38:45" user="Rebo4AI_idsai.client" level="INFO"><processing name="MESSAGE_EVENT" from="outputCoordinator">Message from Rebo4AI: Interesting! Thanks! TUTOR</processing></entry>
+<entry timestamp="2020-02-20#15:38:45" user="Rebo4AI_idsai.client" level="INFO"><processed name="MESSAGE_EVENT" from="outputCoordinator"></processed></entry>
+<entry timestamp="2020-02-20#15:38:45" user="Rebo4AI_idsai.client" level="INFO"><processing name="MESSAGE_EVENT" from="outputCoordinator">Message from Rebo4AI: See you next time :) TUTOR</processing></entry>
+<entry timestamp="2020-02-20#15:38:45" user="Rebo4AI_idsai.client" level="INFO"><processed name="MESSAGE_EVENT" from="outputCoordinator"></processed></entry>
+<entry timestamp="2020-02-20#15:38:46" user="Rebo4AI_idsai.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-20#15:38:46" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2020-02-20#15:38:46" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2020-02-20#15:38:46" user="Rebo4AI_idsai.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#15:38:46" user="Rebo4AI_idsai.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-20#15:38:46" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2020-02-20#15:38:46" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2020-02-20#15:38:46" user="Rebo4AI_idsai.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#15:38:46" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from Rebo4AI: Interesting! Thanks! </processing></entry>
+<entry timestamp="2020-02-20#15:38:46" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from Rebo4AI: Interesting! Thanks! </entry>
+<entry timestamp="2020-02-20#15:38:46" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Preprocessing: [Echo: Message from Rebo4AI: Interesting! Thanks! ]</entry>
+<entry timestamp="2020-02-20#15:38:46" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-20#15:38:46" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-20#15:38:46" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2020-02-20#15:38:46" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from Rebo4AI: See you next time :) </processing></entry>
+<entry timestamp="2020-02-20#15:38:46" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from Rebo4AI: See you next time :) </entry>
+<entry timestamp="2020-02-20#15:38:46" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Preprocessing: [Echo: Message from Rebo4AI: See you next time :) ]</entry>
+<entry timestamp="2020-02-20#15:38:46" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-20#15:38:46" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-20#15:38:46" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2020-02-20#15:38:47" user="Rebo4AI_idsai.outputCoordinator" level="INFO">Proposal Queue: [Message from Rebo4AI: Behzad, do you want to talk about general AI? TUTOR]</entry>
+<entry timestamp="2020-02-20#15:38:47" user="Rebo4AI_idsai.outputCoordinator" level="INFO">Proposal Message from Rebo4AI: Behzad, do you want to talk about general AI? TUTORbelief*priority: 0.9990003749375035*0.75=0.75</entry>
+<entry timestamp="2020-02-20#15:38:47" user="Rebo4AI_idsai.outputCoordinator" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-20#15:38:47" user="(outputCoordinator->client)" level="INFO">Communicate MESSAGE_EVENT from outputCoordinator to client</entry>
+<entry timestamp="2020-02-20#15:38:47" user="Rebo4AI_idsai.client" level="INFO"><queued name="MESSAGE_EVENT" from="outputCoordinator"></queued></entry>
+<entry timestamp="2020-02-20#15:38:47" user="Rebo4AI_idsai.outputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#15:38:48" user="Rebo4AI_idsai.client" level="INFO"><processing name="MESSAGE_EVENT" from="outputCoordinator">Message from Rebo4AI: Behzad, do you want to talk about general AI? TUTOR</processing></entry>
+<entry timestamp="2020-02-20#15:38:48" user="Rebo4AI_idsai.client" level="INFO"><processed name="MESSAGE_EVENT" from="outputCoordinator"></processed></entry>
+<entry timestamp="2020-02-20#15:38:48" user="Rebo4AI_idsai.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-20#15:38:48" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2020-02-20#15:38:48" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2020-02-20#15:38:48" user="Rebo4AI_idsai.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#15:38:48" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from Rebo4AI: Behzad, do you want to talk about general AI? </processing></entry>
+<entry timestamp="2020-02-20#15:38:48" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from Rebo4AI: Behzad, do you want to talk about general AI? </entry>
+<entry timestamp="2020-02-20#15:38:48" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Preprocessing: [Echo: Message from Rebo4AI: Behzad, do you want to talk about general AI? ]</entry>
+<entry timestamp="2020-02-20#15:38:48" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-20#15:38:48" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-20#15:38:48" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2020-02-20#15:40:20" user="Rebo4AI_idsai.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-20#15:40:20" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2020-02-20#15:40:20" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2020-02-20#15:40:20" user="Rebo4AI_idsai.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#15:40:20" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from Behzad:  yes </processing></entry>
+<entry timestamp="2020-02-20#15:40:20" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from Behzad:  yes </entry>
+<entry timestamp="2020-02-20#15:40:20" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Preprocessing: [Message from Behzad:  yes IDSAI_QUESTION1_WITHOUT_REASON+TRUE+YES]</entry>
+<entry timestamp="2020-02-20#15:40:20" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL"><dispatching to="inputCoordinator">TUTORING_STARTED_EVENT</dispatching></entry>
+<entry timestamp="2020-02-20#15:40:20" user="(inputCoordinator->inputCoordinator)" level="INFO">Communicate TUTORING_STARTED_EVENT from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2020-02-20#15:40:20" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><queued name="TUTORING_STARTED_EVENT" from="inputCoordinator"></queued></entry>
+<entry timestamp="2020-02-20#15:40:20" user="Rebo4AI_idsai.inputCoordinator" level="INFO">Informing 3 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#15:40:20" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-20#15:40:20" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-20#15:40:20" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2020-02-20#15:40:20" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processing name="TUTORING_STARTED_EVENT" from="inputCoordinator">TutoringStartedEvent: scenario=scenario-general_ai, concept=GENERAL_AI</processing></entry>
+<entry timestamp="2020-02-20#15:40:20" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">InputCoordinator received event: TutoringStartedEvent: scenario=scenario-general_ai, concept=GENERAL_AI</entry>
+<entry timestamp="2020-02-20#15:40:20" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Preprocessing: [TutoringStartedEvent: scenario=scenario-general_ai, concept=GENERAL_AI]</entry>
+<entry timestamp="2020-02-20#15:40:20" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL"><dispatching to="inputCoordinator">TUTOR_TURNS_EVENT</dispatching></entry>
+<entry timestamp="2020-02-20#15:40:20" user="(inputCoordinator->inputCoordinator)" level="INFO">Communicate TUTOR_TURNS_EVENT from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2020-02-20#15:40:20" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><queued name="TUTOR_TURNS_EVENT" from="inputCoordinator"></queued></entry>
+<entry timestamp="2020-02-20#15:40:20" user="Rebo4AI_idsai.inputCoordinator" level="INFO">Informing 3 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#15:40:20" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-20#15:40:20" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-20#15:40:20" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processed name="TUTORING_STARTED_EVENT" from="inputCoordinator"></processed></entry>
+<entry timestamp="2020-02-20#15:40:20" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processing name="TUTOR_TURNS_EVENT" from="inputCoordinator">Tutor Turns (2):
+{
+	We're going to discuss AI and the its impact on your personal or professional life .
+	What kind of AI-based systems do you use in a day or week? How? Please name some concrete examples which you use such as Google's search engine, Youtube, GoogleMap, or ridesharing apps.
+}</processing></entry>
+<entry timestamp="2020-02-20#15:40:20" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">InputCoordinator received event: Tutor Turns (2):
+{
+	We're going to discuss AI and the its impact on your personal or professional life .
+	What kind of AI-based systems do you use in a day or week? How? Please name some concrete examples which you use such as Google's search engine, Youtube, GoogleMap, or ridesharing apps.
+}</entry>
+<entry timestamp="2020-02-20#15:40:20" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Preprocessing: [Tutor Turns (2):
+{
+	We're going to discuss AI and the its impact on your personal or professional life .
+	What kind of AI-based systems do you use in a day or week? How? Please name some concrete examples which you use such as Google's search engine, Youtube, GoogleMap, or ridesharing apps.
+}]</entry>
+<entry timestamp="2020-02-20#15:40:20" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-20#15:40:20" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-20#15:40:20" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processed name="TUTOR_TURNS_EVENT" from="inputCoordinator"></processed></entry>
+<entry timestamp="2020-02-20#15:40:22" user="Rebo4AI_idsai.outputCoordinator" level="INFO">Proposal Queue: [Message from Rebo4AI: Let's get started. TUTOR, Message from Rebo4AI: We're going to discuss AI and the its impact on your personal or professional life .|What kind of AI-based systems do you use in a day or week? How? Please name some concrete examples which you use such as Google's search engine, Youtube, GoogleMap, or ridesharing apps. TUTOR]</entry>
+<entry timestamp="2020-02-20#15:40:22" user="Rebo4AI_idsai.outputCoordinator" level="INFO">Proposal Message from Rebo4AI: Let's get started. TUTORbelief*priority: 0.9990003749375035*0.75=0.75</entry>
+<entry timestamp="2020-02-20#15:40:22" user="Rebo4AI_idsai.outputCoordinator" level="INFO">Proposal Message from Rebo4AI: We're going to discuss AI and the its impact on your personal or professional life .|What kind of AI-based systems do you use in a day or week? How? Please name some concrete examples which you use such as Google's search engine, Youtube, GoogleMap, or ridesharing apps. TUTORbelief*priority: 0.9990003749375035*0.75=0.75</entry>
+<entry timestamp="2020-02-20#15:40:22" user="Rebo4AI_idsai.outputCoordinator" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-20#15:40:22" user="(outputCoordinator->client)" level="INFO">Communicate MESSAGE_EVENT from outputCoordinator to client</entry>
+<entry timestamp="2020-02-20#15:40:22" user="Rebo4AI_idsai.client" level="INFO"><queued name="MESSAGE_EVENT" from="outputCoordinator"></queued></entry>
+<entry timestamp="2020-02-20#15:40:22" user="Rebo4AI_idsai.outputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#15:40:22" user="Rebo4AI_idsai.client" level="INFO"><processing name="MESSAGE_EVENT" from="outputCoordinator">Message from Rebo4AI: Let's get started. TUTOR</processing></entry>
+<entry timestamp="2020-02-20#15:40:22" user="Rebo4AI_idsai.client" level="INFO"><processed name="MESSAGE_EVENT" from="outputCoordinator"></processed></entry>
+<entry timestamp="2020-02-20#15:40:22" user="Rebo4AI_idsai.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-20#15:40:22" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2020-02-20#15:40:22" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2020-02-20#15:40:22" user="Rebo4AI_idsai.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#15:40:22" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from Rebo4AI: Let's get started. </processing></entry>
+<entry timestamp="2020-02-20#15:40:22" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from Rebo4AI: Let's get started. </entry>
+<entry timestamp="2020-02-20#15:40:22" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Preprocessing: [Echo: Message from Rebo4AI: Let's get started. ]</entry>
+<entry timestamp="2020-02-20#15:40:22" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-20#15:40:22" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-20#15:40:22" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2020-02-20#15:40:24" user="Rebo4AI_idsai.outputCoordinator" level="INFO">Proposal Queue: [Message from Rebo4AI: We're going to discuss AI and the its impact on your personal or professional life .|What kind of AI-based systems do you use in a day or week? How? Please name some concrete examples which you use such as Google's search engine, Youtube, GoogleMap, or ridesharing apps. TUTOR]</entry>
+<entry timestamp="2020-02-20#15:40:24" user="Rebo4AI_idsai.outputCoordinator" level="INFO">Proposal Message from Rebo4AI: We're going to discuss AI and the its impact on your personal or professional life .|What kind of AI-based systems do you use in a day or week? How? Please name some concrete examples which you use such as Google's search engine, Youtube, GoogleMap, or ridesharing apps. TUTORbelief*priority: 0.9990003749375035*0.75=0.75</entry>
+<entry timestamp="2020-02-20#15:40:24" user="Rebo4AI_idsai.outputCoordinator" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-20#15:40:24" user="(outputCoordinator->client)" level="INFO">Communicate MESSAGE_EVENT from outputCoordinator to client</entry>
+<entry timestamp="2020-02-20#15:40:24" user="Rebo4AI_idsai.client" level="INFO"><queued name="MESSAGE_EVENT" from="outputCoordinator"></queued></entry>
+<entry timestamp="2020-02-20#15:40:24" user="Rebo4AI_idsai.outputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#15:40:24" user="Rebo4AI_idsai.outputCoordinator" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-20#15:40:24" user="(outputCoordinator->client)" level="INFO">Communicate MESSAGE_EVENT from outputCoordinator to client</entry>
+<entry timestamp="2020-02-20#15:40:24" user="Rebo4AI_idsai.client" level="INFO"><queued name="MESSAGE_EVENT" from="outputCoordinator"></queued></entry>
+<entry timestamp="2020-02-20#15:40:24" user="Rebo4AI_idsai.outputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#15:40:24" user="Rebo4AI_idsai.client" level="INFO"><processing name="MESSAGE_EVENT" from="outputCoordinator">Message from Rebo4AI: We're going to discuss AI and the its impact on your personal or professional life . TUTOR</processing></entry>
+<entry timestamp="2020-02-20#15:40:24" user="Rebo4AI_idsai.client" level="INFO"><processed name="MESSAGE_EVENT" from="outputCoordinator"></processed></entry>
+<entry timestamp="2020-02-20#15:40:24" user="Rebo4AI_idsai.client" level="INFO"><processing name="MESSAGE_EVENT" from="outputCoordinator">Message from Rebo4AI: What kind of AI-based systems do you use in a day or week? How? Please name some concrete examples which you use such as Google's search engine, Youtube, GoogleMap, or ridesharing apps. TUTOR</processing></entry>
+<entry timestamp="2020-02-20#15:40:24" user="Rebo4AI_idsai.client" level="INFO"><processed name="MESSAGE_EVENT" from="outputCoordinator"></processed></entry>
+<entry timestamp="2020-02-20#15:40:24" user="Rebo4AI_idsai.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-20#15:40:24" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2020-02-20#15:40:24" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2020-02-20#15:40:24" user="Rebo4AI_idsai.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#15:40:24" user="Rebo4AI_idsai.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-20#15:40:24" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2020-02-20#15:40:24" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2020-02-20#15:40:24" user="Rebo4AI_idsai.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#15:40:24" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from Rebo4AI: We're going to discuss AI and the its impact on your personal or professional life . </processing></entry>
+<entry timestamp="2020-02-20#15:40:24" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from Rebo4AI: We're going to discuss AI and the its impact on your personal or professional life . </entry>
+<entry timestamp="2020-02-20#15:40:24" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Preprocessing: [Echo: Message from Rebo4AI: We're going to discuss AI and the its impact on your personal or professional life . ]</entry>
+<entry timestamp="2020-02-20#15:40:24" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-20#15:40:24" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-20#15:40:24" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2020-02-20#15:40:24" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from Rebo4AI: What kind of AI-based systems do you use in a day or week? How? Please name some concrete examples which you use such as Google's search engine, Youtube, GoogleMap, or ridesharing apps. </processing></entry>
+<entry timestamp="2020-02-20#15:40:24" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from Rebo4AI: What kind of AI-based systems do you use in a day or week? How? Please name some concrete examples which you use such as Google's search engine, Youtube, GoogleMap, or ridesharing apps. </entry>
+<entry timestamp="2020-02-20#15:40:24" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Preprocessing: [Echo: Message from Rebo4AI: What kind of AI-based systems do you use in a day or week? How? Please name some concrete examples which you use such as Google's search engine, Youtube, GoogleMap, or ridesharing apps. ]</entry>
+<entry timestamp="2020-02-20#15:40:24" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-20#15:40:24" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-20#15:40:24" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2020-02-20#15:40:27" user="Rebo4AI_idsai.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-20#15:40:27" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2020-02-20#15:40:27" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2020-02-20#15:40:27" user="Rebo4AI_idsai.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#15:40:27" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from Behzad: ofko aef  </processing></entry>
+<entry timestamp="2020-02-20#15:40:27" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from Behzad: ofko aef  </entry>
+<entry timestamp="2020-02-20#15:40:27" user="TutorTurnWatcher" level="ERROR">Error while updating Episode Log File (java.io.FileNotFoundException: behaviors\episodes\Rebo4AI_idsai.episodes.txt (The system cannot find the path specified))</entry>
+<entry timestamp="2020-02-20#15:40:27" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Preprocessing: [Message from Behzad: ofko aef  IDSAI_QUESTION1_WITHOUT_REASON+TRUE]</entry>
+<entry timestamp="2020-02-20#15:40:27" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-20#15:40:27" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-20#15:40:27" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2020-02-20#15:40:31" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL"><dispatching to="inputCoordinator">TUTOR_TURNS_EVENT</dispatching></entry>
+<entry timestamp="2020-02-20#15:40:31" user="(inputCoordinator->inputCoordinator)" level="INFO">Communicate TUTOR_TURNS_EVENT from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2020-02-20#15:40:31" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><queued name="TUTOR_TURNS_EVENT" from="inputCoordinator"></queued></entry>
+<entry timestamp="2020-02-20#15:40:31" user="Rebo4AI_idsai.inputCoordinator" level="INFO">Informing 3 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#15:40:31" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-20#15:40:31" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-20#15:40:31" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processing name="TUTOR_TURNS_EVENT" from="inputCoordinator">Tutor Turns (2):
+{
+	As far as I know, Google and Youtube are the most well-known companies in which many AI-based systems are used in order to make it more convenient for us accessing the content that we look for. | So, if you try at least one of these, you definitely deal with AI in your life.
+	How is AI likely to change your personal life or job? Do You think these changes lead to a better life or make our life more complicated?
+}</processing></entry>
+<entry timestamp="2020-02-20#15:40:31" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">InputCoordinator received event: Tutor Turns (2):
+{
+	As far as I know, Google and Youtube are the most well-known companies in which many AI-based systems are used in order to make it more convenient for us accessing the content that we look for. | So, if you try at least one of these, you definitely deal with AI in your life.
+	How is AI likely to change your personal life or job? Do You think these changes lead to a better life or make our life more complicated?
+}</entry>
+<entry timestamp="2020-02-20#15:40:31" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Preprocessing: [Tutor Turns (2):
+{
+	As far as I know, Google and Youtube are the most well-known companies in which many AI-based systems are used in order to make it more convenient for us accessing the content that we look for. | So, if you try at least one of these, you definitely deal with AI in your life.
+	How is AI likely to change your personal life or job? Do You think these changes lead to a better life or make our life more complicated?
+}]</entry>
+<entry timestamp="2020-02-20#15:40:31" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-20#15:40:31" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-20#15:40:31" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processed name="TUTOR_TURNS_EVENT" from="inputCoordinator"></processed></entry>
+<entry timestamp="2020-02-20#15:40:32" user="Rebo4AI_idsai.outputCoordinator" level="INFO">Proposal Queue: [Message from Rebo4AI: As far as I know, Google and Youtube are the most well-known companies in which many AI-based systems are used in order to make it more convenient for us accessing the content that we look for. | So, if you try at least one of these, you definitely deal with AI in your life.|How is AI likely to change your personal life or job? Do You think these changes lead to a better life or make our life more complicated? TUTOR]</entry>
+<entry timestamp="2020-02-20#15:40:32" user="Rebo4AI_idsai.outputCoordinator" level="INFO">Proposal Message from Rebo4AI: As far as I know, Google and Youtube are the most well-known companies in which many AI-based systems are used in order to make it more convenient for us accessing the content that we look for. | So, if you try at least one of these, you definitely deal with AI in your life.|How is AI likely to change your personal life or job? Do You think these changes lead to a better life or make our life more complicated? TUTORbelief*priority: 0.9990003749375035*0.75=0.75</entry>
+<entry timestamp="2020-02-20#15:40:32" user="Rebo4AI_idsai.outputCoordinator" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-20#15:40:32" user="(outputCoordinator->client)" level="INFO">Communicate MESSAGE_EVENT from outputCoordinator to client</entry>
+<entry timestamp="2020-02-20#15:40:32" user="Rebo4AI_idsai.client" level="INFO"><queued name="MESSAGE_EVENT" from="outputCoordinator"></queued></entry>
+<entry timestamp="2020-02-20#15:40:32" user="Rebo4AI_idsai.outputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#15:40:32" user="Rebo4AI_idsai.client" level="INFO"><processing name="MESSAGE_EVENT" from="outputCoordinator">Message from Rebo4AI: As far as I know, Google and Youtube are the most well-known companies in which many AI-based systems are used in order to make it more convenient for us accessing the content that we look for. TUTOR</processing></entry>
+<entry timestamp="2020-02-20#15:40:32" user="Rebo4AI_idsai.client" level="INFO"><processed name="MESSAGE_EVENT" from="outputCoordinator"></processed></entry>
+<entry timestamp="2020-02-20#15:40:32" user="Rebo4AI_idsai.outputCoordinator" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-20#15:40:32" user="(outputCoordinator->client)" level="INFO">Communicate MESSAGE_EVENT from outputCoordinator to client</entry>
+<entry timestamp="2020-02-20#15:40:32" user="Rebo4AI_idsai.client" level="INFO"><queued name="MESSAGE_EVENT" from="outputCoordinator"></queued></entry>
+<entry timestamp="2020-02-20#15:40:32" user="Rebo4AI_idsai.outputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#15:40:32" user="Rebo4AI_idsai.outputCoordinator" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-20#15:40:32" user="(outputCoordinator->client)" level="INFO">Communicate MESSAGE_EVENT from outputCoordinator to client</entry>
+<entry timestamp="2020-02-20#15:40:32" user="Rebo4AI_idsai.client" level="INFO"><queued name="MESSAGE_EVENT" from="outputCoordinator"></queued></entry>
+<entry timestamp="2020-02-20#15:40:32" user="Rebo4AI_idsai.outputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#15:40:32" user="Rebo4AI_idsai.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-20#15:40:32" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2020-02-20#15:40:32" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2020-02-20#15:40:32" user="Rebo4AI_idsai.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#15:40:32" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from Rebo4AI: As far as I know, Google and Youtube are the most well-known companies in which many AI-based systems are used in order to make it more convenient for us accessing the content that we look for. </processing></entry>
+<entry timestamp="2020-02-20#15:40:32" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from Rebo4AI: As far as I know, Google and Youtube are the most well-known companies in which many AI-based systems are used in order to make it more convenient for us accessing the content that we look for. </entry>
+<entry timestamp="2020-02-20#15:40:32" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Preprocessing: [Echo: Message from Rebo4AI: As far as I know, Google and Youtube are the most well-known companies in which many AI-based systems are used in order to make it more convenient for us accessing the content that we look for. ]</entry>
+<entry timestamp="2020-02-20#15:40:32" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-20#15:40:32" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-20#15:40:32" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2020-02-20#15:40:32" user="Rebo4AI_idsai.client" level="INFO"><processing name="MESSAGE_EVENT" from="outputCoordinator">Message from Rebo4AI: So, if you try at least one of these, you definitely deal with AI in your life. TUTOR</processing></entry>
+<entry timestamp="2020-02-20#15:40:32" user="Rebo4AI_idsai.client" level="INFO"><processed name="MESSAGE_EVENT" from="outputCoordinator"></processed></entry>
+<entry timestamp="2020-02-20#15:40:32" user="Rebo4AI_idsai.client" level="INFO"><processing name="MESSAGE_EVENT" from="outputCoordinator">Message from Rebo4AI: How is AI likely to change your personal life or job? Do You think these changes lead to a better life or make our life more complicated? TUTOR</processing></entry>
+<entry timestamp="2020-02-20#15:40:32" user="Rebo4AI_idsai.client" level="INFO"><processed name="MESSAGE_EVENT" from="outputCoordinator"></processed></entry>
+<entry timestamp="2020-02-20#15:40:32" user="Rebo4AI_idsai.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-20#15:40:32" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2020-02-20#15:40:32" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2020-02-20#15:40:32" user="Rebo4AI_idsai.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#15:40:32" user="Rebo4AI_idsai.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-20#15:40:32" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2020-02-20#15:40:32" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2020-02-20#15:40:32" user="Rebo4AI_idsai.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#15:40:32" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from Rebo4AI: So, if you try at least one of these, you definitely deal with AI in your life. </processing></entry>
+<entry timestamp="2020-02-20#15:40:32" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from Rebo4AI: So, if you try at least one of these, you definitely deal with AI in your life. </entry>
+<entry timestamp="2020-02-20#15:40:32" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Preprocessing: [Echo: Message from Rebo4AI: So, if you try at least one of these, you definitely deal with AI in your life. ]</entry>
+<entry timestamp="2020-02-20#15:40:32" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-20#15:40:32" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-20#15:40:32" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2020-02-20#15:40:32" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from Rebo4AI: How is AI likely to change your personal life or job? Do You think these changes lead to a better life or make our life more complicated? </processing></entry>
+<entry timestamp="2020-02-20#15:40:32" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from Rebo4AI: How is AI likely to change your personal life or job? Do You think these changes lead to a better life or make our life more complicated? </entry>
+<entry timestamp="2020-02-20#15:40:32" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Preprocessing: [Echo: Message from Rebo4AI: How is AI likely to change your personal life or job? Do You think these changes lead to a better life or make our life more complicated? ]</entry>
+<entry timestamp="2020-02-20#15:40:32" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-20#15:40:32" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-20#15:40:32" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2020-02-20#15:40:39" user="Rebo4AI_idsai.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-20#15:40:39" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2020-02-20#15:40:39" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2020-02-20#15:40:39" user="Rebo4AI_idsai.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#15:40:39" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from Behzad: fafad asd asd  </processing></entry>
+<entry timestamp="2020-02-20#15:40:39" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from Behzad: fafad asd asd  </entry>
+<entry timestamp="2020-02-20#15:40:39" user="TutorTurnWatcher" level="ERROR">Error while updating Episode Log File (java.io.FileNotFoundException: behaviors\episodes\Rebo4AI_idsai.episodes.txt (The system cannot find the path specified))</entry>
+<entry timestamp="2020-02-20#15:40:39" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Preprocessing: [Message from Behzad: fafad asd asd  IDSAI_QUESTION1_WITHOUT_REASON+TRUE]</entry>
+<entry timestamp="2020-02-20#15:40:39" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-20#15:40:39" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-20#15:40:39" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2020-02-20#15:40:41" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL"><dispatching to="inputCoordinator">TUTOR_TURNS_EVENT</dispatching></entry>
+<entry timestamp="2020-02-20#15:40:41" user="(inputCoordinator->inputCoordinator)" level="INFO">Communicate TUTOR_TURNS_EVENT from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2020-02-20#15:40:41" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><queued name="TUTOR_TURNS_EVENT" from="inputCoordinator"></queued></entry>
+<entry timestamp="2020-02-20#15:40:41" user="Rebo4AI_idsai.inputCoordinator" level="INFO">Informing 3 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#15:40:41" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-20#15:40:41" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-20#15:40:41" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processing name="TUTOR_TURNS_EVENT" from="inputCoordinator">Tutor Turns (1):
+{
+	How can the new learning be translated into practice?
+}</processing></entry>
+<entry timestamp="2020-02-20#15:40:41" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">InputCoordinator received event: Tutor Turns (1):
+{
+	How can the new learning be translated into practice?
+}</entry>
+<entry timestamp="2020-02-20#15:40:41" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Preprocessing: [Tutor Turns (1):
+{
+	How can the new learning be translated into practice?
+}]</entry>
+<entry timestamp="2020-02-20#15:40:41" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-20#15:40:41" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-20#15:40:41" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processed name="TUTOR_TURNS_EVENT" from="inputCoordinator"></processed></entry>
+<entry timestamp="2020-02-20#15:40:42" user="Rebo4AI_idsai.outputCoordinator" level="INFO">Proposal Queue: [Message from Rebo4AI: How can the new learning be translated into practice? TUTOR]</entry>
+<entry timestamp="2020-02-20#15:40:42" user="Rebo4AI_idsai.outputCoordinator" level="INFO">Proposal Message from Rebo4AI: How can the new learning be translated into practice? TUTORbelief*priority: 0.9990003749375035*0.75=0.75</entry>
+<entry timestamp="2020-02-20#15:40:42" user="Rebo4AI_idsai.outputCoordinator" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-20#15:40:42" user="(outputCoordinator->client)" level="INFO">Communicate MESSAGE_EVENT from outputCoordinator to client</entry>
+<entry timestamp="2020-02-20#15:40:42" user="Rebo4AI_idsai.client" level="INFO"><queued name="MESSAGE_EVENT" from="outputCoordinator"></queued></entry>
+<entry timestamp="2020-02-20#15:40:42" user="Rebo4AI_idsai.outputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#15:40:42" user="Rebo4AI_idsai.client" level="INFO"><processing name="MESSAGE_EVENT" from="outputCoordinator">Message from Rebo4AI: How can the new learning be translated into practice? TUTOR</processing></entry>
+<entry timestamp="2020-02-20#15:40:42" user="Rebo4AI_idsai.client" level="INFO"><processed name="MESSAGE_EVENT" from="outputCoordinator"></processed></entry>
+<entry timestamp="2020-02-20#15:40:42" user="Rebo4AI_idsai.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-20#15:40:42" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2020-02-20#15:40:42" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2020-02-20#15:40:42" user="Rebo4AI_idsai.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#15:40:42" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from Rebo4AI: How can the new learning be translated into practice? </processing></entry>
+<entry timestamp="2020-02-20#15:40:42" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from Rebo4AI: How can the new learning be translated into practice? </entry>
+<entry timestamp="2020-02-20#15:40:42" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Preprocessing: [Echo: Message from Rebo4AI: How can the new learning be translated into practice? ]</entry>
+<entry timestamp="2020-02-20#15:40:42" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-20#15:40:42" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-20#15:40:42" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2020-02-20#15:49:54" user="TutorActor" level="NORMAL">Timeout for IDSAI:null</entry>
+<entry timestamp="2020-02-20#15:50:41" user="TutorTurnWatcher" level="NORMAL"><timedout id="RESPONSE_TIMEOUT" /></entry>
+<entry timestamp="2020-02-20#15:50:41" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL"><dispatching to="inputCoordinator">MOVE_ON_EVENT</dispatching></entry>
+<entry timestamp="2020-02-20#15:50:41" user="(inputCoordinator->inputCoordinator)" level="INFO">Communicate MOVE_ON_EVENT from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2020-02-20#15:50:41" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><queued name="MOVE_ON_EVENT" from="inputCoordinator"></queued></entry>
+<entry timestamp="2020-02-20#15:50:41" user="Rebo4AI_idsai.inputCoordinator" level="INFO">Informing 3 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#15:50:41" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processing name="MOVE_ON_EVENT" from="inputCoordinator"><moveOn/></processing></entry>
+<entry timestamp="2020-02-20#15:50:41" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">InputCoordinator received event: <moveOn/></entry>
+<entry timestamp="2020-02-20#15:50:41" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Preprocessing: [<moveOn/>]</entry>
+<entry timestamp="2020-02-20#15:50:41" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL"><dispatching to="inputCoordinator">TUTOR_TURNS_EVENT</dispatching></entry>
+<entry timestamp="2020-02-20#15:50:41" user="(inputCoordinator->inputCoordinator)" level="INFO">Communicate TUTOR_TURNS_EVENT from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2020-02-20#15:50:41" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><queued name="TUTOR_TURNS_EVENT" from="inputCoordinator"></queued></entry>
+<entry timestamp="2020-02-20#15:50:41" user="Rebo4AI_idsai.inputCoordinator" level="INFO">Informing 3 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#15:50:41" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-20#15:50:41" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-20#15:50:41" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processed name="MOVE_ON_EVENT" from="inputCoordinator"></processed></entry>
+<entry timestamp="2020-02-20#15:50:41" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processing name="TUTOR_TURNS_EVENT" from="inputCoordinator">Tutor Turns (1):
+{
+	What of these plans can you implement already in the next one or two weeks?
+}</processing></entry>
+<entry timestamp="2020-02-20#15:50:41" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">InputCoordinator received event: Tutor Turns (1):
+{
+	What of these plans can you implement already in the next one or two weeks?
+}</entry>
+<entry timestamp="2020-02-20#15:50:41" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Preprocessing: [Tutor Turns (1):
+{
+	What of these plans can you implement already in the next one or two weeks?
+}]</entry>
+<entry timestamp="2020-02-20#15:50:41" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-20#15:50:41" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-20#15:50:41" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processed name="TUTOR_TURNS_EVENT" from="inputCoordinator"></processed></entry>
+<entry timestamp="2020-02-20#15:50:42" user="Rebo4AI_idsai.outputCoordinator" level="INFO">Proposal Queue: [Message from Rebo4AI: What of these plans can you implement already in the next one or two weeks? TUTOR]</entry>
+<entry timestamp="2020-02-20#15:50:42" user="Rebo4AI_idsai.outputCoordinator" level="INFO">Proposal Message from Rebo4AI: What of these plans can you implement already in the next one or two weeks? TUTORbelief*priority: 0.9990003749375035*0.75=0.75</entry>
+<entry timestamp="2020-02-20#15:50:42" user="Rebo4AI_idsai.outputCoordinator" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-20#15:50:42" user="(outputCoordinator->client)" level="INFO">Communicate MESSAGE_EVENT from outputCoordinator to client</entry>
+<entry timestamp="2020-02-20#15:50:42" user="Rebo4AI_idsai.client" level="INFO"><queued name="MESSAGE_EVENT" from="outputCoordinator"></queued></entry>
+<entry timestamp="2020-02-20#15:50:42" user="Rebo4AI_idsai.outputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#15:50:42" user="Rebo4AI_idsai.client" level="INFO"><processing name="MESSAGE_EVENT" from="outputCoordinator">Message from Rebo4AI: What of these plans can you implement already in the next one or two weeks? TUTOR</processing></entry>
+<entry timestamp="2020-02-20#15:50:42" user="Rebo4AI_idsai.client" level="INFO"><processed name="MESSAGE_EVENT" from="outputCoordinator"></processed></entry>
+<entry timestamp="2020-02-20#15:50:42" user="Rebo4AI_idsai.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-20#15:50:42" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2020-02-20#15:50:42" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2020-02-20#15:50:42" user="Rebo4AI_idsai.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#15:50:42" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from Rebo4AI: What of these plans can you implement already in the next one or two weeks? </processing></entry>
+<entry timestamp="2020-02-20#15:50:42" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from Rebo4AI: What of these plans can you implement already in the next one or two weeks? </entry>
+<entry timestamp="2020-02-20#15:50:42" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Preprocessing: [Echo: Message from Rebo4AI: What of these plans can you implement already in the next one or two weeks? ]</entry>
+<entry timestamp="2020-02-20#15:50:42" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-20#15:50:42" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-20#15:50:42" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2020-02-20#15:53:46" user="TutorActor" level="NORMAL">Timeout for GENERAL_AI:null</entry>
+<entry timestamp="2020-02-20#16:00:42" user="TutorTurnWatcher" level="NORMAL"><timedout id="RESPONSE_TIMEOUT" /></entry>
+<entry timestamp="2020-02-20#16:00:42" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL"><dispatching to="inputCoordinator">MOVE_ON_EVENT</dispatching></entry>
+<entry timestamp="2020-02-20#16:00:42" user="(inputCoordinator->inputCoordinator)" level="INFO">Communicate MOVE_ON_EVENT from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2020-02-20#16:00:42" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><queued name="MOVE_ON_EVENT" from="inputCoordinator"></queued></entry>
+<entry timestamp="2020-02-20#16:00:42" user="Rebo4AI_idsai.inputCoordinator" level="INFO">Informing 3 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#16:00:42" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processing name="MOVE_ON_EVENT" from="inputCoordinator"><moveOn/></processing></entry>
+<entry timestamp="2020-02-20#16:00:42" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">InputCoordinator received event: <moveOn/></entry>
+<entry timestamp="2020-02-20#16:00:42" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Preprocessing: [<moveOn/>]</entry>
+<entry timestamp="2020-02-20#16:00:42" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL"><dispatching to="inputCoordinator">TUTOR_TURNS_EVENT</dispatching></entry>
+<entry timestamp="2020-02-20#16:00:42" user="(inputCoordinator->inputCoordinator)" level="INFO">Communicate TUTOR_TURNS_EVENT from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2020-02-20#16:00:42" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><queued name="TUTOR_TURNS_EVENT" from="inputCoordinator"></queued></entry>
+<entry timestamp="2020-02-20#16:00:42" user="Rebo4AI_idsai.inputCoordinator" level="INFO">Informing 3 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#16:00:42" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-20#16:00:42" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-20#16:00:42" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processed name="MOVE_ON_EVENT" from="inputCoordinator"></processed></entry>
+<entry timestamp="2020-02-20#16:00:42" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processing name="TUTOR_TURNS_EVENT" from="inputCoordinator">Tutor Turns (1):
+{
+	OK, good. Thank you for discussing this with me!
+}</processing></entry>
+<entry timestamp="2020-02-20#16:00:42" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">InputCoordinator received event: Tutor Turns (1):
+{
+	OK, good. Thank you for discussing this with me!
+}</entry>
+<entry timestamp="2020-02-20#16:00:42" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Preprocessing: [Tutor Turns (1):
+{
+	OK, good. Thank you for discussing this with me!
+}]</entry>
+<entry timestamp="2020-02-20#16:00:42" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-20#16:00:42" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-20#16:00:42" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processed name="TUTOR_TURNS_EVENT" from="inputCoordinator"></processed></entry>
+<entry timestamp="2020-02-20#16:00:42" user="Rebo4AI_idsai.outputCoordinator" level="INFO">Proposal Queue: [Message from Rebo4AI: OK, good. Thank you for discussing this with me! TUTOR]</entry>
+<entry timestamp="2020-02-20#16:00:42" user="Rebo4AI_idsai.outputCoordinator" level="INFO">Proposal Message from Rebo4AI: OK, good. Thank you for discussing this with me! TUTORbelief*priority: 0.9990003749375035*0.75=0.75</entry>
+<entry timestamp="2020-02-20#16:00:42" user="Rebo4AI_idsai.outputCoordinator" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-20#16:00:42" user="(outputCoordinator->client)" level="INFO">Communicate MESSAGE_EVENT from outputCoordinator to client</entry>
+<entry timestamp="2020-02-20#16:00:42" user="Rebo4AI_idsai.client" level="INFO"><queued name="MESSAGE_EVENT" from="outputCoordinator"></queued></entry>
+<entry timestamp="2020-02-20#16:00:42" user="Rebo4AI_idsai.outputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#16:00:43" user="Rebo4AI_idsai.client" level="INFO"><processing name="MESSAGE_EVENT" from="outputCoordinator">Message from Rebo4AI: OK, good. Thank you for discussing this with me! TUTOR</processing></entry>
+<entry timestamp="2020-02-20#16:00:43" user="Rebo4AI_idsai.client" level="INFO"><processed name="MESSAGE_EVENT" from="outputCoordinator"></processed></entry>
+<entry timestamp="2020-02-20#16:00:43" user="Rebo4AI_idsai.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-20#16:00:43" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2020-02-20#16:00:43" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2020-02-20#16:00:43" user="Rebo4AI_idsai.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#16:00:43" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from Rebo4AI: OK, good. Thank you for discussing this with me! </processing></entry>
+<entry timestamp="2020-02-20#16:00:43" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from Rebo4AI: OK, good. Thank you for discussing this with me! </entry>
+<entry timestamp="2020-02-20#16:00:43" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Preprocessing: [Echo: Message from Rebo4AI: OK, good. Thank you for discussing this with me! ]</entry>
+<entry timestamp="2020-02-20#16:00:43" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-20#16:00:43" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-20#16:00:43" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2020-02-20#16:10:42" user="TutorTurnWatcher" level="NORMAL"><timedout id="RESPONSE_TIMEOUT" /></entry>
+<entry timestamp="2020-02-20#16:10:42" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL"><dispatching to="inputCoordinator">MOVE_ON_EVENT</dispatching></entry>
+<entry timestamp="2020-02-20#16:10:42" user="(inputCoordinator->inputCoordinator)" level="INFO">Communicate MOVE_ON_EVENT from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2020-02-20#16:10:42" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><queued name="MOVE_ON_EVENT" from="inputCoordinator"></queued></entry>
+<entry timestamp="2020-02-20#16:10:42" user="Rebo4AI_idsai.inputCoordinator" level="INFO">Informing 3 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#16:10:42" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processing name="MOVE_ON_EVENT" from="inputCoordinator"><moveOn/></processing></entry>
+<entry timestamp="2020-02-20#16:10:42" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">InputCoordinator received event: <moveOn/></entry>
+<entry timestamp="2020-02-20#16:10:42" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Preprocessing: [<moveOn/>]</entry>
+<entry timestamp="2020-02-20#16:10:42" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL"><dispatching to="inputCoordinator">TUTOR_TURNS_EVENT</dispatching></entry>
+<entry timestamp="2020-02-20#16:10:42" user="(inputCoordinator->inputCoordinator)" level="INFO">Communicate TUTOR_TURNS_EVENT from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2020-02-20#16:10:42" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><queued name="TUTOR_TURNS_EVENT" from="inputCoordinator"></queued></entry>
+<entry timestamp="2020-02-20#16:10:42" user="Rebo4AI_idsai.inputCoordinator" level="INFO">Informing 3 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#16:10:42" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-20#16:10:42" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-20#16:10:42" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processed name="MOVE_ON_EVENT" from="inputCoordinator"></processed></entry>
+<entry timestamp="2020-02-20#16:10:42" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processing name="TUTOR_TURNS_EVENT" from="inputCoordinator">Tutor Turns (1):
+{
+	Until the days!
+}</processing></entry>
+<entry timestamp="2020-02-20#16:10:42" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">InputCoordinator received event: Tutor Turns (1):
+{
+	Until the days!
+}</entry>
+<entry timestamp="2020-02-20#16:10:42" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Preprocessing: [Tutor Turns (1):
+{
+	Until the days!
+}]</entry>
+<entry timestamp="2020-02-20#16:10:42" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-20#16:10:42" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-20#16:10:42" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processed name="TUTOR_TURNS_EVENT" from="inputCoordinator"></processed></entry>
+<entry timestamp="2020-02-20#16:10:43" user="Rebo4AI_idsai.outputCoordinator" level="INFO">Proposal Queue: [Message from Rebo4AI: Until the days! TUTOR]</entry>
+<entry timestamp="2020-02-20#16:10:43" user="Rebo4AI_idsai.outputCoordinator" level="INFO">Proposal Message from Rebo4AI: Until the days! TUTORbelief*priority: 0.9990003749375035*0.75=0.75</entry>
+<entry timestamp="2020-02-20#16:10:43" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL"><dispatching to="inputCoordinator">DONE_TUTORING_EVENT</dispatching></entry>
+<entry timestamp="2020-02-20#16:10:43" user="(inputCoordinator->inputCoordinator)" level="INFO">Communicate DONE_TUTORING_EVENT from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2020-02-20#16:10:43" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><queued name="DONE_TUTORING_EVENT" from="inputCoordinator"></queued></entry>
+<entry timestamp="2020-02-20#16:10:43" user="Rebo4AI_idsai.inputCoordinator" level="INFO">Informing 3 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#16:10:43" user="Rebo4AI_idsai.outputCoordinator" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-20#16:10:43" user="(outputCoordinator->client)" level="INFO">Communicate MESSAGE_EVENT from outputCoordinator to client</entry>
+<entry timestamp="2020-02-20#16:10:43" user="Rebo4AI_idsai.client" level="INFO"><queued name="MESSAGE_EVENT" from="outputCoordinator"></queued></entry>
+<entry timestamp="2020-02-20#16:10:43" user="Rebo4AI_idsai.outputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#16:10:43" user="Rebo4AI_idsai.client" level="INFO"><processing name="MESSAGE_EVENT" from="outputCoordinator">Message from Rebo4AI: Until the days! TUTOR</processing></entry>
+<entry timestamp="2020-02-20#16:10:43" user="Rebo4AI_idsai.client" level="INFO"><processed name="MESSAGE_EVENT" from="outputCoordinator"></processed></entry>
+<entry timestamp="2020-02-20#16:10:43" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processing name="DONE_TUTORING_EVENT" from="inputCoordinator">Done Tutoring concept GENERAL_AI</processing></entry>
+<entry timestamp="2020-02-20#16:10:43" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">InputCoordinator received event: Done Tutoring concept GENERAL_AI</entry>
+<entry timestamp="2020-02-20#16:10:43" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Preprocessing: [Done Tutoring concept GENERAL_AI]</entry>
+<entry timestamp="2020-02-20#16:10:43" user="PlanExecutor" level="NORMAL">received step done event for DONE_TUTORING_EVENT</entry>
+<entry timestamp="2020-02-20#16:10:43" user="Rebo4AI_idsai.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="GENERAL_AI" type="dialogue"/>
+	<student id="Behzad" name="Behzad" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2020-02-20#16:10:43" user="Rebo4AI_idsai.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="1" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="REBO4AI" type="dialogue"/>
+	<student id="Behzad" name="Behzad" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2020-02-20#16:10:43" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL"><dispatching to="inputCoordinator">DO_TUTORING_EVENT</dispatching></entry>
+<entry timestamp="2020-02-20#16:10:43" user="Rebo4AI_idsai.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-20#16:10:43" user="(inputCoordinator->inputCoordinator)" level="INFO">Communicate DO_TUTORING_EVENT from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2020-02-20#16:10:43" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2020-02-20#16:10:43" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><queued name="DO_TUTORING_EVENT" from="inputCoordinator"></queued></entry>
+<entry timestamp="2020-02-20#16:10:43" user="Rebo4AI_idsai.inputCoordinator" level="INFO">Informing 3 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#16:10:43" user="PlanExecutor" level="ERROR">Error while updating Status File (java.io.FileNotFoundException: planstatus\Rebo4AI_idsai.planstatus.txt (The system cannot find the path specified))</entry>
+<entry timestamp="2020-02-20#16:10:43" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-20#16:10:43" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-20#16:10:43" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processed name="DONE_TUTORING_EVENT" from="inputCoordinator"></processed></entry>
+<entry timestamp="2020-02-20#16:10:43" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processing name="DO_TUTORING_EVENT" from="inputCoordinator">Do Tutoring concept=REBO4AI</processing></entry>
+<entry timestamp="2020-02-20#16:10:43" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">InputCoordinator received event: Do Tutoring concept=REBO4AI</entry>
+<entry timestamp="2020-02-20#16:10:43" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Preprocessing: [Do Tutoring concept=REBO4AI]</entry>
+<entry timestamp="2020-02-20#16:10:43" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-20#16:10:43" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-20#16:10:43" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2020-02-20#16:10:43" user="Rebo4AI_idsai.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#16:10:43" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processed name="DO_TUTORING_EVENT" from="inputCoordinator"></processed></entry>
+<entry timestamp="2020-02-20#16:10:43" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from Rebo4AI: Until the days! </processing></entry>
+<entry timestamp="2020-02-20#16:10:43" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from Rebo4AI: Until the days! </entry>
+<entry timestamp="2020-02-20#16:10:43" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Preprocessing: [Echo: Message from Rebo4AI: Until the days! ]</entry>
+<entry timestamp="2020-02-20#16:10:43" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-20#16:10:43" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-20#16:10:43" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2020-02-20#16:10:45" user="Rebo4AI_idsai.outputCoordinator" level="INFO">Proposal Queue: [Message from Rebo4AI: Behzad, do you want to talk about rebo4ai? TUTOR]</entry>
+<entry timestamp="2020-02-20#16:10:45" user="Rebo4AI_idsai.outputCoordinator" level="INFO">Proposal Message from Rebo4AI: Behzad, do you want to talk about rebo4ai? TUTORbelief*priority: 0.9990003749375035*0.75=0.75</entry>
+<entry timestamp="2020-02-20#16:10:45" user="Rebo4AI_idsai.outputCoordinator" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-20#16:10:45" user="(outputCoordinator->client)" level="INFO">Communicate MESSAGE_EVENT from outputCoordinator to client</entry>
+<entry timestamp="2020-02-20#16:10:45" user="Rebo4AI_idsai.client" level="INFO"><queued name="MESSAGE_EVENT" from="outputCoordinator"></queued></entry>
+<entry timestamp="2020-02-20#16:10:45" user="Rebo4AI_idsai.outputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#16:10:45" user="Rebo4AI_idsai.client" level="INFO"><processing name="MESSAGE_EVENT" from="outputCoordinator">Message from Rebo4AI: Behzad, do you want to talk about rebo4ai? TUTOR</processing></entry>
+<entry timestamp="2020-02-20#16:10:45" user="Rebo4AI_idsai.client" level="INFO"><processed name="MESSAGE_EVENT" from="outputCoordinator"></processed></entry>
+<entry timestamp="2020-02-20#16:10:45" user="Rebo4AI_idsai.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-20#16:10:45" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2020-02-20#16:10:45" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2020-02-20#16:10:45" user="Rebo4AI_idsai.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#16:10:45" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from Rebo4AI: Behzad, do you want to talk about rebo4ai? </processing></entry>
+<entry timestamp="2020-02-20#16:10:45" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from Rebo4AI: Behzad, do you want to talk about rebo4ai? </entry>
+<entry timestamp="2020-02-20#16:10:45" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Preprocessing: [Echo: Message from Rebo4AI: Behzad, do you want to talk about rebo4ai? ]</entry>
+<entry timestamp="2020-02-20#16:10:45" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-20#16:10:45" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-20#16:10:45" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2020-02-20#16:14:56" user="Rebo4AI_idsai.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-20#16:14:56" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2020-02-20#16:14:56" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2020-02-20#16:14:56" user="Rebo4AI_idsai.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#16:14:56" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processing name="PRESENCE_EVENT" from="client">Presence: Behzad is now PRESENT</processing></entry>
+<entry timestamp="2020-02-20#16:14:56" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">InputCoordinator received event: Presence: Behzad is now PRESENT</entry>
+<entry timestamp="2020-02-20#16:14:56" user="Rebo4AI_idsai.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="REBO4AI" type="dialogue"/>
+	<student id="Behzad" name="Behzad" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2020-02-20#16:14:56" user="Rebo4AI_idsai.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="1" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="REBO4AI" type="dialogue"/>
+	<student id="Behzad" name="Behzad" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2020-02-20#16:14:56" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Preprocessing: [Presence: Behzad is now PRESENT]</entry>
+<entry timestamp="2020-02-20#16:14:56" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-20#16:14:56" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-20#16:14:56" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processed name="PRESENCE_EVENT" from="client"></processed></entry>
+<entry timestamp="2020-02-20#16:14:56" user="Rebo4AI_idsai.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-20#16:14:56" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2020-02-20#16:14:56" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2020-02-20#16:14:56" user="Rebo4AI_idsai.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#16:14:56" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processing name="PRESENCE_EVENT" from="client">Presence: Behzad is now PRESENT</processing></entry>
+<entry timestamp="2020-02-20#16:14:56" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">InputCoordinator received event: Presence: Behzad is now PRESENT</entry>
+<entry timestamp="2020-02-20#16:14:56" user="Rebo4AI_idsai.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="REBO4AI" type="dialogue"/>
+	<student id="Behzad" name="Behzad" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2020-02-20#16:14:56" user="Rebo4AI_idsai.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="1" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="REBO4AI" type="dialogue"/>
+	<student id="Behzad" name="Behzad" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2020-02-20#16:14:56" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Preprocessing: [Presence: Behzad is now PRESENT]</entry>
+<entry timestamp="2020-02-20#16:14:56" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-20#16:14:56" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-20#16:14:56" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processed name="PRESENCE_EVENT" from="client"></processed></entry>
+<entry timestamp="2020-02-20#16:16:42" user="Rebo4AI_idsai.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-20#16:16:42" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2020-02-20#16:16:42" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2020-02-20#16:16:42" user="Rebo4AI_idsai.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#16:16:42" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processing name="PRESENCE_EVENT" from="client">Presence: Behzad is now ABSENT</processing></entry>
+<entry timestamp="2020-02-20#16:16:42" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">InputCoordinator received event: Presence: Behzad is now ABSENT</entry>
+<entry timestamp="2020-02-20#16:16:42" user="Rebo4AI_idsai.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="REBO4AI" type="dialogue"/>
+	<student id="Behzad" name="Behzad" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2020-02-20#16:16:42" user="Rebo4AI_idsai.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="1" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="REBO4AI" type="dialogue"/>
+	<student id="Behzad" name="Behzad" role="UNASSIGNED" present="false" /></State></commit></entry>
+<entry timestamp="2020-02-20#16:16:42" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Preprocessing: [Presence: Behzad is now ABSENT]</entry>
+<entry timestamp="2020-02-20#16:16:42" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-20#16:16:42" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-20#16:16:42" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processed name="PRESENCE_EVENT" from="client"></processed></entry>
+<entry timestamp="2020-02-20#16:20:36" user="Rebo4AI_idsai.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-20#16:20:36" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2020-02-20#16:20:36" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2020-02-20#16:20:36" user="Rebo4AI_idsai.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#16:20:36" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processing name="PRESENCE_EVENT" from="client">Presence: [object%20HTMLInputElement] is now PRESENT</processing></entry>
+<entry timestamp="2020-02-20#16:20:36" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">InputCoordinator received event: Presence: [object%20HTMLInputElement] is now PRESENT</entry>
+<entry timestamp="2020-02-20#16:20:36" user="Rebo4AI_idsai.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="REBO4AI" type="dialogue"/>
+	<student id="Behzad" name="Behzad" role="UNASSIGNED" present="false" /></State></retrieve></entry>
+<entry timestamp="2020-02-20#16:20:36" user="Rebo4AI_idsai.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="2" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="REBO4AI" type="dialogue"/>
+	<student id="Behzad" name="Behzad" role="UNASSIGNED" present="false" />	<student id="[object%20HTMLInputElement]" name="[object%20HTMLInputElement]" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2020-02-20#16:20:36" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Preprocessing: [Presence: [object%20HTMLInputElement] is now PRESENT]</entry>
+<entry timestamp="2020-02-20#16:20:36" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-20#16:20:36" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-20#16:20:36" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processed name="PRESENCE_EVENT" from="client"></processed></entry>
+<entry timestamp="2020-02-20#16:20:36" user="Rebo4AI_idsai.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-20#16:20:36" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2020-02-20#16:20:36" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2020-02-20#16:20:36" user="Rebo4AI_idsai.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#16:20:36" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processing name="PRESENCE_EVENT" from="client">Presence: [object%20HTMLInputElement] is now PRESENT</processing></entry>
+<entry timestamp="2020-02-20#16:20:36" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">InputCoordinator received event: Presence: [object%20HTMLInputElement] is now PRESENT</entry>
+<entry timestamp="2020-02-20#16:20:36" user="Rebo4AI_idsai.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="REBO4AI" type="dialogue"/>
+	<student id="Behzad" name="Behzad" role="UNASSIGNED" present="false" />	<student id="[object%20HTMLInputElement]" name="[object%20HTMLInputElement]" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2020-02-20#16:20:36" user="Rebo4AI_idsai.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="2" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="REBO4AI" type="dialogue"/>
+	<student id="Behzad" name="Behzad" role="UNASSIGNED" present="false" />	<student id="[object%20HTMLInputElement]" name="[object%20HTMLInputElement]" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2020-02-20#16:20:36" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Preprocessing: [Presence: [object%20HTMLInputElement] is now PRESENT]</entry>
+<entry timestamp="2020-02-20#16:20:36" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-20#16:20:36" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-20#16:20:36" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processed name="PRESENCE_EVENT" from="client"></processed></entry>
+<entry timestamp="2020-02-20#16:21:02" user="Rebo4AI_idsai.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-20#16:21:02" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2020-02-20#16:21:02" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2020-02-20#16:21:02" user="Rebo4AI_idsai.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#16:21:02" user="Rebo4AI_idsai.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-20#16:21:02" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2020-02-20#16:21:02" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2020-02-20#16:21:02" user="Rebo4AI_idsai.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#16:21:02" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processing name="PRESENCE_EVENT" from="client">Presence: [object%20HTMLInputElement] is now PRESENT</processing></entry>
+<entry timestamp="2020-02-20#16:21:02" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">InputCoordinator received event: Presence: [object%20HTMLInputElement] is now PRESENT</entry>
+<entry timestamp="2020-02-20#16:21:02" user="Rebo4AI_idsai.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="REBO4AI" type="dialogue"/>
+	<student id="Behzad" name="Behzad" role="UNASSIGNED" present="false" />	<student id="[object%20HTMLInputElement]" name="[object%20HTMLInputElement]" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2020-02-20#16:21:02" user="Rebo4AI_idsai.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="2" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="REBO4AI" type="dialogue"/>
+	<student id="Behzad" name="Behzad" role="UNASSIGNED" present="false" />	<student id="[object%20HTMLInputElement]" name="[object%20HTMLInputElement]" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2020-02-20#16:21:02" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Preprocessing: [Presence: [object%20HTMLInputElement] is now PRESENT]</entry>
+<entry timestamp="2020-02-20#16:21:02" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-20#16:21:02" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-20#16:21:02" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processed name="PRESENCE_EVENT" from="client"></processed></entry>
+<entry timestamp="2020-02-20#16:21:02" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processing name="PRESENCE_EVENT" from="client">Presence: John is now PRESENT</processing></entry>
+<entry timestamp="2020-02-20#16:21:02" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">InputCoordinator received event: Presence: John is now PRESENT</entry>
+<entry timestamp="2020-02-20#16:21:02" user="Rebo4AI_idsai.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="2" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="REBO4AI" type="dialogue"/>
+	<student id="Behzad" name="Behzad" role="UNASSIGNED" present="false" />	<student id="[object%20HTMLInputElement]" name="[object%20HTMLInputElement]" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2020-02-20#16:21:02" user="Rebo4AI_idsai.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="REBO4AI" type="dialogue"/>
+	<student id="Behzad" name="Behzad" role="UNASSIGNED" present="false" />	<student id="[object%20HTMLInputElement]" name="[object%20HTMLInputElement]" role="UNASSIGNED" present="true" />	<student id="John" name="John" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2020-02-20#16:21:02" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Preprocessing: [Presence: John is now PRESENT]</entry>
+<entry timestamp="2020-02-20#16:21:02" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-20#16:21:02" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-20#16:21:02" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processed name="PRESENCE_EVENT" from="client"></processed></entry>
+<entry timestamp="2020-02-20#16:21:02" user="Rebo4AI_idsai.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-20#16:21:02" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2020-02-20#16:21:02" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2020-02-20#16:21:02" user="Rebo4AI_idsai.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#16:21:03" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processing name="PRESENCE_EVENT" from="client">Presence: John is now PRESENT</processing></entry>
+<entry timestamp="2020-02-20#16:21:03" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">InputCoordinator received event: Presence: John is now PRESENT</entry>
+<entry timestamp="2020-02-20#16:21:03" user="Rebo4AI_idsai.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="REBO4AI" type="dialogue"/>
+	<student id="Behzad" name="Behzad" role="UNASSIGNED" present="false" />	<student id="[object%20HTMLInputElement]" name="[object%20HTMLInputElement]" role="UNASSIGNED" present="true" />	<student id="John" name="John" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2020-02-20#16:21:03" user="Rebo4AI_idsai.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="REBO4AI" type="dialogue"/>
+	<student id="Behzad" name="Behzad" role="UNASSIGNED" present="false" />	<student id="[object%20HTMLInputElement]" name="[object%20HTMLInputElement]" role="UNASSIGNED" present="true" />	<student id="John" name="John" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2020-02-20#16:21:03" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Preprocessing: [Presence: John is now PRESENT]</entry>
+<entry timestamp="2020-02-20#16:21:03" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-20#16:21:03" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-20#16:21:03" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processed name="PRESENCE_EVENT" from="client"></processed></entry>
+<entry timestamp="2020-02-20#16:21:06" user="Rebo4AI_idsai.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-20#16:21:06" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2020-02-20#16:21:06" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2020-02-20#16:21:06" user="Rebo4AI_idsai.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#16:21:06" user="Rebo4AI_idsai.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-20#16:21:06" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2020-02-20#16:21:06" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2020-02-20#16:21:06" user="Rebo4AI_idsai.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#16:21:06" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processing name="PRESENCE_EVENT" from="client">Presence: John is now PRESENT</processing></entry>
+<entry timestamp="2020-02-20#16:21:06" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">InputCoordinator received event: Presence: John is now PRESENT</entry>
+<entry timestamp="2020-02-20#16:21:06" user="Rebo4AI_idsai.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="REBO4AI" type="dialogue"/>
+	<student id="Behzad" name="Behzad" role="UNASSIGNED" present="false" />	<student id="[object%20HTMLInputElement]" name="[object%20HTMLInputElement]" role="UNASSIGNED" present="true" />	<student id="John" name="John" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2020-02-20#16:21:06" user="Rebo4AI_idsai.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="REBO4AI" type="dialogue"/>
+	<student id="Behzad" name="Behzad" role="UNASSIGNED" present="false" />	<student id="[object%20HTMLInputElement]" name="[object%20HTMLInputElement]" role="UNASSIGNED" present="true" />	<student id="John" name="John" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2020-02-20#16:21:06" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Preprocessing: [Presence: John is now PRESENT]</entry>
+<entry timestamp="2020-02-20#16:21:06" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-20#16:21:06" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-20#16:21:06" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processed name="PRESENCE_EVENT" from="client"></processed></entry>
+<entry timestamp="2020-02-20#16:21:06" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processing name="PRESENCE_EVENT" from="client">Presence: [object%20HTMLInputElement] is now ABSENT</processing></entry>
+<entry timestamp="2020-02-20#16:21:06" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">InputCoordinator received event: Presence: [object%20HTMLInputElement] is now ABSENT</entry>
+<entry timestamp="2020-02-20#16:21:06" user="Rebo4AI_idsai.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="REBO4AI" type="dialogue"/>
+	<student id="Behzad" name="Behzad" role="UNASSIGNED" present="false" />	<student id="[object%20HTMLInputElement]" name="[object%20HTMLInputElement]" role="UNASSIGNED" present="true" />	<student id="John" name="John" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2020-02-20#16:21:06" user="Rebo4AI_idsai.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="REBO4AI" type="dialogue"/>
+	<student id="Behzad" name="Behzad" role="UNASSIGNED" present="false" />	<student id="[object%20HTMLInputElement]" name="[object%20HTMLInputElement]" role="UNASSIGNED" present="false" />	<student id="John" name="John" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2020-02-20#16:21:06" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Preprocessing: [Presence: [object%20HTMLInputElement] is now ABSENT]</entry>
+<entry timestamp="2020-02-20#16:21:06" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-20#16:21:06" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-20#16:21:06" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processed name="PRESENCE_EVENT" from="client"></processed></entry>
+<entry timestamp="2020-02-20#16:21:12" user="Rebo4AI_idsai.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-20#16:21:12" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2020-02-20#16:21:12" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2020-02-20#16:21:12" user="Rebo4AI_idsai.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#16:21:12" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processing name="PRESENCE_EVENT" from="client">Presence: John is now PRESENT</processing></entry>
+<entry timestamp="2020-02-20#16:21:12" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">InputCoordinator received event: Presence: John is now PRESENT</entry>
+<entry timestamp="2020-02-20#16:21:12" user="Rebo4AI_idsai.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="REBO4AI" type="dialogue"/>
+	<student id="Behzad" name="Behzad" role="UNASSIGNED" present="false" />	<student id="[object%20HTMLInputElement]" name="[object%20HTMLInputElement]" role="UNASSIGNED" present="false" />	<student id="John" name="John" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2020-02-20#16:21:12" user="Rebo4AI_idsai.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="REBO4AI" type="dialogue"/>
+	<student id="Behzad" name="Behzad" role="UNASSIGNED" present="false" />	<student id="[object%20HTMLInputElement]" name="[object%20HTMLInputElement]" role="UNASSIGNED" present="false" />	<student id="John" name="John" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2020-02-20#16:21:12" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Preprocessing: [Presence: John is now PRESENT]</entry>
+<entry timestamp="2020-02-20#16:21:12" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-20#16:21:12" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-20#16:21:12" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processed name="PRESENCE_EVENT" from="client"></processed></entry>
+<entry timestamp="2020-02-20#16:21:12" user="Rebo4AI_idsai.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-20#16:21:12" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2020-02-20#16:21:12" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2020-02-20#16:21:12" user="Rebo4AI_idsai.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#16:21:12" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processing name="PRESENCE_EVENT" from="client">Presence: John is now PRESENT</processing></entry>
+<entry timestamp="2020-02-20#16:21:12" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">InputCoordinator received event: Presence: John is now PRESENT</entry>
+<entry timestamp="2020-02-20#16:21:12" user="Rebo4AI_idsai.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="REBO4AI" type="dialogue"/>
+	<student id="Behzad" name="Behzad" role="UNASSIGNED" present="false" />	<student id="[object%20HTMLInputElement]" name="[object%20HTMLInputElement]" role="UNASSIGNED" present="false" />	<student id="John" name="John" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2020-02-20#16:21:12" user="Rebo4AI_idsai.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="REBO4AI" type="dialogue"/>
+	<student id="Behzad" name="Behzad" role="UNASSIGNED" present="false" />	<student id="[object%20HTMLInputElement]" name="[object%20HTMLInputElement]" role="UNASSIGNED" present="false" />	<student id="John" name="John" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2020-02-20#16:21:12" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Preprocessing: [Presence: John is now PRESENT]</entry>
+<entry timestamp="2020-02-20#16:21:12" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-20#16:21:12" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-20#16:21:12" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processed name="PRESENCE_EVENT" from="client"></processed></entry>
+<entry timestamp="2020-02-20#16:21:17" user="Rebo4AI_idsai.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-20#16:21:17" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2020-02-20#16:21:17" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2020-02-20#16:21:17" user="Rebo4AI_idsai.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#16:21:17" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processing name="PRESENCE_EVENT" from="client">Presence: John is now PRESENT</processing></entry>
+<entry timestamp="2020-02-20#16:21:17" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">InputCoordinator received event: Presence: John is now PRESENT</entry>
+<entry timestamp="2020-02-20#16:21:17" user="Rebo4AI_idsai.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="REBO4AI" type="dialogue"/>
+	<student id="Behzad" name="Behzad" role="UNASSIGNED" present="false" />	<student id="[object%20HTMLInputElement]" name="[object%20HTMLInputElement]" role="UNASSIGNED" present="false" />	<student id="John" name="John" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2020-02-20#16:21:17" user="Rebo4AI_idsai.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="REBO4AI" type="dialogue"/>
+	<student id="Behzad" name="Behzad" role="UNASSIGNED" present="false" />	<student id="[object%20HTMLInputElement]" name="[object%20HTMLInputElement]" role="UNASSIGNED" present="false" />	<student id="John" name="John" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2020-02-20#16:21:17" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Preprocessing: [Presence: John is now PRESENT]</entry>
+<entry timestamp="2020-02-20#16:21:17" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-20#16:21:17" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-20#16:21:17" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processed name="PRESENCE_EVENT" from="client"></processed></entry>
+<entry timestamp="2020-02-20#16:21:17" user="Rebo4AI_idsai.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-20#16:21:17" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2020-02-20#16:21:17" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2020-02-20#16:21:17" user="Rebo4AI_idsai.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#16:21:17" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processing name="PRESENCE_EVENT" from="client">Presence: John is now PRESENT</processing></entry>
+<entry timestamp="2020-02-20#16:21:17" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">InputCoordinator received event: Presence: John is now PRESENT</entry>
+<entry timestamp="2020-02-20#16:21:17" user="Rebo4AI_idsai.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="REBO4AI" type="dialogue"/>
+	<student id="Behzad" name="Behzad" role="UNASSIGNED" present="false" />	<student id="[object%20HTMLInputElement]" name="[object%20HTMLInputElement]" role="UNASSIGNED" present="false" />	<student id="John" name="John" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2020-02-20#16:21:17" user="Rebo4AI_idsai.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="REBO4AI" type="dialogue"/>
+	<student id="Behzad" name="Behzad" role="UNASSIGNED" present="false" />	<student id="[object%20HTMLInputElement]" name="[object%20HTMLInputElement]" role="UNASSIGNED" present="false" />	<student id="John" name="John" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2020-02-20#16:21:17" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Preprocessing: [Presence: John is now PRESENT]</entry>
+<entry timestamp="2020-02-20#16:21:17" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-20#16:21:17" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-20#16:21:17" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processed name="PRESENCE_EVENT" from="client"></processed></entry>
+<entry timestamp="2020-02-20#16:21:32" user="Rebo4AI_idsai.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-20#16:21:32" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2020-02-20#16:21:32" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2020-02-20#16:21:32" user="Rebo4AI_idsai.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#16:21:32" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processing name="PRESENCE_EVENT" from="client">Presence: John is now ABSENT</processing></entry>
+<entry timestamp="2020-02-20#16:21:32" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">InputCoordinator received event: Presence: John is now ABSENT</entry>
+<entry timestamp="2020-02-20#16:21:32" user="Rebo4AI_idsai.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="REBO4AI" type="dialogue"/>
+	<student id="Behzad" name="Behzad" role="UNASSIGNED" present="false" />	<student id="[object%20HTMLInputElement]" name="[object%20HTMLInputElement]" role="UNASSIGNED" present="false" />	<student id="John" name="John" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2020-02-20#16:21:32" user="Rebo4AI_idsai.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="3" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="REBO4AI" type="dialogue"/>
+	<student id="Behzad" name="Behzad" role="UNASSIGNED" present="false" />	<student id="[object%20HTMLInputElement]" name="[object%20HTMLInputElement]" role="UNASSIGNED" present="false" />	<student id="John" name="John" role="UNASSIGNED" present="false" /></State></commit></entry>
+<entry timestamp="2020-02-20#16:21:32" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Preprocessing: [Presence: John is now ABSENT]</entry>
+<entry timestamp="2020-02-20#16:21:32" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-20#16:21:32" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-20#16:21:32" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processed name="PRESENCE_EVENT" from="client"></processed></entry>
+<entry timestamp="2020-02-20#16:25:43" user="TutorActor" level="NORMAL">Timeout for REBO4AI:basilica2.tutor.listeners.TutorActor$Dialog@74627223</entry>
+<entry timestamp="2020-02-20#16:25:43" user="TutorActor" level="NORMAL">Delaying dialog REBO4AI once...</entry>
+<entry timestamp="2020-02-20#16:25:44" user="Rebo4AI_idsai.outputCoordinator" level="INFO">Proposal Queue: [Message from Rebo4AI: To start the conversation, please welcome Rebo :) TUTOR]</entry>
+<entry timestamp="2020-02-20#16:25:44" user="Rebo4AI_idsai.outputCoordinator" level="INFO">Proposal Message from Rebo4AI: To start the conversation, please welcome Rebo :) TUTORbelief*priority: 0.9990003749375035*0.75=0.75</entry>
+<entry timestamp="2020-02-20#16:25:44" user="Rebo4AI_idsai.outputCoordinator" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-20#16:25:44" user="(outputCoordinator->client)" level="INFO">Communicate MESSAGE_EVENT from outputCoordinator to client</entry>
+<entry timestamp="2020-02-20#16:25:44" user="Rebo4AI_idsai.client" level="INFO"><queued name="MESSAGE_EVENT" from="outputCoordinator"></queued></entry>
+<entry timestamp="2020-02-20#16:25:44" user="Rebo4AI_idsai.outputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#16:25:44" user="Rebo4AI_idsai.client" level="INFO"><processing name="MESSAGE_EVENT" from="outputCoordinator">Message from Rebo4AI: To start the conversation, please welcome Rebo :) TUTOR</processing></entry>
+<entry timestamp="2020-02-20#16:25:44" user="Rebo4AI_idsai.client" level="INFO"><processed name="MESSAGE_EVENT" from="outputCoordinator"></processed></entry>
+<entry timestamp="2020-02-20#16:25:44" user="Rebo4AI_idsai.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-20#16:25:44" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2020-02-20#16:25:44" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2020-02-20#16:25:44" user="Rebo4AI_idsai.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#16:25:44" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from Rebo4AI: To start the conversation, please welcome Rebo :) </processing></entry>
+<entry timestamp="2020-02-20#16:25:44" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from Rebo4AI: To start the conversation, please welcome Rebo :) </entry>
+<entry timestamp="2020-02-20#16:25:44" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Preprocessing: [Echo: Message from Rebo4AI: To start the conversation, please welcome Rebo :) ]</entry>
+<entry timestamp="2020-02-20#16:25:44" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-20#16:25:44" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-20#16:25:44" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2020-02-20#16:40:44" user="TutorActor" level="WARNING">No dialog for CANCEL:REBO4AI</entry>
+<entry timestamp="2020-02-20#16:40:44" user="TutorActor" level="NORMAL">Timeout for CANCEL:REBO4AI:null</entry>
+<entry timestamp="2020-02-20#16:40:44" user="Rebo4AI_idsai.outputCoordinator" level="INFO">Proposal Queue: [Message from Rebo4AI: Okay - you can continue discussing other topics. TUTOR]</entry>
+<entry timestamp="2020-02-20#16:40:44" user="Rebo4AI_idsai.outputCoordinator" level="INFO">Proposal Message from Rebo4AI: Okay - you can continue discussing other topics. TUTORbelief*priority: 0.9990003749375035*0.75=0.75</entry>
+<entry timestamp="2020-02-20#16:40:44" user="Rebo4AI_idsai.outputCoordinator" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-20#16:40:44" user="(outputCoordinator->client)" level="INFO">Communicate MESSAGE_EVENT from outputCoordinator to client</entry>
+<entry timestamp="2020-02-20#16:40:44" user="Rebo4AI_idsai.client" level="INFO"><queued name="MESSAGE_EVENT" from="outputCoordinator"></queued></entry>
+<entry timestamp="2020-02-20#16:40:44" user="Rebo4AI_idsai.outputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#16:40:44" user="Rebo4AI_idsai.client" level="INFO"><processing name="MESSAGE_EVENT" from="outputCoordinator">Message from Rebo4AI: Okay - you can continue discussing other topics. TUTOR</processing></entry>
+<entry timestamp="2020-02-20#16:40:44" user="Rebo4AI_idsai.client" level="INFO"><processed name="MESSAGE_EVENT" from="outputCoordinator"></processed></entry>
+<entry timestamp="2020-02-20#16:40:44" user="Rebo4AI_idsai.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-20#16:40:44" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2020-02-20#16:40:44" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2020-02-20#16:40:44" user="Rebo4AI_idsai.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-20#16:40:44" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from Rebo4AI: Okay - you can continue discussing other topics. </processing></entry>
+<entry timestamp="2020-02-20#16:40:44" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from Rebo4AI: Okay - you can continue discussing other topics. </entry>
+<entry timestamp="2020-02-20#16:40:44" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Preprocessing: [Echo: Message from Rebo4AI: Okay - you can continue discussing other topics. ]</entry>
+<entry timestamp="2020-02-20#16:40:44" user="Rebo4AI_idsai.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-20#16:40:44" user="Rebo4AI_idsai.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-20#16:40:44" user="Rebo4AI_idsai.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>

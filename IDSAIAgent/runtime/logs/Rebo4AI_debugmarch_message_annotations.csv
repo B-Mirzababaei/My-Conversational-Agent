@@ -1,0 +1,5 @@
+2020-03-20,12:42:15,0,Rebo4AI,1584704536506,"Hi, I'm Rebo4AI; a prototype conversational agent. With me, you can currently discuss only about intelligence. Is that OK with you; do you want to start a conversation?",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-03-20,13:05:12,0,Rebo4AI,1584705912652,"Hi, I'm Rebo4AI; a prototype conversational agent. With me, you can currently discuss only about intelligence. Is that OK with you; do you want to start a conversation?",TUTOR
+2020-03-20,13:05:26,0,aaa,1584705926476,no,IDSAI_QUESTION1_WITHOUT_REASON+TRUE+NO
+2020-03-20,13:05:26,0,Rebo4AI,1584705926688,"OK, no problem; I currently am not able to discuss about anything else - if you are interested in talking to me any time in the future, please go again to <a href=""http://rebo4ai.know-center.tugraz.at/bazaar/idsai_landing_page"">this link</a>. Bye!",TUTOR

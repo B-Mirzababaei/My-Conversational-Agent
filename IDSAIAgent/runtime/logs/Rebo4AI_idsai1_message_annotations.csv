@@ -1,0 +1,8 @@
+2020-02-27,09:49:21,0,Rebo4AI,1582793363373,I'm Rebo4AI; I'm a prototype conversational agent.,INTRODUCE
+2020-02-27,09:49:23,0,Rebo4AI,1582793365386,How are you?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-27,09:50:37,0,Rebo4AI,1582793437444,I'm Rebo4AI; I'm a prototype conversational agent.,INTRODUCE
+2020-02-27,09:50:39,0,Rebo4AI,1582793439461,How are you?,TUTOR
+2020-02-27,09:50:43,0,mynameIsBehzad1,1582793443640,i am good,IDSAI_QUESTION1_WITHOUT_REASON+TRUE+YES
+2020-02-27,09:50:43,0,Rebo4AI,1582793445471,"You have learned in the ""Introduction to Data Science and Artificial Intelligence"" different definitions of intelligence; I have not been able to follow!",TUTOR
+2020-02-27,09:50:43,0,Rebo4AI,1582793445481,But I'm curious: Is a notebook now intelligent or not? Why?,TUTOR

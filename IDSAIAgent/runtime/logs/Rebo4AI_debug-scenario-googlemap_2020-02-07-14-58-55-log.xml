@@ -1,0 +1,438 @@
+<entry timestamp="2020-02-07#14:58:55" user="FactoryBuiltAgent" level="NORMAL">CONFIGURING AGENT Rebo4AI_debug-scenario-googlemap</entry>
+<entry timestamp="2020-02-07#14:58:55" user="Rebo4AI_debug-scenario-googlemap.AGENT" level="NORMAL"><created>Rebo4AI_debug-scenario-googlemap</created></entry>
+<entry timestamp="2020-02-07#14:58:55" user="Rebo4AI_debug-scenario-googlemap.stateMemory" level="INFO">Informing 0 Observers of CREATED</entry>
+<entry timestamp="2020-02-07#14:58:55" user="Rebo4AI_debug-scenario-googlemap.stateMemory" level="NORMAL"><created>stateMemory</created></entry>
+<entry timestamp="2020-02-07#14:58:55" user="Rebo4AI_debug-scenario-googlemap.client" level="INFO">Informing 0 Observers of CREATED</entry>
+<entry timestamp="2020-02-07#14:58:55" user="Rebo4AI_debug-scenario-googlemap.client" level="NORMAL"><created>client</created></entry>
+<entry timestamp="2020-02-07#14:58:55" user="Rebo4AI_debug-scenario-googlemap.client" level="NORMAL">Property read: socket_url =	http://kcs-rebo4ai.demo.know-center.at/</entry>
+<entry timestamp="2020-02-07#14:58:55" user="Rebo4AI_debug-scenario-googlemap.client" level="NORMAL">Property read: socket_suburl =	/bazsocket/socket.io</entry>
+<entry timestamp="2020-02-07#14:58:55" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO">Informing 0 Observers of CREATED</entry>
+<entry timestamp="2020-02-07#14:58:55" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="NORMAL"><created>inputCoordinator</created></entry>
+<entry timestamp="2020-02-07#14:58:55" user="Rebo4AI_debug-scenario-googlemap.outputCoordinator" level="INFO">Informing 0 Observers of CREATED</entry>
+<entry timestamp="2020-02-07#14:58:55" user="Rebo4AI_debug-scenario-googlemap.outputCoordinator" level="NORMAL"><created>outputCoordinator</created></entry>
+<entry timestamp="2020-02-07#14:58:55" user="(client->inputCoordinator)" level="INFO">Connection initialized. Id=1581083935899</entry>
+<entry timestamp="2020-02-07#14:58:55" user="Rebo4AI_debug-scenario-googlemap.client" level="INFO">Outgoing connection added from client to inputCoordinator</entry>
+<entry timestamp="2020-02-07#14:58:55" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO">Inward connection added from inputCoordinator to client</entry>
+<entry timestamp="2020-02-07#14:58:55" user="(inputCoordinator->inputCoordinator)" level="INFO">Connection initialized. Id=1581083935899</entry>
+<entry timestamp="2020-02-07#14:58:55" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO">Outgoing connection added from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2020-02-07#14:58:55" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO">Outgoing connection added from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2020-02-07#14:58:55" user="(inputCoordinator->outputCoordinator)" level="INFO">Connection initialized. Id=1581083935899</entry>
+<entry timestamp="2020-02-07#14:58:55" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO">Outgoing connection added from inputCoordinator to outputCoordinator</entry>
+<entry timestamp="2020-02-07#14:58:55" user="Rebo4AI_debug-scenario-googlemap.outputCoordinator" level="INFO">Inward connection added from outputCoordinator to inputCoordinator</entry>
+<entry timestamp="2020-02-07#14:58:55" user="(outputCoordinator->client)" level="INFO">Connection initialized. Id=1581083935899</entry>
+<entry timestamp="2020-02-07#14:58:55" user="Rebo4AI_debug-scenario-googlemap.outputCoordinator" level="INFO">Outgoing connection added from outputCoordinator to client</entry>
+<entry timestamp="2020-02-07#14:58:55" user="Rebo4AI_debug-scenario-googlemap.client" level="INFO">Inward connection added from client to outputCoordinator</entry>
+<entry timestamp="2020-02-07#14:58:55" user="Rebo4AI_debug-scenario-googlemap.AGENT" level="NORMAL"><initialized>Rebo4AI_debug-scenario-googlemap</initialized></entry>
+<entry timestamp="2020-02-07#14:58:55" user="Rebo4AI_debug-scenario-googlemap.stateMemory" level="INFO">Observer Added:stateMemory.ui.cell. 1 Observers now.</entry>
+<entry timestamp="2020-02-07#14:58:55" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO">Observer Added:inputCoordinator.ui.cell. 1 Observers now.</entry>
+<entry timestamp="2020-02-07#14:58:55" user="Rebo4AI_debug-scenario-googlemap.client" level="INFO">Observer Added:client.ui.cell. 1 Observers now.</entry>
+<entry timestamp="2020-02-07#14:58:55" user="Rebo4AI_debug-scenario-googlemap.outputCoordinator" level="INFO">Observer Added:outputCoordinator.ui.cell. 1 Observers now.</entry>
+<entry timestamp="2020-02-07#14:58:55" user="(client->inputCoordinator)" level="NORMAL">Observer Added:(client->inputCoordinator).ui.edge</entry>
+<entry timestamp="2020-02-07#14:58:55" user="(inputCoordinator->inputCoordinator)" level="NORMAL">Observer Added:(inputCoordinator->inputCoordinator).ui.edge</entry>
+<entry timestamp="2020-02-07#14:58:55" user="(inputCoordinator->outputCoordinator)" level="NORMAL">Observer Added:(inputCoordinator->outputCoordinator).ui.edge</entry>
+<entry timestamp="2020-02-07#14:58:55" user="(outputCoordinator->client)" level="NORMAL">Observer Added:(outputCoordinator->client).ui.edge</entry>
+<entry timestamp="2020-02-07#14:58:55" user="Rebo4AI_debug-scenario-googlemap.stateMemory" level="INFO">Observer Added:stateMemory.ui.panel. 2 Observers now.</entry>
+<entry timestamp="2020-02-07#14:58:55" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO">Observer Added:inputCoordinator.ui.panel. 2 Observers now.</entry>
+<entry timestamp="2020-02-07#14:58:55" user="Rebo4AI_debug-scenario-googlemap.client" level="INFO">Observer Added:client.ui.panel. 2 Observers now.</entry>
+<entry timestamp="2020-02-07#14:58:55" user="Rebo4AI_debug-scenario-googlemap.outputCoordinator" level="INFO">Observer Added:outputCoordinator.ui.panel. 2 Observers now.</entry>
+<entry timestamp="2020-02-07#14:58:55" user="(client->inputCoordinator)" level="NORMAL">Observer Added:(client->inputCoordinator).ui.panel</entry>
+<entry timestamp="2020-02-07#14:58:55" user="(inputCoordinator->inputCoordinator)" level="NORMAL">Observer Added:(inputCoordinator->inputCoordinator).ui.panel</entry>
+<entry timestamp="2020-02-07#14:58:55" user="(inputCoordinator->outputCoordinator)" level="NORMAL">Observer Added:(inputCoordinator->outputCoordinator).ui.panel</entry>
+<entry timestamp="2020-02-07#14:58:55" user="(outputCoordinator->client)" level="NORMAL">Observer Added:(outputCoordinator->client).ui.panel</entry>
+<entry timestamp="2020-02-07#14:58:56" user="PlanExecutor" level="NORMAL"><configuration planfile="plans/plan_steps.xml"></entry>
+<entry timestamp="2020-02-07#14:58:56" user="PlanExecutor" level="ERROR">PlanExecutor: Can't do that...java.io.IOException: The system cannot find the path specified</entry>
+<entry timestamp="2020-02-07#14:58:56" user="PlanExecutor" level="ERROR">Error while reading Status File (java.io.FileNotFoundException: planstatus\Rebo4AI_debug-scenario-googlemap.planstatus.txt (The system cannot find the path specified))</entry>
+<entry timestamp="2020-02-07#14:58:56" user="Rebo4AI_debug-scenario-googlemap.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="0" initiated="false">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+</State></commit></entry>
+<entry timestamp="2020-02-07#14:58:56" user="Rebo4AI_debug-scenario-googlemap.AGENT" level="NORMAL"><starting>Initializing each component</starting></entry>
+<entry timestamp="2020-02-07#14:58:56" user="Rebo4AI_debug-scenario-googlemap.stateMemory" level="INFO">Informing 2 Observers of STARTED</entry>
+<entry timestamp="2020-02-07#14:58:56" user="Rebo4AI_debug-scenario-googlemap.stateMemory" level="NORMAL"><initialized>stateMemory</initialized></entry>
+<entry timestamp="2020-02-07#14:58:56" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO">Informing 2 Observers of STARTED</entry>
+<entry timestamp="2020-02-07#14:58:56" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="NORMAL"><initialized>inputCoordinator</initialized></entry>
+<entry timestamp="2020-02-07#14:58:56" user="Rebo4AI_debug-scenario-googlemap.client" level="INFO">Informing 2 Observers of STARTED</entry>
+<entry timestamp="2020-02-07#14:58:56" user="Rebo4AI_debug-scenario-googlemap.client" level="NORMAL"><initialized>client</initialized></entry>
+<entry timestamp="2020-02-07#14:58:56" user="Rebo4AI_debug-scenario-googlemap.outputCoordinator" level="INFO">Informing 2 Observers of STARTED</entry>
+<entry timestamp="2020-02-07#14:58:56" user="Rebo4AI_debug-scenario-googlemap.outputCoordinator" level="NORMAL"><initialized>outputCoordinator</initialized></entry>
+<entry timestamp="2020-02-07#14:58:56" user="Rebo4AI_debug-scenario-googlemap.AGENT" level="NORMAL"><starting>All components initialized</starting></entry>
+<entry timestamp="2020-02-07#14:58:56" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO">Observer Added:frame0. 3 Observers now.</entry>
+<entry timestamp="2020-02-07#14:58:56" user="Rebo4AI_debug-scenario-googlemap.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-07#14:58:56" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2020-02-07#14:58:56" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2020-02-07#14:58:56" user="Rebo4AI_debug-scenario-googlemap.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-07#14:58:56" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO"><processing name="PRESENCE_EVENT" from="client">Presence: debugger is now PRESENT</processing></entry>
+<entry timestamp="2020-02-07#14:58:56" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="NORMAL">InputCoordinator received event: Presence: debugger is now PRESENT</entry>
+<entry timestamp="2020-02-07#14:58:56" user="Rebo4AI_debug-scenario-googlemap.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="0" initiated="false">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+</State></retrieve></entry>
+<entry timestamp="2020-02-07#14:58:56" user="Rebo4AI_debug-scenario-googlemap.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="1" initiated="false">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="debugger" name="debugger" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2020-02-07#14:58:56" user="Rebo4AI_debug-scenario-googlemap.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="false">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="debugger" name="debugger" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2020-02-07#14:58:56" user="Rebo4AI_debug-scenario-googlemap.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="debugger" name="debugger" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2020-02-07#14:58:56" user="PlanExecutor" level="NORMAL">Plan: <stage name="initiate" timeout="0">set</stage></entry>
+<entry timestamp="2020-02-07#14:58:56" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-07#14:58:56" user="Rebo4AI_debug-scenario-googlemap.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-07#14:58:56" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="NORMAL">Events After Preprocessing: [Presence: debugger is now PRESENT]</entry>
+<entry timestamp="2020-02-07#14:58:56" user="Rebo4AI_debug-scenario-googlemap.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="null" type="null" />
+	<Step name="null" type="null"/>
+	<student id="debugger" name="debugger" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2020-02-07#14:58:56" user="Rebo4AI_debug-scenario-googlemap.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="1" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="FIRST_REBO_TALK" type="dialogue"/>
+	<student id="debugger" name="debugger" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2020-02-07#14:58:56" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-07#14:58:56" user="Rebo4AI_debug-scenario-googlemap.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-07#14:58:56" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="NORMAL"><dispatching to="inputCoordinator">DO_TUTORING_EVENT</dispatching></entry>
+<entry timestamp="2020-02-07#14:58:56" user="(inputCoordinator->inputCoordinator)" level="INFO">Communicate DO_TUTORING_EVENT from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2020-02-07#14:58:56" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO"><processed name="PRESENCE_EVENT" from="client"></processed></entry>
+<entry timestamp="2020-02-07#14:58:56" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO"><queued name="DO_TUTORING_EVENT" from="inputCoordinator"></queued></entry>
+<entry timestamp="2020-02-07#14:58:56" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO">Informing 3 Observers of Event Sending</entry>
+<entry timestamp="2020-02-07#14:58:56" user="PlanExecutor" level="ERROR">Error while updating Status File (java.io.FileNotFoundException: planstatus\Rebo4AI_debug-scenario-googlemap.planstatus.txt (The system cannot find the path specified))</entry>
+<entry timestamp="2020-02-07#14:58:56" user="Rebo4AI_debug-scenario-googlemap.client" level="INFO"><broadcasting>PRESENCE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-07#14:58:56" user="(client->inputCoordinator)" level="INFO">Communicate PRESENCE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2020-02-07#14:58:56" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO"><queued name="PRESENCE_EVENT" from="client"></queued></entry>
+<entry timestamp="2020-02-07#14:58:56" user="Rebo4AI_debug-scenario-googlemap.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-07#14:58:56" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO"><processing name="DO_TUTORING_EVENT" from="inputCoordinator">Do Tutoring concept=REBO4AI</processing></entry>
+<entry timestamp="2020-02-07#14:58:56" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="NORMAL">InputCoordinator received event: Do Tutoring concept=REBO4AI</entry>
+<entry timestamp="2020-02-07#14:58:56" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="NORMAL">Events After Preprocessing: [Do Tutoring concept=REBO4AI]</entry>
+<entry timestamp="2020-02-07#14:58:56" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-07#14:58:56" user="Rebo4AI_debug-scenario-googlemap.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-07#14:58:56" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO"><processed name="DO_TUTORING_EVENT" from="inputCoordinator"></processed></entry>
+<entry timestamp="2020-02-07#14:58:56" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO"><processing name="PRESENCE_EVENT" from="client">Presence: Rebo4AI is now PRESENT</processing></entry>
+<entry timestamp="2020-02-07#14:58:56" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="NORMAL">InputCoordinator received event: Presence: Rebo4AI is now PRESENT</entry>
+<entry timestamp="2020-02-07#14:58:56" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="NORMAL">Events After Preprocessing: [Presence: Rebo4AI is now PRESENT]</entry>
+<entry timestamp="2020-02-07#14:58:56" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-07#14:58:56" user="Rebo4AI_debug-scenario-googlemap.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-07#14:58:56" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO"><processed name="PRESENCE_EVENT" from="client"></processed></entry>
+<entry timestamp="2020-02-07#14:58:57" user="Rebo4AI_debug-scenario-googlemap.outputCoordinator" level="INFO">Proposal Queue: [Message from Rebo4AI: Hi REBO4AIdebugger! TUTOR]</entry>
+<entry timestamp="2020-02-07#14:58:57" user="Rebo4AI_debug-scenario-googlemap.outputCoordinator" level="INFO">Proposal Message from Rebo4AI: Hi REBO4AIdebugger! TUTORbelief*priority: 1.0*0.75=0.75</entry>
+<entry timestamp="2020-02-07#14:58:57" user="Rebo4AI_debug-scenario-googlemap.outputCoordinator" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-07#14:58:57" user="(outputCoordinator->client)" level="INFO">Communicate MESSAGE_EVENT from outputCoordinator to client</entry>
+<entry timestamp="2020-02-07#14:58:57" user="Rebo4AI_debug-scenario-googlemap.client" level="INFO"><queued name="MESSAGE_EVENT" from="outputCoordinator"></queued></entry>
+<entry timestamp="2020-02-07#14:58:57" user="Rebo4AI_debug-scenario-googlemap.outputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-07#14:58:57" user="Rebo4AI_debug-scenario-googlemap.client" level="INFO"><processing name="MESSAGE_EVENT" from="outputCoordinator">Message from Rebo4AI: Hi REBO4AIdebugger! TUTOR</processing></entry>
+<entry timestamp="2020-02-07#14:58:57" user="Rebo4AI_debug-scenario-googlemap.client" level="INFO"><processed name="MESSAGE_EVENT" from="outputCoordinator"></processed></entry>
+<entry timestamp="2020-02-07#14:58:57" user="Rebo4AI_debug-scenario-googlemap.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-07#14:58:57" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2020-02-07#14:58:57" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2020-02-07#14:58:57" user="Rebo4AI_debug-scenario-googlemap.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-07#14:58:57" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from Rebo4AI: Hi REBO4AIdebugger! </processing></entry>
+<entry timestamp="2020-02-07#14:58:57" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from Rebo4AI: Hi REBO4AIdebugger! </entry>
+<entry timestamp="2020-02-07#14:58:57" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="NORMAL">Events After Preprocessing: [Echo: Message from Rebo4AI: Hi REBO4AIdebugger! ]</entry>
+<entry timestamp="2020-02-07#14:58:57" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-07#14:58:57" user="Rebo4AI_debug-scenario-googlemap.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-07#14:58:57" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2020-02-07#14:59:05" user="Rebo4AI_debug-scenario-googlemap.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-07#14:59:05" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2020-02-07#14:59:05" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2020-02-07#14:59:05" user="Rebo4AI_debug-scenario-googlemap.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-07#14:59:05" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from debugger: hi </processing></entry>
+<entry timestamp="2020-02-07#14:59:05" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from debugger: hi </entry>
+<entry timestamp="2020-02-07#14:59:05" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="NORMAL">Events After Preprocessing: [Message from debugger: hi GREETING]</entry>
+<entry timestamp="2020-02-07#14:59:05" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="NORMAL"><dispatching to="inputCoordinator">TUTORING_STARTED_EVENT</dispatching></entry>
+<entry timestamp="2020-02-07#14:59:05" user="(inputCoordinator->inputCoordinator)" level="INFO">Communicate TUTORING_STARTED_EVENT from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2020-02-07#14:59:05" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO"><queued name="TUTORING_STARTED_EVENT" from="inputCoordinator"></queued></entry>
+<entry timestamp="2020-02-07#14:59:05" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO">Informing 3 Observers of Event Sending</entry>
+<entry timestamp="2020-02-07#14:59:05" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-07#14:59:05" user="Rebo4AI_debug-scenario-googlemap.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-07#14:59:05" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2020-02-07#14:59:05" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO"><processing name="TUTORING_STARTED_EVENT" from="inputCoordinator">TutoringStartedEvent: scenario=scenario-rebo4ai, concept=REBO4AI</processing></entry>
+<entry timestamp="2020-02-07#14:59:05" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="NORMAL">InputCoordinator received event: TutoringStartedEvent: scenario=scenario-rebo4ai, concept=REBO4AI</entry>
+<entry timestamp="2020-02-07#14:59:05" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="NORMAL">Events After Preprocessing: [TutoringStartedEvent: scenario=scenario-rebo4ai, concept=REBO4AI]</entry>
+<entry timestamp="2020-02-07#14:59:05" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="NORMAL"><dispatching to="inputCoordinator">TUTOR_TURNS_EVENT</dispatching></entry>
+<entry timestamp="2020-02-07#14:59:05" user="(inputCoordinator->inputCoordinator)" level="INFO">Communicate TUTOR_TURNS_EVENT from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2020-02-07#14:59:05" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO"><queued name="TUTOR_TURNS_EVENT" from="inputCoordinator"></queued></entry>
+<entry timestamp="2020-02-07#14:59:05" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO">Informing 3 Observers of Event Sending</entry>
+<entry timestamp="2020-02-07#14:59:05" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-07#14:59:05" user="Rebo4AI_debug-scenario-googlemap.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-07#14:59:05" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO"><processed name="TUTORING_STARTED_EVENT" from="inputCoordinator"></processed></entry>
+<entry timestamp="2020-02-07#14:59:05" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO"><processing name="TUTOR_TURNS_EVENT" from="inputCoordinator">Tutor Turns (2):
+{
+	I'm Rebo4AI and here to talk about various perspectives on how AI is important in your life, the impact of AI on your life, and your own role in interacting with AI-based technologies.
+	Now, do you have a good feeling about AI?
+}</processing></entry>
+<entry timestamp="2020-02-07#14:59:05" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="NORMAL">InputCoordinator received event: Tutor Turns (2):
+{
+	I'm Rebo4AI and here to talk about various perspectives on how AI is important in your life, the impact of AI on your life, and your own role in interacting with AI-based technologies.
+	Now, do you have a good feeling about AI?
+}</entry>
+<entry timestamp="2020-02-07#14:59:05" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="NORMAL">Events After Preprocessing: [Tutor Turns (2):
+{
+	I'm Rebo4AI and here to talk about various perspectives on how AI is important in your life, the impact of AI on your life, and your own role in interacting with AI-based technologies.
+	Now, do you have a good feeling about AI?
+}]</entry>
+<entry timestamp="2020-02-07#14:59:05" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-07#14:59:05" user="Rebo4AI_debug-scenario-googlemap.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-07#14:59:05" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO"><processed name="TUTOR_TURNS_EVENT" from="inputCoordinator"></processed></entry>
+<entry timestamp="2020-02-07#14:59:05" user="Rebo4AI_debug-scenario-googlemap.outputCoordinator" level="INFO">Proposal Queue: [Message from Rebo4AI: Let's get started. TUTOR, Message from Rebo4AI: I'm Rebo4AI and here to talk about various perspectives on how AI is important in your life, the impact of AI on your life, and your own role in interacting with AI-based technologies.|Now, do you have a good feeling about AI? TUTOR]</entry>
+<entry timestamp="2020-02-07#14:59:05" user="Rebo4AI_debug-scenario-googlemap.outputCoordinator" level="INFO">Proposal Message from Rebo4AI: Let's get started. TUTORbelief*priority: 0.9997499999999999*0.75=0.75</entry>
+<entry timestamp="2020-02-07#14:59:05" user="Rebo4AI_debug-scenario-googlemap.outputCoordinator" level="INFO">Proposal Message from Rebo4AI: I'm Rebo4AI and here to talk about various perspectives on how AI is important in your life, the impact of AI on your life, and your own role in interacting with AI-based technologies.|Now, do you have a good feeling about AI? TUTORbelief*priority: 0.9997499999999999*0.75=0.75</entry>
+<entry timestamp="2020-02-07#14:59:05" user="Rebo4AI_debug-scenario-googlemap.outputCoordinator" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-07#14:59:05" user="(outputCoordinator->client)" level="INFO">Communicate MESSAGE_EVENT from outputCoordinator to client</entry>
+<entry timestamp="2020-02-07#14:59:05" user="Rebo4AI_debug-scenario-googlemap.client" level="INFO"><queued name="MESSAGE_EVENT" from="outputCoordinator"></queued></entry>
+<entry timestamp="2020-02-07#14:59:05" user="Rebo4AI_debug-scenario-googlemap.outputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-07#14:59:05" user="Rebo4AI_debug-scenario-googlemap.client" level="INFO"><processing name="MESSAGE_EVENT" from="outputCoordinator">Message from Rebo4AI: Let's get started. TUTOR</processing></entry>
+<entry timestamp="2020-02-07#14:59:05" user="Rebo4AI_debug-scenario-googlemap.client" level="INFO"><processed name="MESSAGE_EVENT" from="outputCoordinator"></processed></entry>
+<entry timestamp="2020-02-07#14:59:05" user="Rebo4AI_debug-scenario-googlemap.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-07#14:59:05" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2020-02-07#14:59:05" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2020-02-07#14:59:05" user="Rebo4AI_debug-scenario-googlemap.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-07#14:59:06" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from Rebo4AI: Let's get started. </processing></entry>
+<entry timestamp="2020-02-07#14:59:06" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from Rebo4AI: Let's get started. </entry>
+<entry timestamp="2020-02-07#14:59:06" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="NORMAL">Events After Preprocessing: [Echo: Message from Rebo4AI: Let's get started. ]</entry>
+<entry timestamp="2020-02-07#14:59:06" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-07#14:59:06" user="Rebo4AI_debug-scenario-googlemap.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-07#14:59:06" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2020-02-07#14:59:06" user="Rebo4AI_debug-scenario-googlemap.stateMemory" level="INFO">Informing 2 Observers of <retrieve position="0"><State students="1" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="FIRST_REBO_TALK" type="dialogue"/>
+	<student id="debugger" name="debugger" role="UNASSIGNED" present="true" /></State></retrieve></entry>
+<entry timestamp="2020-02-07#14:59:06" user="Rebo4AI_debug-scenario-googlemap.stateMemory" level="INFO">Informing 2 Observers of <commit type="basilica2.agents.data.State"><State students="1" initiated="true">
+	<Stage name="initiate" type="other" />
+	<Step name="FIRST_REBO_TALK" type="dialogue"/>
+	<student id="debugger" name="debugger" role="UNASSIGNED" present="true" /></State></commit></entry>
+<entry timestamp="2020-02-07#14:59:06" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="NORMAL"><dispatching to="inputCoordinator">DO_TUTORING_EVENT</dispatching></entry>
+<entry timestamp="2020-02-07#14:59:06" user="(inputCoordinator->inputCoordinator)" level="INFO">Communicate DO_TUTORING_EVENT from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2020-02-07#14:59:06" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO"><queued name="DO_TUTORING_EVENT" from="inputCoordinator"></queued></entry>
+<entry timestamp="2020-02-07#14:59:06" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO">Informing 3 Observers of Event Sending</entry>
+<entry timestamp="2020-02-07#14:59:06" user="PlanExecutor" level="ERROR">Error while updating Status File (java.io.FileNotFoundException: planstatus\Rebo4AI_debug-scenario-googlemap.planstatus.txt (The system cannot find the path specified))</entry>
+<entry timestamp="2020-02-07#14:59:06" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO"><processing name="DO_TUTORING_EVENT" from="inputCoordinator">Do Tutoring concept=GENERAL_AI</processing></entry>
+<entry timestamp="2020-02-07#14:59:06" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="NORMAL">InputCoordinator received event: Do Tutoring concept=GENERAL_AI</entry>
+<entry timestamp="2020-02-07#14:59:06" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="NORMAL">Events After Preprocessing: [Do Tutoring concept=GENERAL_AI]</entry>
+<entry timestamp="2020-02-07#14:59:06" user="TutorActor" level="WARNING">Won't start dialogue GENERAL_AI while current dialog is running - ask again later!</entry>
+<entry timestamp="2020-02-07#14:59:06" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-07#14:59:06" user="Rebo4AI_debug-scenario-googlemap.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-07#14:59:06" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO"><processed name="DO_TUTORING_EVENT" from="inputCoordinator"></processed></entry>
+<entry timestamp="2020-02-07#14:59:07" user="Rebo4AI_debug-scenario-googlemap.outputCoordinator" level="INFO">Proposal Queue: [Message from Rebo4AI: I'm Rebo4AI and here to talk about various perspectives on how AI is important in your life, the impact of AI on your life, and your own role in interacting with AI-based technologies.|Now, do you have a good feeling about AI? TUTOR]</entry>
+<entry timestamp="2020-02-07#14:59:07" user="Rebo4AI_debug-scenario-googlemap.outputCoordinator" level="INFO">Proposal Message from Rebo4AI: I'm Rebo4AI and here to talk about various perspectives on how AI is important in your life, the impact of AI on your life, and your own role in interacting with AI-based technologies.|Now, do you have a good feeling about AI? TUTORbelief*priority: 0.9995000624999998*0.75=0.75</entry>
+<entry timestamp="2020-02-07#14:59:07" user="Rebo4AI_debug-scenario-googlemap.outputCoordinator" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-07#14:59:07" user="(outputCoordinator->client)" level="INFO">Communicate MESSAGE_EVENT from outputCoordinator to client</entry>
+<entry timestamp="2020-02-07#14:59:07" user="Rebo4AI_debug-scenario-googlemap.client" level="INFO"><queued name="MESSAGE_EVENT" from="outputCoordinator"></queued></entry>
+<entry timestamp="2020-02-07#14:59:07" user="Rebo4AI_debug-scenario-googlemap.outputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-07#14:59:07" user="Rebo4AI_debug-scenario-googlemap.outputCoordinator" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-07#14:59:07" user="(outputCoordinator->client)" level="INFO">Communicate MESSAGE_EVENT from outputCoordinator to client</entry>
+<entry timestamp="2020-02-07#14:59:07" user="Rebo4AI_debug-scenario-googlemap.client" level="INFO"><queued name="MESSAGE_EVENT" from="outputCoordinator"></queued></entry>
+<entry timestamp="2020-02-07#14:59:07" user="Rebo4AI_debug-scenario-googlemap.outputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-07#14:59:07" user="Rebo4AI_debug-scenario-googlemap.client" level="INFO"><processing name="MESSAGE_EVENT" from="outputCoordinator">Message from Rebo4AI: I'm Rebo4AI and here to talk about various perspectives on how AI is important in your life, the impact of AI on your life, and your own role in interacting with AI-based technologies. TUTOR</processing></entry>
+<entry timestamp="2020-02-07#14:59:07" user="Rebo4AI_debug-scenario-googlemap.client" level="INFO"><processed name="MESSAGE_EVENT" from="outputCoordinator"></processed></entry>
+<entry timestamp="2020-02-07#14:59:07" user="Rebo4AI_debug-scenario-googlemap.client" level="INFO"><processing name="MESSAGE_EVENT" from="outputCoordinator">Message from Rebo4AI: Now, do you have a good feeling about AI? TUTOR</processing></entry>
+<entry timestamp="2020-02-07#14:59:07" user="Rebo4AI_debug-scenario-googlemap.client" level="INFO"><processed name="MESSAGE_EVENT" from="outputCoordinator"></processed></entry>
+<entry timestamp="2020-02-07#14:59:08" user="Rebo4AI_debug-scenario-googlemap.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-07#14:59:08" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2020-02-07#14:59:08" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2020-02-07#14:59:08" user="Rebo4AI_debug-scenario-googlemap.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-07#14:59:08" user="Rebo4AI_debug-scenario-googlemap.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-07#14:59:08" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2020-02-07#14:59:08" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2020-02-07#14:59:08" user="Rebo4AI_debug-scenario-googlemap.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-07#14:59:08" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from Rebo4AI: I'm Rebo4AI and here to talk about various perspectives on how AI is important in your life, the impact of AI on your life, and your own role in interacting with AI-based technologies. </processing></entry>
+<entry timestamp="2020-02-07#14:59:08" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from Rebo4AI: I'm Rebo4AI and here to talk about various perspectives on how AI is important in your life, the impact of AI on your life, and your own role in interacting with AI-based technologies. </entry>
+<entry timestamp="2020-02-07#14:59:08" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="NORMAL">Events After Preprocessing: [Echo: Message from Rebo4AI: I'm Rebo4AI and here to talk about various perspectives on how AI is important in your life, the impact of AI on your life, and your own role in interacting with AI-based technologies. ]</entry>
+<entry timestamp="2020-02-07#14:59:08" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-07#14:59:08" user="Rebo4AI_debug-scenario-googlemap.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-07#14:59:08" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2020-02-07#14:59:08" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from Rebo4AI: Now, do you have a good feeling about AI? </processing></entry>
+<entry timestamp="2020-02-07#14:59:08" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from Rebo4AI: Now, do you have a good feeling about AI? </entry>
+<entry timestamp="2020-02-07#14:59:08" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="NORMAL">Events After Preprocessing: [Echo: Message from Rebo4AI: Now, do you have a good feeling about AI? ]</entry>
+<entry timestamp="2020-02-07#14:59:08" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-07#14:59:08" user="Rebo4AI_debug-scenario-googlemap.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-07#14:59:08" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2020-02-07#14:59:33" user="Rebo4AI_debug-scenario-googlemap.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-07#14:59:33" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2020-02-07#14:59:33" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2020-02-07#14:59:33" user="Rebo4AI_debug-scenario-googlemap.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-07#14:59:33" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from debugger: ddsss </processing></entry>
+<entry timestamp="2020-02-07#14:59:33" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from debugger: ddsss </entry>
+<entry timestamp="2020-02-07#14:59:33" user="TutorTurnWatcher" level="ERROR">Error while updating Episode Log File (java.io.FileNotFoundException: behaviors\episodes\Rebo4AI_debug-scenario-googlemap.episodes.txt (The system cannot find the path specified))</entry>
+<entry timestamp="2020-02-07#14:59:33" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="NORMAL">Events After Preprocessing: [Message from debugger: ddsss ]</entry>
+<entry timestamp="2020-02-07#14:59:33" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-07#14:59:33" user="Rebo4AI_debug-scenario-googlemap.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-07#14:59:33" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2020-02-07#14:59:36" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="NORMAL"><dispatching to="inputCoordinator">TUTOR_TURNS_EVENT</dispatching></entry>
+<entry timestamp="2020-02-07#14:59:36" user="(inputCoordinator->inputCoordinator)" level="INFO">Communicate TUTOR_TURNS_EVENT from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2020-02-07#14:59:36" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO"><queued name="TUTOR_TURNS_EVENT" from="inputCoordinator"></queued></entry>
+<entry timestamp="2020-02-07#14:59:36" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO">Informing 3 Observers of Event Sending</entry>
+<entry timestamp="2020-02-07#14:59:36" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-07#14:59:36" user="Rebo4AI_debug-scenario-googlemap.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-07#14:59:36" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO"><processing name="TUTOR_TURNS_EVENT" from="inputCoordinator">Tutor Turns (1):
+{
+	Could you explain more about your feeling? Why do you like or dislike it?
+}</processing></entry>
+<entry timestamp="2020-02-07#14:59:36" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="NORMAL">InputCoordinator received event: Tutor Turns (1):
+{
+	Could you explain more about your feeling? Why do you like or dislike it?
+}</entry>
+<entry timestamp="2020-02-07#14:59:36" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="NORMAL">Events After Preprocessing: [Tutor Turns (1):
+{
+	Could you explain more about your feeling? Why do you like or dislike it?
+}]</entry>
+<entry timestamp="2020-02-07#14:59:36" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-07#14:59:36" user="Rebo4AI_debug-scenario-googlemap.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-07#14:59:36" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO"><processed name="TUTOR_TURNS_EVENT" from="inputCoordinator"></processed></entry>
+<entry timestamp="2020-02-07#14:59:37" user="Rebo4AI_debug-scenario-googlemap.outputCoordinator" level="INFO">Proposal Queue: [Message from Rebo4AI: Could you explain more about your feeling? Why do you like or dislike it? TUTOR]</entry>
+<entry timestamp="2020-02-07#14:59:37" user="Rebo4AI_debug-scenario-googlemap.outputCoordinator" level="INFO">Proposal Message from Rebo4AI: Could you explain more about your feeling? Why do you like or dislike it? TUTORbelief*priority: 0.9992501874843747*0.75=0.75</entry>
+<entry timestamp="2020-02-07#14:59:37" user="Rebo4AI_debug-scenario-googlemap.outputCoordinator" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-07#14:59:37" user="(outputCoordinator->client)" level="INFO">Communicate MESSAGE_EVENT from outputCoordinator to client</entry>
+<entry timestamp="2020-02-07#14:59:37" user="Rebo4AI_debug-scenario-googlemap.client" level="INFO"><queued name="MESSAGE_EVENT" from="outputCoordinator"></queued></entry>
+<entry timestamp="2020-02-07#14:59:37" user="Rebo4AI_debug-scenario-googlemap.outputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-07#14:59:38" user="Rebo4AI_debug-scenario-googlemap.client" level="INFO"><processing name="MESSAGE_EVENT" from="outputCoordinator">Message from Rebo4AI: Could you explain more about your feeling? Why do you like or dislike it? TUTOR</processing></entry>
+<entry timestamp="2020-02-07#14:59:38" user="Rebo4AI_debug-scenario-googlemap.client" level="INFO"><processed name="MESSAGE_EVENT" from="outputCoordinator"></processed></entry>
+<entry timestamp="2020-02-07#14:59:38" user="Rebo4AI_debug-scenario-googlemap.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-07#14:59:38" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2020-02-07#14:59:38" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2020-02-07#14:59:38" user="Rebo4AI_debug-scenario-googlemap.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-07#14:59:38" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from Rebo4AI: Could you explain more about your feeling? Why do you like or dislike it? </processing></entry>
+<entry timestamp="2020-02-07#14:59:38" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from Rebo4AI: Could you explain more about your feeling? Why do you like or dislike it? </entry>
+<entry timestamp="2020-02-07#14:59:38" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="NORMAL">Events After Preprocessing: [Echo: Message from Rebo4AI: Could you explain more about your feeling? Why do you like or dislike it? ]</entry>
+<entry timestamp="2020-02-07#14:59:38" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-07#14:59:38" user="Rebo4AI_debug-scenario-googlemap.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-07#14:59:38" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2020-02-07#14:59:40" user="Rebo4AI_debug-scenario-googlemap.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-07#14:59:40" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2020-02-07#14:59:40" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2020-02-07#14:59:40" user="Rebo4AI_debug-scenario-googlemap.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-07#14:59:40" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from debugger: sfffffffffffffffffffffffffffvf </processing></entry>
+<entry timestamp="2020-02-07#14:59:40" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from debugger: sfffffffffffffffffffffffffffvf </entry>
+<entry timestamp="2020-02-07#14:59:40" user="TutorTurnWatcher" level="ERROR">Error while updating Episode Log File (java.io.FileNotFoundException: behaviors\episodes\Rebo4AI_debug-scenario-googlemap.episodes.txt (The system cannot find the path specified))</entry>
+<entry timestamp="2020-02-07#14:59:40" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="NORMAL">Events After Preprocessing: [Message from debugger: sfffffffffffffffffffffffffffvf ]</entry>
+<entry timestamp="2020-02-07#14:59:40" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-07#14:59:40" user="Rebo4AI_debug-scenario-googlemap.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-07#14:59:40" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2020-02-07#14:59:41" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="NORMAL"><dispatching to="inputCoordinator">TUTOR_TURNS_EVENT</dispatching></entry>
+<entry timestamp="2020-02-07#14:59:41" user="(inputCoordinator->inputCoordinator)" level="INFO">Communicate TUTOR_TURNS_EVENT from inputCoordinator to inputCoordinator</entry>
+<entry timestamp="2020-02-07#14:59:41" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO"><queued name="TUTOR_TURNS_EVENT" from="inputCoordinator"></queued></entry>
+<entry timestamp="2020-02-07#14:59:41" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO">Informing 3 Observers of Event Sending</entry>
+<entry timestamp="2020-02-07#14:59:41" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-07#14:59:41" user="Rebo4AI_debug-scenario-googlemap.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-07#14:59:41" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO"><processing name="TUTOR_TURNS_EVENT" from="inputCoordinator">Tutor Turns (2):
+{
+	Please write whole sentences.
+	How do you see AI affecting you in the future?
+}</processing></entry>
+<entry timestamp="2020-02-07#14:59:41" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="NORMAL">InputCoordinator received event: Tutor Turns (2):
+{
+	Please write whole sentences.
+	How do you see AI affecting you in the future?
+}</entry>
+<entry timestamp="2020-02-07#14:59:41" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="NORMAL">Events After Preprocessing: [Tutor Turns (2):
+{
+	Please write whole sentences.
+	How do you see AI affecting you in the future?
+}]</entry>
+<entry timestamp="2020-02-07#14:59:41" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-07#14:59:41" user="Rebo4AI_debug-scenario-googlemap.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-07#14:59:41" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO"><processed name="TUTOR_TURNS_EVENT" from="inputCoordinator"></processed></entry>
+<entry timestamp="2020-02-07#14:59:41" user="Rebo4AI_debug-scenario-googlemap.outputCoordinator" level="INFO">Proposal Queue: [Message from Rebo4AI: Please write whole sentences.|How do you see AI affecting you in the future? TUTOR]</entry>
+<entry timestamp="2020-02-07#14:59:41" user="Rebo4AI_debug-scenario-googlemap.outputCoordinator" level="INFO">Proposal Message from Rebo4AI: Please write whole sentences.|How do you see AI affecting you in the future? TUTORbelief*priority: 0.9990003749375035*0.75=0.75</entry>
+<entry timestamp="2020-02-07#14:59:41" user="Rebo4AI_debug-scenario-googlemap.outputCoordinator" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-07#14:59:41" user="(outputCoordinator->client)" level="INFO">Communicate MESSAGE_EVENT from outputCoordinator to client</entry>
+<entry timestamp="2020-02-07#14:59:41" user="Rebo4AI_debug-scenario-googlemap.client" level="INFO"><queued name="MESSAGE_EVENT" from="outputCoordinator"></queued></entry>
+<entry timestamp="2020-02-07#14:59:41" user="Rebo4AI_debug-scenario-googlemap.outputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-07#14:59:41" user="Rebo4AI_debug-scenario-googlemap.outputCoordinator" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-07#14:59:41" user="(outputCoordinator->client)" level="INFO">Communicate MESSAGE_EVENT from outputCoordinator to client</entry>
+<entry timestamp="2020-02-07#14:59:41" user="Rebo4AI_debug-scenario-googlemap.client" level="INFO"><queued name="MESSAGE_EVENT" from="outputCoordinator"></queued></entry>
+<entry timestamp="2020-02-07#14:59:41" user="Rebo4AI_debug-scenario-googlemap.outputCoordinator" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-07#14:59:42" user="Rebo4AI_debug-scenario-googlemap.client" level="INFO"><processing name="MESSAGE_EVENT" from="outputCoordinator">Message from Rebo4AI: Please write whole sentences. TUTOR</processing></entry>
+<entry timestamp="2020-02-07#14:59:42" user="Rebo4AI_debug-scenario-googlemap.client" level="INFO"><processed name="MESSAGE_EVENT" from="outputCoordinator"></processed></entry>
+<entry timestamp="2020-02-07#14:59:42" user="Rebo4AI_debug-scenario-googlemap.client" level="INFO"><processing name="MESSAGE_EVENT" from="outputCoordinator">Message from Rebo4AI: How do you see AI affecting you in the future? TUTOR</processing></entry>
+<entry timestamp="2020-02-07#14:59:42" user="Rebo4AI_debug-scenario-googlemap.client" level="INFO"><processed name="MESSAGE_EVENT" from="outputCoordinator"></processed></entry>
+<entry timestamp="2020-02-07#14:59:42" user="Rebo4AI_debug-scenario-googlemap.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-07#14:59:42" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2020-02-07#14:59:42" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2020-02-07#14:59:42" user="Rebo4AI_debug-scenario-googlemap.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-07#14:59:42" user="Rebo4AI_debug-scenario-googlemap.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-07#14:59:42" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2020-02-07#14:59:42" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2020-02-07#14:59:42" user="Rebo4AI_debug-scenario-googlemap.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-07#14:59:42" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from Rebo4AI: Please write whole sentences. </processing></entry>
+<entry timestamp="2020-02-07#14:59:42" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from Rebo4AI: Please write whole sentences. </entry>
+<entry timestamp="2020-02-07#14:59:42" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="NORMAL">Events After Preprocessing: [Echo: Message from Rebo4AI: Please write whole sentences. ]</entry>
+<entry timestamp="2020-02-07#14:59:42" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-07#14:59:42" user="Rebo4AI_debug-scenario-googlemap.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-07#14:59:42" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2020-02-07#14:59:42" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from Rebo4AI: How do you see AI affecting you in the future? </processing></entry>
+<entry timestamp="2020-02-07#14:59:42" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from Rebo4AI: How do you see AI affecting you in the future? </entry>
+<entry timestamp="2020-02-07#14:59:42" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="NORMAL">Events After Preprocessing: [Echo: Message from Rebo4AI: How do you see AI affecting you in the future? ]</entry>
+<entry timestamp="2020-02-07#14:59:42" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-07#14:59:42" user="Rebo4AI_debug-scenario-googlemap.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-07#14:59:42" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2020-02-07#14:59:45" user="Rebo4AI_debug-scenario-googlemap.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-07#14:59:45" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2020-02-07#14:59:45" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2020-02-07#14:59:45" user="Rebo4AI_debug-scenario-googlemap.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-07#14:59:45" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from debugger: s "type" determines which StepHandler handles the step - see PlanExecutor.properties.-->
+		<!-- "timeout" for a step is an upper-bound duration for the step, afte </processing></entry>
+<entry timestamp="2020-02-07#14:59:45" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from debugger: s "type" determines which StepHandler handles the step - see PlanExecutor.properties.-->
+		<!-- "timeout" for a step is an upper-bound duration for the step, afte </entry>
+<entry timestamp="2020-02-07#14:59:45" user="TutorTurnWatcher" level="ERROR">Error while updating Episode Log File (java.io.FileNotFoundException: behaviors\episodes\Rebo4AI_debug-scenario-googlemap.episodes.txt (The system cannot find the path specified))</entry>
+<entry timestamp="2020-02-07#14:59:45" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="NORMAL">Events After Preprocessing: [Message from debugger: s "type" determines which StepHandler handles the step - see PlanExecutor.properties.-->
+		<!-- "timeout" for a step is an upper-bound duration for the step, afte ]</entry>
+<entry timestamp="2020-02-07#14:59:45" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-07#14:59:45" user="Rebo4AI_debug-scenario-googlemap.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-07#14:59:45" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2020-02-07#15:00:06" user="Rebo4AI_debug-scenario-googlemap.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-07#15:00:06" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2020-02-07#15:00:06" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2020-02-07#15:00:06" user="Rebo4AI_debug-scenario-googlemap.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-07#15:00:06" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from debugger: ddssfv </processing></entry>
+<entry timestamp="2020-02-07#15:00:06" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from debugger: ddssfv </entry>
+<entry timestamp="2020-02-07#15:00:06" user="TutorTurnWatcher" level="ERROR">Error while updating Episode Log File (java.io.FileNotFoundException: behaviors\episodes\Rebo4AI_debug-scenario-googlemap.episodes.txt (The system cannot find the path specified))</entry>
+<entry timestamp="2020-02-07#15:00:06" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="NORMAL">Events After Preprocessing: [Message from debugger: ddssfv ]</entry>
+<entry timestamp="2020-02-07#15:00:06" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-07#15:00:06" user="Rebo4AI_debug-scenario-googlemap.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-07#15:00:06" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2020-02-07#15:00:18" user="Rebo4AI_debug-scenario-googlemap.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-07#15:00:18" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2020-02-07#15:00:18" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2020-02-07#15:00:18" user="Rebo4AI_debug-scenario-googlemap.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-07#15:00:18" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from debugger: sd </processing></entry>
+<entry timestamp="2020-02-07#15:00:18" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from debugger: sd </entry>
+<entry timestamp="2020-02-07#15:00:18" user="TutorTurnWatcher" level="ERROR">Error while updating Episode Log File (java.io.FileNotFoundException: behaviors\episodes\Rebo4AI_debug-scenario-googlemap.episodes.txt (The system cannot find the path specified))</entry>
+<entry timestamp="2020-02-07#15:00:18" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="NORMAL">Events After Preprocessing: [Message from debugger: sd ]</entry>
+<entry timestamp="2020-02-07#15:00:18" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-07#15:00:18" user="Rebo4AI_debug-scenario-googlemap.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-07#15:00:18" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2020-02-07#15:00:18" user="Rebo4AI_debug-scenario-googlemap.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-07#15:00:18" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2020-02-07#15:00:18" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2020-02-07#15:00:18" user="Rebo4AI_debug-scenario-googlemap.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-07#15:00:19" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from debugger: s </processing></entry>
+<entry timestamp="2020-02-07#15:00:19" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from debugger: s </entry>
+<entry timestamp="2020-02-07#15:00:19" user="TutorTurnWatcher" level="ERROR">Error while updating Episode Log File (java.io.FileNotFoundException: behaviors\episodes\Rebo4AI_debug-scenario-googlemap.episodes.txt (The system cannot find the path specified))</entry>
+<entry timestamp="2020-02-07#15:00:19" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="NORMAL">Events After Preprocessing: [Message from debugger: s ]</entry>
+<entry timestamp="2020-02-07#15:00:19" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-07#15:00:19" user="Rebo4AI_debug-scenario-googlemap.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-07#15:00:19" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2020-02-07#15:00:19" user="Rebo4AI_debug-scenario-googlemap.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-07#15:00:19" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2020-02-07#15:00:19" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2020-02-07#15:00:19" user="Rebo4AI_debug-scenario-googlemap.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-07#15:00:19" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from debugger: ss </processing></entry>
+<entry timestamp="2020-02-07#15:00:19" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from debugger: ss </entry>
+<entry timestamp="2020-02-07#15:00:19" user="TutorTurnWatcher" level="ERROR">Error while updating Episode Log File (java.io.FileNotFoundException: behaviors\episodes\Rebo4AI_debug-scenario-googlemap.episodes.txt (The system cannot find the path specified))</entry>
+<entry timestamp="2020-02-07#15:00:19" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="NORMAL">Events After Preprocessing: [Message from debugger: ss ]</entry>
+<entry timestamp="2020-02-07#15:00:19" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-07#15:00:19" user="Rebo4AI_debug-scenario-googlemap.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-07#15:00:19" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>
+<entry timestamp="2020-02-07#15:00:19" user="Rebo4AI_debug-scenario-googlemap.client" level="INFO"><broadcasting>MESSAGE_EVENT on 1 connections</broadcasting></entry>
+<entry timestamp="2020-02-07#15:00:19" user="(client->inputCoordinator)" level="INFO">Communicate MESSAGE_EVENT from client to inputCoordinator</entry>
+<entry timestamp="2020-02-07#15:00:19" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO"><queued name="MESSAGE_EVENT" from="client"></queued></entry>
+<entry timestamp="2020-02-07#15:00:19" user="Rebo4AI_debug-scenario-googlemap.client" level="INFO">Informing 2 Observers of Event Sending</entry>
+<entry timestamp="2020-02-07#15:00:19" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO"><processing name="MESSAGE_EVENT" from="client">Message from debugger: sd </processing></entry>
+<entry timestamp="2020-02-07#15:00:19" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="NORMAL">InputCoordinator received event: Message from debugger: sd </entry>
+<entry timestamp="2020-02-07#15:00:19" user="TutorTurnWatcher" level="ERROR">Error while updating Episode Log File (java.io.FileNotFoundException: behaviors\episodes\Rebo4AI_debug-scenario-googlemap.episodes.txt (The system cannot find the path specified))</entry>
+<entry timestamp="2020-02-07#15:00:19" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="NORMAL">Events After Preprocessing: [Message from debugger: sd ]</entry>
+<entry timestamp="2020-02-07#15:00:19" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="NORMAL">Events After Agent Processing:[]</entry>
+<entry timestamp="2020-02-07#15:00:19" user="Rebo4AI_debug-scenario-googlemap.outputCoordinator" level="NORMAL">Added to Proposal Queue: []</entry>
+<entry timestamp="2020-02-07#15:00:19" user="Rebo4AI_debug-scenario-googlemap.inputCoordinator" level="INFO"><processed name="MESSAGE_EVENT" from="client"></processed></entry>

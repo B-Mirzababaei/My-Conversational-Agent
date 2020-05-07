@@ -1,0 +1,176 @@
+2020-03-04,13:05:12,0,Rebo4AI,1583323513721,I'm Rebo4AI; I'm a prototype conversational agent.,INTRODUCE
+2020-03-04,13:05:53,0,s,1583323553536,yes,IDSAI_QUESTION1_WITHOUT_REASON+TRUE+YES
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-03-04,13:14:09,0,Rebo4AI,1583324049604,"Hi, I'm Rebo4AI; a prototype conversational agent. With me, you can currently discuss only about intelligence. Is that OK with you; do you want to start a conversation?",TUTOR
+2020-03-04,13:14:59,0,s,1583324099901,yes,IDSAI_QUESTION1_WITHOUT_REASON+TRUE+YES
+2020-03-04,13:14:59,0,Rebo4AI,1583324101668,"In the TUGraz lecture ""Introduction to Data Science and Artificial Intelligence (IDSA)"", different definitions of intelligence have been discussed.",TUTOR
+2020-03-04,13:14:59,0,Rebo4AI,1583324101674,"According to different definitions, something or someone would be called ""intelligent"" if it thinks humanly, acts humanly, thinks rationally, acts rationally; or if it is able to adapt behaviour to a changing environment in order to achieve its goals. I'm not sure I completely understand.",TUTOR
+2020-03-04,13:14:59,0,Rebo4AI,1583324101675,I have this information from HERE/URL..,TUTOR
+2020-03-04,13:14:59,0,Rebo4AI,1583324101676,"I'm good. You have learned in the ""Introduction to Data Science and Artificial Intelligence"" different definitions of intelligence; I have not been able to follow!",TUTOR
+2020-03-04,13:14:59,0,Rebo4AI,1583324101678,But I'm curious: Is a teen now intelligent or not? Why?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-03-04,13:16:13,0,Rebo4AI,1583324174648,"Hi, I'm Rebo4AI; a prototype conversational agent. With me, you can currently discuss only about intelligence. Is that OK with you; do you want to start a conversation?",TUTOR
+2020-03-04,13:16:17,0,s,1583324177111,mo,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-03-04,13:16:19,0,s,1583324179530,no,IDSAI_QUESTION1_WITHOUT_REASON+TRUE+NO
+2020-03-04,13:16:19,0,Rebo4AI,1583324180678,"OK, no problem; I currently am not able to discuss about anything else - if you are interested in talking to me any time in the future, please go again to this link. Bye!",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-03-04,13:29:44,0,Rebo4AI,1583324986104,"Hi, I'm Rebo4AI; a prototype conversational agent. With me, you can currently discuss only about intelligence. Is that OK with you; do you want to start a conversation? asasasa",TUTOR
+2020-03-04,13:29:57,0,s,1583325000333,no,IDSAI_QUESTION1_WITHOUT_REASON+TRUE+NO
+2020-03-04,13:30:00,0,Rebo4AI,1583325002142,"OK, no problem; I currently am not able to discuss about anything else - if you are interested in talking to me any time in the future, please go again to this link. Bye!",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-03-04,13:33:55,0,Rebo4AI,1583325237390,"Hi, I'm Rebo4AI; a prototype conversational agent. With me, you can currently discuss only about intelligence. Is that OK with you; do you want to start a conversation? asasasa ? ",TUTOR
+2020-03-04,13:35:26,0,s,1583325335579,yes,IDSAI_QUESTION1_WITHOUT_REASON+TRUE+YES
+2020-03-04,13:35:35,0,Rebo4AI,1583325337476,"In the TUGraz lecture ""Introduction to Data Science and Artificial Intelligence (IDSA)"", different definitions of intelligence have been discussed. According to different definitions, something or someone would be called ""intelligent"" if it thinks humanly, acts humanly, thinks rationally, acts rationally; or if it is able to adapt behaviour to a changing environment in order to achieve its goals. I'm not sure I completely understand.",TUTOR
+2020-03-04,13:35:35,0,Rebo4AI,1583325337481,"I have this information from ""	HERE."".",TUTOR
+2020-03-04,13:35:35,0,Rebo4AI,1583325337487,"I'm good. You have learned in the ""Introduction to Data Science and Artificial Intelligence"" different definitions of intelligence; I have not been able to follow!",TUTOR
+2020-03-04,13:35:35,0,Rebo4AI,1583325337492,But I'm curious: Is a chicken now intelligent or not? Why?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-03-04,13:37:24,0,Rebo4AI,1583325446842,"Hi, I'm Rebo4AI; a prototype conversational agent. With me, you can currently discuss only about intelligence. Is that OK with you; do you want to start a conversation? asasasa ???",TUTOR
+2020-03-04,13:37:34,0,s,1583325466472,yes,IDSAI_QUESTION1_WITHOUT_REASON+TRUE+YES
+2020-03-04,13:38:10,0,Rebo4AI,1583325490887,"In the TUGraz lecture ""Introduction to Data Science and Artificial Intelligence (IDSA)"", different definitions of intelligence have been discussed. According to different definitions, something or someone would be called ""intelligent"" if it thinks humanly, acts humanly, thinks rationally, acts rationally; or if it is able to adapt behaviour to a changing environment in order to achieve its goals. I'm not sure I completely understand.",TUTOR
+2020-03-04,13:38:10,0,Rebo4AI,1583325490888,"I have this information from ""	HERE."".",TUTOR
+2020-03-04,13:38:10,0,Rebo4AI,1583325490889,"I'm good. You have learned in the ""Introduction to Data Science and Artificial Intelligence"" different definitions of intelligence; I have not been able to follow!",TUTOR
+2020-03-04,13:38:10,0,Rebo4AI,1583325490890,But I'm curious: Is an autonomously driving car now intelligent or not? Why?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-03-04,14:23:07,0,Rebo4AI,1583328189139,"Hi, I'm Rebo4AI; a prototype conversational agent. With me, you can currently discuss only about intelligence. Is that OK with you; do you want to start a conversation? asasasa <a href=""https://www.google.com"">HERE.</a>",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-03-04,14:45:38,0,Rebo4AI,1583329539753,"Hi, I'm Rebo4AI; a prototype conversational agent. With me, you can currently discuss only about intelligence. Is that OK with you; do you want to start a conversation? asasasa dddddddddddddddddddddd  <a href=""https://www.google.com"">HERE.</a>",TUTOR
+2020-03-04,14:45:44,0,s,1583329544456,yes,IDSAI_QUESTION1_WITHOUT_REASON+TRUE+YES
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-03-04,14:56:23,0,Rebo4AI,1583330183633,"Hi, I'm Rebo4AI; a prototype conversational agent. With me, you can currently discuss only about intelligence. Is that OK with you; do you want to start a conversation? asasasa dddddddddddddddddddddd  <a href=""https://www.google.com"">HERE.</a>",TUTOR
+2020-03-04,14:56:25,0,s,1583330185350,yes,IDSAI_QUESTION1_WITHOUT_REASON+TRUE+YES
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-03-04,15:04:22,0,Rebo4AI,1583330664171,"Hi, I'm Rebo4AI; a prototype conversational agent. With me, you can currently discuss only about intelligence. Is that OK with you; do you want to start a conversation? asasasa dddddddddddddddddddddd  <a href=""https://www.google.com"">HERE.</a>",TUTOR
+2020-03-04,15:04:59,0,s,1583330699300,yes,IDSAI_QUESTION1_WITHOUT_REASON+TRUE+YES
+2020-03-04,15:05:34,0,Rebo4AI,1583330736244,"In the TUGraz lecture ""Introduction to Data Science and Artificial Intelligence (IDSA)"", different definitions of intelligence have been discussed. According to different definitions, something or someone would be called ""intelligent"" if it thinks humanly, acts humanly, thinks rationally, acts rationally; or if it is able to adapt behaviour to a changing environment in order to achieve its goals. I'm not sure I completely understand.",TUTOR
+2020-03-04,15:05:34,0,Rebo4AI,1583330736245,I have this information from HERE..,TUTOR
+2020-03-04,15:05:34,0,Rebo4AI,1583330736247,"I'm good. You have learned in the ""Introduction to Data Science and Artificial Intelligence"" different definitions of intelligence; I have not been able to follow!",TUTOR
+2020-03-04,15:05:34,0,Rebo4AI,1583330736249,But I'm curious: Is a flower now intelligent or not? Why?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-03-04,15:06:15,0,Rebo4AI,1583330776773,"Hi, I'm Rebo4AI; a prototype conversational agent. With me, you can currently discuss only about intelligence. Is that OK with you; do you want to start a conversation? asasasa dddddddddddddddddddddd  <a href=""https://www.google.com"">HERE.</a>",TUTOR
+2020-03-04,15:06:19,0,s,1583330779134,yes,IDSAI_QUESTION1_WITHOUT_REASON+TRUE+YES
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-03-04,15:11:27,0,Rebo4AI,1583331089552,"Hi, I'm Rebo4AI; a prototype conversational agent. With me, you can currently discuss only about intelligence. Is that OK with you; do you want to start a conversation? asasasa dddddddddddddddddddddd  <a href=""https://www.google.com"">HERE.</a>",TUTOR
+2020-03-04,15:11:30,0,s,1583331090586,yes,IDSAI_QUESTION1_WITHOUT_REASON+TRUE+YES
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-03-04,15:14:31,0,Rebo4AI,1583331271524,"Hi, I'm Rebo4AI; a prototype conversational agent. With me, you can currently discuss only about intelligence. Is that OK with you; do you want to start a conversation? asasasa dddddddddddddddddddddd  <a href=""https://www.google.com"">HERE.</a>",TUTOR
+2020-03-04,15:14:38,0,s,1583331278900,yes,IDSAI_QUESTION1_WITHOUT_REASON+TRUE+YES
+2020-03-04,15:29:31,0,Rebo4AI,1583332172127,"To start the conversation, please welcome Rebo :)",TUTOR
+2020-03-04,15:44:32,0,Rebo4AI,1583333072685,"OK, no problem; I currently am not able to discuss about anything else - if you are interested in talking to me any time in the future, please go again to this link. Bye!",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-03-04,20:56:12,0,Rebo4AI,1583351773877,"Hi, Paste this link into your browser for the post-quiz - https://www.google.com I'm Rebo4AI; a prototype conversational agent. With me, you can currently discuss only about intelligence. Is that OK with you; do you want to start a conversation? asasasa dddddddddddddddddddddd  <a href=""https://www.google.com"">HERE.</a>",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-03-04,21:07:43,0,Rebo4AI,1583352464915,"Hi, I'm Rebo4AI; a prototype conversational agent. With me, you can currently discuss only about intelligence. Is that OK with you; do you want to start a conversation? <a href=""https://www.google.com"">HERE.</a>",TUTOR
+2020-03-04,21:08:09,0,s,1583352489263,yes,IDSAI_QUESTION1_WITHOUT_REASON+TRUE+YES
+2020-03-04,21:08:09,0,s,1583352511027,yes,IDSAI_QUESTION1_WITHOUT_REASON+TRUE+YES
+2020-03-04,21:08:31,0,Rebo4AI,1583352512970,"I am IDSAI_REBO4AI, In the TUGraz lecture ""Introduction to Data Science and Artificial Intelligence (IDSA)"", different definitions of intelligence have been discussed. According to different definitions, something or someone would be called ""intelligent"" if it thinks humanly, acts humanly, thinks rationally, acts rationally; or if it is able to adapt behaviour to a changing environment in order to achieve its goals. I'm not sure I completely understand.",TUTOR
+2020-03-04,21:08:31,0,Rebo4AI,1583352512975,I have this information from IDSAI_COURSE_SLIDES,TUTOR
+2020-03-04,21:08:31,0,Rebo4AI,1583352512980,"I'm good. You have learned in the HERE. ""Introduction to Data Science and Artificial Intelligence"" different definitions of intelligence;  VASAT2. I have not been able to follow!",TUTOR
+2020-03-04,21:08:31,0,Rebo4AI,1583352512986,But I'm curious: Is a dog now intelligent or not? Why?AKHAR.,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-03-04,21:10:49,0,Rebo4AI,1583352651342,"Hi, I'm Rebo4AI; a prototype conversational agent. With me, you can currently discuss only about intelligence. Is that OK with you; do you want to start a conversation? <a href=""https://www.google.com"">HERE.</a>",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-03-04,21:21:47,0,Rebo4AI,1583353308426,"Hi, I'm Rebo4AI; a prototype conversational agent. With me, you can currently discuss only about intelligence. Is that OK with you; do you want to start a conversation? <a href=""https://www.google.com"">HERE.</a>",TUTOR
+2020-03-04,21:21:59,0,s,1583353319955,yes,IDSAI_QUESTION1_WITHOUT_REASON+TRUE+YES
+2020-03-04,21:22:00,0,Rebo4AI,1583353320477,"I am IDSAI_REBO4AI, In the TUGraz lecture ""Introduction to Data Science and Artificial Intelligence (IDSA)"", different definitions of intelligence have been discussed. According to different definitions, something or someone would be called ""intelligent"" if it thinks humanly, acts humanly, thinks rationally, acts rationally; or if it is able to adapt behaviour to a changing environment in order to achieve its goals. I'm not sure I completely understand.",TUTOR
+2020-03-04,21:22:00,0,Rebo4AI,1583353320481,I have this information from IDSAI_COURSE_SLIDES,TUTOR
+2020-03-04,21:22:00,0,Rebo4AI,1583353320484,"I'm good. You have learned in the HERE. ""Introduction to Data Science and Artificial Intelligence"" different definitions of intelligence;  VASAT2. I have not been able to follow!",TUTOR
+2020-03-04,21:22:00,0,Rebo4AI,1583353320486,But I'm curious: Is a coffee-maker now intelligent or not? Why?AKHAR.,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-03-04,21:23:21,0,Rebo4AI,1583353401894,"Hi, I'm Rebo4AI; a prototype conversational agent. With me, you can currently discuss only about intelligence. Is that OK with you; do you want to start a conversation? <a href=""https://www.google.com"">HERE.</a>",TUTOR
+2020-03-04,21:23:24,0,s,1583353404938,yes,IDSAI_QUESTION1_WITHOUT_REASON+TRUE+YES
+2020-03-04,21:23:25,0,Rebo4AI,1583353405945,"I am IDSAI_REBO4AI, In the TUGraz lecture ""Introduction to Data Science and Artificial Intelligence (IDSA)"", different definitions of intelligence have been discussed. According to different definitions, something or someone would be called ""intelligent"" if it thinks humanly, acts humanly, thinks rationally, acts rationally; or if it is able to adapt behaviour to a changing environment in order to achieve its goals. I'm not sure I completely understand.",TUTOR
+2020-03-04,21:23:25,0,Rebo4AI,1583353405951,I have this information from IDSAI_COURSE_SLIDES,TUTOR
+2020-03-04,21:23:25,0,Rebo4AI,1583353405955,"I'm good. You have learned in the HERE. ""Introduction to Data Science and Artificial Intelligence"" different definitions of intelligence;  VASAT2. I have not been able to follow!",TUTOR
+2020-03-04,21:23:25,0,Rebo4AI,1583353405958,But I'm curious: Is a tree now intelligent or not? Why?AKHAR.,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-03-04,21:23:44,0,Rebo4AI,1583353425406,"Hi, I'm Rebo4AI; a prototype conversational agent. With me, you can currently discuss only about intelligence. Is that OK with you; do you want to start a conversation? <a href=""https://www.google.com"">HERE.</a>",TUTOR
+2020-03-04,21:23:48,0,s,1583353428725,yes,IDSAI_QUESTION1_WITHOUT_REASON+TRUE+YES
+2020-03-04,21:23:48,0,Rebo4AI,1583353429444,"I am IDSAI_REBO4AI, In the TUGraz lecture ""Introduction to Data Science and Artificial Intelligence (IDSA)"", different definitions of intelligence have been discussed. According to different definitions, something or someone would be called ""intelligent"" if it thinks humanly, acts humanly, thinks rationally, acts rationally; or if it is able to adapt behaviour to a changing environment in order to achieve its goals. I'm not sure I completely understand.",TUTOR
+2020-03-04,21:23:48,0,Rebo4AI,1583353429449,I have this information from IDSAI_COURSE_SLIDES,TUTOR
+2020-03-04,21:23:48,0,Rebo4AI,1583353429454,"I'm good. You have learned in the HERE. ""Introduction to Data Science and Artificial Intelligence"" different definitions of intelligence;  VASAT2. I have not been able to follow!",TUTOR
+2020-03-04,21:23:48,0,Rebo4AI,1583353429459,But I'm curious: Is a cat now intelligent or not? Why?AKHAR.,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-03-04,22:25:51,0,Rebo4AI,1583357153810,"Hi, I'm Rebo4AI; a prototype conversational agent. With me, you can currently discuss only about intelligence. Is that OK with you; do you want to start a conversation? <a href=""https://www.google.com"">HERE.</a>",TUTOR
+2020-03-04,22:25:58,0,s,1583357158465,yes,IDSAI_QUESTION1_WITHOUT_REASON+TRUE+YES
+2020-03-04,22:27:11,0,Rebo4AI,1583357231910,"I am <b>Rebo4AI</b>, In the TUGraz lecture ""Introduction to Data Science and Artificial Intelligence (IDSA)"", different definitions of intelligence have been discussed. According to different definitions, something or someone would be called ""intelligent"" if it thinks humanly, acts humanly, thinks rationally, acts rationally; or if it is able to adapt behaviour to a changing environment in order to achieve its goals. I'm not sure I completely understand.",TUTOR
+2020-03-04,22:27:11,0,Rebo4AI,1583357231913,"I have this information from <a href=""https://tc.tugraz.at/main/pluginfile.php/181506/mod_resource/content/1/1a%20-%20IDSAI%202020%20Introduction.pdf"">HERE</a>",TUTOR
+2020-03-04,22:27:11,0,Rebo4AI,1583357231917,"I'm good. You have learned in the HERE. ""Introduction to Data Science and Artificial Intelligence"" different definitions of intelligence;  VASAT2. I have not been able to follow!",TUTOR
+2020-03-04,22:27:11,0,Rebo4AI,1583357231920,But I'm curious: Is a bike now intelligent or not? Why?AKHAR.,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-03-04,22:29:47,0,Rebo4AI,1583357388595,"Hi, I'm Rebo4AI; a prototype conversational agent. With me, you can currently discuss only about intelligence. Is that OK with you; do you want to start a conversation? <a href=""https://www.google.com"">HERE.</a>",TUTOR
+2020-03-04,22:29:51,0,s,1583357391109,yes,IDSAI_QUESTION1_WITHOUT_REASON+TRUE+YES
+2020-03-04,22:29:51,0,Rebo4AI,1583357392629,"I am <b>Rebo4AI</b>, In the TUGraz lecture ""<i>Introduction to Data Science and Artificial Intelligence (IDSA)</i>"", different definitions of intelligence have been discussed. According to different definitions, something or someone would be called intelligent"" if it thinks humanly, acts humanly, thinks rationally, acts rationally; or if it is able to adapt behaviour to a changing environment in order to achieve its goals. I'm not sure I completely understand.",TUTOR
+2020-03-04,22:29:51,0,Rebo4AI,1583357392637,"I have this information from <a href=""https://tc.tugraz.at/main/pluginfile.php/181506/mod_resource/content/1/1a%20-%20IDSAI%202020%20Introduction.pdf"">HERE</a>",TUTOR
+2020-03-04,22:29:51,0,Rebo4AI,1583357392642,"I'm good. You have learned in the ""Introduction to Data Science and Artificial Intelligence"" different definitions of intelligence;  VASAT2. I have not been able to follow!",TUTOR
+2020-03-04,22:29:51,0,Rebo4AI,1583357392648,But I'm curious: Is a cat now intelligent or not? Why?AKHAR.,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-03-04,22:35:55,0,Rebo4AI,1583357757148,"Hi, I'm Rebo4AI; a prototype conversational agent. With me, you can currently discuss only about intelligence. Is that OK with you; do you want to start a conversation? <a href=""https://www.google.com"">HERE.</a>",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-03-04,22:43:22,0,Rebo4AI,1583358203405,"Hi, I'm Rebo4AI; a prototype conversational agent. With me, you can currently discuss only about intelligence. Is that OK with you; do you want to start a conversation?",TUTOR
+2020-03-04,22:43:28,0,s,1583358208738,yes,IDSAI_QUESTION1_WITHOUT_REASON+TRUE+YES
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-03-04,22:44:18,0,Rebo4AI,1583358259439,"Hi, I'm Rebo4AI; a prototype conversational agent. With me, you can currently discuss only about intelligence. Is that OK with you; do you want to start a conversation?",TUTOR
+2020-03-04,22:44:21,0,s,1583358261378,yes,IDSAI_QUESTION1_WITHOUT_REASON+TRUE+YES
+2020-03-04,22:44:21,0,s,1583358261391,yes,IDSAI_QUESTION1_WITHOUT_REASON+TRUE+YES
+2020-03-04,22:44:21,0,Rebo4AI,1583358261470,"In the TUGraz lecture ""<i>Introduction to Data Science and Artificial Intelligence (IDSA)</i>"", different definitions of intelligence have been discussed. According to different definitions, something or someone would be called intelligent if it thinks humanly, acts humanly, thinks rationally, acts rationally; or if it is able to adapt behaviour to a changing environment in order to achieve its goals. I'm not sure I completely understand.",TUTOR
+2020-03-04,22:44:21,0,Rebo4AI,1583358261473,"I have this information from <a href=""https://tc.tugraz.at/main/pluginfile.php/181506/mod_resource/content/1/1a%20-%20IDSAI%202020%20Introduction.pdf"" target=""_blank"">HERE</a>",TUTOR
+2020-03-04,22:44:21,0,Rebo4AI,1583358261477,I'm curious: Is a fridge now intelligent or not? Why?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-03-04,22:51:30,0,Rebo4AI,1583358691919,"Hi, I'm Rebo4AI; a prototype conversational agent. With me, you can currently discuss only about intelligence. Is that OK with you; do you want to start a conversation?",TUTOR
+2020-03-04,22:51:34,0,s,1583358694543,yes,IDSAI_QUESTION1_WITHOUT_REASON+TRUE+YES
+2020-03-04,22:51:34,0,Rebo4AI,1583358695953,"In the TUGraz lecture ""<i>Introduction to Data Science and Artificial Intelligence (IDSA)</i>"", different definitions of intelligence have been discussed. According to different definitions, something or someone would be called intelligent if it <b>thinks humanly</b>, <b>acts humanly</b>, <b>thinks rationally</b>, <b>acts rationally</b>; or if it is able to adapt behaviour to a changing environment in order to achieve its goals. I'm not sure I completely understand.",TUTOR
+2020-03-04,22:51:34,0,Rebo4AI,1583358695960,"I have this information from <a href=""https://tc.tugraz.at/main/pluginfile.php/181506/mod_resource/content/1/1a%20-%20IDSAI%202020%20Introduction.pdf"" target=""_blank"">HERE</a>",TUTOR
+2020-03-04,22:51:34,0,Rebo4AI,1583358695965,I'm curious: Is a table now intelligent or not? Why?,TUTOR
+2020-03-04,23:01:34,0,Rebo4AI,1583359296531,Are you personally satisfied with this decision and definition?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-03-05,09:18:07,0,Rebo4AI,1583396288777,"Hi, I'm Rebo4AI; a prototype conversational agent. With me, you can currently discuss only about intelligence. Is that OK with you; do you want to start a conversation?",TUTOR
+2020-03-05,09:18:16,0,s,1583396296731,ok,IDSAI_QUESTION1_WITHOUT_REASON+TRUE+YES
+2020-03-05,09:18:16,0,Rebo4AI,1583396296799,"In the TUGraz lecture ""<i>Introduction to Data Science and Artificial Intelligence (IDSA)</i>"", different definitions of intelligence have been discussed. According to different definitions, something or someone would be called intelligent if it <b>thinks humanly</b>, <b>acts humanly</b>, <b>thinks rationally</b>, <b>acts rationally</b>; or if it is able to adapt behaviour to a changing environment in order to achieve its goals. I'm not sure I completely understand.",TUTOR
+2020-03-05,09:18:16,0,Rebo4AI,1583396296801,"I have this information from <a href=""https://tc.tugraz.at/main/pluginfile.php/181506/mod_resource/content/1/1a%20-%20IDSAI%202020%20Introduction.pdf"" target=""_blank"">HERE</a>",TUTOR
+2020-03-05,09:18:16,0,Rebo4AI,1583396296803,I'm curious: Is a baby now intelligent or not? Why?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-03-05,09:21:09,0,Rebo4AI,1583396471120,"Hi, I'm Rebo4AI; a prototype conversational agent. With me, you can currently discuss only about intelligence. Is that OK with you; do you want to start a conversation?",TUTOR
+2020-03-05,09:21:15,0,s,1583396475686,yes,IDSAI_QUESTION1_WITHOUT_REASON+TRUE+YES
+2020-03-05,09:21:15,0,s,1583396475698,yes,IDSAI_QUESTION1_WITHOUT_REASON+TRUE+YES
+2020-03-05,09:21:16,0,Rebo4AI,1583396476954,I'm not sure I understood - which definition of intelligence did you make in deciding that a baby is (not) intelligent?,TUTOR
+2020-03-05,09:21:15,0,Rebo4AI,1583396477151,"In the TUGraz lecture ""<i>Introduction to Data Science and Artificial Intelligence (IDSA)</i>"", different definitions of intelligence have been discussed. According to different definitions, something or someone would be called intelligent if it <b>thinks humanly</b>, <b>acts humanly</b>, <b>thinks rationally</b>, <b>acts rationally</b>; or if it is able to adapt behaviour to a changing environment in order to achieve its goals.",TUTOR
+2020-03-05,09:21:15,0,Rebo4AI,1583396477153,"I have this information from <a href=""https://tc.tugraz.at/main/pluginfile.php/181506/mod_resource/content/1/1a%20-%20IDSAI%202020%20Introduction.pdf"" target=""_blank"">HERE</a>. But, I'm not sure I completely understand.",TUTOR
+2020-03-05,09:21:15,0,Rebo4AI,1583396477154,I'm curious: Is a typical car now intelligent or not? Why?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-03-05,09:24:24,0,Rebo4AI,1583396665825,"Hi, I'm Rebo4AI; a prototype conversational agent. With me, you can currently discuss only about intelligence. Is that OK with you; do you want to start a conversation?",TUTOR
+2020-03-05,09:24:32,0,s,1583396672197,yes,IDSAI_QUESTION1_WITHOUT_REASON+TRUE+YES
+2020-03-05,09:24:32,0,Rebo4AI,1583396673849,"In the TUGraz lecture ""<i>Introduction to Data Science and Artificial Intelligence (IDSA)</i>"", different definitions of intelligence have been discussed. According to different definitions, something or someone would be called intelligent if it <b>thinks humanly</b>, <b>acts humanly</b>, <b>thinks rationally</b>, <b>acts rationally</b>; or if it is able to adapt behaviour to a changing environment in order to achieve its goals.",TUTOR
+2020-03-05,09:24:32,0,Rebo4AI,1583396673851,"I have this information from <a href=""https://tc.tugraz.at/main/pluginfile.php/181506/mod_resource/content/1/1a%20-%20IDSAI%202020%20Introduction.pdf"" download=""https://tc.tugraz.at/main/pluginfile.php/181506/mod_resource/content/1/1a%20-%20IDSAI%202020%20Introduction.pdf"">Click to Download</a>. But, I'm not sure I completely understand.",TUTOR
+2020-03-05,09:24:32,0,Rebo4AI,1583396673853,I'm curious: Is a bike now intelligent or not? Why?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-03-05,09:46:58,0,Rebo4AI,1583398018820,"Hi, I'm Rebo4AI; a prototype conversational agent. With me, you can currently discuss only about intelligence. Is that OK with you; do you want to start a conversation?",TUTOR
+2020-03-05,09:47:03,0,s,1583398023372,yes,IDSAI_QUESTION1_WITHOUT_REASON+TRUE+YES
+2020-03-05,09:47:03,0,Rebo4AI,1583398024863,"In the TUGraz lecture ""<i>Introduction to Data Science and Artificial Intelligence (IDSA)</i>"", different definitions of intelligence have been discussed. According to different definitions, something or someone would be called intelligent if it <b>thinks humanly</b>, <b>acts humanly</b>, <b>thinks rationally</b>, <b>acts rationally</b>; or if it is able to adapt behaviour to a changing environment in order to achieve its goals.",TUTOR
+2020-03-05,09:47:03,0,Rebo4AI,1583398024866,"I have this information from <a href=""http://rebo4ai.know-center.tugraz.at/bazaar/data/IDSAI/1a_Introduction.pdf"" download=""http://rebo4ai.know-center.tugraz.at/bazaar/data/IDSAI/1a_Introduction.pdf"">here</a>. But, I'm not sure I completely understand.",TUTOR
+2020-03-05,09:47:03,0,Rebo4AI,1583398024867,I'm curious: Is a bike now intelligent or not? Why?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-03-05,10:04:46,0,Rebo4AI,1583399086666,"Hi, I'm Rebo4AI; a prototype conversational agent. With me, you can currently discuss only about intelligence. Is that OK with you; do you want to start a conversation?",TUTOR
+2020-03-05,10:04:50,0,s,1583399090273,yes,IDSAI_QUESTION1_WITHOUT_REASON+TRUE+YES
+2020-03-05,10:04:50,0,Rebo4AI,1583399090680,"In the TUGraz lecture ""<i>Introduction to Data Science and Artificial Intelligence (IDSA)</i>"", different definitions of intelligence have been discussed. According to different definitions, something or someone would be called intelligent if it <b>thinks humanly</b>, <b>acts humanly</b>, <b>thinks rationally</b>, <b>acts rationally</b>; or if it is able to adapt behaviour to a changing environment in order to achieve its goals.",TUTOR
+2020-03-05,10:04:50,0,Rebo4AI,1583399090681,"I have this information from <a href=""http://rebo4ai.know-center.tugraz.at/bazaar/data/IDSAI/1a_Introduction.pdf"" download=""http://rebo4ai.know-center.tugraz.at/bazaar/data/IDSAI/1a_Introduction.pdf"">here</a>. But, I'm not sure I completely understand.",TUTOR
+2020-03-05,10:04:50,0,Rebo4AI,1583399090683,I'm curious: Is a tree now intelligent or not? Why?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-03-06,15:39:51,0,Rebo4AI,1583505592861,"Hi, I'm Rebo4AI; a prototype conversational agent. With me, you can currently discuss only about intelligence. Is that OK with you; do you want to start a conversation?",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-03-06,15:40:16,0,Rebo4AI,1583505616807,"Hi, I'm Rebo4AI; a prototype conversational agent. With me, you can currently discuss only about intelligence. Is that OK with you; do you want to start a conversation?",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-03-06,15:41:12,0,Rebo4AI,1583505674534,"Hi, I'm Rebo4AI; a prototype conversational agent. With me, you can currently discuss only about intelligence. Is that OK with you; do you want to start a conversation?",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-03-20,10:27:21,0,Rebo4AI,1584696442813,"Hi, I'm Rebo4AI; a prototype conversational agent. With me, you can currently discuss only about intelligence. Is that OK with you; do you want to start a conversation?",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-03-20,10:35:23,0,Rebo4AI,1584696924426,"Hi, I'm Rebo4AI; a prototype conversational agent. With me, you can currently discuss only about intelligence. Is that OK with you; do you want to start a conversation?",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-03-20,11:05:51,0,Rebo4AI,1584698752874,"Hi, I'm Rebo4AI; a prototype conversational agent. With me, you can currently discuss only about intelligence. Is that OK with you; do you want to start a conversation?",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-03-20,11:18:22,0,Rebo4AI,1584699502108,"Hi, I'm Rebo4AI; a prototype conversational agent. With me, you can currently discuss only about intelligence. Is that OK with you; do you want to start a conversation?",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-03-20,11:18:47,0,Rebo4AI,1584699528014,"Hi, I'm Rebo4AI; a prototype conversational agent. With me, you can currently discuss only about intelligence. Is that OK with you; do you want to start a conversation?",TUTOR
+2020-03-20,11:33:47,0,Rebo4AI,1584700428809,"To start the conversation, please welcome Rebo :)",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-03-20,11:46:18,0,Rebo4AI,1584701178533,"Hi, I'm Rebo4AI; a prototype conversational agent. With me, you can currently discuss only about intelligence. Is that OK with you; do you want to start a conversation?",TUTOR

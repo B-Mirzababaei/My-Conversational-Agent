@@ -1,0 +1,41 @@
+<entry timestamp="2020-02-13#21:15:06" user="NewAgentRunner" level="INFO">Logger initialized</entry>
+<entry timestamp="2020-02-13#21:15:06" user="NewAgentRunner" level="NORMAL">AgentOperator NewAgentRunner created</entry>
+<entry timestamp="2020-02-13#21:15:06" user="NewAgentRunner" level="NORMAL">Operation Created</entry>
+<entry timestamp="2020-02-13#21:15:06" user="NewAgentRunner" level="NORMAL">Classes: [class basilica2.agents.listeners.PresenceWatcher, class rebo4AI.MessageAnnotator.Rebo4AIMessageAnnotator, class basilica2.tutor.listeners.TutorialTriggerWatcher, class basilica2.tutor.listeners.TutorTurnWatcher]</entry>
+<entry timestamp="2020-02-13#21:15:06" user="NewAgentRunner" level="NORMAL">Classes: [class basilica2.agents.listeners.plan.PlanExecutor, class basilica2.tutor.listeners.TutorActor]</entry>
+<entry timestamp="2020-02-13#21:15:06" user="NewAgentRunner" level="NORMAL">Starting operation</entry>
+<entry timestamp="2020-02-13#21:15:06" user="NewAgentRunner" level="NORMAL">Operation started</entry>
+<entry timestamp="2020-02-13#21:15:06" user="NewAgentRunner" level="NORMAL">launching hands-free!</entry>
+<entry timestamp="2020-02-13#21:15:06" user="NewAgentRunner" level="NORMAL">setting basilica2.agents.room_name to ask</entry>
+<entry timestamp="2020-02-13#21:15:06" user="NewAgentRunner" level="NORMAL"><launching room=ask/></entry>
+<entry timestamp="2020-02-13#21:15:06" user="AgentFactory" level="NORMAL">Making Agent from agent.xml</entry>
+<entry timestamp="2020-02-13#21:15:06" user="AgentFactory" level="NORMAL">File Read</entry>
+<entry timestamp="2020-02-13#21:15:06" user="AgentFactory" level="NORMAL">Agent Tag Read</entry>
+<entry timestamp="2020-02-13#21:15:06" user="AgentFactory" level="NORMAL">Components Tag Read</entry>
+<entry timestamp="2020-02-13#21:15:06" user="AgentFactory" level="NORMAL">Components read. N=4</entry>
+<entry timestamp="2020-02-13#21:15:06" user="AgentFactory" level="NORMAL">Agent build. Rebo4AI_ask</entry>
+<entry timestamp="2020-02-13#21:15:06" user="NewAgentRunner" level="NORMAL">Adding agent Rebo4AI_ask</entry>
+<entry timestamp="2020-02-13#21:15:06" user="NewAgentRunner" level="INFO">Added. 1 agents now working</entry>
+<entry timestamp="2020-02-13#21:15:06" user="NewAgentRunner" level="INFO">Initializing new agent</entry>
+<entry timestamp="2020-02-13#21:15:06" user="PromptStepHandler" level="NORMAL">default priority=0.75, wait 0.1 seconds after prompts, +3.3333333333333335 wps</entry>
+<entry timestamp="2020-02-13#21:15:06" user="NewAgentRunner" level="INFO">Starting new Agent</entry>
+<entry timestamp="2020-02-13#21:15:06" user="NewAgentRunner" level="NORMAL">notified UI of agent launch for Rebo4AI_ask</entry>
+<entry timestamp="2020-02-13#21:15:06" user="NewAgentRunner" level="NORMAL">Agent added Rebo4AI_ask</entry>
+<entry timestamp="2020-02-13#21:15:07" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 1</entry>
+<entry timestamp="2020-02-13#21:15:12" user="PlanExecutor" level="NORMAL">PLAN: activiating next stage: initiate</entry>
+<entry timestamp="2020-02-13#21:15:12" user="PlanExecutor" level="NORMAL">Firing Stage 'initiate'</entry>
+<entry timestamp="2020-02-13#21:15:12" user="Step" level="NORMAL">Handlers for INTRODUCE(prompt): [basilica2.agents.listeners.plan.PromptStepHandler@3d317ce3]</entry>
+<entry timestamp="2020-02-13#21:15:12" user="PromptStepHandler" level="NORMAL">starting 1.3 second prompt delay</entry>
+<entry timestamp="2020-02-13#21:15:12" user="" level="NORMAL">accepted. Message from Rebo4AI: Hello Behzad! I'm Rebo4AI. INTRODUCE.
+Starting blockout countdown... </entry>
+<entry timestamp="2020-02-13#21:15:13" user="PromptStepHandler" level="NORMAL">ending 1.3 second prompt delay</entry>
+<entry timestamp="2020-02-13#21:15:13" user="Step" level="NORMAL">Handlers for ASK_ABOUT_TOPIC(prompt): [basilica2.agents.listeners.plan.PromptStepHandler@3d317ce3]</entry>
+<entry timestamp="2020-02-13#21:15:13" user="PromptStepHandler" level="NORMAL">starting 1.6 second prompt delay</entry>
+<entry timestamp="2020-02-13#21:15:14" user="" level="NORMAL">accepted. Message from Rebo4AI: Which topic do you want? ASK_ABOUT_TOPIC.
+Starting blockout countdown... </entry>
+<entry timestamp="2020-02-13#21:15:15" user="PromptStepHandler" level="NORMAL">ending 1.6 second prompt delay</entry>
+<entry timestamp="2020-02-13#21:15:15" user="basilica2.agents.listeners.plan.Stage" level="NORMAL">finished stage initiate</entry>
+<entry timestamp="2020-02-13#21:15:15" user="basilica2.agents.listeners.plan.Stage" level="NORMAL">5 second delay before next stage = body</entry>
+<entry timestamp="2020-02-13#21:15:20" user="PlanExecutor" level="NORMAL">PLAN: activiating next stage: body</entry>
+<entry timestamp="2020-02-13#21:15:20" user="PlanExecutor" level="NORMAL">Firing Stage 'body'</entry>
+<entry timestamp="2020-02-13#21:15:20" user="basilica2.agents.listeners.plan.Stage" level="NORMAL">finished stage body</entry>

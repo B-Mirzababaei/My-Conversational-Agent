@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dialogs>
+
+	
+	
+	<dialog concept="GENERAL_AI" scenario="scenario-general_ai">
+		<!-- messages that receive the annotation ANIMALS will trigger an offer for this dialogue.
+    	  automatic annotations are defined by lists of words 
+    	  and regular expressions in the dictionaries/ folder. -->
+    	<trigger annotation="TRIGGER_GENERAL_AI"/>
+    	
+    	<!-- The intro prompt is offered to students. 
+    	If they respond in the affirmative, the dialogue begins.-->
+        <intro>[USERNAME], do you want to talk about general AI?</intro>
+        <accept annotation="AFFIRMATIVE">Let's get started.</accept>        
+		<cancel annotation="NEGATIVE">Okay - you can continue discussing other topics.</cancel>     
+		
+    </dialog>
+
+	
+	<dialog concept="SEARCH_ENGINE" scenario="scenario-search_engine">
+		<trigger annotation="TRIGGER_SEARCH_ENGINE"/>
+
+        <intro>[USERNAME], do you want to talk about search engine?</intro>
+        <accept annotation="AFFIRMATIVE">Let's get started.</accept>
+		<cancel annotation="NEGATIVE">Okay - you can continue discussing other topics.</cancel>     
+		
+    </dialog>
+	
+	<dialog concept="REBO4AI" scenario="scenario-rebo4ai">
+		<trigger annotation="TRIGGER_REBO4AI"/>
+
+        <intro>[USERNAME], do you want to talk about rebo4ai?</intro>
+        <accept annotation="AFFIRMATIVE">Let's get started.</accept>
+		<cancel annotation="NEGATIVE">Okay - you can continue discussing other topics.</cancel>     
+    </dialog>   
+	<dialog concept="IDSAI" scenario="scenario-idsai">
+		<intro>How are you?</intro>
+        <accept annotation="TRUE">Let's get started.</accept>
+		<!-- <trigger annotation="TRIGGER_IDSAI"/>
+
+        <intro>[USERNAME], do you want to talk about IDSAI?</intro>
+        <accept annotation="AFFIRMATIVE">Let's get started.</accept>
+		<cancel annotation="NEGATIVE">Okay - you can continue discussing other topics.</cancel>      -->
+    </dialog>  
+	
+</dialogs>

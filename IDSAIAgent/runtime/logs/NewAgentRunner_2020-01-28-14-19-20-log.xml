@@ -1,0 +1,36 @@
+<entry timestamp="2020-01-28#14:19:20" user="NewAgentRunner" level="INFO">Logger initialized</entry>
+<entry timestamp="2020-01-28#14:19:20" user="NewAgentRunner" level="NORMAL">AgentOperator NewAgentRunner created</entry>
+<entry timestamp="2020-01-28#14:19:20" user="NewAgentRunner" level="NORMAL">Operation Created</entry>
+<entry timestamp="2020-01-28#14:19:20" user="NewAgentRunner" level="NORMAL">Classes: [class basilica2.agents.listeners.PresenceWatcher, class basilica2.agents.listeners.MessageAnnotator, class basilica2.tutor.listeners.TutorialTriggerWatcher, class basilica2.tutor.listeners.TutorTurnWatcher]</entry>
+<entry timestamp="2020-01-28#14:19:20" user="NewAgentRunner" level="NORMAL">Classes: [class basilica2.agents.listeners.plan.PlanExecutor, class basilica2.tutor.listeners.TutorActor]</entry>
+<entry timestamp="2020-01-28#14:19:20" user="NewAgentRunner" level="NORMAL">Starting operation</entry>
+<entry timestamp="2020-01-28#14:19:20" user="NewAgentRunner" level="NORMAL">Operation started</entry>
+<entry timestamp="2020-01-28#14:19:20" user="NewAgentRunner" level="NORMAL">launching hands-free!</entry>
+<entry timestamp="2020-01-28#14:19:20" user="NewAgentRunner" level="NORMAL">setting basilica2.agents.room_name to r2</entry>
+<entry timestamp="2020-01-28#14:19:20" user="NewAgentRunner" level="NORMAL"><launching room=r2/></entry>
+<entry timestamp="2020-01-28#14:19:20" user="AgentFactory" level="NORMAL">Making Agent from agent.xml</entry>
+<entry timestamp="2020-01-28#14:19:20" user="AgentFactory" level="NORMAL">File Read</entry>
+<entry timestamp="2020-01-28#14:19:20" user="AgentFactory" level="NORMAL">Agent Tag Read</entry>
+<entry timestamp="2020-01-28#14:19:20" user="AgentFactory" level="NORMAL">Components Tag Read</entry>
+<entry timestamp="2020-01-28#14:19:20" user="AgentFactory" level="NORMAL">Components read. N=4</entry>
+<entry timestamp="2020-01-28#14:19:20" user="AgentFactory" level="NORMAL">Agent build. Rebo4AI_r2</entry>
+<entry timestamp="2020-01-28#14:19:20" user="NewAgentRunner" level="NORMAL">Adding agent Rebo4AI_r2</entry>
+<entry timestamp="2020-01-28#14:19:20" user="NewAgentRunner" level="INFO">Added. 1 agents now working</entry>
+<entry timestamp="2020-01-28#14:19:20" user="NewAgentRunner" level="INFO">Initializing new agent</entry>
+<entry timestamp="2020-01-28#14:19:20" user="PromptStepHandler" level="NORMAL">default priority=0.75, wait 0.1 seconds after prompts, +3.3333333333333335 wps</entry>
+<entry timestamp="2020-01-28#14:19:20" user="NewAgentRunner" level="INFO">Starting new Agent</entry>
+<entry timestamp="2020-01-28#14:19:20" user="NewAgentRunner" level="NORMAL">notified UI of agent launch for Rebo4AI_r2</entry>
+<entry timestamp="2020-01-28#14:19:20" user="NewAgentRunner" level="NORMAL">Agent added Rebo4AI_r2</entry>
+<entry timestamp="2020-01-28#14:19:51" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 1</entry>
+<entry timestamp="2020-01-28#14:19:51" user="PlanExecutor" level="NORMAL">PLAN: activiating next stage: initiate</entry>
+<entry timestamp="2020-01-28#14:19:51" user="PlanExecutor" level="NORMAL">Firing Stage 'initiate'</entry>
+<entry timestamp="2020-01-28#14:19:51" user="Step" level="NORMAL">Handlers for FIRST_REBO_TALK(dialogue): [basilica2.tutor.listeners.DialogStepHandler@1e79db8d]</entry>
+<entry timestamp="2020-01-28#14:19:51" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 1</entry>
+<entry timestamp="2020-01-28#14:19:52" user="" level="NORMAL">ACCEPTED! Message from Rebo4AI: Hello Behzad TUTOR</entry>
+<entry timestamp="2020-01-28#14:20:00" user="" level="NORMAL">ACCEPTED! Message from Rebo4AI: I hope you have read the AI essential course.|Now, do you have a good feeling about AI? TUTOR</entry>
+<entry timestamp="2020-01-28#14:20:16" user="" level="NORMAL">ACCEPTED! Message from Rebo4AI: Heute wieder einmal kurz angebunden.|Oh dear! | What didn't you particularly enjoy doing the experience? Why? TUTOR</entry>
+<entry timestamp="2020-01-28#14:20:30" user="" level="NORMAL">ACCEPTED! Message from Rebo4AI: How do you see AI affecting you in the future? TUTOR</entry>
+<entry timestamp="2020-01-28#14:20:56" user="" level="NORMAL">ACCEPTED! Message from Rebo4AI: You are optimistic! | What about negative concequences, Do you think it maybe has bad effects? TUTOR</entry>
+<entry timestamp="2020-01-28#14:21:14" user="Rebo4AI_r2 Wizard" level="INFO">displaying wizard UI for Rebo4AI_r2</entry>
+<entry timestamp="2020-01-28#14:21:35" user="NewAgentRunner" level="NORMAL">Starting operation</entry>
+<entry timestamp="2020-01-28#14:21:35" user="NewAgentRunner" level="NORMAL">Operation started</entry>

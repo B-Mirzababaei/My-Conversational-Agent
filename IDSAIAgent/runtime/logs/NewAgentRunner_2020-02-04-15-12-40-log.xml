@@ -1,0 +1,33 @@
+<entry timestamp="2020-02-04#15:12:40" user="NewAgentRunner" level="INFO">Logger initialized</entry>
+<entry timestamp="2020-02-04#15:12:40" user="NewAgentRunner" level="NORMAL">AgentOperator NewAgentRunner created</entry>
+<entry timestamp="2020-02-04#15:12:40" user="NewAgentRunner" level="NORMAL">Operation Created</entry>
+<entry timestamp="2020-02-04#15:12:40" user="NewAgentRunner" level="NORMAL">Classes: [class basilica2.agents.listeners.PresenceWatcher, class rebo4AI.MessageAnnotator.Rebo4AIMessageAnnotator, class basilica2.tutor.listeners.TutorialTriggerWatcher, class basilica2.tutor.listeners.TutorTurnWatcher]</entry>
+<entry timestamp="2020-02-04#15:12:40" user="NewAgentRunner" level="NORMAL">Classes: [class basilica2.agents.listeners.plan.PlanExecutor, class basilica2.tutor.listeners.TutorActor]</entry>
+<entry timestamp="2020-02-04#15:12:40" user="NewAgentRunner" level="NORMAL">Starting operation</entry>
+<entry timestamp="2020-02-04#15:12:40" user="NewAgentRunner" level="NORMAL">Operation started</entry>
+<entry timestamp="2020-02-04#15:12:40" user="NewAgentRunner" level="NORMAL">launching hands-free!</entry>
+<entry timestamp="2020-02-04#15:12:40" user="NewAgentRunner" level="NORMAL">setting basilica2.agents.room_name to testingDialog040220</entry>
+<entry timestamp="2020-02-04#15:12:40" user="NewAgentRunner" level="NORMAL"><launching room=testingDialog040220/></entry>
+<entry timestamp="2020-02-04#15:12:40" user="AgentFactory" level="NORMAL">Making Agent from agent.xml</entry>
+<entry timestamp="2020-02-04#15:12:40" user="AgentFactory" level="NORMAL">File Read</entry>
+<entry timestamp="2020-02-04#15:12:40" user="AgentFactory" level="NORMAL">Agent Tag Read</entry>
+<entry timestamp="2020-02-04#15:12:40" user="AgentFactory" level="NORMAL">Components Tag Read</entry>
+<entry timestamp="2020-02-04#15:12:40" user="AgentFactory" level="NORMAL">Components read. N=4</entry>
+<entry timestamp="2020-02-04#15:12:40" user="AgentFactory" level="NORMAL">Agent build. Rebo4AI_testingDialog040220</entry>
+<entry timestamp="2020-02-04#15:12:40" user="NewAgentRunner" level="NORMAL">Adding agent Rebo4AI_testingDialog040220</entry>
+<entry timestamp="2020-02-04#15:12:40" user="NewAgentRunner" level="INFO">Added. 1 agents now working</entry>
+<entry timestamp="2020-02-04#15:12:40" user="NewAgentRunner" level="INFO">Initializing new agent</entry>
+<entry timestamp="2020-02-04#15:12:41" user="PromptStepHandler" level="NORMAL">default priority=0.75, wait 0.1 seconds after prompts, +3.3333333333333335 wps</entry>
+<entry timestamp="2020-02-04#15:12:41" user="NewAgentRunner" level="INFO">Starting new Agent</entry>
+<entry timestamp="2020-02-04#15:12:41" user="NewAgentRunner" level="NORMAL">notified UI of agent launch for Rebo4AI_testingDialog040220</entry>
+<entry timestamp="2020-02-04#15:12:41" user="NewAgentRunner" level="NORMAL">Agent added Rebo4AI_testingDialog040220</entry>
+<entry timestamp="2020-02-04#15:12:41" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 1</entry>
+<entry timestamp="2020-02-04#15:12:41" user="PlanExecutor" level="NORMAL">PLAN: activiating next stage: initiate</entry>
+<entry timestamp="2020-02-04#15:12:41" user="PlanExecutor" level="NORMAL">Firing Stage 'initiate'</entry>
+<entry timestamp="2020-02-04#15:12:41" user="Step" level="NORMAL">Handlers for FIRST_REBO_TALK(dialogue): [basilica2.tutor.listeners.DialogStepHandler@3bd3a0b9]</entry>
+<entry timestamp="2020-02-04#15:12:42" user="" level="NORMAL">ACCEPTED! Message from Rebo4AI: Hello Irmi! TUTOR</entry>
+<entry timestamp="2020-02-04#15:12:46" user="" level="NORMAL">ACCEPTED! Message from Rebo4AI: My name is Rebo4AI, but can call me Rebo. | We're going to discuss AI and the its impact on your personal or professional life .|Can you tell me how you use an AI-based systems in your daily life? Please name some concrete examples which you use such as Google's search engine, Youtube, GoogleMap, or ridesharing apps. TUTOR</entry>
+<entry timestamp="2020-02-04#15:14:04" user="" level="NORMAL">ACCEPTED! Message from Rebo4AI: Good to hear that! So you are familiar with these kinds of stuff.|Could you address some drawbacks or benefits of these kinds of systems? How these systems affect on what you do in your personal or professional life? TUTOR</entry>
+<entry timestamp="2020-02-04#15:16:33" user="" level="NORMAL">ACCEPTED! Message from Rebo4AI: You are a positive person! It may have some dark sides. What do you think? TUTOR</entry>
+<entry timestamp="2020-02-04#15:17:29" user="NewAgentRunner" level="NORMAL">Starting operation</entry>
+<entry timestamp="2020-02-04#15:17:29" user="NewAgentRunner" level="NORMAL">Operation started</entry>

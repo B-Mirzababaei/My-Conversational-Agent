@@ -1,0 +1,1735 @@
+2020-02-17,13:25:22,0,Rebo4AI,1581942323276,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-17,13:25:25,0,Rebo4AI,1581942325298,"Behzad, do you want to talk about IDSAI?",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-17,13:26:53,0,Rebo4AI,1581942413901,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-17,13:26:56,0,Rebo4AI,1581942417918,"Rebo4AI, do you want to talk about IDSAI?",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-17,13:28:10,0,Rebo4AI,1581942491081,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-17,13:29:47,0,Rebo4AI,1581942587844,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-17,13:31:19,0,Rebo4AI,1581942679861,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-17,13:32:12,0,Rebo4AI,1581942734067,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-17,13:35:23,0,Rebo4AI,1581942924675,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-17,13:38:07,0,Rebo4AI,1581943087588,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-17,13:39:35,0,Rebo4AI,1581943177515,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-17,13:44:04,0,Rebo4AI,1581943444847,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-17,13:44:07,0,Rebo4AI,1581943448881,"Rebo4AI, do you want to talk about general AI?",TUTOR
+2020-02-17,13:44:15,0,Behzad,1581943455299,ok,AFFIRMATIVE
+2020-02-17,13:44:15,0,Rebo4AI,1581943456897,Let's get started.,TUTOR
+2020-02-17,13:44:15,0,Rebo4AI,1581943458905,We are here to have a conversation about ups and downs of AI and how it affects our life.,TUTOR
+2020-02-17,13:44:15,0,Rebo4AI,1581943458910,"Can you tell me how you use an AI-based systems in your daily life? Please name some concrete examples which you use such as Google's search engine, Youtube, GoogleMap, or ridesharing apps.",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-17,13:45:12,0,Rebo4AI,1581943512591,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-17,13:45:14,0,Rebo4AI,1581943516619,"Rebo4AI, do you want to talk about idsai?",TUTOR
+2020-02-17,13:45:19,0,Behzad,1581943519939,ok,AFFIRMATIVE
+2020-02-17,13:45:19,0,Rebo4AI,1581943520627, Let's get started.,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-17,13:45:57,0,Rebo4AI,1581943558084,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-17,13:46:00,0,Rebo4AI,1581943562108,"Rebo4AI, do you want to talk about idsai?",TUTOR
+2020-02-17,13:46:07,0,Behzad,1581943567356,ok,AFFIRMATIVE
+2020-02-17,13:46:07,0,Rebo4AI,1581943568119, Let's get started.,TUTOR
+2020-02-17,13:46:07,0,Rebo4AI,1581943570125,You have learned in the Introduction to Data Science and Artificial Intelligence different definitions of intelligence; I have not been able to follow!,TUTOR
+2020-02-17,13:46:07,0,Rebo4AI,1581943570127,"But I'm curious: Is a ""fish"" now intelligent or not?",TUTOR
+2020-02-17,13:46:07,0,Rebo4AI,1581943570128,judgement_on_relevance,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-17,13:48:29,0,Rebo4AI,1581943709988,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-17,13:49:07,0,Rebo4AI,1581943747771,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-17,13:49:10,0,Rebo4AI,1581943751800,Let's get started.,TUTOR
+2020-02-17,13:49:19,0,Behzad,1581943759862,asdasdasdas,
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-17,13:50:14,0,Rebo4AI,1581943815189,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-17,13:50:31,0,Behzad,1581943831189,ok,AFFIRMATIVE
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-17,13:52:25,0,Rebo4AI,1581943946041,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-17,13:53:07,0,Behzad,1581943997459,bnb,
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-17,13:58:01,0,Behzad,1581944281169,ok,AFFIRMATIVE
+2020-02-17,13:58:01,0,Rebo4AI,1581944282956,Let's get started.,TUTOR
+2020-02-17,13:58:01,0,Rebo4AI,1581944284960,You have learned in the Introduction to Data Science and Artificial Intelligence different definitions of intelligence; I have not been able to follow!,TUTOR
+2020-02-17,13:58:01,0,Rebo4AI,1581944284961,"But I'm curious: Is a ""fish"" now intelligent or not?",TUTOR
+2020-02-17,13:58:01,0,Rebo4AI,1581944284962,judgement_on_relevance,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-17,13:58:43,0,Behzad,1581944323312,ok,AFFIRMATIVE
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-17,14:03:15,0,Behzad,1581944595692,adsad,
+2020-02-17,14:03:27,0,Behzad,1581944607795,TRUE,
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-17,14:07:27,0,Rebo4AI,1581944847935,Are you ready?,TUTOR
+2020-02-17,14:07:31,0,Behzad,1581944852011,ff,TRUE
+2020-02-17,14:07:32,0,Rebo4AI,1581944853950,TRUE,TUTOR
+2020-02-17,14:07:32,0,Rebo4AI,1581944855952,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",TUTOR
+2020-02-17,14:07:32,0,Rebo4AI,1581944855954,You have learned in the Introduction to Data Science and Artificial Intelligence different definitions of intelligence; I have not been able to follow!,TUTOR
+2020-02-17,14:07:32,0,Rebo4AI,1581944855962,"But I'm curious: Is a ""fish"" now intelligent or not?",TUTOR
+2020-02-17,14:07:32,0,Rebo4AI,1581944855963,judgement_on_relevance,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-17,14:09:17,0,Rebo4AI,1581944957807,How are you?,TUTOR
+2020-02-17,14:09:23,0,Behzad,1581944963404,no,TRUE+NEGATIVE
+2020-02-17,14:09:23,0,Rebo4AI,1581944963827,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",TUTOR
+2020-02-17,14:09:23,0,Rebo4AI,1581944963834,You have learned in the Introduction to Data Science and Artificial Intelligence different definitions of intelligence; I have not been able to follow!,TUTOR
+2020-02-17,14:09:23,0,Rebo4AI,1581944963837,"But I'm curious: Is a ""fish"" now intelligent or not?",TUTOR
+2020-02-17,14:09:23,0,Rebo4AI,1581944963840,judgement_on_relevance,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-17,14:10:47,0,Rebo4AI,1581945048763,How are you?,TUTOR
+2020-02-17,14:11:05,0,Behzad,1581945065303,s,TRUE
+2020-02-17,14:11:05,0,Rebo4AI,1581945066813,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",TUTOR
+2020-02-17,14:11:05,0,Rebo4AI,1581945066817,You have learned in the Introduction to Data Science and Artificial Intelligence different definitions of intelligence; I have not been able to follow!,TUTOR
+2020-02-17,14:11:05,0,Rebo4AI,1581945066820,"But I'm curious: Is a ""fish"" now intelligent or not?",TUTOR
+2020-02-17,14:11:05,0,Rebo4AI,1581945066822,judgement_on_relevance,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-17,14:12:28,0,Rebo4AI,1581945148399,How are you?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-17,14:13:50,0,Rebo4AI,1581945232455,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-17,14:14:28,0,Rebo4AI,1581945270047,"Hsssi, I'm Rebo4AI; I'm a prototype conversational agent.",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-17,14:15:12,0,Rebo4AI,1581945314250,"Hsssi, I'm Rebo4AI; I'm a prototype conversational agent.",TUTOR
+2020-02-17,14:15:20,0,Behzad,1581945320664,d,TRUE
+2020-02-17,14:15:20,0,Rebo4AI,1581945322270,Let's get started.,TUTOR
+2020-02-17,14:15:20,0,Rebo4AI,1581945324280,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",TUTOR
+2020-02-17,14:15:20,0,Rebo4AI,1581945324285,You have learned in the Introduction to Data Science and Artificial Intelligence different definitions of intelligence; I have not been able to follow!,TUTOR
+2020-02-17,14:15:20,0,Rebo4AI,1581945324288,"But I'm curious: Is a ""fish"" now intelligent or not?",TUTOR
+2020-02-17,14:15:20,0,Rebo4AI,1581945324291,judgement_on_relevance,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-17,14:17:02,0,Rebo4AI,1581945423066,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-17,14:17:04,0,Rebo4AI,1581945425094,How are youaaaa?,TUTOR
+2020-02-17,14:17:11,0,Behzad,1581945431153,dsafffas fas dsad sadasds ,TRUE
+2020-02-17,14:17:11,0,Rebo4AI,1581945433104,Let's get started.,TUTOR
+2020-02-17,14:17:11,0,Rebo4AI,1581945435110,You have learned in the Introduction to Data Science and Artificial Intelligence different definitions of intelligence; I have not been able to follow!,TUTOR
+2020-02-17,14:17:11,0,Rebo4AI,1581945435111,"But I'm curious: Is a ""fish"" now intelligent or not?",TUTOR
+2020-02-17,14:17:11,0,Rebo4AI,1581945435113,judgement_on_relevance,TUTOR
+2020-02-17,14:27:11,0,Rebo4AI,1581946031584,"As far as I know, Google and Youtube are the most well-known companies in which many AI-based systems are used in order to make it more convenient for us accessing the content that we look for.",TUTOR
+2020-02-17,14:27:11,0,Rebo4AI,1581946031585,"So, if you try at least one of these, you definitely deal with AI in your life.",TUTOR
+2020-02-17,14:27:11,0,Rebo4AI,1581946031585,"What is the effects, positive or negative one, of such artificial intelligence systems or issues on your own life (professional or private)?",TUTOR
+2020-02-17,14:37:11,0,Rebo4AI,1581946632041,How can the new learning be translated into practice?,TUTOR
+2020-02-17,14:47:12,0,Rebo4AI,1581947232494,What of these plans can you implement already in the next one or two weeks?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-17,15:03:27,0,Rebo4AI,1581948208730,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-17,15:03:30,0,Rebo4AI,1581948210748,How are you?,TUTOR
+2020-02-17,15:03:36,0,Behzad,1581948216979,i am good,TRUE+AFFIRMATIVE
+2020-02-17,15:03:36,0,Rebo4AI,1581948218765,ssssssLet's get started.,TUTOR
+2020-02-17,15:03:37,0,Rebo4AI,1581948220771,You have learned in the Introduction to Data Science and Artificial Intelligence different definitions of intelligence; I have not been able to follow!,TUTOR
+2020-02-17,15:03:37,0,Rebo4AI,1581948220773,"But I'm curious: Is a ""fish"" now intelligent or not?",TUTOR
+2020-02-17,15:03:37,0,Rebo4AI,1581948220775,judgement_on_relevance,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-17,15:12:07,0,Rebo4AI,1581948728648,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-17,15:12:10,0,Rebo4AI,1581948730669,How are you?,TUTOR
+2020-02-17,15:12:33,0,Behzad,1581948753451,sssssssssn't,TRUE+NEGATIVE
+2020-02-17,15:12:33,0,Rebo4AI,1581948754695,Let's get started.,TUTOR
+2020-02-17,15:12:33,0,Rebo4AI,1581948756700,You have learned in the Introduction to Data Science and Artificial Intelligence different definitions of intelligence; I have not been able to follow!,TUTOR
+2020-02-17,15:12:33,0,Rebo4AI,1581948756701,"But I'm curious: Is a ""fish"" now intelligent or not?",TUTOR
+2020-02-17,15:12:33,0,Rebo4AI,1581948756702,judgement_on_relevance,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-17,15:21:16,0,Rebo4AI,1581949278152,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-17,15:21:19,0,Rebo4AI,1581949280178,How are you?,TUTOR
+2020-02-17,15:21:26,0,Behzad,1581949286049,dasdg good,TRUE
+2020-02-17,15:21:26,0,Behzad,1581949286049,dasdg good,TRUE
+2020-02-17,15:21:26,0,Rebo4AI,1581949286189,Let's get started.,TUTOR
+2020-02-17,15:21:26,0,Rebo4AI,1581949288190,You have learned in the Introduction to Data Science and Artificial Intelligence different definitions of intelligence; I have not been able to follow!,TUTOR
+2020-02-17,15:21:26,0,Rebo4AI,1581949288192,"But I'm curious: Is a ""fish"" now intelligent or not?",TUTOR
+2020-02-17,15:21:28,0,Rebo4AI,1581949289065,"As far as I know, Google and Youtube are the most well-known companies in which many AI-based systems are used in order to make it more convenient for us accessing the content that we look for.",TUTOR
+2020-02-17,15:21:28,0,Rebo4AI,1581949289067,"So, if you try at least one of these, you definitely deal with AI in your life.",TUTOR
+2020-02-17,15:21:28,0,Rebo4AI,1581949289068,How is AI likely to change your personal life or job? Do You think these changes lead to a better life or make our life more complicated?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-17,15:29:24,0,Rebo4AI,1581949765294,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-17,15:29:26,0,Rebo4AI,1581949767321,How are you?,TUTOR
+2020-02-17,15:29:30,0,Behzad,1581949770658,sddsf,TRUE
+2020-02-17,15:29:30,0,Rebo4AI,1581949771329,Let's get started.,TUTOR
+2020-02-17,15:29:30,0,Rebo4AI,1581949773337,You have learned in the Introduction to Data Science and Artificial Intelligence different definitions of intelligence; I have not been able to follow!,TUTOR
+2020-02-17,15:29:30,0,Rebo4AI,1581949773339,"But I'm curious: Is a ""fish"" now intelligent or not?",TUTOR
+2020-02-17,15:30:09,0,Behzad,1581949809969,"yesssssss, it is",TRUE
+2020-02-17,15:30:11,0,Rebo4AI,1581949813376,"I'm not sure I understood - which definition of intelligence did you make in deciding that a ""fish"" is (not) intelligent?",TUTOR
+2020-02-17,15:30:11,0,Rebo4AI,1581949813381,"OK, good. Thank you for discussing this with me!",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-17,15:31:04,0,Rebo4AI,1581949864780,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-17,15:31:06,0,Rebo4AI,1581949866802,How are you?,TUTOR
+2020-02-17,15:31:19,0,Behzad,1581949879074,xcxx,TRUE
+2020-02-17,15:31:19,0,Rebo4AI,1581949880818,Let's get started.,TUTOR
+2020-02-17,15:31:19,0,Rebo4AI,1581949882826,You have learned in the Introduction to Data Science and Artificial Intelligence different definitions of intelligence; I have not been able to follow!,TUTOR
+2020-02-17,15:31:19,0,Rebo4AI,1581949882829,"But I'm curious: Is a ""fish"" now intelligent or not?",TUTOR
+2020-02-17,15:31:32,0,Behzad,1581949892284,yeah,TRUE+IDSAI_QUESTION1_POSITIVE
+2020-02-17,15:31:34,0,Rebo4AI,1581949894843,"Why do you think ""fish"" is intelligent?",TUTOR
+2020-02-17,15:31:34,0,Rebo4AI,1581949894844,"OK, good. Thank you for discussing this with me!",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-17,15:32:03,0,Rebo4AI,1581949924642,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-17,15:32:05,0,Rebo4AI,1581949926667,How are you?,TUTOR
+2020-02-17,15:32:14,0,Behzad,1581949934308,s,TRUE
+2020-02-17,15:32:14,0,Rebo4AI,1581949934677,Let's get started.,TUTOR
+2020-02-17,15:32:14,0,Rebo4AI,1581949936682,You have learned in the Introduction to Data Science and Artificial Intelligence different definitions of intelligence; I have not been able to follow!,TUTOR
+2020-02-17,15:32:14,0,Rebo4AI,1581949936683,"But I'm curious: Is a ""fish"" now intelligent or not?",TUTOR
+2020-02-17,15:32:19,0,Behzad,1581949939464,arent,TRUE+IDSAI_QUESTION1_NEGATIVE
+2020-02-17,15:32:24,0,Rebo4AI,1581949944694,"Why do you think ""fish"" isn't intelligent?",TUTOR
+2020-02-17,15:32:24,0,Rebo4AI,1581949944699,"OK, good. Thank you for discussing this with me!",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-17,15:40:14,0,Rebo4AI,1581950415878,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-17,15:40:17,0,Rebo4AI,1581950417893,How are you?,TUTOR
+2020-02-17,15:40:26,0,Behzad,1581950426377,ss,TRUE
+2020-02-17,15:40:26,0,Rebo4AI,1581950427910,Let's get started.,TUTOR
+2020-02-17,15:40:26,0,Rebo4AI,1581950429915,You have learned in the Introduction to Data Science and Artificial Intelligence different definitions of intelligence; I have not been able to follow!,TUTOR
+2020-02-17,15:40:26,0,Rebo4AI,1581950429916,"But I'm curious: Is a ""fish"" now intelligent or not?",TUTOR
+2020-02-17,15:40:41,0,Behzad,1581950441991,nope,TRUE+IDSAI_QUESTION1_NEGATIVE
+2020-02-17,15:40:46,0,Rebo4AI,1581950447933,"Why do you think ""fish"" isn't intelligent?",TUTOR
+2020-02-17,15:40:46,0,Rebo4AI,1581950447937,"OK, good. Thank you for discussing this with me!",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-17,15:43:25,0,Rebo4AI,1581950606106,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-17,15:43:28,0,Rebo4AI,1581950608135,How are you?,TUTOR
+2020-02-17,15:43:32,0,Behzad,1581950612431,ggg,
+2020-02-17,15:44:02,0,Behzad,1581950642194,can't be smart,TRUE+IDSAI_QUESTION1_NEGATIVE
+2020-02-17,15:44:02,0,Rebo4AI,1581950644165,Let's get started.,TUTOR
+2020-02-17,15:44:02,0,Rebo4AI,1581950646174,You have learned in the Introduction to Data Science and Artificial Intelligence different definitions of intelligence; I have not been able to follow!,TUTOR
+2020-02-17,15:44:02,0,Rebo4AI,1581950646176,"But I'm curious: Is a ""fish"" now intelligent or not?",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-17,15:45:02,0,Rebo4AI,1581950704175,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-17,15:45:05,0,Rebo4AI,1581950706188,How are you?,TUTOR
+2020-02-17,15:45:13,0,Behzad,1581950714066,can't be smart,IDSAI_QUESTION1_NEGATIVE
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-17,15:46:49,0,Rebo4AI,1581950811388,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-17,15:46:52,0,Rebo4AI,1581950813401,How are you?,TUTOR
+2020-02-17,15:47:16,0,Behzad,1581950836500,aasa,TRUE
+2020-02-17,15:47:16,0,Rebo4AI,1581950837427,Let's get started.,TUTOR
+2020-02-17,15:47:16,0,Rebo4AI,1581950839434,You have learned in the Introduction to Data Science and Artificial Intelligence different definitions of intelligence; I have not been able to follow!,TUTOR
+2020-02-17,15:47:16,0,Rebo4AI,1581950839439,"But I'm curious: Is a ""fish"" now intelligent or not?",TUTOR
+2020-02-17,15:48:02,0,Behzad,1581950882662,sssssssssssssssn't,TRUE+IDSAI_QUESTION1_NEGATIVE
+2020-02-17,15:48:02,0,Rebo4AI,1581950883479,"Why do you think ""fish"" isn't intelligent?",TUTOR
+2020-02-17,15:48:02,0,Rebo4AI,1581950883482,"OK, good. Thank you for discussing this with me!",TUTOR
+2020-02-17,15:58:03,0,Rebo4AI,1581951483941,See you next time :),TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-17,16:19:32,0,Rebo4AI,1581952773376,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-17,16:19:34,0,Rebo4AI,1581952775391,How are you?,TUTOR
+2020-02-17,16:19:39,0,Behzad,1581952779104,sla,TRUE
+2020-02-17,16:19:39,0,Rebo4AI,1581952779401,Let's get started.,TUTOR
+2020-02-17,16:19:39,0,Rebo4AI,1581952781405,You have learned in the Introduction to Data Science and Artificial Intelligence different definitions of intelligence; I have not been able to follow!,TUTOR
+2020-02-17,16:19:39,0,Rebo4AI,1581952781408,"But I'm curious: Is a ""fish"" now intelligent or not?",TUTOR
+2020-02-17,16:20:28,0,Behzad,1581952828177,i dont know,TRUE
+2020-02-17,16:20:30,0,Rebo4AI,1581952831452,"I'm not sure I understood - which definition of intelligence did you make in deciding that a ""fish"" is (not) intelligent?",TUTOR
+2020-02-17,16:20:30,0,Rebo4AI,1581952831455,"OK, good. Thank you for discussing this with me!",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-17,16:21:51,0,Rebo4AI,1581952912304,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-17,16:21:54,0,Rebo4AI,1581952914324,How are you?,TUTOR
+2020-02-17,16:21:56,0,Behzad,1581952916968,ppl,TRUE
+2020-02-17,16:21:56,0,Rebo4AI,1581952918332,Let's get started.,TUTOR
+2020-02-17,16:21:56,0,Rebo4AI,1581952920338,You have learned in the Introduction to Data Science and Artificial Intelligence different definitions of intelligence; I have not been able to follow!,TUTOR
+2020-02-17,16:21:56,0,Rebo4AI,1581952920340,"But I'm curious: Is a ""fish"" now intelligent or not?",TUTOR
+2020-02-17,16:22:21,0,Behzad,1581952941626,i dont know,TRUE+IDSAI_QUESTION1_NEGATIVE
+2020-02-17,16:22:22,0,Rebo4AI,1581952944363,"Why do you think ""fish"" isn't intelligent?",TUTOR
+2020-02-17,16:22:22,0,Rebo4AI,1581952944373,"OK, good. Thank you for discussing this with me!",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-17,16:25:58,0,Rebo4AI,1581953160271,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-17,16:26:01,0,Rebo4AI,1581953162284,How are you?,TUTOR
+2020-02-17,16:26:04,0,Behzad,1581953164903,12,TRUE
+2020-02-17,16:26:04,0,Rebo4AI,1581953166305,Let's get started.,TUTOR
+2020-02-17,16:26:04,0,Rebo4AI,1581953168310,You have learned in the Introduction to Data Science and Artificial Intelligence different definitions of intelligence; I have not been able to follow!,TUTOR
+2020-02-17,16:26:04,0,Rebo4AI,1581953168313,"But I'm curious: Is a ""fish"" now intelligent or not?",TUTOR
+2020-02-17,16:26:17,0,Behzad,1581953177706, dont know,TRUE
+2020-02-17,16:26:20,0,Rebo4AI,1581953180321,"I'm not sure I understood - which definition of intelligence did you make in deciding that a ""fish"" is (not) intelligent?",TUTOR
+2020-02-17,16:27:48,0,Behzad,1581953268557,is smart,TRUE+IDSAI_QUESTION1_POSITIVE
+2020-02-17,16:27:52,0,Rebo4AI,1581953274406,"Why do you think ""fish"" is intelligent?",TUTOR
+2020-02-17,16:27:52,0,Rebo4AI,1581953274408,"OK, good. Thank you for discussing this with me!",TUTOR
+2020-02-17,16:37:53,0,Rebo4AI,1581953874901,See you next time!,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-18,11:08:11,0,Rebo4AI,1582020492233,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-18,11:08:13,0,Rebo4AI,1582020494250,How are you?,TUTOR
+2020-02-18,11:08:43,0,Behzad,1582020523503,ok optimistic bye bad good is in not,TRUE+IDSAI_QUESTION1_NEGATIVE
+2020-02-18,11:10:46,0,Rebo4AI,1582020646340,Let's get started.,TUTOR
+2020-02-18,11:14:57,0,Rebo4AI,1582020898491,You have learned in the Introduction to Data Science and Artificial Intelligence different definitions of intelligence; I have not been able to follow!,TUTOR
+2020-02-18,11:14:57,0,Rebo4AI,1582020898492,But I'm curious: Is a RandomElement now intelligent or not?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-18,11:16:03,0,Rebo4AI,1582020964482,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-18,11:16:06,0,Rebo4AI,1582020966505,How are you?,TUTOR
+2020-02-18,11:16:13,0,Behzad,1582020973457,good,TRUE
+2020-02-18,11:16:16,0,Rebo4AI,1582020976511,Let's get started.,TUTOR
+2020-02-18,11:16:17,0,Rebo4AI,1582020978514,You have learned in the Introduction to Data Science and Artificial Intelligence different definitions of intelligence; I have not been able to follow!,TUTOR
+2020-02-18,11:16:17,0,Rebo4AI,1582020978515,But I'm curious: Is a RandomElement now intelligent or not?,TUTOR
+2020-02-18,11:16:26,0,Behzad,1582020987040,it is intelligent,TRUE+IDSAI_QUESTION1_POSITIVE
+2020-02-18,11:16:36,0,Rebo4AI,1582020996526,Why do you think a RandomElement is intelligent?,TUTOR
+2020-02-18,11:16:36,0,Rebo4AI,1582020996527,"OK, good. Thank you for discussing this with me!",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-18,11:18:48,0,Rebo4AI,1582021130100,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-18,11:18:50,0,Rebo4AI,1582021132120,How are you?,TUTOR
+2020-02-18,11:19:01,0,Behzad,1582021141770,i am good,TRUE
+2020-02-18,11:19:19,0,Rebo4AI,1582021160140,Let's get started.,TUTOR
+2020-02-18,11:19:19,0,Rebo4AI,1582021162147,You have learned in the Introduction to Data Science and Artificial Intelligence different definitions of intelligence; I have not been able to follow!,TUTOR
+2020-02-18,11:19:19,0,Rebo4AI,1582021162148,But I'm curious: Is a RandomElement now intelligent or not?,TUTOR
+2020-02-18,11:19:31,0,Behzad,1582021171846,it is not intelligent,TRUE+IDSAI_QUESTION1_NEGATIVE
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-18,11:22:38,0,Rebo4AI,1582021359574,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-18,11:22:45,0,Rebo4AI,1582021365598,How are you?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-18,11:31:26,0,Rebo4AI,1582021888512,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-18,11:31:29,0,Rebo4AI,1582021890542,How are you?,TUTOR
+2020-02-18,11:31:51,0,Behzad,1582022371232,good nad optimistic pessimistic bad ok hi,GENERAL_AI_JUDGEMENT_ON_IMPLICATION_BALANCED_ANNOTATION
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-18,11:46:42,0,Rebo4AI,1582022802561,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-18,11:46:44,0,Rebo4AI,1582022804584,How are you?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-18,14:10:55,0,Rebo4AI,1582031456943,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-18,14:10:58,0,Rebo4AI,1582031458962,How are you?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-18,14:15:42,0,Rebo4AI,1582031786743,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-18,14:19:50,0,Rebo4AI,1582031992079,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-18,14:19:53,0,Rebo4AI,1582031994107,How are you?,TUTOR
+2020-02-18,14:19:57,0,Behzad,1582032013239,dsf,TRUE
+2020-02-18,14:20:13,0,Rebo4AI,1582032014121,Let's get started.,TUTOR
+2020-02-18,14:23:54,0,Rebo4AI,1582032236252,"1Hi, I'm Rebo4AI; I'm a prototype conversational agent.",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-18,14:24:23,0,Rebo4AI,1582032265592,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-18,14:24:26,0,Rebo4AI,1582032267609,How are you?,TUTOR
+2020-02-18,14:24:29,0,Behzad,1582032281911,aasdas,TRUE
+2020-02-18,14:24:41,0,Rebo4AI,1582032283624,Let's get started.,TUTOR
+2020-02-18,14:25:00,0,Rebo4AI,1582032301633,"5Hi, I'm Rebo4AI; I'm a prototype conversational agent.",TUTOR
+2020-02-18,14:25:16,0,Behzad,1582032347348,it is intelligent,TRUE+IDSAI_QUESTION1_POSITIVE
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-18,16:28:31,0,Rebo4AI,1582039712162,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-18,16:28:33,0,Rebo4AI,1582039714189,How are you?,TUTOR
+2020-02-18,16:28:43,0,Behzad,1582039724092,good,REBO_EMOTION_POSITIVE_ANNOTATION+TRUE+REBO_JUDGEMENT_ON_IMPLICATION_OPTIMISTIC_ANNOTATION+GENERAL_AI_JUDGEMENT_ON_IMPLICATION_OPTIMISTIC_ANNOTATION+SEARCH_ENGINE_JUDGEMENT_ON_IMPLICATION_OPTIMISTIC_ANNOTATION
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-18,16:29:36,0,Rebo4AI,1582039777478,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-18,16:29:39,0,Rebo4AI,1582039781501,How are you?,TUTOR
+2020-02-18,16:29:44,0,Behzad,1582039784544,good,TRUE
+2020-02-18,16:29:44,0,Rebo4AI,1582039785511,Let's get started.,TUTOR
+2020-02-18,16:29:44,0,Rebo4AI,1582039787518,You have learned in the Introduction to Data Science and Artificial Intelligence different definitions of intelligence; I have not been able to follow!,TUTOR
+2020-02-18,16:29:44,0,Rebo4AI,1582039787520,But I'm curious: Is RandomElement now intelligent or not? Why?,TUTOR
+2020-02-18,16:30:24,0,Behzad,1582039824992,know nothing,IDSAI_QUESTION1_DONT_KNOW+TRUE
+2020-02-18,16:30:25,0,Rebo4AI,1582039827551,"Just think about four different concepts of an intelligent entity which are act rationally, think humanly, act humanly and think rationally then use these concepts for reasoning. What do you think about RandomElement? Is it intelligent or not? Why?",TUTOR
+2020-02-18,16:31:44,0,Behzad,1582039904706,it is not intelligent,TRUE+NO
+2020-02-18,16:31:47,0,Rebo4AI,1582039909613,Are you personally satisfied with this decision and definition?,TUTOR
+2020-02-18,16:32:48,0,Behzad,1582039968129,no,TRUE+NO
+2020-02-18,16:32:49,0,Rebo4AI,1582039969650,What would you change in the definition?,TUTOR
+2020-02-18,16:33:23,0,Behzad,1582040004009,yes,TRUE+YES
+2020-02-18,16:33:25,0,Rebo4AI,1582040005679,What is your final answer?,TUTOR
+2020-02-18,16:33:25,0,Rebo4AI,1582040005684,Is RandomElement now intelligent or not? Why?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-18,16:53:08,0,Rebo4AI,1582041188833,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-18,16:53:10,0,Rebo4AI,1582041190848,How are you?,TUTOR
+2020-02-18,16:53:16,0,Behzad,1582041196634,good,TRUE
+2020-02-18,16:53:16,0,Rebo4AI,1582041196857,Let's get started.,TUTOR
+2020-02-18,16:53:16,0,Rebo4AI,1582041198862,You have learned in the Introduction to Data Science and Artificial Intelligence different definitions of intelligence; I have not been able to follow!,TUTOR
+2020-02-18,16:53:16,0,Rebo4AI,1582041198865,But I'm curious: Is RandomElement now intelligent or not? Why?,TUTOR
+2020-02-18,16:53:29,0,Behzad,1582041209033,i dont know,IDSAI_QUESTION1_DONT_KNOW+TRUE
+2020-02-18,16:53:32,0,Rebo4AI,1582041212883,"Just think about four different concepts of an intelligent entity which are act rationally, think humanly, act humanly, and think rationally then use these concepts for reasoning.",TUTOR
+2020-02-18,16:53:32,0,Rebo4AI,1582041212890,What do you think about RandomElement? Is it intelligent or not? Why?,TUTOR
+2020-02-18,16:55:27,0,Behzad,1582041327737,i dont know,IDSAI_QUESTION1_DONT_KNOW+TRUE
+2020-02-18,16:55:30,0,Rebo4AI,1582041331008,Are you personally satisfied with this decision and definition?,TUTOR
+2020-02-18,16:55:35,0,Behzad,1582041336079,no,TRUE+NO
+2020-02-18,16:55:40,0,Rebo4AI,1582041341020,What would you change in the definition?,TUTOR
+2020-02-18,16:56:30,0,Behzad,1582041390648,i think it is intelligent based on acting like human,IDSAI_QUESTION1_CONCEPTS+TRUE+YES
+2020-02-18,16:56:32,0,Rebo4AI,1582041393071,How interesting is it for you to know whether RandomElement is intelligent or not?,TUTOR
+2020-02-18,16:56:32,0,Rebo4AI,1582041393074,"What in your life would change, depending on whether you see RandomElement as intelligent or not?",TUTOR
+2020-02-18,16:56:32,0,Rebo4AI,1582041393078,Interesting! Thanks!,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-18,17:03:10,0,Rebo4AI,1582041790353,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-18,17:03:12,0,Rebo4AI,1582041794398,How are you?,TUTOR
+2020-02-18,17:03:20,0,Behzad,1582041800606,im fine,TRUE
+2020-02-18,17:03:20,0,Rebo4AI,1582041802412,Let's get started.,TUTOR
+2020-02-18,17:03:20,0,Rebo4AI,1582041804417,You have learned in the Introduction to Data Science and Artificial Intelligence different definitions of intelligence; I have not been able to follow!,TUTOR
+2020-02-18,17:03:20,0,Rebo4AI,1582041804418,But I'm curious: Is RandomElement now intelligent or not? Why?,TUTOR
+2020-02-18,17:03:41,0,Behzad,1582041821641,it is intelligent,TRUE+YES
+2020-02-18,17:04:50,0,Behzad,1582041890879,dont know,IDSAI_QUESTION1_DONT_KNOW+TRUE
+2020-02-18,17:04:53,0,Rebo4AI,1582041894503,"Just think about four different concepts of an intelligent entity which are act rationally, think humanly, act humanly, and think rationally then use these concepts for reasoning.",TUTOR
+2020-02-18,17:04:53,0,Rebo4AI,1582041894505,"Based on these concepts, do you think RandomElement is intelligent or not? Why?",TUTOR
+2020-02-18,17:05:10,0,Behzad,1582041910888,it is,TRUE
+2020-02-18,17:05:13,0,Rebo4AI,1582041914528,Are you personally satisfied with this decision and definition?,TUTOR
+2020-02-18,17:05:17,0,Behzad,1582041917427,yes,TRUE+YES
+2020-02-18,17:05:18,0,Rebo4AI,1582041920539,Good to hear that!,TUTOR
+2020-02-18,17:05:18,0,Rebo4AI,1582041920543,How interesting is it for you to know whether RandomElement is intelligent or not?,TUTOR
+2020-02-18,17:05:25,0,Behzad,1582041925977,dkasdasfa,TRUE
+2020-02-18,17:05:29,0,Rebo4AI,1582041930554,"What in your life would change, depending on whether you see RandomElement as intelligent or not?",TUTOR
+2020-02-18,17:05:31,0,Behzad,1582041931204,fak;dljflk ;ajdkflj ajdkfj lkajsd;fj sadf,TRUE
+2020-02-18,17:05:34,0,Rebo4AI,1582041934562,Interesting! Thanks!,TUTOR
+2020-02-18,17:05:34,0,Rebo4AI,1582041934566,And bye :-),TUTOR
+2020-02-18,17:05:40,0,Behzad,1582041940861,bye,TRUE
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-18,17:10:43,0,Rebo4AI,1582042244399,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-18,17:10:46,0,Rebo4AI,1582042246419,How are you?,TUTOR
+2020-02-18,17:10:49,0,Behzad,1582042300693,good,TRUE
+2020-02-18,17:11:40,0,Rebo4AI,1582042302458,Let's get started.,TUTOR
+2020-02-18,17:11:49,0,Rebo4AI,1582042310464,You have learned in the Introduction to Data Science and Artificial Intelligence different definitions of intelligence; I have not been able to follow!,TUTOR
+2020-02-18,17:11:49,0,Rebo4AI,1582042310468,But I'm curious: Is RandomElement now intelligent or not? Why?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-18,17:12:34,0,Rebo4AI,1582042356277,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-18,17:12:36,0,Rebo4AI,1582042358318,How are you?,TUTOR
+2020-02-18,17:12:44,0,Behzad,1582042376781,sd,TRUE
+2020-02-18,17:12:56,0,Rebo4AI,1582042378331,Let's get started.,TUTOR
+2020-02-18,17:13:12,0,Rebo4AI,1582042394340,You have learned in the Introduction to Data Science and Artificial Intelligence different definitions of intelligence; I have not been able to follow!,TUTOR
+2020-02-18,17:13:12,0,Rebo4AI,1582042394342,But I'm curious: Is RandomElement now intelligent or not? Why?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-18,17:19:56,0,Rebo4AI,1582042797864,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-18,17:19:58,0,Rebo4AI,1582042799893,How are you?,TUTOR
+2020-02-18,17:20:29,0,Behzad,1582042863293,goof,QUESTION1_WITHOUT_REASON_ANNOTATION
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-18,17:21:20,0,Rebo4AI,1582042881551,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-18,17:21:23,0,Rebo4AI,1582042883574,How are you?,TUTOR
+2020-02-18,17:21:24,0,Behzad,1582042884362,good,QUESTION1_WITHOUT_REASON_ANNOTATION
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-18,17:23:15,0,Rebo4AI,1582042996348,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-18,17:23:18,0,Rebo4AI,1582042998366,How are you?,TUTOR
+2020-02-18,17:23:20,0,Behzad,1582043193379,good,QUESTION1_WITHOUT_REASON_ANNOTATION
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-18,17:32:58,0,Rebo4AI,1582043578558,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-18,17:33:00,0,Rebo4AI,1582043582579,How are you?,TUTOR
+2020-02-18,17:33:05,0,Behzad,1582043585823,fine,TRUE+QUESTION1_WITHOUT_REASON_ANNOTATION
+2020-02-18,17:33:05,0,Rebo4AI,1582043586590,Let's get started.,TUTOR
+2020-02-18,17:33:05,0,Rebo4AI,1582043588597,You have learned in the Introduction to Data Science and Artificial Intelligence different definitions of intelligence; I have not been able to follow!,TUTOR
+2020-02-18,17:33:05,0,Rebo4AI,1582043588597,But I'm curious: Is RandomElement now intelligent or not? Why?,TUTOR
+2020-02-18,17:33:15,0,Behzad,1582043595728,it is,TRUE+QUESTION1_WITHOUT_REASON_ANNOTATION
+2020-02-18,17:33:16,0,Rebo4AI,1582043596603,I'm not sure I understood - which definition of intelligence did you make in deciding that RandomElement is (not) intelligent?,TUTOR
+2020-02-18,17:33:51,0,Behzad,1582043631731,dasfsfadsd sad ,TRUE+QUESTION1_WITHOUT_REASON_ANNOTATION
+2020-02-18,17:33:52,0,Rebo4AI,1582043632633,Are you personally satisfied with this decision and definition?,TUTOR
+2020-02-18,17:33:55,0,Behzad,1582043635652,no,TRUE+QUESTION1_WITHOUT_REASON_ANNOTATION+NO
+2020-02-18,17:33:57,0,Rebo4AI,1582043638638,What would you change in the definition?,TUTOR
+2020-02-18,17:34:03,0,Behzad,1582043643900,it is,TRUE+QUESTION1_WITHOUT_REASON_ANNOTATION
+2020-02-18,17:34:07,0,Rebo4AI,1582043648644,How interesting is it for you to know whether RandomElement is intelligent or not?,TUTOR
+2020-02-18,17:34:15,0,Behzad,1582043655873,it is good,TRUE+QUESTION1_WITHOUT_REASON_ANNOTATION
+2020-02-18,17:34:17,0,Rebo4AI,1582043658652,"What in your life would change, depending on whether you see RandomElement as intelligent or not?",TUTOR
+2020-02-18,17:34:21,0,Behzad,1582043661303,ljasfkldjsf lkjsdflk ,TRUE+QUESTION1_WITHOUT_REASON_ANNOTATION
+2020-02-18,17:34:22,0,Rebo4AI,1582043664657,Interesting! Thanks!,TUTOR
+2020-02-18,17:34:22,0,Rebo4AI,1582043664660,See you next time :),TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-18,17:36:44,0,Rebo4AI,1582043805389,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-18,17:36:46,0,Rebo4AI,1582043807406,How are you?,TUTOR
+2020-02-18,17:36:51,0,Behzad,1582043811626,i am fine,TRUE+QUESTION1_WITHOUT_REASON_ANNOTATION
+2020-02-18,17:36:51,0,Rebo4AI,1582043813412,Let's get started.,TUTOR
+2020-02-18,17:36:51,0,Rebo4AI,1582043815416,You have learned in the Introduction to Data Science and Artificial Intelligence different definitions of intelligence; I have not been able to follow!,TUTOR
+2020-02-18,17:36:51,0,Rebo4AI,1582043815419,But I'm curious: Is RandomElement now intelligent or not? Why?,TUTOR
+2020-02-18,17:37:21,0,Behzad,1582043841598,i think it could be itelligent,IDSAI_QUESTION1_CONCEPTS+TRUE
+2020-02-18,17:37:22,0,Rebo4AI,1582043843445,Are you personally satisfied with this decision and definition?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-18,17:39:27,0,Rebo4AI,1582043969454,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-18,17:39:30,0,Rebo4AI,1582043971468,How are you?,TUTOR
+2020-02-18,17:39:33,0,Behzad,1582043973321,i am fine ,TRUE+QUESTION1_WITHOUT_REASON_ANNOTATION
+2020-02-18,17:39:33,0,Rebo4AI,1582043973473,Let's get started.,TUTOR
+2020-02-18,17:39:33,0,Rebo4AI,1582043975478,You have learned in the Introduction to Data Science and Artificial Intelligence different definitions of intelligence; I have not been able to follow!,TUTOR
+2020-02-18,17:39:33,0,Rebo4AI,1582043975480,But I'm curious: Is RandomElement now intelligent or not? Why?,TUTOR
+2020-02-18,17:40:33,0,Behzad,1582044033940,i think it is intelligent,TRUE+YES+QUESTION1_WITHOUT_REASON_ANNOTATION
+2020-02-18,17:40:34,0,Rebo4AI,1582044035531,Are you personally satisfied with this decision and definition?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-18,17:44:09,0,Rebo4AI,1582044251127,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-18,17:44:12,0,Rebo4AI,1582044253146,How are you?,TUTOR
+2020-02-18,17:44:18,0,Behzad,1582044258200,i am good,TRUE+QUESTION1_WITHOUT_REASON_ANNOTATION
+2020-02-18,17:44:18,0,Rebo4AI,1582044259159,Let's get started.,TUTOR
+2020-02-18,17:44:18,0,Rebo4AI,1582044261161,You have learned in the Introduction to Data Science and Artificial Intelligence different definitions of intelligence; I have not been able to follow!,TUTOR
+2020-02-18,17:44:18,0,Rebo4AI,1582044261162,But I'm curious: Is RandomElement now intelligent or not? Why?,TUTOR
+2020-02-18,17:44:35,0,Behzad,1582044276031,it is intelligent,TRUE+YES+QUESTION1_WITHOUT_REASON_ANNOTATION
+2020-02-18,17:44:38,0,Rebo4AI,1582044279184,Are you personally satisfied with this decision and definition?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-18,17:46:54,0,Rebo4AI,1582044416419,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-18,17:46:57,0,Rebo4AI,1582044418451,How are you?,TUTOR
+2020-02-18,17:46:59,0,Behzad,1582044419211,i am good,TRUE+QUESTION1_WITHOUT_REASON_ANNOTATION
+2020-02-18,17:46:59,0,Rebo4AI,1582044420457,Let's get started.,TUTOR
+2020-02-18,17:46:59,0,Rebo4AI,1582044422465,You have learned in the Introduction to Data Science and Artificial Intelligence different definitions of intelligence; I have not been able to follow!,TUTOR
+2020-02-18,17:46:59,0,Rebo4AI,1582044422467,But I'm curious: Is RandomElement now intelligent or not? Why?,TUTOR
+2020-02-18,17:47:08,0,Behzad,1582044428188,it is intelligent,TRUE+YES+QUESTION1_WITHOUT_REASON_ANNOTATION
+2020-02-18,17:47:09,0,Rebo4AI,1582044430476,Are you personally satisfied with this decision and definition?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-18,17:48:13,0,Rebo4AI,1582044493492,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-18,17:48:15,0,Rebo4AI,1582044497518,How are you?,TUTOR
+2020-02-18,17:48:20,0,Behzad,1582044500702,fff,TRUE+QUESTION1_WITHOUT_REASON_ANNOTATION
+2020-02-18,17:48:20,0,Rebo4AI,1582044501528,Let's get started.,TUTOR
+2020-02-18,17:48:20,0,Rebo4AI,1582044503533,You have learned in the Introduction to Data Science and Artificial Intelligence different definitions of intelligence; I have not been able to follow!,TUTOR
+2020-02-18,17:48:20,0,Rebo4AI,1582044503537,But I'm curious: Is RandomElement now intelligent or not? Why?,TUTOR
+2020-02-18,17:48:26,0,Behzad,1582044506271,it is,TRUE+QUESTION1_WITHOUT_REASON_ANNOTATION
+2020-02-18,17:48:30,0,Rebo4AI,1582044511548,Are you personally satisfied with this decision and definition?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-18,17:50:34,0,Rebo4AI,1582044636224,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-18,17:50:36,0,Rebo4AI,1582044638243,How are you?,TUTOR
+2020-02-18,17:50:39,0,Behzad,1582044672828,good,TRUE+QUESTION1_WITHOUT_REASON_ANNOTATION
+2020-02-18,17:51:12,0,Rebo4AI,1582044674267,Let's get started.,TUTOR
+2020-02-18,17:51:17,0,Rebo4AI,1582044678270,You have learned in the Introduction to Data Science and Artificial Intelligence different definitions of intelligence; I have not been able to follow!,TUTOR
+2020-02-18,17:51:17,0,Rebo4AI,1582044678271,But I'm curious: Is RandomElement now intelligent or not? Why?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-19,08:03:55,0,Rebo4AI,1582095835502,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-19,08:03:57,0,Rebo4AI,1582095839527,How are you?,TUTOR
+2020-02-19,08:04:05,0,Behzad,1582095845693,good,TRUE+QUESTION1_WITHOUT_REASON_ANNOTATION
+2020-02-19,08:04:05,0,Rebo4AI,1582095847539,Let's get started.,TUTOR
+2020-02-19,08:04:05,0,Rebo4AI,1582095849543,You have learned in the Introduction to Data Science and Artificial Intelligence different definitions of intelligence; I have not been able to follow!,TUTOR
+2020-02-19,08:04:05,0,Rebo4AI,1582095849547,But I'm curious: Is RandomElement now intelligent or not? Why?,TUTOR
+2020-02-19,08:04:54,0,Behzad,1582095894074,yes it is,TRUE+YES+QUESTION1_WITHOUT_REASON_ANNOTATION
+2020-02-19,08:04:56,0,Rebo4AI,1582095897588,Are you personally satisfied with this decision and definition?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-19,08:07:01,0,Rebo4AI,1582096021859,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-19,08:07:04,0,Rebo4AI,1582096025882,How are you?,TUTOR
+2020-02-19,08:07:10,0,Behzad,1582096030108,bad,TRUE+QUESTION1_WITHOUT_REASON_ANNOTATION
+2020-02-19,08:07:10,0,Rebo4AI,1582096031892,Let's get started.,TUTOR
+2020-02-19,08:07:10,0,Rebo4AI,1582096033898,You have learned in the Introduction to Data Science and Artificial Intelligence different definitions of intelligence; I have not been able to follow!,TUTOR
+2020-02-19,08:07:10,0,Rebo4AI,1582096033901,But I'm curious: Is RandomElement now intelligent or not? Why?,TUTOR
+2020-02-19,08:07:25,0,Behzad,1582096045513,yes it is,TRUE+YES+QUESTION1_WITHOUT_REASON_ANNOTATION
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-19,08:08:12,0,Rebo4AI,1582096092430,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-19,08:08:14,0,Rebo4AI,1582096096457,How are you?,TUTOR
+2020-02-19,08:08:26,0,Behzad,1582096106708,sdfsdf,TRUE+QUESTION1_WITHOUT_REASON_ANNOTATION
+2020-02-19,08:08:26,0,Rebo4AI,1582096108473,Let's get started.,TUTOR
+2020-02-19,08:08:26,0,Rebo4AI,1582096110481,You have learned in the Introduction to Data Science and Artificial Intelligence different definitions of intelligence; I have not been able to follow!,TUTOR
+2020-02-19,08:08:26,0,Rebo4AI,1582096110484,But I'm curious: Is RandomElement now intelligent or not? Why?,TUTOR
+2020-02-19,08:08:33,0,Behzad,1582096113984,yes it is,TRUE+YES+QUESTION1_WITHOUT_REASON_ANNOTATION
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-19,08:09:00,0,Rebo4AI,1582096140335,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-19,08:09:02,0,Rebo4AI,1582096144370,How are you?,TUTOR
+2020-02-19,08:09:12,0,Behzad,1582096152700,asdsa,TRUE+QUESTION1_WITHOUT_REASON_ANNOTATION
+2020-02-19,08:09:12,0,Rebo4AI,1582096154385,Let's get started.,TUTOR
+2020-02-19,08:09:12,0,Rebo4AI,1582096156390,You have learned in the Introduction to Data Science and Artificial Intelligence different definitions of intelligence; I have not been able to follow!,TUTOR
+2020-02-19,08:09:12,0,Rebo4AI,1582096156391,But I'm curious: Is RandomElement now intelligent or not? Why?,TUTOR
+2020-02-19,08:09:26,0,Behzad,1582096166207,yes it is,TRUE+YES+QUESTION1_WITHOUT_REASON_ANNOTATION
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-19,08:17:00,0,Rebo4AI,1582096620237,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-19,08:17:02,0,Rebo4AI,1582096624261,How are you?,TUTOR
+2020-02-19,08:28:45,0,Behzad,1582097325886,dsad,TRUE+AQUESTION1_WITHOUT_REASON_ANNOTATION
+2020-02-19,08:28:45,0,Rebo4AI,1582097326812,Let's get started.,TUTOR
+2020-02-19,08:28:45,0,Rebo4AI,1582097328815,You have learned in the Introduction to Data Science and Artificial Intelligence different definitions of intelligence; I have not been able to follow!,TUTOR
+2020-02-19,08:28:45,0,Rebo4AI,1582097328817,But I'm curious: Is RandomElement now intelligent or not? Why?,TUTOR
+2020-02-19,08:28:55,0,Behzad,1582097335362,yes it is,TRUE+AQUESTION1_WITHOUT_REASON_ANNOTATION+YES
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-19,08:30:06,0,Rebo4AI,1582097407249,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-19,08:30:09,0,Rebo4AI,1582097411277,How are you?,TUTOR
+2020-02-19,08:30:13,0,Behzad,1582097413344,good,AQUESTION1_WITHOUT_REASON_ANNOTATION
+2020-02-19,08:30:13,0,Behzad,1582097413436,good,TRUE+AQUESTION1_WITHOUT_REASON_ANNOTATION
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-19,08:32:50,0,Rebo4AI,1582097570641,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-19,08:32:52,0,Rebo4AI,1582097574669,How are you?,TUTOR
+2020-02-19,08:32:55,0,Behzad,1582097575418,good,AQUESTION1_WITHOUT_REASON_ANNOTATION
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-19,08:33:41,0,Rebo4AI,1582097621314,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-19,08:33:43,0,Rebo4AI,1582097625342,How are you?,TUTOR
+2020-02-19,08:33:46,0,Behzad,1582097626858,good,AQUESTION1_WITHOUT_REASON_ANNOTATION
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-19,08:34:35,0,Rebo4AI,1582097677042,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-19,08:34:38,0,Rebo4AI,1582097679060,How are you?,TUTOR
+2020-02-19,08:34:46,0,Behzad,1582097791294,good,AQUESTION1_WITHOUT_REASON_ANNOTATION
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-19,11:58:48,0,Rebo4AI,1582109929234,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-19,11:58:54,0,Rebo4AI,1582109934448,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-19,11:58:56,0,Rebo4AI,1582109938470,How are you?,TUTOR
+2020-02-19,11:58:59,0,Behzad,1582109939329,good,TRUE+IDSAI_AQUESTION1_WITHOUT_REASON
+2020-02-19,11:58:59,0,Rebo4AI,1582109940476,Let's get started.,TUTOR
+2020-02-19,11:58:59,0,Rebo4AI,1582109942483,You have learned in the Introduction to Data Science and Artificial Intelligence different definitions of intelligence; I have not been able to follow!,TUTOR
+2020-02-19,11:58:59,0,Rebo4AI,1582109942485,But I'm curious: Is RandomElement now intelligent or not? Why?,TUTOR
+2020-02-19,11:59:10,0,Behzad,1582109951031,it is intelligent,TRUE+IDSAI_AQUESTION1_WITHOUT_REASON+YES
+2020-02-19,11:59:14,0,Rebo4AI,1582109956495,I'm not sure I understood - which definition of intelligence did you make in deciding that RandomElement is (not) intelligent?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-19,12:00:02,0,Rebo4AI,1582110003054,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-19,12:00:05,0,Rebo4AI,1582110007074,How are you?,TUTOR
+2020-02-19,12:00:09,0,Behzad,1582110009851,it is intelligent,TRUE+IDSAI_AQUESTION1_WITHOUT_REASON+YES
+2020-02-19,12:00:09,0,Rebo4AI,1582110011082,Let's get started.,TUTOR
+2020-02-19,12:00:09,0,Rebo4AI,1582110013088,You have learned in the Introduction to Data Science and Artificial Intelligence different definitions of intelligence; I have not been able to follow!,TUTOR
+2020-02-19,12:00:09,0,Rebo4AI,1582110013092,But I'm curious: Is RandomElement now intelligent or not? Why?,TUTOR
+2020-02-19,12:00:19,0,Behzad,1582110019239,i dont know,IDSAI_QUESTION1_DONT_KNOW+TRUE+IDSAI_AQUESTION1_WITHOUT_REASON
+2020-02-19,12:00:20,0,Rebo4AI,1582110021099,I'm not sure I understood - which definition of intelligence did you make in deciding that RandomElement is (not) intelligent?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-19,12:02:03,0,Rebo4AI,1582110123615,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-19,12:02:05,0,Rebo4AI,1582110127639,How are you?,TUTOR
+2020-02-19,12:17:06,0,Rebo4AI,1582111026309,"To start the conversation, please welcome Rebo :)",TUTOR
+2020-02-19,12:32:06,0,Rebo4AI,1582111926997,Dialog Abbruch durch Timeout,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-19,13:07:20,0,Rebo4AI,1582114040318,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-19,13:07:27,0,Rebo4AI,1582114047347,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-19,13:07:29,0,Rebo4AI,1582114051366,How are you?,TUTOR
+2020-02-19,13:07:47,0,Behzad,1582114067856,i am good,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-19,13:08:21,0,Rebo4AI,1582114101374,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-19,13:08:23,0,Rebo4AI,1582114105398,How are you?,TUTOR
+2020-02-19,13:08:38,0,Behzad,1582114118120,i am good,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-19,13:11:25,0,Rebo4AI,1582114285429,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-19,13:11:27,0,Rebo4AI,1582114289460,How are you?,TUTOR
+2020-02-19,13:11:29,0,Behzad,1582114290014,i am good,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-19,13:12:51,0,Rebo4AI,1582114371591,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-19,13:12:53,0,Rebo4AI,1582114375607,How are you?,TUTOR
+2020-02-19,13:12:56,0,Behzad,1582114376176,i am good,TRUE+QUESTION1_WITHOUT_REASON_ANNOTATION
+2020-02-19,13:12:56,0,Rebo4AI,1582114377614,Let's get started.,TUTOR
+2020-02-19,13:12:56,0,Rebo4AI,1582114379623,You have learned in the Introduction to Data Science and Artificial Intelligence different definitions of intelligence; I have not been able to follow!,TUTOR
+2020-02-19,13:12:56,0,Rebo4AI,1582114379628,But I'm curious: Is RandomElement now intelligent or not? Why?,TUTOR
+2020-02-19,13:13:10,0,Behzad,1582114390086,yes it is,TRUE+YES+QUESTION1_WITHOUT_REASON_ANNOTATION
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-19,13:14:08,0,Rebo4AI,1582114448952,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-19,13:14:11,0,Behzad,1582114451676,i am good,question1_without_reason_annotation+TRUE
+2020-02-19,13:14:11,0,Rebo4AI,1582114452980,How are you?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-19,13:14:30,0,Rebo4AI,1582114471127,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-19,13:14:33,0,Rebo4AI,1582114475153,How are you?,TUTOR
+2020-02-19,13:14:35,0,Behzad,1582114475701,i am good,question1_without_reason_annotation+TRUE
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-19,13:15:38,0,Rebo4AI,1582114539035,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-19,13:15:41,0,Rebo4AI,1582114543057,How are you?,TUTOR
+2020-02-19,13:15:45,0,Behzad,1582114545459,i am good,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-19,13:16:22,0,Rebo4AI,1582114582388,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-19,13:16:24,0,Rebo4AI,1582114586409,How are you?,TUTOR
+2020-02-19,13:16:26,0,Behzad,1582114586966,i am good,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-19,13:16:54,0,Rebo4AI,1582114615104,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-19,13:16:56,0,Rebo4AI,1582114617128,How are you?,TUTOR
+2020-02-19,13:16:58,0,Behzad,1582114653016,i am good,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-19,13:19:43,0,Rebo4AI,1582114785677,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-19,13:19:46,0,Rebo4AI,1582114787701,How are you?,TUTOR
+2020-02-19,13:19:48,0,Behzad,1582114792192,hjkhkjhkh j g,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-19,13:23:27,0,Rebo4AI,1582115007757,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-19,13:23:30,0,Rebo4AI,1582115011782,How are you?,TUTOR
+2020-02-19,13:23:36,0,Behzad,1582115026256,i am good,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-19,13:24:00,0,Rebo4AI,1582115041804,Let's get started.,TUTOR
+2020-02-19,13:24:17,0,Rebo4AI,1582115057821,You have learned in the Introduction to Data Science and Artificial Intelligence different definitions of intelligence; I have not been able to follow!,TUTOR
+2020-02-19,13:24:17,0,Rebo4AI,1582115057826,But I'm curious: Is RandomElement now intelligent or not? Why?,TUTOR
+2020-02-19,13:24:45,0,Behzad,1582115092784,yes it is,IDSAI_QUESTION1_WITHOUT_REASON+TRUE+YES
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-19,13:25:40,0,Rebo4AI,1582115140852,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-19,13:25:43,0,Rebo4AI,1582115144879,How are you?,TUTOR
+2020-02-19,13:25:48,0,Behzad,1582115148091,i am good rebo,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-19,13:25:48,0,Rebo4AI,1582115148894,Let's get started.,TUTOR
+2020-02-19,13:25:48,0,Rebo4AI,1582115150899,You have learned in the Introduction to Data Science and Artificial Intelligence different definitions of intelligence; I have not been able to follow!,TUTOR
+2020-02-19,13:25:48,0,Rebo4AI,1582115150901,But I'm curious: Is RandomElement now intelligent or not? Why?,TUTOR
+2020-02-19,13:25:58,0,Behzad,1582115158574,yes it is,IDSAI_QUESTION1_WITHOUT_REASON+TRUE+YES
+2020-02-19,13:26:03,0,Rebo4AI,1582115164918,I'm not sure I understood - which definition of intelligence did you make in deciding that RandomElement is (not) intelligent?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-19,13:27:29,0,Rebo4AI,1582115249767,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-19,13:27:32,0,Rebo4AI,1582115253788,How are you?,TUTOR
+2020-02-19,13:27:53,0,Behzad,1582115273353,i am good,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-19,13:27:53,0,Rebo4AI,1582115273816,Let's get started.,TUTOR
+2020-02-19,13:27:53,0,Rebo4AI,1582115275824,You have learned in the Introduction to Data Science and Artificial Intelligence different definitions of intelligence; I have not been able to follow!,TUTOR
+2020-02-19,13:27:53,0,Rebo4AI,1582115275826,But I'm curious: Is RandomElement now intelligent or not? Why?,TUTOR
+2020-02-19,13:28:06,0,Behzad,1582115286350,i dont know,IDSAI_QUESTION1_WITHOUT_REASON+IDSAI_QUESTION1_DONT_KNOW+TRUE
+2020-02-19,13:28:08,0,Rebo4AI,1582115289842,"Just think about four different concepts of an intelligent entity which are act rationally, think humanly, act humanly, and think rationally then use these concepts for reasoning.",TUTOR
+2020-02-19,13:28:08,0,Rebo4AI,1582115289845,"Based on these concepts, do you think RandomElement is intelligent or not? Why?",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-19,13:37:39,0,Rebo4AI,1582115860294,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-19,13:37:42,0,Rebo4AI,1582115864310,How are you?,TUTOR
+2020-02-19,13:37:44,0,Behzad,1582115864954,asd asd asd ,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-19,13:37:44,0,Rebo4AI,1582115866317,Let's get started.,TUTOR
+2020-02-19,13:37:44,0,Rebo4AI,1582115868324,You have learned in the Introduction to Data Science and Artificial Intelligence different definitions of intelligence; I have not been able to follow!,TUTOR
+2020-02-19,13:37:44,0,Rebo4AI,1582115868327,But I'm curious: Is RandomElement now intelligent or not? Why?,TUTOR
+2020-02-19,13:37:50,0,Behzad,1582115871018,i dont know,IDSAI_QUESTION1_WITHOUT_REASON+IDSAI_QUESTION1_DONT_KNOW+TRUE
+2020-02-19,13:37:55,0,Rebo4AI,1582115876340,I'm not sure I understood - which definition of intelligence did you make in deciding that RandomElement is (not) intelligent?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-19,13:40:59,0,Rebo4AI,1582116059316,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-19,13:41:01,0,Rebo4AI,1582116063333,How are you?,TUTOR
+2020-02-19,13:41:04,0,Behzad,1582116064472,sssssssssssssssssssssssssssssss,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-19,13:41:04,0,Rebo4AI,1582116065345,Let's get started.,TUTOR
+2020-02-19,13:41:04,0,Rebo4AI,1582116067354,You have learned in the Introduction to Data Science and Artificial Intelligence different definitions of intelligence; I have not been able to follow!,TUTOR
+2020-02-19,13:41:04,0,Rebo4AI,1582116067358,But I'm curious: Is RandomElement now intelligent or not? Why?,TUTOR
+2020-02-19,13:41:14,0,Behzad,1582116074249,i dont know,IDSAI_QUESTION1_WITHOUT_REASON+IDSAI_QUESTION1_DONT_KNOW+TRUE
+2020-02-19,13:41:14,0,Rebo4AI,1582116075367,"Just think about four different concepts of an intelligent entity which are act rationally, think humanly, act humanly, and think rationally then use these concepts for reasoning.",TUTOR
+2020-02-19,13:41:14,0,Rebo4AI,1582116075368,"Based on these concepts, do you think RandomElement is intelligent or not? Why?",TUTOR
+2020-02-19,13:51:15,0,Rebo4AI,1582116675849,Are you personally satisfied with this decision and definition?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-19,13:57:42,0,Rebo4AI,1582117062528,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-19,13:57:44,0,Rebo4AI,1582117066552,How are you?,TUTOR
+2020-02-19,13:57:48,0,Behzad,1582117068352,dasd a ,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-19,13:57:48,0,Rebo4AI,1582117068556,Let's get started.,TUTOR
+2020-02-19,13:57:48,0,Rebo4AI,1582117070562,You have learned in the Introduction to Data Science and Artificial Intelligence different definitions of intelligence; I have not been able to follow!,TUTOR
+2020-02-19,13:57:48,0,Rebo4AI,1582117070564,But I'm curious: Is RandomElement now intelligent or not? Why?,TUTOR
+2020-02-19,13:57:53,0,Behzad,1582117073414,i dont know,IDSAI_QUESTION1_WITHOUT_REASON+IDSAI_QUESTION1_DONT_KNOW+TRUE
+2020-02-19,13:57:53,0,Rebo4AI,1582117074575,I'm not sure I understood - which definition of intelligence did you make in deciding that RandomElement is (not) intelligent?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-19,14:03:22,0,Rebo4AI,1582117402405,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-19,14:03:24,0,Rebo4AI,1582117406432,How are you?,TUTOR
+2020-02-19,14:03:27,0,Behzad,1582117407748,i am good,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-19,14:03:27,0,Rebo4AI,1582117408439,Let's get started.,TUTOR
+2020-02-19,14:03:27,0,Rebo4AI,1582117410448,You have learned in the Introduction to Data Science and Artificial Intelligence different definitions of intelligence; I have not been able to follow!,TUTOR
+2020-02-19,14:03:27,0,Rebo4AI,1582117410450,But I'm curious: Is RandomElement now intelligent or not? Why?,TUTOR
+2020-02-19,14:03:34,0,Behzad,1582117414211,i dont know,IDSAI_QUESTION1_WITHOUT_REASON+IDSAI_QUESTION1_DONT_KNOW+TRUE
+2020-02-19,14:03:38,0,Rebo4AI,1582117418457,I'm not sure I understood - which definition of intelligence did you make in deciding that RandomElement is (not) intelligent?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-19,14:03:55,0,Rebo4AI,1582117436092,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-19,14:03:58,0,Rebo4AI,1582117440116,How are you?,TUTOR
+2020-02-19,14:04:01,0,Behzad,1582117441798,gooooooooooooood,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-19,14:04:01,0,Rebo4AI,1582117442122,Let's get started.,TUTOR
+2020-02-19,14:04:01,0,Rebo4AI,1582117444128,You have learned in the Introduction to Data Science and Artificial Intelligence different definitions of intelligence; I have not been able to follow!,TUTOR
+2020-02-19,14:04:01,0,Rebo4AI,1582117444129,But I'm curious: Is RandomElement now intelligent or not? Why?,TUTOR
+2020-02-19,14:04:08,0,Behzad,1582117448367,i dont know,IDSAI_QUESTION1_WITHOUT_REASON+IDSAI_QUESTION1_DONT_KNOW+TRUE
+2020-02-19,14:04:12,0,Rebo4AI,1582117452138,"Just think about four different concepts of an intelligent entity which are act rationally, think humanly, act humanly, and think rationally then use these concepts for reasoning.",TUTOR
+2020-02-19,14:04:12,0,Rebo4AI,1582117452140,"Based on these concepts, do you think RandomElement is intelligent or not? Why?",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-19,14:05:03,0,Rebo4AI,1582117504044,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-19,14:05:06,0,Rebo4AI,1582117508060,How are you?,TUTOR
+2020-02-19,14:05:08,0,Behzad,1582117508975,goooooooooooooooooooooooood,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-19,14:05:08,0,Rebo4AI,1582117510066,Let's get started.,TUTOR
+2020-02-19,14:05:09,0,Rebo4AI,1582117512068,You have learned in the Introduction to Data Science and Artificial Intelligence different definitions of intelligence; I have not been able to follow!,TUTOR
+2020-02-19,14:05:09,0,Rebo4AI,1582117512070,But I'm curious: Is RandomElement now intelligent or not? Why?,TUTOR
+2020-02-19,14:05:14,0,Behzad,1582117514535,it is intelligent,IDSAI_QUESTION1_WITHOUT_REASON+TRUE+YES
+2020-02-19,14:05:19,0,Rebo4AI,1582117520080,I'm not sure I understood - which definition of intelligence did you make in deciding that RandomElement is (not) intelligent?,TUTOR
+2020-02-19,14:15:19,0,Rebo4AI,1582118120493,Are you personally satisfied with this decision and definition?,TUTOR
+2020-02-19,14:25:19,0,Rebo4AI,1582118720948,Good to hear that!,TUTOR
+2020-02-19,14:25:19,0,Rebo4AI,1582118720950,How interesting is it for you to know whether RandomElement is intelligent or not?,TUTOR
+2020-02-19,14:35:20,0,Rebo4AI,1582119321350,"What in your life would change, depending on whether you see RandomElement as intelligent or not?",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-19,14:43:42,0,Rebo4AI,1582119823884,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-19,14:43:44,0,Rebo4AI,1582119825900,How are you?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-19,14:57:54,0,Rebo4AI,1582120674760,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-19,14:57:56,0,Rebo4AI,1582120676789,How are you?,TUTOR
+2020-02-19,14:57:59,0,Behzad,1582120679891,i dont know,IDSAI_QUESTION1_WITHOUT_REASON+IDSAI_QUESTION1_DONT_KNOW+TRUE
+2020-02-19,14:57:59,0,Rebo4AI,1582120680796,Let's get started.,TUTOR
+2020-02-19,14:57:59,0,Rebo4AI,1582120682800,You have learned in the Introduction to Data Science and Artificial Intelligence different definitions of intelligence; I have not been able to follow!,TUTOR
+2020-02-19,14:57:59,0,Rebo4AI,1582120682804,But I'm curious: Is RandomElement now intelligent or not? Why?,TUTOR
+2020-02-19,14:58:48,0,Behzad,1582120728464,i dont know that it is intelligent or not,IDSAI_QUESTION1_WITHOUT_REASON+IDSAI_QUESTION1_DONT_KNOW+TRUE+YES+NO
+2020-02-19,14:58:51,0,Rebo4AI,1582120732845,"Just think about four different concepts of an intelligent entity which are act rationally, think humanly, act humanly, and think rationally then use these concepts for reasoning.",TUTOR
+2020-02-19,14:58:51,0,Rebo4AI,1582120732846,"Based on these concepts, do you think RandomElement is intelligent or not? Why?",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-19,15:01:17,0,Rebo4AI,1582120879105,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-19,15:01:19,0,Rebo4AI,1582120881122,How are you?,TUTOR
+2020-02-19,15:01:30,0,Behzad,1582120890436,i dont know it is intelligent,IDSAI_QUESTION1_WITHOUT_REASON+IDSAI_QUESTION1_DONT_KNOW+TRUE+YES
+2020-02-19,15:01:30,0,Rebo4AI,1582120891139,Let's get started.,TUTOR
+2020-02-19,15:01:30,0,Rebo4AI,1582120893143,You have learned in the Introduction to Data Science and Artificial Intelligence different definitions of intelligence; I have not been able to follow!,TUTOR
+2020-02-19,15:01:30,0,Rebo4AI,1582120893145,But I'm curious: Is RandomElement now intelligent or not? Why?,TUTOR
+2020-02-19,15:02:11,0,Behzad,1582120932065,i dont know it is intelligent,IDSAI_QUESTION1_WITHOUT_REASON+IDSAI_QUESTION1_DONT_KNOW+TRUE+YES
+2020-02-19,15:02:16,0,Rebo4AI,1582120937172,Are you personally satisfied with this decision and definition?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-19,15:03:13,0,Rebo4AI,1582120994924,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-19,15:03:15,0,Rebo4AI,1582120996940,How are you?,TUTOR
+2020-02-19,15:03:36,0,Behzad,1582121016453,good,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-19,15:03:36,0,Rebo4AI,1582121016960,Let's get started.,TUTOR
+2020-02-19,15:03:36,0,Rebo4AI,1582121018965,You have learned in the Introduction to Data Science and Artificial Intelligence different definitions of intelligence; I have not been able to follow!,TUTOR
+2020-02-19,15:03:36,0,Rebo4AI,1582121018970,But I'm curious: Is RandomElement now intelligent or not? Why?,TUTOR
+2020-02-19,15:04:13,0,Behzad,1582121054065,i dont know it is intelligent,IDSAI_QUESTION1_WITHOUT_REASON+IDSAI_QUESTION1_DONT_KNOW+TRUE+YES
+2020-02-19,15:04:17,0,Rebo4AI,1582121059008,Are you personally satisfied with this decision and definition?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-19,15:04:54,0,Rebo4AI,1582121096049,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-19,15:04:56,0,Rebo4AI,1582121098073,How are you?,TUTOR
+2020-02-19,15:05:08,0,Behzad,1582121109037,it si goood,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-19,15:05:09,0,Rebo4AI,1582121110084,Let's get started.,TUTOR
+2020-02-19,15:05:09,0,Rebo4AI,1582121112087,You have learned in the Introduction to Data Science and Artificial Intelligence different definitions of intelligence; I have not been able to follow!,TUTOR
+2020-02-19,15:05:09,0,Rebo4AI,1582121112090,But I'm curious: Is RandomElement now intelligent or not? Why?,TUTOR
+2020-02-19,15:05:21,0,Behzad,1582121121237,i dont know it is intelligent,IDSAI_QUESTION1_WITHOUT_REASON+IDSAI_QUESTION1_DONT_KNOW+TRUE+YES
+2020-02-19,15:05:24,0,Rebo4AI,1582121126106,I'm not sure I understood - which definition of intelligence did you make in deciding that RandomElement is (not) intelligent?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-19,15:06:46,0,Rebo4AI,1582121207930,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-19,15:06:48,0,Rebo4AI,1582121209944,How are you?,TUTOR
+2020-02-19,15:07:03,0,Behzad,1582121223993,ggggg,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-19,15:07:03,0,Rebo4AI,1582121225960,Let's get started.,TUTOR
+2020-02-19,15:07:04,0,Rebo4AI,1582121227965,You have learned in the Introduction to Data Science and Artificial Intelligence different definitions of intelligence; I have not been able to follow!,TUTOR
+2020-02-19,15:07:04,0,Rebo4AI,1582121227966,But I'm curious: Is RandomElement now intelligent or not? Why?,TUTOR
+2020-02-19,15:07:13,0,Behzad,1582121233472,i dont know it is intelligent,IDSAI_QUESTION1_WITHOUT_REASON+IDSAI_QUESTION1_DONT_KNOW+TRUE+YES
+2020-02-19,15:07:14,0,Rebo4AI,1582121235978,I'm not sure I understood - which definition of intelligence did you make in deciding that RandomElement is (not) intelligent?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-19,15:09:43,0,Rebo4AI,1582121383659,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-19,15:09:45,0,Rebo4AI,1582121385672,How are you?,TUTOR
+2020-02-19,15:10:08,0,Behzad,1582121408226,sadas,IDSAI_QUESTION1_A_WITHOUT_REASON+TRUE
+2020-02-19,15:10:08,0,Rebo4AI,1582121409691,Let's get started.,TUTOR
+2020-02-19,15:10:08,0,Rebo4AI,1582121411694,You have learned in the Introduction to Data Science and Artificial Intelligence different definitions of intelligence; I have not been able to follow!,TUTOR
+2020-02-19,15:10:08,0,Rebo4AI,1582121411696,But I'm curious: Is RandomElement now intelligent or not? Why?,TUTOR
+2020-02-19,15:10:13,0,Behzad,1582121413192,i dont know it is intelligent,IDSAI_QUESTION1_DONT_KNOW+IDSAI_QUESTION1_A_WITHOUT_REASON+TRUE+YES
+2020-02-19,15:10:13,0,Rebo4AI,1582121413700,I'm not sure I understood - which definition of intelligence did you make in deciding that RandomElement is (not) intelligent?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-19,15:11:49,0,Rebo4AI,1582121511341,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-19,15:11:52,0,Rebo4AI,1582121513366,How are you?,TUTOR
+2020-02-19,15:11:55,0,Behzad,1582121515234,asdasdsd,IDSAI_QUESTION1_A_WITHOUT_REASON+TRUE
+2020-02-19,15:11:55,0,Rebo4AI,1582121515372,Let's get started.,TUTOR
+2020-02-19,15:11:55,0,Rebo4AI,1582121517380,You have learned in the Introduction to Data Science and Artificial Intelligence different definitions of intelligence; I have not been able to follow!,TUTOR
+2020-02-19,15:11:55,0,Rebo4AI,1582121517383,But I'm curious: Is RandomElement now intelligent or not? Why?,TUTOR
+2020-02-19,15:11:59,0,Behzad,1582121519388,i dont know it is intelligent,IDSAI_QUESTION1_A_WITHOUT_REASON+TRUE+IDSAI_QUESTION1_B_DONT_KNOW+YES
+2020-02-19,15:12:00,0,Rebo4AI,1582121521389,I'm not sure I understood - which definition of intelligence did you make in deciding that RandomElement is (not) intelligent?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-19,15:13:14,0,Rebo4AI,1582121594897,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-19,15:13:16,0,Rebo4AI,1582121596925,How are you?,TUTOR
+2020-02-19,15:13:17,0,Behzad,1582121597357,sadsad dsad asd ,IDSAI_QUESTION1_A_WITHOUT_REASON+TRUE
+2020-02-19,15:13:17,0,Rebo4AI,1582121598933,Let's get started.,TUTOR
+2020-02-19,15:13:17,0,Rebo4AI,1582121600942,You have learned in the Introduction to Data Science and Artificial Intelligence different definitions of intelligence; I have not been able to follow!,TUTOR
+2020-02-19,15:13:17,0,Rebo4AI,1582121600948,But I'm curious: Is RandomElement now intelligent or not? Why?,TUTOR
+2020-02-19,15:13:23,0,Behzad,1582121604037,i dont know it is intelligent,IDSAI_QUESTION1_A_WITHOUT_REASON+TRUE+IDSAI_QUESTION1_B_DONT_KNOW+YES
+2020-02-19,15:13:27,0,Rebo4AI,1582121608956,I'm not sure I understood - which definition of intelligence did you make in deciding that RandomElement is (not) intelligent?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-19,15:16:37,0,Rebo4AI,1582121799319,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-19,15:16:40,0,Rebo4AI,1582121801339,How are you?,TUTOR
+2020-02-19,15:16:42,0,Behzad,1582121802459,2.3,IDSAI_QUESTION1_A_WITHOUT_REASON+TRUE
+2020-02-19,15:16:42,0,Rebo4AI,1582121803346,Let's get started.,TUTOR
+2020-02-19,15:16:42,0,Rebo4AI,1582121805355,You have learned in the Introduction to Data Science and Artificial Intelligence different definitions of intelligence; I have not been able to follow!,TUTOR
+2020-02-19,15:16:42,0,Rebo4AI,1582121805360,But I'm curious: Is RandomElement now intelligent or not? Why?,TUTOR
+2020-02-19,15:16:46,0,Behzad,1582121806914,i dont know it is intelligent,IDSAI_QUESTION1_A_DONT_KNOW+IDSAI_QUESTION1_A_WITHOUT_REASON+TRUE+YES
+2020-02-19,15:16:47,0,Rebo4AI,1582121809366,"Just think about four different concepts of an intelligent entity which are act rationally, think humanly, act humanly, and think rationally then use these concepts for reasoning.",TUTOR
+2020-02-19,15:16:47,0,Rebo4AI,1582121809367,"Based on these concepts, do you think RandomElement is intelligent or not? Why?",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-19,15:18:21,0,Rebo4AI,1582121902157,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-19,15:18:23,0,Rebo4AI,1582121904171,How are you?,TUTOR
+2020-02-19,15:18:28,0,Behzad,1582121908161,df,IDSAI_QUESTION1_B_WITHOUT_REASON+TRUE
+2020-02-19,15:18:28,0,Rebo4AI,1582121908174,Let's get started.,TUTOR
+2020-02-19,15:18:28,0,Rebo4AI,1582121910177,You have learned in the Introduction to Data Science and Artificial Intelligence different definitions of intelligence; I have not been able to follow!,TUTOR
+2020-02-19,15:18:28,0,Rebo4AI,1582121910178,But I'm curious: Is RandomElement now intelligent or not? Why?,TUTOR
+2020-02-19,15:18:31,0,Behzad,1582121911315,i dont know it is intelligent,IDSAI_QUESTION1_B_WITHOUT_REASON+IDSAI_QUESTION1_A_DONT_KNOW+TRUE+YES
+2020-02-19,15:18:33,0,Rebo4AI,1582121914181,I'm not sure I understood - which definition of intelligence did you make in deciding that RandomElement is (not) intelligent?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-19,15:21:17,0,Rebo4AI,1582122077596,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-19,15:21:20,0,Rebo4AI,1582122081613,How are you?,TUTOR
+2020-02-19,15:21:23,0,Behzad,1582122083393,kkkkkkkkkkkkkkkkkk,IDSAI_QUESTION1_B_WITHOUT_REASON+TRUE
+2020-02-19,15:21:23,0,Rebo4AI,1582122083619,Let's get started.,TUTOR
+2020-02-19,15:21:23,0,Rebo4AI,1582122085626,You have learned in the Introduction to Data Science and Artificial Intelligence different definitions of intelligence; I have not been able to follow!,TUTOR
+2020-02-19,15:21:23,0,Rebo4AI,1582122085633,But I'm curious: Is RandomElement now intelligent or not? Why?,TUTOR
+2020-02-19,15:21:27,0,Behzad,1582122087347,i dont know it is intelligent,IDSAI_QUESTION1_B_WITHOUT_REASON+IDSAI_QUESTION1_A_DONT_KNOW+TRUE+YES
+2020-02-19,15:21:28,0,Rebo4AI,1582122089640,"Just think about four different concepts of an intelligent entity which are act rationally, think humanly, act humanly, and think rationally then use these concepts for reasoning.",TUTOR
+2020-02-19,15:21:28,0,Rebo4AI,1582122089641,"Based on these concepts, do you think RandomElement is intelligent or not? Why?",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-19,15:22:23,0,Rebo4AI,1582122144557,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-19,15:22:26,0,Rebo4AI,1582122146573,How are you?,TUTOR
+2020-02-19,15:22:27,0,Behzad,1582122147554,ghhhhhhhhhhh,IDSAI_QUESTION1_B_WITHOUT_REASON+TRUE
+2020-02-19,15:22:27,0,Rebo4AI,1582122148583,Let's get started.,TUTOR
+2020-02-19,15:22:27,0,Rebo4AI,1582122150593,You have learned in the Introduction to Data Science and Artificial Intelligence different definitions of intelligence; I have not been able to follow!,TUTOR
+2020-02-19,15:22:27,0,Rebo4AI,1582122150596,But I'm curious: Is RandomElement now intelligent or not? Why?,TUTOR
+2020-02-19,15:22:31,0,Behzad,1582122151708,i dont know it is intelligent,IDSAI_QUESTION1_B_WITHOUT_REASON+IDSAI_QUESTION1_A_DONT_KNOW+TRUE+YES
+2020-02-19,15:22:32,0,Rebo4AI,1582122154604,"Just think about four different concepts of an intelligent entity which are act rationally, think humanly, act humanly, and think rationally then use these concepts for reasoning.",TUTOR
+2020-02-19,15:22:32,0,Rebo4AI,1582122154608,"Based on these concepts, do you think RandomElement is intelligent or not? Why?",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-19,15:24:30,0,Rebo4AI,1582122271540,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-19,15:24:32,0,Rebo4AI,1582122273568,How are you?,TUTOR
+2020-02-19,15:24:34,0,Behzad,1582122274604,fsdfsdf ,IDSAI_QUESTION1_B_WITHOUT_REASON+TRUE
+2020-02-19,15:24:34,0,Rebo4AI,1582122275573,Let's get started.,TUTOR
+2020-02-19,15:24:34,0,Rebo4AI,1582122277579,You have learned in the Introduction to Data Science and Artificial Intelligence different definitions of intelligence; I have not been able to follow!,TUTOR
+2020-02-19,15:24:34,0,Rebo4AI,1582122277584,But I'm curious: Is RandomElement now intelligent or not? Why?,TUTOR
+2020-02-19,15:24:41,0,Behzad,1582122281171,i dont know it is intelligent,IDSAI_QUESTION1_B_WITHOUT_REASON+IDSAI_QUESTION1_DONT_KNOW+TRUE+YES
+2020-02-19,15:24:44,0,Rebo4AI,1582122285596,Are you personally satisfied with this decision and definition?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-19,15:25:38,0,Rebo4AI,1582122339833,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-19,15:25:41,0,Rebo4AI,1582122341865,How are you?,TUTOR
+2020-02-19,15:25:42,0,Behzad,1582122343016,aasas,IDSAI_QUESTION1_B_WITHOUT_REASON+TRUE
+2020-02-19,15:25:43,0,Rebo4AI,1582122343870,Let's get started.,TUTOR
+2020-02-19,15:25:43,0,Rebo4AI,1582122345872,You have learned in the Introduction to Data Science and Artificial Intelligence different definitions of intelligence; I have not been able to follow!,TUTOR
+2020-02-19,15:25:43,0,Rebo4AI,1582122345873,But I'm curious: Is RandomElement now intelligent or not? Why?,TUTOR
+2020-02-19,15:25:47,0,Behzad,1582122347070,i dont know it is intelligent,IDSAI_QUESTION1_B_WITHOUT_REASON+IDSAI_QUESTION1_DONT_KNOW+TRUE+YES
+2020-02-19,15:25:48,0,Rebo4AI,1582122349880,"Just think about four different concepts of an intelligent entity which are act rationally, think humanly, act humanly, and think rationally then use these concepts for reasoning.",TUTOR
+2020-02-19,15:25:48,0,Rebo4AI,1582122349884,"Based on these concepts, do you think RandomElement is intelligent or not? Why?",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-19,15:28:57,0,Rebo4AI,1582122537793,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-19,15:28:59,0,Rebo4AI,1582122541813,How are you?,TUTOR
+2020-02-19,15:29:22,0,Behzad,1582122582588,ll,IDSAI_QUESTION1_B_WITHOUT_REASON+TRUE
+2020-02-19,15:29:45,0,Rebo4AI,1582122585837,Let's get started.,TUTOR
+2020-02-19,15:30:01,0,Rebo4AI,1582122601846,You have learned in the Introduction to Data Science and Artificial Intelligence different definitions of intelligence; I have not been able to follow!,TUTOR
+2020-02-19,15:30:01,0,Rebo4AI,1582122601847,But I'm curious: Is RandomElement now intelligent or not? Why?,TUTOR
+2020-02-19,15:30:25,0,Behzad,1582122631909,i dont know it is intelligent,IDSAI_QUESTION1_B_WITHOUT_REASON+IDSAI_QUESTION1_DONT_KNOW+TRUE+YES
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-19,15:33:06,0,Rebo4AI,1582122787991,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-19,15:33:09,0,Rebo4AI,1582122790019,How are you?,TUTOR
+2020-02-19,15:33:11,0,Behzad,1582122791611,lll,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-19,15:33:11,0,Rebo4AI,1582122792032,Let's get started.,TUTOR
+2020-02-19,15:33:11,0,Rebo4AI,1582122794038,You have learned in the Introduction to Data Science and Artificial Intelligence different definitions of intelligence; I have not been able to follow!,TUTOR
+2020-02-19,15:33:11,0,Rebo4AI,1582122794039,But I'm curious: Is RandomElement now intelligent or not? Why?,TUTOR
+2020-02-19,15:33:23,0,Behzad,1582122803506,i dont know it is intelligent,IDSAI_QUESTION1_WITHOUT_REASON+IDSAI_QUESTION1_DONT_KNOW+TRUE+YES
+2020-02-19,15:33:27,0,Rebo4AI,1582122808051,"Just think about four different concepts of an intelligent entity which are act rationally, think humanly, act humanly, and think rationally then use these concepts for reasoning.",TUTOR
+2020-02-19,15:33:27,0,Rebo4AI,1582122808053,"Based on these concepts, do you think RandomElement is intelligent or not? Why?",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-19,15:34:52,0,Rebo4AI,1582122894530,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-19,15:34:55,0,Rebo4AI,1582122896542,How are you?,TUTOR
+2020-02-19,15:35:15,0,Behzad,1582122915618,ss,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-19,15:35:15,0,Rebo4AI,1582122916559,Let's get started.,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-19,15:35:47,0,Rebo4AI,1582122948760,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-19,15:35:50,0,Rebo4AI,1582122950787,How are you?,TUTOR
+2020-02-19,15:36:12,0,Behzad,1582122972993,sss,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-19,15:36:12,0,Rebo4AI,1582122974807,Let's get started.,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-19,15:36:45,0,Rebo4AI,1582123006180,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-19,15:36:46,0,Behzad,1582123006743,ssss,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-19,15:36:47,0,Rebo4AI,1582123008195,How are you?,TUTOR
+2020-02-19,15:36:50,0,Behzad,1582123010065,sss,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-19,15:36:50,0,Rebo4AI,1582123010198,Let's get started.,TUTOR
+2020-02-19,15:36:50,0,Rebo4AI,1582123012199,You have learned in the Introduction to Data Science and Artificial Intelligence different definitions of intelligence; I have not been able to follow!,TUTOR
+2020-02-19,15:36:50,0,Rebo4AI,1582123012200,But I'm curious: Is RandomElement now intelligent or not? Why?,TUTOR
+2020-02-19,15:36:56,0,Behzad,1582123016932,i dont know it is intelligent,IDSAI_QUESTION1_WITHOUT_REASON+IDSAI_QUESTION1_DONT_KNOW+TRUE+YES
+2020-02-19,15:37:00,0,Rebo4AI,1582123022210,I'm not sure I understood - which definition of intelligence did you make in deciding that RandomElement is (not) intelligent?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-19,15:38:41,0,Rebo4AI,1582123123604,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-19,15:38:44,0,Rebo4AI,1582123125628,How are you?,TUTOR
+2020-02-19,15:38:46,0,Behzad,1582123196780,sdsds,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-19,15:40:21,0,Rebo4AI,1582123221692,Let's get started.,TUTOR
+2020-02-19,15:40:21,0,Rebo4AI,1582123223698,You have learned in the Introduction to Data Science and Artificial Intelligence different definitions of intelligence; I have not been able to follow!,TUTOR
+2020-02-19,15:40:21,0,Rebo4AI,1582123223699,But I'm curious: Is RandomElement now intelligent or not? Why?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-19,15:40:38,0,Rebo4AI,1582123239813,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-19,15:40:40,0,Rebo4AI,1582123241832,How are you?,TUTOR
+2020-02-19,15:40:43,0,Behzad,1582123249845,562,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-19,15:40:50,0,Rebo4AI,1582123251842,Let's get started.,TUTOR
+2020-02-19,15:40:50,0,Rebo4AI,1582123253846,You have learned in the Introduction to Data Science and Artificial Intelligence different definitions of intelligence; I have not been able to follow!,TUTOR
+2020-02-19,15:40:50,0,Rebo4AI,1582123253850,But I'm curious: Is RandomElement now intelligent or not? Why?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-19,15:43:35,0,Rebo4AI,1582123417576,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-19,15:43:38,0,Rebo4AI,1582123419605,How are you?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-19,15:47:51,0,Rebo4AI,1582123672571,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-19,15:47:54,0,Rebo4AI,1582123674585,How are you?,TUTOR
+2020-02-19,15:47:56,0,Behzad,1582123799435,asdasd,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-19,15:50:00,0,Rebo4AI,1582123800694,Let's get started.,TUTOR
+2020-02-19,15:50:00,0,Rebo4AI,1582123802695,You have learned in the Introduction to Data Science and Artificial Intelligence different definitions of intelligence; I have not been able to follow!,TUTOR
+2020-02-19,15:50:00,0,Rebo4AI,1582123802697,But I'm curious: Is RandomElement now intelligent or not? Why?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-19,15:50:51,0,Rebo4AI,1582123853318,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-19,15:50:54,0,Rebo4AI,1582123855339,How are you?,TUTOR
+2020-02-19,15:50:56,0,Behzad,1582123876627,sdsds,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-19,15:51:17,0,Rebo4AI,1582123879363,Let's get started.,TUTOR
+2020-02-19,15:51:17,0,Rebo4AI,1582123881372,You have learned in the Introduction to Data Science and Artificial Intelligence different definitions of intelligence; I have not been able to follow!,TUTOR
+2020-02-19,15:51:17,0,Rebo4AI,1582123881373,But I'm curious: Is RandomElement now intelligent or not? Why?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-19,16:11:41,0,Rebo4AI,1582125103647,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-19,16:11:44,0,Rebo4AI,1582125105670,How are you?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-19,16:13:09,0,Rebo4AI,1582125190164,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-19,16:13:12,0,Rebo4AI,1582125194192,How are you?,TUTOR
+2020-02-19,16:13:16,0,Behzad,1582125198598,ssd,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-19,16:13:18,0,Rebo4AI,1582125200198,Let's get started.,TUTOR
+2020-02-19,16:13:18,0,Rebo4AI,1582125202200,You have learned in the Introduction to Data Science and Artificial Intelligence different definitions of intelligence; I have not been able to follow!,TUTOR
+2020-02-19,16:13:18,0,Rebo4AI,1582125202202,But I'm curious: Is RandomElement now intelligent or not? Why?,TUTOR
+2020-02-19,16:13:28,0,Behzad,1582125212302,i dont know it is intelligent,IDSAI_QUESTION1_WITHOUT_REASON+IDSAI_QUESTION1_DONT_KNOW+TRUE+YES
+2020-02-19,16:13:49,0,Rebo4AI,1582125230223,I'm not sure I understood - which definition of intelligence did you make in deciding that RandomElement is (not) intelligent?,TUTOR
+2020-02-19,16:15:00,0,Behzad,1582125367784,sdsadsd,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-19,16:16:07,0,Rebo4AI,1582125368304,Are you personally satisfied with this decision and definition?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-19,16:17:12,0,Rebo4AI,1582125432624,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-19,16:17:14,0,Rebo4AI,1582125436658,How are you?,TUTOR
+2020-02-19,16:17:17,0,Behzad,1582125451096,ssdsds,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-19,16:17:31,0,Rebo4AI,1582125452672,Let's get started.,TUTOR
+2020-02-19,16:17:31,0,Rebo4AI,1582125454678,You have learned in the Introduction to Data Science and Artificial Intelligence different definitions of intelligence; I have not been able to follow!,TUTOR
+2020-02-19,16:17:31,0,Rebo4AI,1582125454682,But I'm curious: Is RandomElement now intelligent or not? Why?,TUTOR
+2020-02-19,16:17:36,0,Behzad,1582125534816,i dont know it is intelligent,IDSAI_QUESTION1_WITHOUT_REASON+IDSAI_QUESTION1_DONT_KNOW+TRUE+YES
+2020-02-19,16:19:34,0,Rebo4AI,1582125574743,I'm not sure I understood - which definition of intelligence did you make in deciding that RandomElement is (not) intelligent?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-19,16:20:28,0,Rebo4AI,1582125628535,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-19,16:20:30,0,Rebo4AI,1582125632564,How are you?,TUTOR
+2020-02-19,16:20:36,0,Behzad,1582125650488,asdas.,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-19,16:20:50,0,Rebo4AI,1582125650577,Let's get started.,TUTOR
+2020-02-19,16:20:50,0,Rebo4AI,1582125652579,You have learned in the Introduction to Data Science and Artificial Intelligence different definitions of intelligence; I have not been able to follow!,TUTOR
+2020-02-19,16:20:50,0,Rebo4AI,1582125652581,But I'm curious: Is RandomElement now intelligent or not? Why?,TUTOR
+2020-02-19,16:20:54,0,Behzad,1582125688033,i dont know it is intelligent,IDSAI_QUESTION1_WITHOUT_REASON+IDSAI_QUESTION1_DONT_KNOW+TRUE+YES
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-19,17:04:22,0,Rebo4AI,1582128263897,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-19,17:04:24,0,Rebo4AI,1582128265942,How are you?,TUTOR
+2020-02-19,17:04:29,0,Behzad,1582128269861,hjh,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-19,17:04:29,0,Rebo4AI,1582128269947,Let's get started.,TUTOR
+2020-02-19,17:04:29,0,Rebo4AI,1582128271950,You have learned in the Introduction to Data Science and Artificial Intelligence different definitions of intelligence; I have not been able to follow!,TUTOR
+2020-02-19,17:04:29,0,Rebo4AI,1582128271951,But I'm curious: Is RandomElement now intelligent or not? Why?,TUTOR
+2020-02-19,17:04:49,0,Behzad,1582128327736,i dont know it is intelligent,IDSAI_QUESTION1_WITHOUT_REASON+IDSAI_QUESTION1_DONT_KNOW+TRUE+YES
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-19,17:06:49,0,Rebo4AI,1582128410026,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-19,17:06:52,0,Rebo4AI,1582128414053,How are you?,TUTOR
+2020-02-19,17:06:56,0,Behzad,1582128416731,aa,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-19,17:06:56,0,Rebo4AI,1582128418062,Let's get started.,TUTOR
+2020-02-19,17:06:56,0,Rebo4AI,1582128420068,You have learned in the Introduction to Data Science and Artificial Intelligence different definitions of intelligence; I have not been able to follow!,TUTOR
+2020-02-19,17:06:56,0,Rebo4AI,1582128420069,But I'm curious: Is RandomElement now intelligent or not? Why?,TUTOR
+2020-02-19,17:07:02,0,Behzad,1582128422098,i dont know it is intelligent,IDSAI_QUESTION1_WITHOUT_REASON+IDSAI_QUESTION1_DONT_KNOW+TRUE+YES
+2020-02-19,17:07:07,0,Rebo4AI,1582128428079,"Just think about four different concepts of an intelligent entity which are act rationally, think humanly, act humanly, and think rationally then use these concepts for reasoning.",TUTOR
+2020-02-19,17:07:07,0,Rebo4AI,1582128428084,"Based on these concepts, do you think RandomElement is intelligent or not? Why?",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-19,17:11:13,0,Rebo4AI,1582128673582,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-19,17:11:15,0,Rebo4AI,1582128677614,How are you?,TUTOR
+2020-02-19,17:11:27,0,Behzad,1582128687504,dd,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-19,17:11:27,0,Behzad,1582128687521,dd,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-19,17:11:27,0,Rebo4AI,1582128687631,Let's get started.,TUTOR
+2020-02-19,17:11:27,0,Rebo4AI,1582128689637,You have learned in the Introduction to Data Science and Artificial Intelligence different definitions of intelligence; I have not been able to follow!,TUTOR
+2020-02-19,17:11:27,0,Rebo4AI,1582128689641,But I'm curious: Is RandomElement now intelligent or not? Why?,TUTOR
+2020-02-19,17:11:29,0,Rebo4AI,1582128690253,I'm not sure I understood - which definition of intelligence did you make in deciding that RandomElement is (not) intelligent?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-19,17:11:52,0,Rebo4AI,1582128713131,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-19,17:11:55,0,Rebo4AI,1582128717159,How are you?,TUTOR
+2020-02-19,17:11:57,0,Behzad,1582128717717,dddd,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-19,17:11:57,0,Rebo4AI,1582128719165,Let's get started.,TUTOR
+2020-02-19,17:11:57,0,Rebo4AI,1582128721167,You have learned in the Introduction to Data Science and Artificial Intelligence different definitions of intelligence; I have not been able to follow!,TUTOR
+2020-02-19,17:11:57,0,Rebo4AI,1582128721168,But I'm curious: Is RandomElement now intelligent or not? Why?,TUTOR
+2020-02-19,17:12:03,0,Behzad,1582128723387,it is intelligent,IDSAI_QUESTION1_WITHOUT_REASON+TRUE+YES
+2020-02-19,17:12:08,0,Rebo4AI,1582128729178,I'm not sure I understood - which definition of intelligence did you make in deciding that RandomElement is (not) intelligent?,TUTOR
+2020-02-19,17:12:23,0,Behzad,1582128743985,asss,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-19,17:12:28,0,Rebo4AI,1582128749199,Are you personally satisfied with this decision and definition?,TUTOR
+2020-02-19,17:12:34,0,Behzad,1582128754735,no,IDSAI_QUESTION1_WITHOUT_REASON+TRUE+NO
+2020-02-19,17:12:38,0,Rebo4AI,1582128759205,What would you change in the definition?,TUTOR
+2020-02-19,17:12:44,0,Behzad,1582128764189,nothing,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-19,17:12:49,0,Rebo4AI,1582128769211,How interesting is it for you to know whether RandomElement is intelligent or not?,TUTOR
+2020-02-19,17:12:57,0,Behzad,1582128777258,it si not important,IDSAI_QUESTION1_WITHOUT_REASON+TRUE+NO
+2020-02-19,17:12:59,0,Rebo4AI,1582128781218,"What in your life would change, depending on whether you see RandomElement as intelligent or not?",TUTOR
+2020-02-19,17:13:04,0,Behzad,1582128784899,nothing,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-19,17:13:09,0,Rebo4AI,1582128791224,Interesting! Thanks!,TUTOR
+2020-02-19,17:13:09,0,Rebo4AI,1582128791225,See you next time :),TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-19,17:14:37,0,Rebo4AI,1582128877627,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-19,17:14:39,0,Rebo4AI,1582128881646,How are you?,TUTOR
+2020-02-19,17:14:42,0,Behzad,1582128882191,i dont know it is intelligent,IDSAI_QUESTION1_WITHOUT_REASON+IDSAI_QUESTION1_DONT_KNOW+TRUE+YES
+2020-02-19,17:14:42,0,Rebo4AI,1582128883653,Let's get started.,TUTOR
+2020-02-19,17:14:42,0,Rebo4AI,1582128885660,You have learned in the Introduction to Data Science and Artificial Intelligence different definitions of intelligence; I have not been able to follow!,TUTOR
+2020-02-19,17:14:42,0,Rebo4AI,1582128885661,But I'm curious: Is RandomElement now intelligent or not? Why?,TUTOR
+2020-02-19,17:14:47,0,Behzad,1582128887757,i dont know it is intelligent,IDSAI_QUESTION1_WITHOUT_REASON+IDSAI_QUESTION1_DONT_KNOW+TRUE+YES
+2020-02-19,17:14:52,0,Rebo4AI,1582128893671,"Just think about four different concepts of an intelligent entity which are act rationally, think humanly, act humanly, and think rationally then use these concepts for reasoning.",TUTOR
+2020-02-19,17:14:52,0,Rebo4AI,1582128893676,"Based on these concepts, do you think RandomElement is intelligent or not? Why?",TUTOR
+2020-02-19,17:14:59,0,Behzad,1582128899514,s,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-19,17:15:02,0,Rebo4AI,1582128903693,I'm not sure I understood - which definition of intelligence did you make in deciding that RandomElement is (not) intelligent?,TUTOR
+2020-02-19,17:15:19,0,Behzad,1582128919311,yes no,IDSAI_QUESTION1_WITHOUT_REASON+TRUE+YES+NO
+2020-02-19,17:15:23,0,Rebo4AI,1582128923714,Are you personally satisfied with this decision and definition?,TUTOR
+2020-02-19,17:15:27,0,Behzad,1582128927261,yes no,IDSAI_QUESTION1_WITHOUT_REASON+TRUE+YES+NO
+2020-02-19,17:15:28,0,Rebo4AI,1582128929723,Good to hear that!,TUTOR
+2020-02-19,17:15:28,0,Rebo4AI,1582128929727,How interesting is it for you to know whether RandomElement is intelligent or not?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-19,17:16:04,0,Rebo4AI,1582128964334,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-19,17:16:06,0,Rebo4AI,1582128968358,How are you?,TUTOR
+2020-02-19,17:16:12,0,Behzad,1582128972224,asds,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-19,17:16:12,0,Rebo4AI,1582128972362,Let's get started.,TUTOR
+2020-02-19,17:16:12,0,Rebo4AI,1582128974364,You have learned in the Introduction to Data Science and Artificial Intelligence different definitions of intelligence; I have not been able to follow!,TUTOR
+2020-02-19,17:16:12,0,Rebo4AI,1582128974365,But I'm curious: Is RandomElement now intelligent or not? Why?,TUTOR
+2020-02-19,17:16:31,0,Behzad,1582128991153,it is intelligent because of thinking like human,IDSAI_QUESTION1_CONCEPTS+TRUE+YES
+2020-02-19,17:16:32,0,Rebo4AI,1582128994387,Are you personally satisfied with this decision and definition?,TUTOR
+2020-02-19,17:16:38,0,Behzad,1582128998993,yes no,IDSAI_QUESTION1_WITHOUT_REASON+TRUE+YES+NO
+2020-02-19,17:16:43,0,Rebo4AI,1582129004403,What would you change in the definition?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-19,17:25:12,0,Rebo4AI,1582129514646,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-19,17:25:15,0,Rebo4AI,1582129516673,How are you?,TUTOR
+2020-02-19,17:25:33,0,Behzad,1582129538556,asd asd ,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-19,17:25:38,0,Rebo4AI,1582129538695,Let's get started.,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-19,17:36:47,0,Rebo4AI,1582130208252,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-19,17:36:49,0,Rebo4AI,1582130210280,How are you?,TUTOR
+2020-02-19,17:36:51,0,Behzad,1582130213748,kk,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-19,17:36:53,0,Rebo4AI,1582130214284,Let's get started.,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-20,08:20:38,0,Rebo4AI,1582183238876,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-20,08:20:41,0,Rebo4AI,1582183242898,How are you?,TUTOR
+2020-02-20,08:20:53,0,Behzad,1582183253977,i am fine,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-20,08:20:53,0,Rebo4AI,1582183254912,Let's get started.,TUTOR
+2020-02-20,08:20:54,0,Rebo4AI,1582183256921,You have learned in the Introduction to Data Science and Artificial Intelligence different definitions of intelligence; I have not been able to follow!,TUTOR
+2020-02-20,08:20:54,0,Rebo4AI,1582183256922,But I'm curious: Is RandomElement now intelligent or not? Why?,TUTOR
+2020-02-20,08:23:30,0,Behzad,1582183410777,yes no ,IDSAI_QUESTION1_WITHOUT_REASON+TRUE+YES+NO
+2020-02-20,08:23:32,0,Rebo4AI,1582183413010,I'm not sure I understood - which definition of intelligence did you make in deciding that RandomElement is (not) intelligent?,TUTOR
+2020-02-20,08:24:22,0,Behzad,1582183462100,think like human,IDSAI_QUESTION1_CONCEPTS+TRUE
+2020-02-20,08:24:24,0,Rebo4AI,1582183465040,Are you personally satisfied with this decision and definition?,TUTOR
+2020-02-20,08:24:31,0,Behzad,1582183471651,yes,IDSAI_QUESTION1_WITHOUT_REASON+TRUE+YES
+2020-02-20,08:24:34,0,Rebo4AI,1582183475049,Good to hear that!,TUTOR
+2020-02-20,08:24:34,0,Rebo4AI,1582183475052,How interesting is it for you to know whether RandomElement is intelligent or not?,TUTOR
+2020-02-20,08:24:47,0,Behzad,1582183487534,dasd ,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-20,08:24:49,0,Rebo4AI,1582183491066,"What in your life would change, depending on whether you see RandomElement as intelligent or not?",TUTOR
+2020-02-20,08:24:53,0,Behzad,1582183493360,ldldksj,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-20,08:31:04,0,Rebo4AI,1582183864820,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-20,08:31:07,0,Rebo4AI,1582183868843,How are you?,TUTOR
+2020-02-20,08:31:19,0,Behzad,1582183879593, lk,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-20,08:31:19,0,Rebo4AI,1582183880858,Let's get started.,TUTOR
+2020-02-20,08:31:19,0,Rebo4AI,1582183882865,You have learned in the Introduction to Data Science and Artificial Intelligence different definitions of intelligence; I have not been able to follow!,TUTOR
+2020-02-20,08:31:19,0,Rebo4AI,1582183882868,But I'm curious: Is RandomElement now intelligent or not? Why?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-20,08:32:15,0,Rebo4AI,1582183936220,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-20,08:32:18,0,Rebo4AI,1582183940251,How are you?,TUTOR
+2020-02-20,08:32:27,0,Behzad,1582183947715,fine,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-20,08:32:27,0,Rebo4AI,1582183948262,Let's get started.,TUTOR
+2020-02-20,08:32:27,0,Rebo4AI,1582183950266,"You have learned in the ""Introduction to Data Science and Artificial Intelligence"" different definitions of intelligence; I have not been able to follow!",TUTOR
+2020-02-20,08:32:27,0,Rebo4AI,1582183950270,But I'm curious: Is RandomElement now intelligent or not? Why?,TUTOR
+2020-02-20,08:32:45,0,Behzad,1582183965740,i think it is intelligent,IDSAI_QUESTION1_WITHOUT_REASON+TRUE+YES
+2020-02-20,08:32:48,0,Rebo4AI,1582183968286,I'm not sure I understood - which definition of intelligence did you make in deciding that RandomElement is (not) intelligent?,TUTOR
+2020-02-20,08:33:04,0,Behzad,1582183984732,it act rationally,IDSAI_QUESTION1_CONCEPTS+TRUE
+2020-02-20,08:33:08,0,Rebo4AI,1582183990307,Are you personally satisfied with this decision and definition?,TUTOR
+2020-02-20,08:33:14,0,Behzad,1582183994078,no,IDSAI_QUESTION1_WITHOUT_REASON+TRUE+NO
+2020-02-20,08:33:19,0,Rebo4AI,1582184000317,What would you change in the definition?,TUTOR
+2020-02-20,08:34:06,0,Behzad,1582184046531,"soooo, may be it thinks like us",IDSAI_QUESTION1_CONCEPTS+TRUE
+2020-02-20,08:34:10,0,Rebo4AI,1582184050353,How interesting is it for you to know whether RandomElement is intelligent or not?,TUTOR
+2020-02-20,08:35:19,0,Behzad,1582184119977,dafadgjjda asd ad ,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-20,08:35:22,0,Rebo4AI,1582184122403,"What in your life would change, depending on whether you see RandomElement as intelligent or not?",TUTOR
+2020-02-20,08:35:26,0,Behzad,1582184126514,klsjflks jflksjdfklj dsljf ,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-20,08:35:27,0,Rebo4AI,1582184128410,Interesting! Thanks!,TUTOR
+2020-02-20,08:35:27,0,Rebo4AI,1582184128412,See you next time!,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-20,08:45:08,0,Rebo4AI,1582184708734,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-20,08:45:10,0,Rebo4AI,1582184712749,How are you?,TUTOR
+2020-02-20,08:45:29,0,Behzad,1582184730080,fine,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-20,08:45:30,0,Rebo4AI,1582184730766,Let's get started.,TUTOR
+2020-02-20,08:45:30,0,Rebo4AI,1582184732770,"1Hi, I'm Rebo4AI; I'm a prototype conversational agent.",TUTOR
+2020-02-20,08:45:30,0,Rebo4AI,1582184732773,"You have learned in the ""Introduction to Data Science and Artificial Intelligence"" different definitions of intelligence; I have not been able to follow!",TUTOR
+2020-02-20,08:45:30,0,Rebo4AI,1582184732777,But I'm curious: Is RandomElement now intelligent or not? Why?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-20,08:45:42,0,Rebo4AI,1582184743235,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-20,08:45:45,0,Rebo4AI,1582184747258,How are you?,TUTOR
+2020-02-20,08:45:50,0,Behzad,1582184750127,sds,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-20,08:45:50,0,Rebo4AI,1582184751265,Let's get started.,TUTOR
+2020-02-20,08:45:50,0,Rebo4AI,1582184753271,"5Hi, I'm Rebo4AI; I'm a prototype conversational agent.",TUTOR
+2020-02-20,08:45:50,0,Rebo4AI,1582184753272,"You have learned in the ""Introduction to Data Science and Artificial Intelligence"" different definitions of intelligence; I have not been able to follow!",TUTOR
+2020-02-20,08:45:50,0,Rebo4AI,1582184753274,But I'm curious: Is RandomElement now intelligent or not? Why?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-20,08:51:05,0,Rebo4AI,1582185066055,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-20,08:51:07,0,Rebo4AI,1582185068090,How are you?,TUTOR
+2020-02-20,08:51:14,0,Behzad,1582185081248,"kh,gj",IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-20,08:51:21,0,Rebo4AI,1582185082098,Let's get started.,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-20,08:53:18,0,Rebo4AI,1582185200248,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-20,08:53:21,0,Rebo4AI,1582185202268,How are you?,TUTOR
+2020-02-20,08:53:24,0,Behzad,1582185204161,xffg,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-20,08:53:24,0,Rebo4AI,1582185204270,Let's get started.,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-20,08:58:32,0,Rebo4AI,1582185514020,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-20,08:58:34,0,Rebo4AI,1582185516046,How are you?,TUTOR
+2020-02-20,08:58:37,0,Behzad,1582185517098,dasdas,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-20,08:58:37,0,Rebo4AI,1582185518048,Let's get started.,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-20,08:59:08,0,Rebo4AI,1582185550549,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-20,08:59:11,0,Rebo4AI,1582185552570,How are you?,TUTOR
+2020-02-20,08:59:13,0,Behzad,1582185553188,adasdsad,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-20,08:59:13,0,Rebo4AI,1582185554573,Let's get started.,TUTOR
+2020-02-20,09:01:09,0,Rebo4AI,1582185670638,"3Hi, I'm Rebo4AI; I'm a prototype conversational agent.",TUTOR
+2020-02-20,09:01:09,0,Rebo4AI,1582185670639,"You have learned in the ""Introduction to Data Science and Artificial Intelligence"" different definitions of intelligence; I have not been able to follow!",TUTOR
+2020-02-20,09:01:09,0,Rebo4AI,1582185670640,But I'm curious: Is RandomElement now intelligent or not? Why?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-20,09:01:44,0,Rebo4AI,1582185705890,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-20,09:01:46,0,Rebo4AI,1582185707909,How are you?,TUTOR
+2020-02-20,09:01:55,0,Behzad,1582185715155,l,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-20,09:01:55,0,Rebo4AI,1582185715916,Let's get started.,TUTOR
+2020-02-20,09:02:22,0,Rebo4AI,1582185743936,"4Hi, I'm Rebo4AI; I'm a prototype conversational agent.",TUTOR
+2020-02-20,09:02:22,0,Rebo4AI,1582185743941,"You have learned in the ""Introduction to Data Science and Artificial Intelligence"" different definitions of intelligence; I have not been able to follow!",TUTOR
+2020-02-20,09:02:22,0,Rebo4AI,1582185743942,But I'm curious: Is RandomElement now intelligent or not? Why?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-20,09:03:16,0,Rebo4AI,1582185798221,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-20,09:03:18,0,Rebo4AI,1582185800246,How are you?,TUTOR
+2020-02-20,09:03:20,0,Behzad,1582185800909,dasdss,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-20,09:03:20,0,Rebo4AI,1582185802248,Let's get started.,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-20,09:07:49,0,Rebo4AI,1582186070928,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-20,09:07:52,0,Rebo4AI,1582186072948,How are you?,TUTOR
+2020-02-20,09:07:53,0,Behzad,1582186073955,fdfdfdf,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-20,09:07:53,0,Rebo4AI,1582186074953,Let's get started.,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-20,09:16:13,0,Rebo4AI,1582186574678,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-20,09:16:16,0,Rebo4AI,1582186576701,How are you?,TUTOR
+2020-02-20,09:16:17,0,Behzad,1582186577584,dfdfdfd,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-20,09:16:17,0,Rebo4AI,1582186578704,Let's get started.,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-20,09:20:48,0,Rebo4AI,1582186849588,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-20,09:20:50,0,Rebo4AI,1582186851617,How are you?,TUTOR
+2020-02-20,09:20:52,0,Behzad,1582186852630,",,l,l",IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-20,09:20:52,0,Rebo4AI,1582186853620,Let's get started.,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-20,09:24:42,0,Rebo4AI,1582187084236,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-20,09:24:44,0,Rebo4AI,1582187086257,How are you?,TUTOR
+2020-02-20,09:24:47,0,Behzad,1582187087673,asdsadsad ,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-20,09:24:47,0,Rebo4AI,1582187088261,Let's get started.,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-20,09:28:03,0,Rebo4AI,1582187283939,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-20,09:28:06,0,Rebo4AI,1582187287958,How are you?,TUTOR
+2020-02-20,09:28:09,0,Behzad,1582187289562,ll,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-20,09:28:09,0,Rebo4AI,1582187289961,Let's get started.,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-20,09:41:19,0,Rebo4AI,1582188080848,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-20,09:41:54,0,Rebo4AI,1582188116889,How are you?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-20,09:42:25,0,Rebo4AI,1582188146907,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-20,09:42:32,0,Rebo4AI,1582188152929,How are you?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-20,09:47:50,0,Rebo4AI,1582188472024,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-20,09:48:00,0,Rebo4AI,1582188482054,How are you?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-20,09:48:33,0,Rebo4AI,1582188514631,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-20,09:49:56,0,Rebo4AI,1582188596709,How are you?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-20,09:50:39,0,Rebo4AI,1582188640577,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-20,13:58:24,0,Rebo4AI,1582203505901,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-20,13:58:34,0,Rebo4AI,1582203515922,How are you?,TUTOR
+2020-02-20,13:58:41,0,Behzad,1582203521810,dfdf df d,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-20,13:59:01,0,Rebo4AI,1582203542998,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-20,13:59:06,0,Rebo4AI,1582203547018,How are you?,TUTOR
+2020-02-20,13:59:09,0,Behzad,1582203549693,sdsdsds,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-20,14:00:30,0,Behzad,1582203630836,sdsf,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-20,14:00:39,0,Behzad,1582203639948,adsadas,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-20,14:01:11,0,Behzad,1582203672012,yes,IDSAI_QUESTION1_WITHOUT_REASON+TRUE+YES
+2020-02-20,14:01:15,0,Rebo4AI,1582203677098,Let's get started.,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-20,14:05:19,0,Rebo4AI,1582203921461,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-20,14:05:29,0,Rebo4AI,1582203931486,How are you?,TUTOR
+2020-02-20,14:05:33,0,Behzad,1582203933203,vbvbvbv,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-20,14:05:36,0,Rebo4AI,1582203937496,Let's get started.,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-20,14:11:55,0,Rebo4AI,1582204317550,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-20,14:14:07,0,Rebo4AI,1582204448830,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-20,14:14:14,0,Rebo4AI,1582204456854,How are you?,TUTOR
+2020-02-20,14:14:20,0,Behzad,1582204460785,asdsa,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-20,14:14:27,0,Rebo4AI,1582204468864,Let's get started.,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-20,14:15:33,0,Rebo4AI,1582204535081,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-20,14:15:41,0,Rebo4AI,1582204543104,How are you?,TUTOR
+2020-02-20,14:15:44,0,Behzad,1582204544048,55654,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-20,14:16:14,0,Rebo4AI,1582204575120,Let's get started.,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-20,14:17:05,0,Rebo4AI,1582204626899,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-20,14:17:08,0,Rebo4AI,1582204628930,How are you?,TUTOR
+2020-02-20,14:17:10,0,Behzad,1582204630605,564546,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-20,14:17:10,0,Rebo4AI,1582204630933,Let's get started.,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-20,14:21:47,0,Rebo4AI,1582204908839,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-20,14:21:50,0,Rebo4AI,1582204910871,How are you?,TUTOR
+2020-02-20,14:21:52,0,Behzad,1582204912893,4545,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-20,14:21:52,0,Rebo4AI,1582204914877,Let's get started.,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-20,14:23:08,0,Rebo4AI,1582204989917,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-20,14:23:10,0,Rebo4AI,1582204991938,How are you?,TUTOR
+2020-02-20,14:23:12,0,Behzad,1582204992965,66454,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-20,14:23:12,0,Rebo4AI,1582204993944,Let's get started.,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-20,14:34:43,0,Rebo4AI,1582205683188,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-20,14:34:45,0,Rebo4AI,1582205687208,How are you?,TUTOR
+2020-02-20,14:34:54,0,Behzad,1582205694331,d,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-20,14:34:54,0,Rebo4AI,1582205695216,Let's get started.,TUTOR
+2020-02-20,14:38:43,0,Rebo4AI,1582205927652,"You have learned in the ""Introduction to Data Science and Artificial Intelligence"" different definitions of intelligence; I have not been able to follow!",TUTOR
+2020-02-20,14:38:43,0,Rebo4AI,1582205927654,But I'm curious: Is RANDOM_ELEMENT now intelligent or not? Why?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-20,14:40:00,0,Rebo4AI,1582206000875,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-20,14:40:11,0,Rebo4AI,1582206012901,How are you?,TUTOR
+2020-02-20,14:40:15,0,Behzad,1582206015818,5545,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-20,14:40:25,0,Rebo4AI,1582206026911,Let's get started.,TUTOR
+2020-02-20,14:43:42,0,Rebo4AI,1582206224244,"You have learned in the ""Introduction to Data Science and Artificial Intelligence"" different definitions of intelligence; I have not been able to follow!",TUTOR
+2020-02-20,14:43:42,0,Rebo4AI,1582206224246,But I'm curious: Is RANDOM_ELEMENT now intelligent or not? Why?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-20,14:44:11,0,Rebo4AI,1582206251968,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-20,14:44:19,0,Rebo4AI,1582206259993,How are you?,TUTOR
+2020-02-20,14:44:22,0,Behzad,1582206262238,sdasdasd,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-20,14:44:25,0,Rebo4AI,1582206265998,Let's get started.,TUTOR
+2020-02-20,14:44:53,0,Rebo4AI,1582206310118,"You have learned in the ""Introduction to Data Science and Artificial Intelligence"" different definitions of intelligence; I have not been able to follow!",TUTOR
+2020-02-20,14:44:53,0,Rebo4AI,1582206310120,But I'm curious: Is RANDOM_ELEMENT now intelligent or not? Why?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-20,14:45:46,0,Rebo4AI,1582206347827,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-20,14:45:51,0,Rebo4AI,1582206351847,How are you?,TUTOR
+2020-02-20,14:45:53,0,Behzad,1582206353280,dddd,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-20,14:45:54,0,Rebo4AI,1582206355855,Let's get started.,TUTOR
+2020-02-20,14:45:56,0,Rebo4AI,1582206376910,"You have learned in the ""Introduction to Data Science and Artificial Intelligence"" different definitions of intelligence; I have not been able to follow!",TUTOR
+2020-02-20,14:45:56,0,Rebo4AI,1582206376946,But I'm curious: Is RANDOM_ELEMENT now intelligent or not? Why?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-20,14:46:47,0,Rebo4AI,1582206407635,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-20,14:46:53,0,Rebo4AI,1582206413665,How are you?,TUTOR
+2020-02-20,14:46:56,0,Behzad,1582206416237,...;,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-20,14:47:08,0,Rebo4AI,1582206429680,Let's get started.,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-20,15:00:48,0,Rebo4AI,1582207249619,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-20,15:00:50,0,Rebo4AI,1582207251641,How are you?,TUTOR
+2020-02-20,15:00:54,0,Behzad,1582207254679,ss,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-20,15:00:54,0,Rebo4AI,1582207255644,Let's get started.,TUTOR
+2020-02-20,15:01:08,0,Rebo4AI,1582207281059,"You have learned in the ""Introduction to Data Science and Artificial Intelligence"" different definitions of intelligence; I have not been able to follow!",TUTOR
+2020-02-20,15:01:08,0,Rebo4AI,1582207281061,But I'm curious: Is RANDOM_EXAMPLE now intelligent or not? Why?,TUTOR
+2020-02-20,15:01:08,0,Rebo4AI,1582207281062,RANDOM_EXAMPLE RANDOM_NAME,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-20,15:03:51,0,Rebo4AI,1582207433436,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-20,15:03:54,0,Rebo4AI,1582207435472,How are you?,TUTOR
+2020-02-20,15:03:58,0,Behzad,1582207438095,56+2,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-20,15:03:58,0,Rebo4AI,1582207439476,Let's get started.,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-20,15:21:10,0,Rebo4AI,1582208471199,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-20,15:21:12,0,Rebo4AI,1582208473219,How are you?,TUTOR
+2020-02-20,15:21:17,0,Behzad,1582208477335,vvbvbvb,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-20,15:21:17,0,Rebo4AI,1582208479225,Let's get started.,TUTOR
+2020-02-20,15:23:29,0,Rebo4AI,1582208611306,"You have learned in the ""Introduction to Data Science and Artificial Intelligence"" different definitions of intelligence; I have not been able to follow!",TUTOR
+2020-02-20,15:23:29,0,Rebo4AI,1582208611307,But I'm curious: Is a search engine now intelligent or not? Why?,TUTOR
+2020-02-20,15:23:29,0,Rebo4AI,1582208611308,a search engine Angela,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-20,15:23:46,0,Rebo4AI,1582208627205,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-20,15:23:49,0,Rebo4AI,1582208631225,How are you?,TUTOR
+2020-02-20,15:23:52,0,Behzad,1582208632548,555,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-20,15:23:52,0,Rebo4AI,1582208633230,Let's get started.,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-20,15:24:28,0,Rebo4AI,1582208668959,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-20,15:24:31,0,Rebo4AI,1582208672976,How are you?,TUTOR
+2020-02-20,15:24:34,0,Behzad,1582208674997,'''',IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-20,15:24:34,0,Rebo4AI,1582208676982,Let's get started.,TUTOR
+2020-02-20,15:24:35,0,Rebo4AI,1582208678983,"You have learned in the ""Introduction to Data Science and Artificial Intelligence"" different definitions of intelligence; I have not been able to follow!",TUTOR
+2020-02-20,15:24:35,0,Rebo4AI,1582208678984,But I'm curious: Is a baby now intelligent or not? Why?,TUTOR
+2020-02-20,15:24:35,0,Rebo4AI,1582208678985,a baby Viktoria,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-20,15:26:32,0,Rebo4AI,1582208792944,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-20,15:26:35,0,Rebo4AI,1582208796970,How are you?,TUTOR
+2020-02-20,15:26:38,0,Behzad,1582208798624,ssdsd,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-20,15:26:38,0,Rebo4AI,1582208798973,Let's get started.,TUTOR
+2020-02-20,15:26:38,0,Rebo4AI,1582208800976,"You have learned in the ""Introduction to Data Science and Artificial Intelligence"" different definitions of intelligence; I have not been able to follow!",TUTOR
+2020-02-20,15:26:38,0,Rebo4AI,1582208800977,But I'm curious: Is a coffee-maker now intelligent or not? Why?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-20,15:34:51,0,Rebo4AI,1582209291732,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-20,15:34:53,0,Rebo4AI,1582209293744,How are you?,TUTOR
+2020-02-20,15:36:05,0,Behzad,1582209365325,sd,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-20,15:36:05,0,Rebo4AI,1582209365795,Let's get started.,TUTOR
+2020-02-20,15:36:05,0,Rebo4AI,1582209367800,"You have learned in the ""Introduction to Data Science and Artificial Intelligence"" different definitions of intelligence; I have not been able to follow!",TUTOR
+2020-02-20,15:36:05,0,Rebo4AI,1582209367801,But I'm curious: Is a fish now intelligent or not? Why?,TUTOR
+2020-02-20,15:36:22,0,Behzad,1582209382373,in is not a inteligent,IDSAI_QUESTION1_WITHOUT_REASON+TRUE+NO
+2020-02-20,15:36:25,0,Rebo4AI,1582209387820,I'm not sure I understood - which definition of intelligence did you make in deciding that a fish is (not) intelligent?,TUTOR
+2020-02-20,15:37:28,0,Behzad,1582209448704,it is not intelligent because they dont think like human,IDSAI_QUESTION1_CONCEPTS+TRUE+NO
+2020-02-20,15:37:32,0,Rebo4AI,1582209453887,Are you personally satisfied with this decision and definition?,TUTOR
+2020-02-20,15:38:03,0,Behzad,1582209483970,yes,IDSAI_QUESTION1_WITHOUT_REASON+TRUE+YES
+2020-02-20,15:38:08,0,Rebo4AI,1582209489916,Good to hear that!,TUTOR
+2020-02-20,15:38:08,0,Rebo4AI,1582209489919,How interesting is it for you to know whether a fish is intelligent or not?,TUTOR
+2020-02-20,15:38:29,0,Behzad,1582209509295,so what?,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-20,15:38:34,0,Rebo4AI,1582209515943,"What in your life would change, depending on whether you see a fish as intelligent or not?",TUTOR
+2020-02-20,15:38:41,0,Behzad,1582209521864,dasd asd,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-20,15:38:44,0,Rebo4AI,1582209525960,Interesting! Thanks!,TUTOR
+2020-02-20,15:38:44,0,Rebo4AI,1582209525961,See you next time :),TUTOR
+2020-02-20,15:38:45,0,Rebo4AI,1582209527966,"Behzad, do you want to talk about general AI?",TUTOR
+2020-02-20,15:40:20,0,Behzad,1582209620843, yes,IDSAI_QUESTION1_WITHOUT_REASON+TRUE+YES
+2020-02-20,15:40:20,0,Rebo4AI,1582209622038,Let's get started.,TUTOR
+2020-02-20,15:40:20,0,Rebo4AI,1582209624044,We're going to discuss AI and the its impact on your personal or professional life .,TUTOR
+2020-02-20,15:40:20,0,Rebo4AI,1582209624048,"What kind of AI-based systems do you use in a day or week? How? Please name some concrete examples which you use such as Google's search engine, Youtube, GoogleMap, or ridesharing apps.",TUTOR
+2020-02-20,15:40:27,0,Behzad,1582209627091,ofko aef ,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-20,15:40:31,0,Rebo4AI,1582209632060,"As far as I know, Google and Youtube are the most well-known companies in which many AI-based systems are used in order to make it more convenient for us accessing the content that we look for.",TUTOR
+2020-02-20,15:40:31,0,Rebo4AI,1582209632063,"So, if you try at least one of these, you definitely deal with AI in your life.",TUTOR
+2020-02-20,15:40:31,0,Rebo4AI,1582209632063,How is AI likely to change your personal life or job? Do You think these changes lead to a better life or make our life more complicated?,TUTOR
+2020-02-20,15:40:39,0,Behzad,1582209639752,fafad asd asd ,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-20,15:40:41,0,Rebo4AI,1582209642071,How can the new learning be translated into practice?,TUTOR
+2020-02-20,15:50:41,0,Rebo4AI,1582210242548,What of these plans can you implement already in the next one or two weeks?,TUTOR
+2020-02-20,16:00:42,0,Rebo4AI,1582210842986,"OK, good. Thank you for discussing this with me!",TUTOR
+2020-02-20,16:10:42,0,Rebo4AI,1582211443398,Until the days!,TUTOR
+2020-02-20,16:10:43,0,Rebo4AI,1582211445406,"Behzad, do you want to talk about rebo4ai?",TUTOR
+2020-02-20,16:25:43,0,Rebo4AI,1582212344054,"To start the conversation, please welcome Rebo :)",TUTOR
+2020-02-20,16:40:44,0,Rebo4AI,1582213244753,Okay - you can continue discussing other topics.,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-21,10:52:59,0,Rebo4AI,1582278779560,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-21,10:53:01,0,Rebo4AI,1582278783579,How are you?,TUTOR
+2020-02-21,10:53:07,0,Angela,1582278787535,fine,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-21,10:53:07,0,Rebo4AI,1582278787583,Let's get started.,TUTOR
+2020-02-21,10:53:07,0,Rebo4AI,1582278789587,"You have learned in the ""Introduction to Data Science and Artificial Intelligence"" different definitions of intelligence; I have not been able to follow!",TUTOR
+2020-02-21,10:53:07,0,Rebo4AI,1582278789591,But I'm curious: Is a search engine now intelligent or not? Why?,TUTOR
+2020-02-21,10:53:19,0,Angela,1582278799024,ye it sis,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-21,10:53:22,0,Rebo4AI,1582278803602,I'm not sure I understood - which definition of intelligence did you make in deciding that a search engine is (not) intelligent?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-21,10:57:56,0,Rebo4AI,1582279076887,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-21,10:57:59,0,Rebo4AI,1582279080925,How are you?,TUTOR
+2020-02-21,10:58:03,0,Angela,1582279083530,Hi,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-21,10:58:03,0,Rebo4AI,1582279084937,Let's get started.,TUTOR
+2020-02-21,10:58:05,0,Angela,1582279085911,I am fine,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-21,10:58:03,0,Rebo4AI,1582279086943,"You have learned in the ""Introduction to Data Science and Artificial Intelligence"" different definitions of intelligence; I have not been able to follow!",TUTOR
+2020-02-21,10:58:03,0,Rebo4AI,1582279086948,But I'm curious: Is a search engine now intelligent or not? Why?,TUTOR
+2020-02-21,10:58:08,0,Rebo4AI,1582279088957,I'm not sure I understood - which definition of intelligence did you make in deciding that a search engine is (not) intelligent?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-21,10:58:40,0,Rebo4AI,1582279122176,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-21,10:58:42,0,Rebo4AI,1582279122552,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-21,10:58:42,0,Rebo4AI,1582279124234,How are you?,TUTOR
+2020-02-21,10:58:44,0,Rebo4AI,1582279126566,How are you?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-21,10:58:55,0,Rebo4AI,1582279136157,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-21,10:58:59,0,Angela,1582279139753,Hi,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-21,10:58:58,0,Rebo4AI,1582279140182,How are you?,TUTOR
+2020-02-21,10:58:59,0,Rebo4AI,1582279142186,Let's get started.,TUTOR
+2020-02-21,10:58:59,0,Rebo4AI,1582279144194,"You have learned in the ""Introduction to Data Science and Artificial Intelligence"" different definitions of intelligence; I have not been able to follow!",TUTOR
+2020-02-21,10:58:59,0,Rebo4AI,1582279144199,But I'm curious: Is a search engine now intelligent or not? Why?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-21,10:59:29,0,Rebo4AI,1582279169392,"Hi, I'm Rebo4AI; I'm a prototype conversational agent.",INTRODUCE
+2020-02-21,10:59:31,0,Rebo4AI,1582279173432,How are you?,TUTOR
+2020-02-21,10:59:38,0,Angela,1582279178333,Hi I am finde,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-21,10:59:38,0,Rebo4AI,1582279179445,Let's get started.,TUTOR
+2020-02-21,10:59:38,0,Rebo4AI,1582279181454,"You have learned in the ""Introduction to Data Science and Artificial Intelligence"" different definitions of intelligence; I have not been able to follow!",TUTOR
+2020-02-21,10:59:38,0,Rebo4AI,1582279181457,But I'm curious: Is a fish now intelligent or not? Why?,TUTOR
+2020-02-21,10:59:58,0,Angela,1582279198815,Good question ,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-21,10:59:58,0,Rebo4AI,1582279199474,I'm not sure I understood - which definition of intelligence did you make in deciding that a fish is (not) intelligent?,TUTOR
+2020-02-21,11:00:25,0,Angela,1582279225551,I think a fish is intelligent as it acts humanl,IDSAI_QUESTION1_WITHOUT_REASON+TRUE+YES
+2020-02-21,11:00:29,0,Rebo4AI,1582279231503,Are you personally satisfied with this decision and definition?,TUTOR
+2020-02-21,11:00:37,0,Angela,1582279237420,No,IDSAI_QUESTION1_WITHOUT_REASON+TRUE+NO
+2020-02-21,11:00:39,0,Rebo4AI,1582279241515,What would you change in the definition?,TUTOR
+2020-02-21,11:01:04,0,Angela,1582279265066,Difficult to apply the theory to an animal,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-21,11:01:05,0,Rebo4AI,1582279267540,How interesting is it for you to know whether a fish is intelligent or not?,TUTOR
+2020-02-21,11:01:15,0,Angela,1582279275220,Not at all,IDSAI_QUESTION1_WITHOUT_REASON+TRUE+NO
+2020-02-21,11:01:15,0,Rebo4AI,1582279277553,"What in your life would change, depending on whether you see a fish as intelligent or not?",TUTOR
+2020-02-21,11:01:33,0,Angela,1582279293311,Nothing / I still like how it tastes,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-21,11:01:36,0,Rebo4AI,1582279297575,Interesting! Thanks!,TUTOR
+2020-02-21,11:01:36,0,Rebo4AI,1582279297577,See you next time!,TUTOR
+2020-02-21,11:01:37,0,Rebo4AI,1582279299582,"Rebo4AI, do you want to talk about general AI?",TUTOR
+2020-02-21,11:16:38,0,Rebo4AI,1582280198202,"To start the conversation, please welcome Rebo :)",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-21,11:23:04,0,Rebo4AI,1582280585185,I'm Rebo4AI; I'm a prototype conversational agent.,INTRODUCE
+2020-02-21,11:23:07,0,Rebo4AI,1582280587228,How are you?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-21,11:29:17,0,Rebo4AI,1582280957487,I'm Rebo4AI; I'm a prototype conversational agent.,INTRODUCE
+2020-02-21,11:29:19,0,Rebo4AI,1582280959510,How are you?,TUTOR
+2020-02-21,11:29:32,0,Viktoria,1582280972838,"i'm fine, thanks. and you?",IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-21,11:29:32,0,Rebo4AI,1582280973527,Let's get started.,TUTOR
+2020-02-21,11:29:32,0,Rebo4AI,1582280975534,"You have learned in the ""Introduction to Data Science and Artificial Intelligence"" different definitions of intelligence; I have not been able to follow!",TUTOR
+2020-02-21,11:29:32,0,Rebo4AI,1582280975538,But I'm curious: Is a fridge now intelligent or not? Why?,TUTOR
+2020-02-21,11:30:58,0,Viktoria,1582281058749,"hm... | i would say no... | it doesn't act or think humanly... | and i also think it doesn't think at all, and doesn't act at all... | i mean, it acts in a very limited manner, and this is rational: when it gets too warm, it regulates the temperature down again. so no.",IDSAI_QUESTION1_CONCEPTS+IDSAI_QUESTION1_DONT_KNOW+TRUE+NO
+2020-02-21,11:31:00,0,Rebo4AI,1582281061607,"Just think about four different concepts of an intelligent entity which are act rationally, think humanly, act humanly, and think rationally then use these concepts for reasoning.",TUTOR
+2020-02-21,11:31:00,0,Rebo4AI,1582281061609,"Based on these concepts, do you think a fridge is intelligent or not? Why?",TUTOR
+2020-02-21,11:32:31,0,Viktoria,1582281151910,"well, no, overall i don't think it is really intelligent.",IDSAI_QUESTION1_WITHOUT_REASON+IDSAI_QUESTION1_DONT_KNOW+TRUE+NO
+2020-02-21,11:32:32,0,Rebo4AI,1582281153692,I'm not sure I understood - which definition of intelligence did you make in deciding that a fridge is (not) intelligent?,TUTOR
+2020-02-21,11:32:55,0,Viktoria,1582281175730,"i think i used all the definitions you tod me! acting, thinking either rationally or humanly!",IDSAI_QUESTION1_CONCEPTS+TRUE
+2020-02-21,11:32:58,0,Rebo4AI,1582281179717,Are you personally satisfied with this decision and definition?,TUTOR
+2020-02-21,11:33:12,0,Viktoria,1582281192220,no,IDSAI_QUESTION1_WITHOUT_REASON+TRUE+NO
+2020-02-21,11:33:13,0,Rebo4AI,1582281193733,What would you change in the definition?,TUTOR
+2020-02-21,11:34:11,0,Viktoria,1582281251321,"i think the acting rationally is a bit wide- i do think that a fridge acts rationally, but it doesn't really have a consciousness, and hasn't self-set the goal to keep the temperature of 8 degree for instance. so i think i would add, for myself, that there must be some sort of consciounsess and self-awareness. and also, fridges don't learn.",IDSAI_QUESTION1_CONCEPTS+TRUE+NO
+2020-02-21,11:34:15,0,Rebo4AI,1582281255786,How interesting is it for you to know whether a fridge is intelligent or not?,TUTOR
+2020-02-21,11:35:02,0,Viktoria,1582281302688,"i actually like my fridge to not be intelligent. it is interesting for me in the sense of the trend to have a lot of ""smart"" devices in my home. who still aren't intelligent, but are much more vulnerable to software attacks, and may breach my privacy.",IDSAI_QUESTION1_WITHOUT_REASON+TRUE+NO
+2020-02-21,11:35:06,0,Rebo4AI,1582281307833,"What in your life would change, depending on whether you see a fridge as intelligent or not?",TUTOR
+2020-02-21,11:40:25,0,Viktoria,1582281625385,i would actually hate it - yet another being to be repsonsible for. Would the fridge be unhappy if there was no food in it? Unhealthy food? Rotten milk? Aaargh!!!,IDSAI_QUESTION1_WITHOUT_REASON+IDSAI_QUESTION1_DONT_KNOW+TRUE+NO
+2020-02-21,11:40:29,0,Rebo4AI,1582281630064,Interesting! Thanks!,TUTOR
+2020-02-21,11:40:29,0,Rebo4AI,1582281630066,Have a nice day :),TUTOR
+2020-02-21,11:40:30,0,Rebo4AI,1582281632070,"Rebo4AI, do you want to talk about general AI?",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-21,11:41:35,0,Rebo4AI,1582281695374,I'm Rebo4AI; I'm a prototype conversational agent.,INTRODUCE
+2020-02-21,11:41:37,0,Rebo4AI,1582281697422,How are you?,TUTOR
+2020-02-21,11:41:40,0,Viktoria,1582281700761,gdsfsdsjg,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-21,11:41:40,0,Viktoria,1582281700773,gdsfsdsjg,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-21,11:41:40,0,Rebo4AI,1582281701433,Let's get started.,TUTOR
+2020-02-21,11:41:40,0,Rebo4AI,1582281703446,"You have learned in the ""Introduction to Data Science and Artificial Intelligence"" different definitions of intelligence; I have not been able to follow!",TUTOR
+2020-02-21,11:41:40,0,Rebo4AI,1582281703450,But I'm curious: Is a knowledge worker now intelligent or not? Why?,TUTOR
+2020-02-21,11:43:15,0,Viktoria,1582281795134,"hm... yes, i would say a knowlegde worker is by definition intelligent: (s)he is a human, and therefore acts and thinks humanly. not always rationally though.",IDSAI_QUESTION1_CONCEPTS+TRUE+YES+NO
+2020-02-21,11:43:15,0,Viktoria,1582281795215,"hm... yes, i would say a knowlegde worker is by definition intelligent: (s)he is a human, and therefore acts and thinks humanly. not always rationally though.",IDSAI_QUESTION1_CONCEPTS+TRUE+YES+NO
+2020-02-21,11:43:15,0,Rebo4AI,1582281796208,Let's get started.,TUTOR
+2020-02-21,11:43:15,0,Rebo4AI,1582281798214,"We are going to talk about various perspectives on how AI is important in your life, the impact of AI on your life, and your own role in interacting with AI-based technologies.",TUTOR
+2020-02-21,11:43:15,0,Rebo4AI,1582281798215,"In your daily life, where or how do you encounter artificial intelligence? Please name some concrete examples which you use such as Google's search engine, Youtube, GoogleMap, or ridesharing apps.",TUTOR
+2020-02-21,11:43:18,0,Rebo4AI,1582281799537,Are you personally satisfied with this decision and definition?,TUTOR
+2020-02-21,11:43:38,0,Viktoria,1582281818344,"yes, i am. works for me.",IDSAI_QUESTION1_WITHOUT_REASON+TRUE+YES
+2020-02-21,11:43:38,0,Viktoria,1582281818380,"yes, i am. works for me.",IDSAI_QUESTION1_WITHOUT_REASON+TRUE+YES
+2020-02-21,11:43:38,0,Rebo4AI,1582281819560,Good to hear that!,TUTOR
+2020-02-21,11:43:38,0,Rebo4AI,1582281819563,How interesting is it for you to know whether a knowledge worker is intelligent or not?,TUTOR
+2020-02-21,11:43:40,0,Rebo4AI,1582281822237,"As far as I know, Google and Youtube are the most well-known companies in which many AI-based systems are used in order to make it more convenient for us accessing the content that we look for.",TUTOR
+2020-02-21,11:43:40,0,Rebo4AI,1582281822239,"So, if you try at least one of these, you definitely deal with AI in your life.",TUTOR
+2020-02-21,11:43:40,0,Rebo4AI,1582281822241,Could you address some drawbacks or benefits of these kinds of systems? How these systems affect on what you do in your personal or professional life?,TUTOR
+2020-02-21,11:45:13,0,Viktoria,1582281913884,"hm, i think knowing in principle that a knowledge worker is intelligent using the used definitions is not so relevant; and neither is to know his/her IQ. what will be relevant is rather things like how competent in his/her profession the knowledge worker is, and how collegial. that would be what i'd like to see both in colleagues, managers, and members of my own team.",IDSAI_QUESTION1_WITHOUT_REASON+TRUE+YES+NO
+2020-02-21,11:45:13,0,Viktoria,1582281913950,"hm, i think knowing in principle that a knowledge worker is intelligent using the used definitions is not so relevant; and neither is to know his/her IQ. what will be relevant is rather things like how competent in his/her profession the knowledge worker is, and how collegial. that would be what i'd like to see both in colleagues, managers, and members of my own team.",IDSAI_QUESTION1_WITHOUT_REASON+TRUE+YES+NO
+2020-02-21,11:45:16,0,Rebo4AI,1582281917666,"What in your life would change, depending on whether you see a knowledge worker as intelligent or not?",TUTOR
+2020-02-21,11:45:18,0,Rebo4AI,1582281920317,How can the new learning be translated into practice?,TUTOR
+2020-02-21,11:46:00,0,Viktoria,1582281960487,"if i understand a colleague, manager, or team-member to be really stupid (so, yes, in principle intelligent, but not intelligent enough), that would be difficult in operative work.",IDSAI_QUESTION1_WITHOUT_REASON+TRUE+YES+NO
+2020-02-21,11:46:00,0,Viktoria,1582281960538,"if i understand a colleague, manager, or team-member to be really stupid (so, yes, in principle intelligent, but not intelligent enough), that would be difficult in operative work.",IDSAI_QUESTION1_WITHOUT_REASON+TRUE+YES+NO
+2020-02-21,11:46:02,0,Rebo4AI,1582281963717,Interesting! Thanks!,TUTOR
+2020-02-21,11:46:02,0,Rebo4AI,1582281963719,Have a nice day :),TUTOR
+2020-02-21,11:46:03,0,Rebo4AI,1582281965723,"Rebo4AI, do you want to talk about general AI?",TUTOR
+2020-02-21,11:46:04,0,Rebo4AI,1582281966352,"Now, you know somethings about AI and its effects on your life. How can it be translated into practice?",TUTOR
+2020-02-21,11:58:40,0,Rebo4AI,1582282722041,"OK, good. Thank you for discussing this with me!",TUTOR
+2020-02-21,12:03:39,0,Rebo4AI,1582283019532,"To start the conversation, please welcome Rebo :)",TUTOR
+2020-02-21,12:08:39,0,Rebo4AI,1582283321599,See you next time!,TUTOR
+2020-02-21,12:08:41,0,Rebo4AI,1582283323602,"Rebo4AI, do you want to talk about rebo4ai?",TUTOR
+2020-02-21,12:18:39,0,Rebo4AI,1582283919354,Okay - you can continue discussing other topics.,TUTOR
+2020-02-21,12:23:42,0,Rebo4AI,1582284222175,"To start the conversation, please welcome Rebo :)",TUTOR
+2020-02-21,12:38:42,0,Rebo4AI,1582285122740,Okay - you can continue discussing other topics.,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-21,13:28:23,0,Rebo4AI,1582288103803,I'm Rebo4AI; I'm a prototype conversational agent.,INTRODUCE
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-21,13:48:51,0,Rebo4AI,1582289332678,How are you?,TUTOR
+2020-02-21,13:48:57,0,Viktoria,1582289337455,fine,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-21,13:48:57,0,Rebo4AI,1582289338698,Let's get started.,TUTOR
+2020-02-21,13:48:57,0,Rebo4AI,1582289340703,"You have learned in the ""Introduction to Data Science and Artificial Intelligence"" different definitions of intelligence; I have not been able to follow!",TUTOR
+2020-02-21,13:48:57,0,Rebo4AI,1582289340709,But I'm curious: Is a bike now intelligent or not? Why?,TUTOR
+2020-02-21,13:58:57,0,Rebo4AI,1582289939106,Are you personally satisfied with this decision and definition?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-21,14:08:30,0,Rebo4AI,1582290510724,How are you?,TUTOR
+2020-02-21,14:18:33,0,Viktoria,1582291113188,find,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-21,14:18:33,0,Rebo4AI,1582291115188,Let's get started.,TUTOR
+2020-02-21,14:18:33,0,Rebo4AI,1582291117198,"You have learned in the ""Introduction to Data Science and Artificial Intelligence"" different definitions of intelligence; I have not been able to follow!",TUTOR
+2020-02-21,14:18:33,0,Rebo4AI,1582291117203,But I'm curious: Is a grandparent now intelligent or not? Why?,TUTOR
+2020-02-21,14:18:45,0,Viktoria,1582291125794,"Viktoria (11:29:45 AM): hm...
+Viktoria (11:29:50 AM): i would say no...
+Viktoria (11:30:16 AM): it doesn't act or think humanly...
+Viktoria (11:30:34 AM): and i also think it doesn't think at all, and doesn't act at all...
+Viktoria (11:30:58 AM): i mean, it acts in a very limited manner, and this is rational: when it gets too warm, it regulates the temperature down again. so no.",IDSAI_QUESTION1_CONCEPTS+IDSAI_QUESTION1_DONT_KNOW+TRUE+NO
+2020-02-21,14:18:48,0,Rebo4AI,1582291129217,"Just think about four different concepts of an intelligent entity which are act rationally, think humanly, act humanly, and think rationally then use these concepts for reasoning.",TUTOR
+2020-02-21,14:18:48,0,Rebo4AI,1582291129218,"Based on these concepts, do you think a grandparent is intelligent or not? Why?",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-21,14:22:41,0,Rebo4AI,1582291363263,How are you?,TUTOR
+2020-02-21,14:22:47,0,Viktoria,1582291376404,w,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-21,14:22:56,0,Rebo4AI,1582291377302,Let's get started.,TUTOR
+2020-02-21,14:22:59,0,Rebo4AI,1582291381314,"You have learned in the ""Introduction to Data Science and Artificial Intelligence"" different definitions of intelligence; I have not been able to follow!",TUTOR
+2020-02-21,14:22:59,0,Rebo4AI,1582291381315,But I'm curious: Is a notebook now intelligent or not? Why?,TUTOR
+2020-02-21,14:23:05,0,Viktoria,1582291443902,"Viktoria (11:29:45 AM): hm...
+Viktoria (11:29:50 AM): i would say no...
+Viktoria (11:30:16 AM): it doesn't act or think humanly...
+Viktoria (11:30:34 AM): and i also think it doesn't think at all, and doesn't act at all...
+Viktoria (11:30:58 AM): i mean, it acts in a very limited manner, and this is rational: when it gets too warm, it regulates the temperature down again. so no.",IDSAI_QUESTION1_CONCEPTS+TRUE+NO
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-21,14:26:15,0,Rebo4AI,1582291577833,How are you?,TUTOR
+2020-02-21,14:26:19,0,Viktoria,1582291582264,6,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-21,14:26:22,0,Rebo4AI,1582291583859,Let's get started.,TUTOR
+2020-02-21,14:26:23,0,Rebo4AI,1582291585863,"You have learned in the ""Introduction to Data Science and Artificial Intelligence"" different definitions of intelligence; I have not been able to follow!",TUTOR
+2020-02-21,14:26:23,0,Rebo4AI,1582291585865,But I'm curious: Is a notebook now intelligent or not? Why?,TUTOR
+2020-02-21,14:26:32,0,Viktoria,1582291622729,"Viktoria (11:29:45 AM): hm...
+Viktoria (11:29:50 AM): i would say no...
+Viktoria (11:30:16 AM): it doesn't act or think humanly...
+Viktoria (11:30:34 AM): and i also think it doesn't think at all, and doesn't act at all...
+Viktoria (11:30:58 AM): i mean, it acts in a very limited manner, and this is rational: when it gets too warm, it regulates the temperature down again. so no.",IDSAI_QUESTION1_CONCEPTS+TRUE+NO
+2020-02-21,14:27:10,0,Rebo4AI,1582291631892,Are you personally satisfied with this decision and definition?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-21,14:27:35,0,Rebo4AI,1582291655939,How are you?,TUTOR
+2020-02-21,14:27:42,0,Viktoria,1582291662528,55,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-21,14:27:42,0,Rebo4AI,1582291663966,Let's get started.,TUTOR
+2020-02-21,14:27:42,0,Rebo4AI,1582291665975,"You have learned in the ""Introduction to Data Science and Artificial Intelligence"" different definitions of intelligence; I have not been able to follow!",TUTOR
+2020-02-21,14:27:42,0,Rebo4AI,1582291665981,But I'm curious: Is a table now intelligent or not? Why?,TUTOR
+2020-02-21,14:28:16,0,Viktoria,1582291696351,"hm... | i would say no... | it doesn't act or think humanly... | and i also think it doesn't think at all, and doesn't act at all... | i mean, it acts in a very limited manner, and this is rational: when it gets too warm, it regulates the temperature down again. so no.",IDSAI_QUESTION1_CONCEPTS+TRUE+NO
+2020-02-21,14:28:18,0,Rebo4AI,1582291700010,Are you personally satisfied with this decision and definition?,TUTOR
+2020-02-21,14:38:18,0,Rebo4AI,1582292300456,What would you change in the definition?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-24,10:14:16,0,Rebo4AI,1582535658137,How are you?,TUTOR
+2020-02-24,10:29:17,0,Rebo4AI,1582536558853,"To start the conversation, please welcome Rebo :)",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-24,10:34:30,0,Rebo4AI,1582536870823,How are you?,TUTOR
+2020-02-24,10:34:33,0,Behzad,1582536873724,false,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-24,10:34:33,0,Rebo4AI,1582536874837,Let's get started.,TUTOR
+2020-02-24,10:34:33,0,Rebo4AI,1582536876840,"You have learned in the ""Introduction to Data Science and Artificial Intelligence"" different definitions of intelligence; I have not been able to follow!",TUTOR
+2020-02-24,10:34:33,0,Rebo4AI,1582536876843,But I'm curious: Is a TV now intelligent or not? Why?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-24,10:37:22,0,Rebo4AI,1582537043055,I'm Rebo4AI; I'm a prototype conversational agent.,INTRODUCE
+2020-02-24,10:37:24,0,Rebo4AI,1582537045069,How are you?,TUTOR
+2020-02-24,10:37:36,0,Behzad,1582537056138,i am goof and you?,IDSAI_QUESTION1_WITHOUT_REASON+TRUE+Q
+2020-02-24,10:37:36,0,Rebo4AI,1582537057092,Let's get started.,TUTOR
+2020-02-24,10:37:36,0,Rebo4AI,1582537059097,"You have learned in the ""Introduction to Data Science and Artificial Intelligence"" different definitions of intelligence; I have not been able to follow!",TUTOR
+2020-02-24,10:37:36,0,Rebo4AI,1582537059099,But I'm curious: Is a student now intelligent or not? Why?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-24,10:38:12,0,Rebo4AI,1582537092435,I'm Rebo4AI; I'm a prototype conversational agent.,INTRODUCE
+2020-02-24,10:38:14,0,Rebo4AI,1582537094469,How are you?,TUTOR
+2020-02-24,10:38:20,0,Behzad,1582537100831,ia ma good and you?,IDSAI_QUESTION1_WITHOUT_REASON+TRUE+Q
+2020-02-24,10:38:20,0,Rebo4AI,1582537102482,Let's get started QQQQQQQQQ.,TUTOR
+2020-02-24,10:38:20,0,Rebo4AI,1582537104487,"You have learned in the ""Introduction to Data Science and Artificial Intelligence"" different definitions of intelligence; I have not been able to follow!",TUTOR
+2020-02-24,10:38:20,0,Rebo4AI,1582537104489,But I'm curious: Is a monkey now intelligent or not? Why?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-24,10:38:37,0,Rebo4AI,1582537117729,I'm Rebo4AI; I'm a prototype conversational agent.,INTRODUCE
+2020-02-24,10:38:39,0,Rebo4AI,1582537119742,How are you?,TUTOR
+2020-02-24,10:38:42,0,Behzad,1582537122393,i am good,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-24,10:41:09,0,Rebo4AI,1582537269243,I'm Rebo4AI; I'm a prototype conversational agent.,INTRODUCE
+2020-02-24,10:41:11,0,Rebo4AI,1582537271264,How are you?,TUTOR
+2020-02-24,10:41:11,0,Behzad,1582537271826,s,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-24,10:41:11,0,Rebo4AI,1582537273267,Let's get started.,TUTOR
+2020-02-24,10:41:11,0,Rebo4AI,1582537275274,"You have learned in the ""Introduction to Data Science and Artificial Intelligence"" different definitions of intelligence; I have not been able to follow!",TUTOR
+2020-02-24,10:41:11,0,Rebo4AI,1582537275276,But I'm curious: Is a TV now intelligent or not? Why?,TUTOR
+2020-02-24,10:43:39,0,Behzad,1582537419217,"hm...
+i would say no...
+it doesn't act or think humanly...
+and i also think it doesn't think at all, and doesn't act at all...
+i mean, it acts in a very limited manner, and this is rational: when it gets too warm, it regulates the temperature down again. so no.",IDSAI_QUESTION1_CONCEPTS+TRUE+NO
+2020-02-24,10:43:40,0,Rebo4AI,1582537421377,Are you personally satisfied with this decision and definition?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-24,10:49:02,0,Rebo4AI,1582537743189,I'm Rebo4AI; I'm a prototype conversational agent.,INTRODUCE
+2020-02-24,10:49:05,0,Rebo4AI,1582537745207,How are you?,TUTOR
+2020-02-24,10:49:10,0,Behzad,1582537750499,\',IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-24,10:49:10,0,Rebo4AI,1582537751216,Let's get started.,TUTOR
+2020-02-24,10:49:10,0,Rebo4AI,1582537753219,"You have learned in the ""Introduction to Data Science and Artificial Intelligence"" different definitions of intelligence; I have not been able to follow!",TUTOR
+2020-02-24,10:49:10,0,Rebo4AI,1582537753220,But I'm curious: Is a teen now intelligent or not? Why?,TUTOR
+2020-02-24,10:49:25,0,Behzad,1582537765312,it doesnt act,IDSAI_QUESTION1_CONCEPTS+TRUE+NO
+2020-02-24,10:49:25,0,Rebo4AI,1582537767235,Are you personally satisfied with this decision and definition?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-24,10:50:30,0,Rebo4AI,1582537831019,I'm Rebo4AI; I'm a prototype conversational agent.,INTRODUCE
+2020-02-24,10:50:32,0,Rebo4AI,1582537833035,How are you?,TUTOR
+2020-02-24,10:50:40,0,Behzad,1582537840635,d,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-24,10:50:40,0,Rebo4AI,1582537841047,Let's get started.,TUTOR
+2020-02-24,10:50:40,0,Rebo4AI,1582537843053,"You have learned in the ""Introduction to Data Science and Artificial Intelligence"" different definitions of intelligence; I have not been able to follow!",TUTOR
+2020-02-24,10:50:40,0,Rebo4AI,1582537843055,But I'm curious: Is a notebook now intelligent or not? Why?,TUTOR
+2020-02-24,10:50:45,0,Behzad,1582537845794,i think,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-24,10:50:50,0,Rebo4AI,1582537851062,I'm not sure I understood - which definition of intelligence did you make in deciding that a notebook is (not) intelligent?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-24,10:51:26,0,Rebo4AI,1582537887111,I'm Rebo4AI; I'm a prototype conversational agent.,INTRODUCE
+2020-02-24,10:51:29,0,Rebo4AI,1582537889125,How are you?,TUTOR
+2020-02-24,10:51:40,0,Behzad,1582537900740,d,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-24,10:51:40,0,Rebo4AI,1582537901139,Let's get started.,TUTOR
+2020-02-24,10:51:40,0,Rebo4AI,1582537903145,"You have learned in the ""Introduction to Data Science and Artificial Intelligence"" different definitions of intelligence; I have not been able to follow!",TUTOR
+2020-02-24,10:51:40,0,Rebo4AI,1582537903148,But I'm curious: Is a fridge now intelligent or not? Why?,TUTOR
+2020-02-24,10:51:45,0,Behzad,1582537905095,it thinks,IDSAI_QUESTION1_CONCEPTS+TRUE
+2020-02-24,10:51:45,0,Rebo4AI,1582537907154,Are you personally satisfied with this decision and definition?,TUTOR
+2020-02-24,10:51:56,0,Behzad,1582537916556,no,IDSAI_QUESTION1_WITHOUT_REASON+TRUE+NO
+2020-02-24,10:52:01,0,Rebo4AI,1582537923172,What would you change in the definition?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-24,11:36:37,0,Rebo4AI,1582540597818,I'm Rebo4AI; I'm a prototype conversational agent.,INTRODUCE
+2020-02-24,11:36:39,0,Rebo4AI,1582540599858,How are you?,TUTOR
+2020-02-24,11:36:56,0,Kathrin,1582540617012,"thanks, fine.",IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-24,11:36:57,0,Rebo4AI,1582540617882,Let's get started.,TUTOR
+2020-02-24,11:36:57,0,Rebo4AI,1582540619890,"You have learned in the ""Introduction to Data Science and Artificial Intelligence"" different definitions of intelligence; I have not been able to follow!",TUTOR
+2020-02-24,11:36:57,0,Rebo4AI,1582540619894,But I'm curious: Is a TV now intelligent or not? Why?,TUTOR
+2020-02-24,11:38:59,0,Kathrin,1582540739311,"No, I dont think so.",IDSAI_QUESTION1_WITHOUT_REASON+TRUE+NO
+2020-02-24,11:39:00,0,Rebo4AI,1582540742003,I'm not sure I understood - which definition of intelligence did you make in deciding that a TV is (not) intelligent?,TUTOR
+2020-02-24,11:39:41,0,Kathrin,1582540781658,"It neither thinks or acts humanly, nor rationally.",IDSAI_QUESTION1_CONCEPTS+TRUE
+2020-02-24,11:39:41,0,Rebo4AI,1582540782045,Are you personally satisfied with this decision and definition?,TUTOR
+2020-02-24,11:40:32,0,Kathrin,1582540832632,Yes.,IDSAI_QUESTION1_WITHOUT_REASON+TRUE+YES
+2020-02-24,11:40:33,0,Rebo4AI,1582540834093,Good to hear that!,TUTOR
+2020-02-24,11:40:33,0,Rebo4AI,1582540834097,How interesting is it for you to know whether a TV is intelligent or not?,TUTOR
+2020-02-24,11:40:56,0,Kathrin,1582540856967,"Hmm, its not really interesting.",IDSAI_QUESTION1_WITHOUT_REASON+TRUE+NO
+2020-02-24,11:40:59,0,Rebo4AI,1582540860125,"What in your life would change, depending on whether you see a TV as intelligent or not?",TUTOR
+2020-02-24,11:42:16,0,Kathrin,1582540936292,"I guess, I would switch it off if it once is really intelligent, because I dont want it to watch and analyse me.",IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-24,11:42:16,0,Rebo4AI,1582540938203,Interesting! Thanks!,TUTOR
+2020-02-24,11:42:16,0,Rebo4AI,1582540938207,Until the days!,TUTOR
+2020-02-24,11:42:27,0,Kathrin,1582540947360,see you.,IDSAI_QUESTION1_WITHOUT_REASON+TRUE+Q
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-24,11:45:19,0,Rebo4AI,1582541119799,I'm Rebo4AI; I'm a prototype conversational agent.,INTRODUCE
+2020-02-24,11:45:21,0,Rebo4AI,1582541121841,How are you?,TUTOR
+2020-02-24,11:45:32,0,Kathrin,1582541132263,fine,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-24,11:45:32,0,Rebo4AI,1582541133862,Let's get started.,TUTOR
+2020-02-24,11:45:32,0,Rebo4AI,1582541135870,"You have learned in the ""Introduction to Data Science and Artificial Intelligence"" different definitions of intelligence; I have not been able to follow!",TUTOR
+2020-02-24,11:45:32,0,Rebo4AI,1582541135875,But I'm curious: Is a coffee-maker now intelligent or not? Why?,TUTOR
+2020-02-24,11:46:52,0,Kathrin,1582541213043,it depends,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-24,11:46:54,0,Rebo4AI,1582541215953,I'm not sure I understood - which definition of intelligence did you make in deciding that a coffee-maker is (not) intelligent?,TUTOR
+2020-02-24,11:48:48,0,Kathrin,1582541328954,i based the definition on what i learned about intelligence meaning thinking and acting humanly and rationally,IDSAI_QUESTION1_CONCEPTS+TRUE
+2020-02-24,11:48:53,0,Rebo4AI,1582541334065,Are you personally satisfied with this decision and definition?,TUTOR
+2020-02-24,11:49:03,0,Kathrin,1582541343640,very satisfied,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-24,11:49:57,0,Kathrin,1582541397875,yes,IDSAI_QUESTION1_WITHOUT_REASON+TRUE+YES
+2020-02-24,11:50:00,0,Rebo4AI,1582541402144,Good to hear that!,TUTOR
+2020-02-24,11:50:00,0,Rebo4AI,1582541402146,How interesting is it for you to know whether a coffee-maker is intelligent or not?,TUTOR
+2020-02-24,11:50:18,0,Kathrin,1582541418595,not very interesting,IDSAI_QUESTION1_WITHOUT_REASON+TRUE+NO
+2020-02-24,11:50:20,0,Rebo4AI,1582541422165,"What in your life would change, depending on whether you see a coffee-maker as intelligent or not?",TUTOR
+2020-02-24,11:50:28,0,Kathrin,1582541428654,nothing,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-24,11:50:31,0,Rebo4AI,1582541432177,Interesting! Thanks!,TUTOR
+2020-02-24,11:50:31,0,Rebo4AI,1582541432178,See you soon!,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-24,12:03:05,0,Rebo4AI,1582542187012,I'm Rebo4AI; I'm a prototype conversational agent.,INTRODUCE
+2020-02-24,12:03:08,0,Rebo4AI,1582542189026,How are you?,TUTOR
+2020-02-24,12:03:15,0,Kathrin,1582542195118,ok,IDSAI_QUESTION1_WITHOUT_REASON+TRUE+YES
+2020-02-24,12:03:15,0,Rebo4AI,1582542197039,Let's get started.,TUTOR
+2020-02-24,12:03:15,0,Rebo4AI,1582542199046,"You have learned in the ""Introduction to Data Science and Artificial Intelligence"" different definitions of intelligence; I have not been able to follow!",TUTOR
+2020-02-24,12:03:15,0,Rebo4AI,1582542199048,But I'm curious: Is a typical car now intelligent or not? Why?,TUTOR
+2020-02-24,12:03:54,0,Kathrin,1582542234049,it is intellegnet  think humanly,IDSAI_QUESTION1_CONCEPTS+TRUE
+2020-02-24,12:03:56,0,Rebo4AI,1582542237081,Are you personally satisfied with this decision and definition?,TUTOR
+2020-02-24,12:04:06,0,Kathrin,1582542246108,dadasd asd ,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-24,12:04:06,0,Rebo4AI,1582542247092,How interesting is it for you to know whether a typical car is intelligent or not?,TUTOR
+2020-02-24,12:04:15,0,Kathrin,1582542255562,dfdsf ,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-24,12:04:16,0,Rebo4AI,1582542257102,"What in your life would change, depending on whether you see a typical car as intelligent or not?",TUTOR
+2020-02-24,12:04:18,0,Kathrin,1582542258279,dfdfd,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-24,12:04:21,0,Rebo4AI,1582542263113,Interesting! Thanks!,TUTOR
+2020-02-24,12:04:21,0,Rebo4AI,1582542263117,Have a nice day and see you soon!,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-24,12:06:34,0,Rebo4AI,1582542394895,I'm Rebo4AI; I'm a prototype conversational agent.,INTRODUCE
+2020-02-24,12:06:36,0,Rebo4AI,1582542396908,How are you?,TUTOR
+2020-02-24,12:06:38,0,Kathrin,1582542398567,dasd,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-24,12:06:38,0,Rebo4AI,1582542398918,"You have learned in the ""Introduction to Data Science and Artificial Intelligence"" different definitions of intelligence; I have not been able to follow!",TUTOR
+2020-02-24,12:06:38,0,Rebo4AI,1582542398919,But I'm curious: Is a fridge now intelligent or not? Why?,TUTOR
+2020-02-24,12:06:49,0,Kathrin,1582542409160,it is not,IDSAI_QUESTION1_WITHOUT_REASON+TRUE+NO
+2020-02-24,12:06:53,0,Rebo4AI,1582542414933,I'm not sure I understood - which definition of intelligence did you make in deciding that a fridge is (not) intelligent?,TUTOR
+2020-02-24,12:07:01,0,Kathrin,1582542421829,me too,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-24,12:07:04,0,Rebo4AI,1582542424946,Are you personally satisfied with this decision and definition?,TUTOR
+2020-02-24,12:07:16,0,Kathrin,1582542436505,no yes,IDSAI_QUESTION1_WITHOUT_REASON+TRUE+YES+NO
+2020-02-24,12:07:19,0,Rebo4AI,1582542440965,What would you change in the definition?,TUTOR
+2020-02-24,12:07:28,0,Kathrin,1582542448060,nothing,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-24,12:07:29,0,Rebo4AI,1582542450978,How interesting is it for you to know whether a fridge is intelligent or not?,TUTOR
+2020-02-24,12:17:30,0,Rebo4AI,1582543051441,"What in your life would change, depending on whether you see a fridge as intelligent or not?",TUTOR
+2020-02-24,12:27:30,0,Rebo4AI,1582543651948,Interesting! Thanks!,TUTOR
+2020-02-24,12:27:30,0,Rebo4AI,1582543651952,And bye :-),TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-24,13:59:43,0,Rebo4AI,1582549185589,I'm Rebo4AI; I'm a prototype conversational agent.,INTRODUCE
+2020-02-24,13:59:45,0,Rebo4AI,1582549187629,How are you?,TUTOR
+2020-02-24,14:00:35,0,Irmi,1582549235435,"Hey! I'm good, thanks!",IDSAI_QUESTION1_WITHOUT_REASON+TRUE+YES
+2020-02-24,14:00:35,0,Rebo4AI,1582549235678,"You have learned in the ""Introduction to Data Science and Artificial Intelligence"" different definitions of intelligence; I have not been able to follow!",TUTOR
+2020-02-24,14:00:35,0,Rebo4AI,1582549235680,But I'm curious: Is a baby now intelligent or not? Why?,TUTOR
+2020-02-24,14:01:05,0,Irmi,1582549265373,"yes, it is ",IDSAI_QUESTION1_WITHOUT_REASON+TRUE+YES
+2020-02-24,14:01:06,0,Rebo4AI,1582549267714,I'm not sure I understood - which definition of intelligence did you make in deciding that a baby is (not) intelligent?,TUTOR
+2020-02-24,14:02:48,0,Irmi,1582549368227,"it does not really act rationally on grown up standards, i guess. but it definitely thinks and acts humanly. and according to the babies needs, also ratinally, i think",IDSAI_QUESTION1_CONCEPTS+TRUE+NO
+2020-02-24,14:02:49,0,Rebo4AI,1582549369820,Are you personally satisfied with this decision and definition?,TUTOR
+2020-02-24,14:02:57,0,Irmi,1582549377485,absolutely,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-24,14:02:59,0,Rebo4AI,1582549379833,How interesting is it for you to know whether a baby is intelligent or not?,TUTOR
+2020-02-24,14:04:02,0,Irmi,1582549442251,not really. because it's very obvious in that case... | jkl,IDSAI_QUESTION1_WITHOUT_REASON+TRUE+NO
+2020-02-24,14:04:06,0,Rebo4AI,1582549447900,"What in your life would change, depending on whether you see a baby as intelligent or not?",TUTOR
+2020-02-24,14:05:02,0,Irmi,1582549502966,ny sense of identity as human being?,IDSAI_QUESTION1_CONCEPTS+TRUE
+2020-02-24,14:05:03,0,Rebo4AI,1582549503957,Interesting! Thanks!,TUTOR
+2020-02-24,14:05:03,0,Rebo4AI,1582549503960,And bye :-),TUTOR
+2020-02-24,14:05:11,0,Irmi,1582549512024,see you!,IDSAI_QUESTION1_WITHOUT_REASON+TRUE+Q
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-24,14:05:35,0,Rebo4AI,1582549536035,I'm Rebo4AI; I'm a prototype conversational agent.,INTRODUCE
+2020-02-24,14:05:38,0,Rebo4AI,1582549538055,How are you?,TUTOR
+2020-02-24,14:05:44,0,Irmi,1582549544852,kjkjl,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-24,14:05:44,0,Rebo4AI,1582549546069,"You have learned in the ""Introduction to Data Science and Artificial Intelligence"" different definitions of intelligence; I have not been able to follow!",TUTOR
+2020-02-24,14:05:44,0,Rebo4AI,1582549546074,But I'm curious: Is a tree now intelligent or not? Why?,TUTOR
+2020-02-24,14:15:45,0,Rebo4AI,1582550146636,Are you personally satisfied with this decision and definition?,TUTOR
+2020-02-24,15:13:25,0,Rebo4AI,1582553607211,How interesting is it for you to know whether a tree is intelligent or not?,TUTOR
+2020-02-24,15:23:26,0,Rebo4AI,1582554207609,"What in your life would change, depending on whether you see a tree as intelligent or not?",TUTOR
+2020-02-24,15:33:26,0,Rebo4AI,1582554808018,Interesting! Thanks!,TUTOR
+2020-02-24,15:33:26,0,Rebo4AI,1582554808020,See you next time :),TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-24,15:59:10,0,Rebo4AI,1582556351978,I'm Rebo4AI; I'm a prototype conversational agent.,INTRODUCE
+2020-02-24,15:59:12,0,Rebo4AI,1582556354004,How are you?,TUTOR
+2020-02-24,15:59:25,0,Irmi,1582556365907,mk;';,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-24,16:00:01,0,Rebo4AI,1582556404034,"You have learned in the ""Introduction to Data Science and Artificial Intelligence"" different definitions of intelligence; I have not been able to follow!",TUTOR
+2020-02-24,16:00:01,0,Rebo4AI,1582556404041,But I'm curious: Is a flower now intelligent or not? Why?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-24,16:03:06,0,Rebo4AI,1582556587523,I'm Rebo4AI; I'm a prototype conversational agent.,INTRODUCE
+2020-02-24,16:04:39,0,Rebo4AI,1582556679588,How are you?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-24,16:05:30,0,Rebo4AI,1582556731310,I'm Rebo4AI; I'm a prototype conversational agent.,INTRODUCE
+2020-02-24,16:05:34,0,Rebo4AI,1582556735330,How are you?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-24,16:09:07,0,Rebo4AI,1582556948429,I'm Rebo4AI; I'm a prototype conversational agent.,INTRODUCE
+2020-02-24,16:09:14,0,Rebo4AI,1582556956454,How are you?,TUTOR
+2020-02-24,16:09:19,0,Irmi,1582556961976,good,IDSAI_QUESTION1_WITHOUT_REASON+TRUE+YES
+2020-02-24,16:09:25,0,Rebo4AI,1582556966465,"You have learned in the ""Introduction to Data Science and Artificial Intelligence"" different definitions of intelligence; I have not been able to follow!",TUTOR
+2020-02-24,16:09:25,0,Rebo4AI,1582556966467,But I'm curious: Is a coffee-maker now intelligent or not? Why?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-24,16:35:54,0,Rebo4AI,1582558555601,I'm Rebo4AI; I'm a prototype conversational agent.,INTRODUCE
+2020-02-24,16:36:06,0,Rebo4AI,1582558567633,How are you?,TUTOR
+2020-02-24,16:36:16,0,Irmi,1582558606409,dfgdf,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-24,16:36:52,0,Rebo4AI,1582558613661,"You have learned in the ""Introduction to Data Science and Artificial Intelligence"" different definitions of intelligence; I have not been able to follow!",TUTOR
+2020-02-24,16:36:52,0,Rebo4AI,1582558613663,But I'm curious: Is a typical car now intelligent or not? Why?,TUTOR
+2020-02-24,16:37:35,0,Irmi,1582558714431,txt1 ... | txt2 ... | txt3,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-24,16:38:54,0,Rebo4AI,1582558734962,I'm Rebo4AI; I'm a prototype conversational agent.,INTRODUCE
+2020-02-24,16:38:57,0,Rebo4AI,1582558738989,How are you?,TUTOR
+2020-02-24,16:39:06,0,Irmi,1582558762907,asasas,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-24,16:39:22,0,Rebo4AI,1582558763005,"You have learned in the ""Introduction to Data Science and Artificial Intelligence"" different definitions of intelligence; I have not been able to follow!",TUTOR
+2020-02-24,16:39:22,0,Rebo4AI,1582558763009,But I'm curious: Is a chicken now intelligent or not? Why?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-24,16:50:39,0,Rebo4AI,1582559441086,I'm Rebo4AI; I'm a prototype conversational agent.,INTRODUCE
+2020-02-24,16:50:41,0,Rebo4AI,1582559443112,How are you?,TUTOR
+2020-02-24,16:50:43,0,Irmi,1582559448576,dsds,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-24,16:50:48,0,Rebo4AI,1582559449118,"You have learned in the ""Introduction to Data Science and Artificial Intelligence"" different definitions of intelligence; I have not been able to follow!",TUTOR
+2020-02-24,16:50:48,0,Rebo4AI,1582559449120,But I'm curious: Is a chicken now intelligent or not? Why?,TUTOR
+2020-02-24,16:51:08,0,Irmi,1582559468258,sad... | ddd... | ggg... | hhh... | jkkkk... | lll... | yyuy,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-24,16:51:14,0,Rebo4AI,1582559475132,I'm not sure I understood - which definition of intelligence did you make in deciding that a chicken is (not) intelligent?,TUTOR
+2020-02-24,16:51:29,0,Irmi,1582559500961,asdasd a ,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-24,16:51:47,0,Rebo4AI,1582559509159,Are you personally satisfied with this decision and definition?,TUTOR
+2020-02-24,16:51:56,0,Irmi,1582559527637,asdas asda ,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-24,16:52:14,0,Rebo4AI,1582559535175,How interesting is it for you to know whether a chicken is intelligent or not?,TUTOR
+2020-02-24,16:52:22,0,Irmi,1582559559152,sdsda das ,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-24,16:52:40,0,Rebo4AI,1582559561194,"What in your life would change, depending on whether you see a chicken as intelligent or not?",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-24,17:19:39,0,Rebo4AI,1582561180107,I'm Rebo4AI; I'm a prototype conversational agent.,INTRODUCE
+2020-02-24,17:19:42,0,Rebo4AI,1582561182131,How are you?,TUTOR
+2020-02-24,17:19:44,0,Irmi,1582561184232,aa,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-24,17:19:44,0,Rebo4AI,1582561186136,"You have learned in the ""Introduction to Data Science and Artificial Intelligence"" different definitions of intelligence; I have not been able to follow!",TUTOR
+2020-02-24,17:19:44,0,Rebo4AI,1582561186137,But I'm curious: Is a typical car now intelligent or not? Why?,TUTOR
+2020-02-24,18:40:03,0,Rebo4AI,1582566005071,Are you personally satisfied with this decision and definition?,TUTOR
+2020-02-24,18:50:03,0,Rebo4AI,1582566605472,How interesting is it for you to know whether a typical car is intelligent or not?,TUTOR
+2020-02-24,19:00:03,0,Rebo4AI,1582567205829,"What in your life would change, depending on whether you see a typical car as intelligent or not?",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-25,12:01:22,0,Rebo4AI,1582628482919,I'm Rebo4AI; I'm a prototype conversational agent.,INTRODUCE
+2020-02-25,12:01:24,0,Rebo4AI,1582628484955,How are you?,TUTOR
+2020-02-25,12:01:30,0,Irmi,1582628490398,fine,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-25,12:01:30,0,Rebo4AI,1582628490966,"You have learned in the ""Introduction to Data Science and Artificial Intelligence"" different definitions of intelligence; I have not been able to follow!",TUTOR
+2020-02-25,12:01:30,0,Rebo4AI,1582628490970,But I'm curious: Is a chicken now intelligent or not? Why?,TUTOR
+2020-02-25,12:02:43,0,user,1582628563383,i dont know,IDSAI_QUESTION1_WITHOUT_REASON+IDSAI_QUESTION1_DONT_KNOW+TRUE
+2020-02-25,12:02:47,0,Rebo4AI,1582628569051,"Just think about four different concepts of an intelligent entity which are act rationally, think humanly, act humanly, and think rationally then use these concepts for reasoning.",TUTOR
+2020-02-25,12:02:47,0,Rebo4AI,1582628569055,"Based on these concepts, do you think a chicken is intelligent or not? Why?",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-25,12:03:32,0,Rebo4AI,1582628612965,I'm Rebo4AI; I'm a prototype conversational agent.,INTRODUCE
+2020-02-25,12:03:35,0,Rebo4AI,1582628616991,How are you?,TUTOR
+2020-02-25,12:03:39,0,user,1582628619900,good,IDSAI_QUESTION1_WITHOUT_REASON+TRUE+YES
+2020-02-25,12:03:39,0,Rebo4AI,1582628621003,"You have learned in the ""Introduction to Data Science and Artificial Intelligence"" different definitions of intelligence; I have not been able to follow!",TUTOR
+2020-02-25,12:03:39,0,Rebo4AI,1582628621008,But I'm curious: Is a typical car now intelligent or not? Why?,TUTOR
+2020-02-25,12:04:33,0,user,1582628673431,"i dont know, but ............  is intelligent",IDSAI_QUESTION1_WITHOUT_REASON+IDSAI_QUESTION1_DONT_KNOW+TRUE
+2020-02-25,12:04:36,0,Rebo4AI,1582628677077,"Just think about four different concepts of an intelligent entity which are act rationally, think humanly, act humanly, and think rationally then use these concepts for reasoning.",TUTOR
+2020-02-25,12:04:36,0,Rebo4AI,1582628677079,"Based on these concepts, do you think a typical car is intelligent or not? Why?",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-25,12:06:23,0,Rebo4AI,1582628783296,I'm Rebo4AI; I'm a prototype conversational agent.,INTRODUCE
+2020-02-25,12:06:25,0,Rebo4AI,1582628785331,How are you?,TUTOR
+2020-02-25,12:06:39,0,user,1582628799793,ss,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-25,12:06:39,0,Rebo4AI,1582628801354,"You have learned in the ""Introduction to Data Science and Artificial Intelligence"" different definitions of intelligence; I have not been able to follow!",TUTOR
+2020-02-25,12:06:39,0,Rebo4AI,1582628801358,But I'm curious: Is a chicken now intelligent or not? Why?,TUTOR
+2020-02-25,12:06:46,0,user,1582628806578,sss,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-25,12:06:50,0,Rebo4AI,1582628811371,I'm not sure I understood - which definition of intelligence did you make in deciding that a chicken is (not) intelligent?,TUTOR
+2020-02-25,12:16:50,0,Rebo4AI,1582629411922,Are you personally satisfied with this decision and definition?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-25,12:16:57,0,Rebo4AI,1582629418001,I'm Rebo4AI; I'm a prototype conversational agent.,INTRODUCE
+2020-02-25,12:16:59,0,Rebo4AI,1582629420032,How are you?,TUTOR
+2020-02-25,12:17:08,0,user,1582629428874,sdd,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-25,12:17:08,0,user,1582629428888,sdd,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-25,12:17:08,0,Rebo4AI,1582629430040,"You have learned in the ""Introduction to Data Science and Artificial Intelligence"" different definitions of intelligence; I have not been able to follow!",TUTOR
+2020-02-25,12:17:08,0,Rebo4AI,1582629430041,But I'm curious: Is a teen now intelligent or not? Why?,TUTOR
+2020-02-25,12:17:11,0,Rebo4AI,1582629431945,How interesting is it for you to know whether a chicken is intelligent or not?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-25,12:17:58,0,Rebo4AI,1582629478361,I'm Rebo4AI; I'm a prototype conversational agent.,INTRODUCE
+2020-02-25,12:18:00,0,Rebo4AI,1582629480382,How are you?,TUTOR
+2020-02-25,12:18:04,0,user,1582629484057,good,IDSAI_QUESTION1_WITHOUT_REASON+TRUE+YES
+2020-02-25,12:18:04,0,Rebo4AI,1582629484392,"You have learned in the ""Introduction to Data Science and Artificial Intelligence"" different definitions of intelligence; I have not been able to follow!",TUTOR
+2020-02-25,12:18:04,0,Rebo4AI,1582629484397,But I'm curious: Is an autonomously driving car now intelligent or not? Why?,TUTOR
+2020-02-25,12:28:04,0,Rebo4AI,1582630084985,Are you personally satisfied with this decision and definition?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-25,12:30:50,0,Rebo4AI,1582630251024,I'm Rebo4AI; I'm a prototype conversational agent.,INTRODUCE
+2020-02-25,12:30:53,0,Rebo4AI,1582630255045,How are you?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-25,12:43:02,0,Rebo4AI,1582630982644,I'm Rebo4AI; I'm a prototype conversational agent.,INTRODUCE
+2020-02-25,12:43:04,0,Rebo4AI,1582630986691,How are you?,TUTOR
+2020-02-25,12:43:28,0,user,1582631008408,"hi Rebo4AI... | I'm fine, thx. And how are you?",IDSAI_QUESTION1_WITHOUT_REASON+TRUE+Q
+2020-02-25,12:43:28,0,Rebo4AI,1582631008728,"You have learned in the ""Introduction to Data Science and Artificial Intelligence"" different definitions of intelligence; I have not been able to follow!",TUTOR
+2020-02-25,12:43:28,0,Rebo4AI,1582631008734,But I'm curious: Is a notebook now intelligent or not? Why?,TUTOR
+2020-02-25,12:44:30,0,user,1582631071040,"hm...  | well, it doesn't really act on itself of course. but a lot of software on it is kind of intelligent.... | or maybe it's only the servers that are intelligent? as in: google maps is pretty intelligent, but it's a server-based technology.",IDSAI_QUESTION1_CONCEPTS+TRUE+NO
+2020-02-25,12:44:35,0,Rebo4AI,1582631076798,Are you personally satisfied with this decision and definition?,TUTOR
+2020-02-25,12:45:25,0,user,1582631125442,"hm... | kind of. it makes me realise that the notebook itself isn't the issue, but the software running on it... but is it the same for me? is it only my brain and what I have learned that makes me intelligent? and m body is ""worth nothing"" in terms of intelligence?",IDSAI_QUESTION1_CONCEPTS+TRUE+NO
+2020-02-25,12:45:26,0,Rebo4AI,1582631126847,What would you change in the definition?,TUTOR
+2020-02-25,12:46:02,0,user,1582631162527,"hm,m i think i would keep it for now.",IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-25,12:46:02,0,Rebo4AI,1582631162882,How interesting is it for you to know whether a notebook is intelligent or not?,TUTOR
+2020-02-25,12:46:28,0,user,1582631188569,"well, on a daily basis not. but now and then it makes sense to consider what things know about us, or better: who knows what about us.",IDSAI_QUESTION1_WITHOUT_REASON+TRUE+NO
+2020-02-25,12:46:33,0,Rebo4AI,1582631194934,"What in your life would change, depending on whether you see a notebook as intelligent or not?",TUTOR
+2020-02-25,12:47:03,0,user,1582631223777,"... and what they (want to) do with it... | i think it makes me aware of what i'm doing or saying in whose/which presence. and maybe, increasingly more, what to put away when i do things ;-)",IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-25,12:47:04,0,Rebo4AI,1582631224965,Interesting! Thanks!,TUTOR
+2020-02-25,12:47:04,0,Rebo4AI,1582631224967,See you next time!,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-27,09:48:35,0,Rebo4AI,1582793317259,I'm Rebo4AI; I'm a prototype conversational agent.,INTRODUCE
+2020-02-27,09:48:37,0,Rebo4AI,1582793319277,How are you?,TUTOR
+2020-02-27,09:48:46,0,mynameIsBehzad1,1582793326189,good,IDSAI_QUESTION1_WITHOUT_REASON+TRUE+YES
+2020-02-27,09:48:46,0,Rebo4AI,1582793327289,"You have learned in the ""Introduction to Data Science and Artificial Intelligence"" different definitions of intelligence; I have not been able to follow!",TUTOR
+2020-02-27,09:48:46,0,Rebo4AI,1582793327296,But I'm curious: Is a tree now intelligent or not? Why?,TUTOR

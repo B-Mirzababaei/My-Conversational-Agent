@@ -1,0 +1,64 @@
+2020-03-20,17:39:24,0,Rebo4AI,1584722365171,"Hi, I'm Rebo4AI; a prototype conversational agent. With me, you can currently discuss only about intelligence. Is that OK with you; do you want to start a conversation?",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-03-20,18:44:51,0,Rebo4AI,1584726292205,"Hi, I'm Rebo4AI; a prototype conversational agent. With me, you can currently discuss only about intelligence. Is that OK with you; do you want to start a conversation?",TUTOR
+2020-03-20,18:59:52,0,Rebo4AI,1584727192845,"To start the conversation, please welcome Rebo :)",TUTOR
+2020-03-20,19:14:52,0,Rebo4AI,1584728093417,"OK, no problem; I currently am not able to discuss about anything else - if you are interested in talking to me any time in the future, please go again to <a href=""http://rebo4ai.know-center.tugraz.at/bazaar/idsai_landing_page"">this link</a>. Bye!",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-03-23,15:12:07,0,Rebo4AI,1584972727962,"Hi, I'm Rebo4AI; a prototype conversational agent. With me, you can currently discuss only about intelligence. Is that OK with you; do you want to start a conversation?",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-03-23,15:16:07,0,Rebo4AI,1584972969902,"Hi, I'm Rebo4AI; a prototype conversational agent. With me, you can currently discuss only about intelligence. Is that OK with you; do you want to start a conversation?",TUTOR
+2020-03-23,15:16:18,0,sss,1584972978875,yes,IDSAI_QUESTION1_WITHOUT_REASON+TRUE+YES
+2020-03-23,15:16:18,0,Rebo4AI,1584972979933,"In the TUGraz lecture ""<i>Introduction to Data Science and Artificial Intelligence (IDSA)</i>"", different definitions of intelligence have been discussed. According to different definitions, something or someone would be called intelligent if it <b>thinks humanly</b>, <b>acts humanly</b>, <b>thinks rationally</b>, <b>acts rationally</b>; or if it is <b>able to adapt behaviour</b> to a changing environment in order to achieve its goals.",TUTOR
+2020-03-23,15:16:18,0,Rebo4AI,1584972979939,"I have this information from <a href=""http://rebo4ai.know-center.tugraz.at/bazaar/data/IDSAI/1a_Introduction.pdf"" download=""http://rebo4ai.know-center.tugraz.at/bazaar/data/IDSAI/1a_Introduction.pdf"">here</a>. But, I'm not sure I completely understand.",TUTOR
+2020-03-23,15:16:18,0,Rebo4AI,1584972979945,I'm curious: Is a TV now intelligent or not? Why?,TUTOR
+2020-03-23,15:16:34,0,sss,1584972994814,it is not,IDSAI_QUESTION1_WITHOUT_REASON+TRUE+NO
+2020-03-23,15:16:39,0,Rebo4AI,1584972999971,I'm not sure I understood - which definition of intelligence did you make in deciding that a TV is (not) intelligent?,TUTOR
+2020-03-23,15:16:50,0,sss,1584973010326,it can not act like human,IDSAI_QUESTION1_CONCEPTS+TRUE+NO
+2020-03-23,15:16:55,0,Rebo4AI,1584973015988,Are you personally satisfied with this decision and definition?,TUTOR
+2020-03-23,15:16:58,0,sss,1584973018380,yes ,IDSAI_QUESTION1_WITHOUT_REASON+TRUE+YES
+2020-03-23,15:17:00,0,Rebo4AI,1584973021999,Good to hear that!,TUTOR
+2020-03-23,15:17:00,0,Rebo4AI,1584973022002,How interesting is it for you to know whether a TV is intelligent or not?,TUTOR
+2020-03-23,15:17:28,0,sss,1584973048349,it is more interesting if it could be a inteligent entity,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-03-23,15:17:31,0,Rebo4AI,1584973052030,"What in your life would change, depending on whether you see a TV as intelligent or not?",TUTOR
+2020-03-23,15:18:24,0,sss,1584973104470,watching tv would be easier if I had an intelligent TV which find out what I want to watch,IDSAI_QUESTION1_WITHOUT_REASON+TRUE+YES
+2020-03-23,15:18:27,0,Rebo4AI,1584973108086,Interesting! Thanks!,TUTOR
+2020-03-23,15:18:27,0,Rebo4AI,1584973108089,Until the days!,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-03-23,15:41:20,0,Rebo4AI,1584974482278,"Hi, I'm Rebo4AI; a prototype conversational agent. With me, you can currently discuss only about intelligence. Is that OK with you; do you want to start a conversation?",TUTOR
+2020-03-23,15:45:26,0,sss,1584974726756,yes,IDSAI_QUESTION1_WITHOUT_REASON+TRUE+YES
+2020-03-23,15:45:26,0,Rebo4AI,1584974728531,"In the TUGraz lecture ""<i>Introduction to Data Science and Artificial Intelligence (IDSA)</i>"", different definitions of intelligence have been discussed. According to different definitions, something or someone would be called intelligent if it <b>thinks humanly</b>, <b>acts humanly</b>, <b>thinks rationally</b>, <b>acts rationally</b>; or if it is <b>able to adapt behaviour</b> to a changing environment in order to achieve its goals.",TUTOR
+2020-03-23,15:45:26,0,Rebo4AI,1584974728539,"I have this information from <a href=""http://rebo4ai.know-center.tugraz.at/bazaar/data/IDSAI/1a_Introduction.pdf"" download=""http://rebo4ai.know-center.tugraz.at/bazaar/data/IDSAI/1a_Introduction.pdf"">here</a>. But, I'm not sure I completely understand.",TUTOR
+2020-03-23,15:45:26,0,Rebo4AI,1584974728546,I'm curious: Is a baby now intelligent or not? Why?,TUTOR
+2020-03-23,15:45:35,0,sss,1584974735173,adasda,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-03-23,15:45:37,0,Rebo4AI,1584974738558,I'm not sure I understood - which definition of intelligence did you make in deciding that a baby is (not) intelligent?,TUTOR
+2020-03-23,15:45:47,0,sss,1584974747753,it ack liek human,IDSAI_QUESTION1_CONCEPTS+TRUE
+2020-03-23,15:45:52,0,Rebo4AI,1584974752576,Are you personally satisfied with this decision and definition?,TUTOR
+2020-03-23,15:45:57,0,sss,1584974757410,yes,IDSAI_QUESTION1_WITHOUT_REASON+TRUE+YES
+2020-03-23,15:45:57,0,Rebo4AI,1584974758584,Good to hear that!,TUTOR
+2020-03-23,15:45:57,0,Rebo4AI,1584974758588,How interesting is it for you to know whether a baby is intelligent or not?,TUTOR
+2020-03-23,15:46:03,0,sss,1584974763851,asdsakd,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-03-23,15:46:07,0,Rebo4AI,1584974768600,"What in your life would change, depending on whether you see a baby as intelligent or not?",TUTOR
+2020-03-23,15:46:15,0,sss,1584974776022,adas,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-03-23,15:46:18,0,Rebo4AI,1584974778616,Interesting! Thanks!,TUTOR
+2020-03-23,15:46:18,0,Rebo4AI,1584974778621,Have a nice day :),TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-03-23,15:47:29,0,Rebo4AI,1584974850146,"Hi, I'm Rebo4AI; a prototype conversational agent. With me, you can currently discuss only about intelligence. Is that OK with you; do you want to start a conversation?",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-03-23,15:48:34,0,Rebo4AI,1584974914450,"Hi, I'm Rebo4AI; a prototype conversational agent. With me, you can currently discuss only about intelligence. Is that OK with you; do you want to start a conversation?",TUTOR
+2020-03-23,15:48:36,0,sss,1584974916722,yes,IDSAI_QUESTION1_WITHOUT_REASON+TRUE+YES
+2020-03-23,15:48:36,0,Rebo4AI,1584974918488,"In the TUGraz lecture ""<i>Introduction to Data Science and Artificial Intelligence (IDSA)</i>"", different definitions of intelligence have been discussed. According to different definitions, something or someone would be called intelligent if it <b>thinks humanly</b>, <b>acts humanly</b>, <b>thinks rationally</b>, <b>acts rationally</b>; or if it is <b>able to adapt behaviour</b> to a changing environment in order to achieve its goals.",TUTOR
+2020-03-23,15:48:36,0,Rebo4AI,1584974918493,"I have this information from <a href=""http://rebo4ai.know-center.tugraz.at/bazaar/data/IDSAI/1a_Introduction.pdf"" download=""http://rebo4ai.know-center.tugraz.at/bazaar/data/IDSAI/1a_Introduction.pdf"">here</a>. But, I'm not sure I completely understand.",TUTOR
+2020-03-23,15:48:36,0,Rebo4AI,1584974918499,I'm curious: Is a teen now intelligent or not? Why?,TUTOR
+2020-03-23,15:48:40,0,sss,1584974920739,dasda,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-03-23,15:48:41,0,Rebo4AI,1584974922511,I'm not sure I understood - which definition of intelligence did you make in deciding that a teen is (not) intelligent?,TUTOR
+2020-03-23,15:48:45,0,sss,1584974925371,dadasda,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-03-23,15:48:47,0,Rebo4AI,1584974928522,Are you personally satisfied with this decision and definition?,TUTOR
+2020-03-23,15:48:50,0,sss,1584974930411,akdakda,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-03-23,15:48:52,0,Rebo4AI,1584974932534,How interesting is it for you to know whether a teen is intelligent or not?,TUTOR
+2020-03-23,15:48:54,0,sss,1584974934451,mkamdkad,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-03-23,15:48:57,0,Rebo4AI,1584974938545,"What in your life would change, depending on whether you see a teen as intelligent or not?",TUTOR
+2020-03-23,15:49:01,0,sss,1584974941202,usndabsd,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-03-23,15:49:02,0,Rebo4AI,1584974942551,Interesting! Thanks!,TUTOR
+2020-03-23,15:49:02,0,Rebo4AI,1584974942554,See you next time :),TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-03-23,15:53:58,0,Rebo4AI,1584975238919,"Hi, I'm Rebo4AI; a prototype conversational agent. With me, you can currently discuss only about intelligence. Is that OK with you; do you want to start a conversation?",TUTOR

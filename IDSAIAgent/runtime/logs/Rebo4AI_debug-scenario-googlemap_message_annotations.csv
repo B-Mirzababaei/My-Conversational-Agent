@@ -1,0 +1,778 @@
+2020-02-04,16:40:28,0,Rebo4AI,1580830829483,Hello dbugger!,TUTOR
+2020-02-04,16:40:47,0,debugger,1580830847234,hi,GREETING
+2020-02-04,16:40:47,0,Rebo4AI,1580830847504,My name is Rebo4AI and I'm here to find out what you know about GoogleMap.,TUTOR
+2020-02-04,16:40:47,0,Rebo4AI,1580830847505,"Now, do you have a good feeling about GoogleMap?",TUTOR
+2020-02-04,16:50:47,0,Rebo4AI,1580831447906,Could you explain more about your feeling? Why do you like or dislike it?,TUTOR
+2020-02-04,17:00:48,0,Rebo4AI,1580832048308,How do you see AI affecting you in the future?,TUTOR
+2020-02-04,17:10:48,0,Rebo4AI,1580832648748,Could you talk about a positive and a negative consequence of AI?,TUTOR
+2020-02-04,17:20:48,0,Rebo4AI,1580833249113,What did you learn from this course?,TUTOR
+2020-02-04,17:30:49,0,Rebo4AI,1580833849545,What will you pay special attention next time you read or hear about AI?,TUTOR
+2020-02-04,17:40:49,0,Rebo4AI,1580834449931,"If one of your friend talk to you about an intelligent machine, what do you think about first?",TUTOR
+2020-02-04,17:50:49,0,Rebo4AI,1580835050392,Thank you for discussing this with me!,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-05,09:24:17,0,Rebo4AI,1580891058646,Hello Rebo4AI!,TUTOR
+2020-02-05,09:25:02,0,debugger,1580891102780,Hi,GREETING
+2020-02-05,09:25:16,0,debugger,1580891116911,hi,GREETING
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-05,09:25:55,0,Rebo4AI,1580891156431,Hello debugger!,TUTOR
+2020-02-05,09:25:59,0,debugger,1580891159896,Hi,GREETING
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-05,09:26:56,0,Rebo4AI,1580891217515,Hi debugger!,TUTOR
+2020-02-05,09:27:00,0,debugger,1580891220888,Hi,GREETING
+2020-02-05,09:27:00,0,Rebo4AI,1580891221543,My name is Rebo4AI and we're here to have a conversation about Google search engine.,TUTOR
+2020-02-05,09:27:00,0,Rebo4AI,1580891221545,Can you tell me how you use Google search engine in your daily life?,TUTOR
+2020-02-05,09:28:39,0,debugger,1580891319561,"i use it every day. whenever I look for something in the Internet, I use it.",JUDGEMENT_ON_IMPLICATION_OPTIMISTIC_ANNOTATION+JUDGEMENT_ON_RELEVANCE_POSITIVE_ANNOTATION+PLANNING_GENERAL_NETAGIVE_ANNOTATION+PLANNING_DETAILED_NETAGIVE_ANNOTATION
+2020-02-05,09:28:43,0,Rebo4AI,1580891325627,judgement_on_relevance_positive_exp,TUTOR
+2020-02-05,09:28:43,0,Rebo4AI,1580891325629,"What is the effects, positive or negative one, of such search engine on your own life (professional or private)?",TUTOR
+2020-02-05,09:32:17,0,debugger,1580891538008,"It is really helpful. I can not imagine my life without it. In my view, the internet means Googel search engine.",JUDGEMENT_ON_IMPLICATION_OPTIMISTIC_ANNOTATION+PLANNING_GENERAL_POSITIVE_ANNOTATION+JUDGEMENT_ON_RELEVANCE_POSITIVE_ANNOTATION+PLANNING_GENERAL_NETAGIVE_ANNOTATION+PLANNING_DETAILED_POSITIVE_ANNOTATION+PLANNING_DETAILED_NETAGIVE_ANNOTATION
+2020-02-05,09:32:19,0,Rebo4AI,1580891539795,You are optimistic!,TUTOR
+2020-02-05,09:32:19,0,Rebo4AI,1580891539797,"What about negative consequences, Do you think it maybe has negative side-effects as well?",TUTOR
+2020-02-05,09:32:31,0,debugger,1580891551497,"no, I dont think so.",JUDGEMENT_ON_RELEVANCE_NEGATIVE_ANNOTATION
+2020-02-05,09:32:34,0,Rebo4AI,1580891555816,How can you get a better result from Google search engine?,TUTOR
+2020-02-05,09:34:31,0,debugger,1580891671919,"to me, the keywords which we use are really important. we should choose them wisely to get a better result.",JUDGEMENT_ON_IMPLICATION_OPTIMISTIC_ANNOTATION
+2020-02-05,09:34:32,0,Rebo4AI,1580891673944,"Next time we will talk about what you are going to do to gain more from positive outcomes and avoid from negative results. So, what exactly would you do for it?",TUTOR
+2020-02-05,09:36:50,0,debugger,1580891810231,i gonna select the most relevant phrases to get appropriate documents. Ana also dont write general word such as of the a an,JUDGEMENT_ON_RELEVANCE_NEGATIVE_ANNOTATION
+2020-02-05,09:36:51,0,Rebo4AI,1580891812036,"OK, good. Thank you for discussing this with me!",TUTOR
+2020-02-05,09:46:51,0,Rebo4AI,1580892412493,Thank you and see you next time;),TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-05,10:01:34,0,Rebo4AI,1580893294488,Hi debugger!,TUTOR
+2020-02-05,10:01:38,0,debugger,1580893298420,hi,GREETING
+2020-02-05,10:01:38,0,Rebo4AI,1580893298580,My name is Rebo4AI Google and we're here to have a conversation about Google search engine.,TUTOR
+2020-02-05,10:01:38,0,Rebo4AI,1580893298584,What Do you think about how many times and how you use Google search engine in a week?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-05,10:09:01,0,Rebo4AI,1580893743030,Hi debugger!,TUTOR
+2020-02-05,10:09:08,0,debugger,1580893749058,HI,GREETING
+2020-02-05,10:09:09,0,Rebo4AI,1580893751058,"My name is Rebo4AI and I'm here to find out what you know about AI. 
+I hope you have read the AI essential course",TUTOR
+2020-02-05,10:09:09,0,Rebo4AI,1580893751062,"Now, do you have a good feeling about AI?",TUTOR
+2020-02-05,10:09:31,0,debugger,1580893771435,"hm, i'm still undecided... | sometimes i wish i lived in the middle age.",JUDGEMENT_ON_RELEVANCE_POSITIVE_ANNOTATION
+2020-02-05,10:09:34,0,Rebo4AI,1580893775091,Could you explain more about your feeling? Why do you like or dislike it?,TUTOR
+2020-02-05,10:10:36,0,debugger,1580893836786,hm... | it's not htat i like or dislike AI. it's just that i have the feeling that society as a whole doesn't really know what to do with it. and i'm concerned that a few big players like google or alibaba will rule the world in ten years.,JUDGEMENT_ON_RELEVANCE_POSITIVE_ANNOTATION+PLANNING_GENERAL_NETAGIVE_ANNOTATION+PLANNING_DETAILED_POSITIVE_ANNOTATION+PLANNING_DETAILED_NETAGIVE_ANNOTATION
+2020-02-05,10:10:41,0,Rebo4AI,1580893843075,How do you see AI affecting you in the future?,TUTOR
+2020-02-05,10:13:14,0,Rebo4AI,1580893994550,"As far as I know, Google and Youtube are the most well-known companies in which many AI-based systems are used in order to make it more convenient for us accessing the content that we look for.",TUTOR
+2020-02-05,10:13:14,0,Rebo4AI,1580893994553,"So, if you try at least one of these, you definitely deal with AI in your life.",TUTOR
+2020-02-05,10:13:14,0,Rebo4AI,1580893994556,Could you address some drawbacks or benefits of these kinds of systems? How these systems affect on what you do in your personal or professional life?,TUTOR
+2020-02-05,10:13:32,0,debugger,1580894012635,"it already affects me in the sense that there are many websites and platforms that collect and analyse my data. in the future, i think the wish would be that there are great expert ai systems that make really good decisions, politically, or in medicine. but i'm afraid that the algorithms will _not_ be as good. or they will be biased by commercial interests... | as i've just read that a medication-recommender system used by physicians inthe AI was biased towards prescribing more medication because a pharamceutical company had invested a lot of money.",JUDGEMENT_ON_IMPLICATION_OPTIMISTIC_ANNOTATION+PLANNING_GENERAL_POSITIVE_ANNOTATION+JUDGEMENT_ON_RELEVANCE_POSITIVE_ANNOTATION+PLANNING_GENERAL_NETAGIVE_ANNOTATION+PLANNING_DETAILED_POSITIVE_ANNOTATION+PLANNING_DETAILED_NETAGIVE_ANNOTATION
+2020-02-05,10:13:36,0,Rebo4AI,1580894016962,Could you talk about a positive and a negative consequence of AI?,TUTOR
+2020-02-05,10:14:12,0,debugger,1580894052521,"well, on the positive side, we have something like Google, or Amazon, who provide very useful services to everyone",JUDGEMENT_ON_IMPLICATION_OPTIMISTIC_ANNOTATION+JUDGEMENT_ON_RELEVANCE_POSITIVE_ANNOTATION
+2020-02-05,10:14:17,0,Rebo4AI,1580894058938,What did you learn from this course?,TUTOR
+2020-02-05,10:15:00,0,debugger,1580894100841,"from the course, i learned that algorithms and also AI are really just mathematics not that i understand everything, but it's not as immediately we had magic systems.",
+2020-02-05,10:15:03,0,Rebo4AI,1580894104919,What will you pay special attention next time you read or hear about AI?,TUTOR
+2020-02-05,10:16:05,0,debugger,1580894166028,i think i will be more intersested about the technical details - which data are used? which algorithms are actually used? it occurs to me that no one _really_ knows what Google or Amazon are exactly doing... they are making this more magic than it is.,JUDGEMENT_ON_RELEVANCE_POSITIVE_ANNOTATION+PLANNING_DETAILED_POSITIVE_ANNOTATION
+2020-02-05,10:16:10,0,Rebo4AI,1580894170980,"If one of your friend talk to you about an intelligent machine, what do you think about first?",TUTOR
+2020-02-05,10:16:34,0,debugger,1580894194483,that i don't think it's all that intelligent ;-),JUDGEMENT_ON_RELEVANCE_NEGATIVE_ANNOTATION
+2020-02-05,10:16:36,0,Rebo4AI,1580894197008,Thank you for discussing this with me!,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-05,10:20:05,0,Rebo4AI,1580894406511,Hello debugger!,TUTOR
+2020-02-05,10:20:11,0,debugger,1580894412008,hi,GREETING
+2020-02-05,10:20:12,0,Rebo4AI,1580894412546,"I'm Rebo4AI and here to talk about various perspectives on how AI is important in your life, the impact of AI on your life, and your own role in interacting with AI-based technologies.",TUTOR
+2020-02-05,10:20:12,0,Rebo4AI,1580894412551,"What Do you think about how many times and how you use an AI-based system in a week? Please name some concrete examples which you use such as Google's search engine, Youtube, GoogleMap, or ridesharing apps.",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-05,10:20:38,0,Rebo4AI,1580894439355,Hello debugger!,TUTOR
+2020-02-05,10:35:39,0,Rebo4AI,1580895340167,"To start the conversation, please welcome Rebo :)",TUTOR
+2020-02-05,10:50:39,0,Rebo4AI,1580896240919,Okay - you can continue discussing other topics.,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-05,11:01:53,0,Rebo4AI,1580896914536,Hello debugger!,TUTOR
+2020-02-05,11:02:02,0,debugger,1580896922161,hi,GREETING
+2020-02-05,11:02:02,0,Rebo4AI,1580896922586,My name is Rebo4AI Google and we're here to have a conversation about Google search engine.,TUTOR
+2020-02-05,11:02:02,0,Rebo4AI,1580896922588,Can you tell me how many times how you use Google search engine in your daily life?,TUTOR
+2020-02-05,11:02:52,0,debugger,1580896972447,"oh i have stopped using it, i now use duckduckgo",JUDGEMENT_ON_IMPLICATION_OPTIMISTIC_ANNOTATION
+2020-02-05,11:02:53,0,Rebo4AI,1580896974647,"As far as I know, Google and Youtube are the most well-known companies in which many AI-based systems are used in order to make it more convenient for us accessing the content that we look for.",TUTOR
+2020-02-05,11:02:53,0,Rebo4AI,1580896974654,"So, if you try at least one of these, you definitely deal with AI in your life.",TUTOR
+2020-02-05,11:02:53,0,Rebo4AI,1580896974661,Do you think using of Google search engine has any effect on your own life? How?,TUTOR
+2020-02-05,11:03:40,0,debugger,1580897020568,"i definitely think that search engines like Google have, together with the Internet, changed how we access knowledge... | and google has set the standard for search engines.",JUDGEMENT_ON_RELEVANCE_POSITIVE_ANNOTATION
+2020-02-05,11:04:08,0,debugger,1580897048920,goood,
+2020-02-05,11:04:13,0,debugger,1580897053164,good,JUDGEMENT_ON_IMPLICATION_OPTIMISTIC_ANNOTATION
+2020-02-05,11:04:15,0,Rebo4AI,1580897056727,That's very optimistic! Do you think there are any negative side-effects as well?,TUTOR
+2020-02-05,11:05:22,0,debugger,1580897122796,"yes, definitely. that's why i now use duckduckgo. the way it is, google has a de facto monopol. google simply knows too much about too many people - and it is not an institution for the public good. it has commercial interests. i think search engines should be public infrastructure",JUDGEMENT_ON_IMPLICATION_OPTIMISTIC_ANNOTATION+JUDGEMENT_ON_RELEVANCE_POSITIVE_ANNOTATION+PLANNING_GENERAL_NETAGIVE_ANNOTATION+PLANNING_DETAILED_NETAGIVE_ANNOTATION
+2020-02-05,11:05:22,0,Rebo4AI,1580897124793,How can you get a better result from Google search engine?,TUTOR
+2020-02-05,11:05:36,0,debugger,1580897136589,that's not the point! ;-),
+2020-02-05,11:05:38,0,Rebo4AI,1580897138811,"Next time we will talk about what you are going to do to gain more from positive outcomes and avoid from negative results. So, what exactly would you do for it?",TUTOR
+2020-02-05,11:05:55,0,debugger,1580897155317,i will also try to discontinue using google on my smartphone.,JUDGEMENT_ON_RELEVANCE_POSITIVE_ANNOTATION+PLANNING_DETAILED_POSITIVE_ANNOTATION
+2020-02-05,11:05:58,0,Rebo4AI,1580897160832,"OK, good. Thank you for discussing this with me!",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-05,11:08:00,0,Rebo4AI,1580897280883,Hello debugger!,TUTOR
+2020-02-05,11:24:40,0,Rebo4AI,1580898281287,"To start the conversation, please welcome Rebo :)",TUTOR
+2020-02-05,11:39:40,0,Rebo4AI,1580899181927,Okay - you can continue discussing other topics.,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-05,13:47:30,0,Rebo4AI,1580906851935,Hi debugger!,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-05,14:41:35,0,Rebo4AI,1580910097087,Hello debugger!,TUTOR
+2020-02-05,14:41:39,0,debugger,1580910099980,hi,GREETING
+2020-02-05,14:41:40,0,Rebo4AI,1580910101113,My name is Rebo4AI. Let's see in what extent you encounter AI on your personal life or professional career and how much AI changes our life.,TUTOR
+2020-02-05,14:41:40,0,Rebo4AI,1580910101118,"What Do you think about how many times and how you use an AI-based system in a week? Please name some concrete examples which you use such as Google's search engine, Youtube, GoogleMap, or ridesharing apps.",TUTOR
+2020-02-05,14:43:49,0,debugger,1580910229153,I usually use them every day.,JUDGEMENT_ON_IMPLICATION_OPTIMISTIC_ANNOTATION+JUDGEMENT_ON_RELEVANCE_POSITIVE_ANNOTATION+GENERAL_AI_JUDGEMENT_ON_IMPLICATION_OPTIMISTIC_ANNOTATION+GENERAL_AI_JUDGEMENT_ON_RELEVANCE_POSITIVE_ANNOTATION
+2020-02-05,14:43:53,0,Rebo4AI,1580910235236,Good to hear that! So you are familiar with these kinds of stuff.,TUTOR
+2020-02-05,14:43:53,0,Rebo4AI,1580910235237,Could you address some drawbacks or benefits of these kinds of systems? How these systems affect on what you do in your personal or professional life?,TUTOR
+2020-02-05,14:45:49,0,debugger,1580910349827,"it already affects me in the sense that there are many websites and platforms that collect and analyse my data. in the future, i think the wish would be that there are great expert ai systems that make really good decisions, politically, or in medicine. but i'm afraid that the algorithms will _not_ be as good. or they will be biased by commercial interests",PLANNING_GENERAL_NETAGIVE_ANNOTATION+GENERAL_AI_JUDGEMENT_ON_IMPLICATION_OPTIMISTIC_ANNOTATION+PLANNING_DETAILED_NO_PLAN_ANNOTATION+PLANNING_DETAILED_HAVE_PLAN_ANNOTATION+JUDGEMENT_ON_IMPLICATION_OPTIMISTIC_ANNOTATION+GENERAL_AI_PLANNING_DETAILED_HAVE_PLAN_ANNOTATION+GENERAL_AI_PLANNING_DETAILED_NO_PLAN_ANNOTATION+GENERAL_AI_PLANNING_GENERAL_NETAGIVE_ANNOTATION+JUDGEMENT_ON_RELEVANCE_POSITIVE_ANNOTATION+GENERAL_AI_JUDGEMENT_ON_RELEVANCE_POSITIVE_ANNOTATION
+2020-02-05,14:45:51,0,Rebo4AI,1580910353336,You are a positive person! It may have some dark sides. What do you think?,TUTOR
+2020-02-05,14:51:08,0,debugger,1580910668821,asd adas dasd asdas dsad asd sd s,
+2020-02-05,14:51:10,0,Rebo4AI,1580910671562,"Knowing essentials about how AI systems work, what could you do to increase the positive effects, and reduce negative effects?",TUTOR
+2020-02-05,14:52:54,0,debugger,1580910774436,i dont know,JUDGEMENT_ON_RELEVANCE_NEGATIVE_ANNOTATION+PLANNING_GENERAL_NETAGIVE_ANNOTATION+GENERAL_AI_JUDGEMENT_ON_RELEVANCE_NEGATIVE_ANNOTATION+PLANNING_DETAILED_NO_PLAN_ANNOTATION+GENERAL_AI_PLANNING_DETAILED_NO_PLAN_ANNOTATION+GENERAL_AI_PLANNING_GENERAL_NETAGIVE_ANNOTATION
+2020-02-05,14:52:58,0,Rebo4AI,1580910779637,What of these plans can you implement already in the next one or two weeks?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-05,14:54:48,0,Rebo4AI,1580910889808,Hi debugger!,TUTOR
+2020-02-05,14:54:51,0,debugger,1580910891806,hi,GREETING
+2020-02-05,14:54:51,0,Rebo4AI,1580910893839,My name is Rebo4AI. We are here to have a conversation about ups and downs of AI and how it affects our life.,TUTOR
+2020-02-05,14:54:51,0,Rebo4AI,1580910893845,"Can you tell me how you use an AI-based systems in your daily life? Please name some concrete examples which you use such as Google's search engine, Youtube, GoogleMap, or ridesharing apps.",TUTOR
+2020-02-05,14:55:43,0,debugger,1580910943328,i dont know,GENERAL_AI_JUDGEMENT_ON_RELEVANCE_NEGATIVE_ANNOTATION+GENERAL_AI_PLANNING_DETAILED_NO_PLAN_ANNOTATION+GENERAL_AI_PLANNING_GENERAL_NETAGIVE_ANNOTATION
+2020-02-05,14:55:48,0,Rebo4AI,1580910949893,"If you have an email address, play online video games, or at least have access to the Internet, you directly or indirectly derive the benefit from AI-based systems. There are many well-known websites and companies that use AI-based components, such as Youtube, Google, Microsoft.",TUTOR
+2020-02-05,14:55:48,0,Rebo4AI,1580910949895,Could you address some drawbacks or benefits of these kinds of systems? How these systems affect on what you do in your personal or professional life?,TUTOR
+2020-02-05,14:58:36,0,debugger,1580911116088,"to me, all of them are piece of .... | .",
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-05,15:01:04,0,Rebo4AI,1580911265480,Hello debugger!,TUTOR
+2020-02-05,15:01:06,0,debugger,1580911266481,hi,GREETING
+2020-02-05,15:01:06,0,Rebo4AI,1580911267518,"My name is Rebo4AI, but can call me Rebo. We're going to discuss AI and the its impact on your personal or professional life .",TUTOR
+2020-02-05,15:01:06,0,Rebo4AI,1580911267520,"What kind of AI-based systems do you use in a day or week? How? Please name some concrete examples which you use such as Google's search engine, Youtube, GoogleMap, or ridesharing apps.",TUTOR
+2020-02-05,15:01:39,0,debugger,1580911300020,i never use them,GENERAL_AI_JUDGEMENT_ON_IMPLICATION_OPTIMISTIC_ANNOTATION+GENERAL_AI_JUDGEMENT_ON_RELEVANCE_NEGATIVE_ANNOTATION
+2020-02-05,15:01:42,0,Rebo4AI,1580911303545,"If you have an email address, play online video games, or at least have access to the Internet, you directly or indirectly derive the benefit from AI-based systems. There are many well-known websites and companies that use AI-based components, such as Youtube, Google, Microsoft.",TUTOR
+2020-02-05,15:01:42,0,Rebo4AI,1580911303545,How do you see AI affecting on your life (personal or professional) in the future? Could you talk about positive or negative effects?,TUTOR
+2020-02-05,15:02:59,0,debugger,1580911379728,sfd df df df df df df ,
+2020-02-05,15:03:04,0,Rebo4AI,1580911385583,"Knowing essentials about how AI systems work, what could you do to increase the positive effects, and reduce negative effects?",TUTOR
+2020-02-05,15:04:56,0,debugger,1580911496395,abnormal,GENERAL_AI_PLANNING_DETAILED_NO_PLAN_ANNOTATION+GENERAL_AI_PLANNING_GENERAL_NETAGIVE_ANNOTATION
+2020-02-05,15:04:57,0,Rebo4AI,1580911497653,"Now, you know somethings about AI and its effects on your life. How can it be translated into practice?",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-05,15:07:33,0,Rebo4AI,1580911654506,Hi debugger!,TUTOR
+2020-02-05,15:10:13,0,debugger,1580911813184,hi,GREETING
+2020-02-05,15:10:13,0,Rebo4AI,1580911814667,My name is Rebo4AI. Let's see in what extent you encounter AI on your personal life or professional career and how much AI changes our life.,TUTOR
+2020-02-05,15:10:13,0,Rebo4AI,1580911814668,"What Do you think about how many times and how you use an AI-based system in a week? Please name some concrete examples which you use such as Google's search engine, Youtube, GoogleMap, or ridesharing apps.",TUTOR
+2020-02-05,15:10:23,0,debugger,1580911823510,just go to planning sectin,
+2020-02-05,15:10:28,0,Rebo4AI,1580911828681,"As far as I know, Google and Youtube are the most well-known companies in which many AI-based systems are used in order to make it more convenient for us accessing the content that we look for.",TUTOR
+2020-02-05,15:10:28,0,Rebo4AI,1580911828683,"So, if you try at least one of these, you definitely deal with AI in your life.",TUTOR
+2020-02-05,15:10:28,0,Rebo4AI,1580911828685,"What is the effects, positive or negative one, of such artificial intelligence systems or issues on your own life (professional or private)?",TUTOR
+2020-02-05,15:10:45,0,debugger,1580911845259,hi good bad abnormal plan i do use,GENERAL_AI_JUDGEMENT_ON_IMPLICATION_BALANCED_ANNOTATION
+2020-02-05,15:10:49,0,Rebo4AI,1580911850703,That is a balanced answer!,TUTOR
+2020-02-05,15:10:49,0,Rebo4AI,1580911850705,What kind of work could you do to overcome negative consequences and increase positive ones?,TUTOR
+2020-02-05,15:11:00,0,debugger,1580911860242,dad sadl asdl sa,
+2020-02-05,15:11:04,0,Rebo4AI,1580911864715,"Now, you know somethings about AI and its effects on your life. How can it be translated into practice?",TUTOR
+2020-02-05,15:11:23,0,debugger,1580911883861,abnormal,GENERAL_AI_PLANNING_DETAILED_NO_PLAN_ANNOTATION+GENERAL_AI_PLANNING_GENERAL_NETAGIVE_ANNOTATION
+2020-02-05,15:11:25,0,Rebo4AI,1580911886739,Wasn't there something interesting for you?,TUTOR
+2020-02-05,15:11:31,0,debugger,1580911891811,not really,
+2020-02-05,15:11:35,0,Rebo4AI,1580911896752,"OK, good. Thank you for discussing this with me!",TUTOR
+2020-02-05,15:21:35,0,Rebo4AI,1580912497147,And bye :-),TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-05,16:37:39,0,Rebo4AI,1580917060627,Hi debugger!,TUTOR
+2020-02-05,16:37:42,0,debugger,1580917062620,hi,GREETING
+2020-02-05,16:37:42,0,Rebo4AI,1580917064643,My name is Rebo4AI Google and we're here to have a conversation about Google search engine.,TUTOR
+2020-02-05,16:37:42,0,Rebo4AI,1580917064647,How many times and how you use Google search engine in a day or week?,TUTOR
+2020-02-05,16:37:59,0,debugger,1580917079285,I've never used it,SEARCH_ENGINE_JUDGEMENT_ON_RELEVANCE_NEGATIVE_ANNOTATION+SEARCH_ENGINE_JUDGEMENT_ON_RELEVANCE_POSITIVE_ANNOTATION+GENERAL_AI_JUDGEMENT_ON_RELEVANCE_NEGATIVE_ANNOTATION+GENERAL_AI_JUDGEMENT_ON_RELEVANCE_POSITIVE_ANNOTATION
+2020-02-05,16:38:03,0,Rebo4AI,1580917084666,"If you have an email address, play online video games, or at least have access to the Internet, you directly or indirectly derive the benefit from AI-based systems. There are many well-known websites and companies that use AI-based components, such as Youtube, Google, Microsoft.",TUTOR
+2020-02-05,16:38:03,0,Rebo4AI,1580917084670,"What is the effects, positive or negative ones, of such a search engine on your own life (professional or private)?",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-05,16:42:09,0,Rebo4AI,1580917330949,Hi debugger!,TUTOR
+2020-02-05,16:42:12,0,debugger,1580917332702,hi,GREETING
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-05,16:46:08,0,Rebo4AI,1580917569205,Hello debugger!,TUTOR
+2020-02-05,16:46:10,0,debugger,1580917571082,hi,GREETING
+2020-02-05,16:46:11,0,Rebo4AI,1580917571233,My name is Rebo4AI Google and we're here to have a conversation about Google search engine.,TUTOR
+2020-02-05,16:46:11,0,Rebo4AI,1580917571235,Can you tell me how many times how you use Google search engine in your daily life?,TUTOR
+2020-02-05,16:51:26,0,debugger,1580917886836,many times,SEARCH_ENGINE_JUDGEMENT_ON_RELEVANCE_POSITIVE_ANNOTATION+GENERAL_AI_JUDGEMENT_ON_RELEVANCE_POSITIVE_ANNOTATION
+2020-02-05,16:51:29,0,Rebo4AI,1580917889487,Good to hear that! So you are familiar with these kinds of stuff.,TUTOR
+2020-02-05,16:51:29,0,Rebo4AI,1580917889489,Could you address some drawbacks or benefits of these kinds of systems? How these systems affect on what you do in your personal or professional life?,TUTOR
+2020-02-05,16:51:39,0,debugger,1580917899652,i dont know,SEARCH_ENGINE_PLANNING_GENERAL_NETAGIVE_ANNOTATION+SEARCH_ENGINE_PLANNING_DETAILED_NO_PLAN_ANNOTATION+SEARCH_ENGINE_JUDGEMENT_ON_RELEVANCE_NEGATIVE_ANNOTATION+GENERAL_AI_JUDGEMENT_ON_RELEVANCE_NEGATIVE_ANNOTATION+GENERAL_AI_PLANNING_DETAILED_NO_PLAN_ANNOTATION+GENERAL_AI_PLANNING_GENERAL_NETAGIVE_ANNOTATION+REBO_PLANNING_DETAILED_NO_PLAN_ANNOTATION
+2020-02-05,16:51:39,0,Rebo4AI,1580917901498,How can you get a better result from Google search engine?,TUTOR
+2020-02-05,16:53:50,0,debugger,1580918030881,ba using better keyword,REBO_EMOTION_POSITIVE_ANNOTATION+REBO_JUDGEMENT_ON_IMPLICATION_OPTIMISTIC_ANNOTATION+GENERAL_AI_JUDGEMENT_ON_IMPLICATION_OPTIMISTIC_ANNOTATION+SEARCH_ENGINE_JUDGEMENT_ON_IMPLICATION_OPTIMISTIC_ANNOTATION
+2020-02-05,16:53:53,0,Rebo4AI,1580918033586,"Next time we will talk about what you are going to do to gain more from positive outcomes and avoid from negative results. So, what exactly would you do for it?",TUTOR
+2020-02-05,16:54:21,0,debugger,1580918061251,i used better keyword which will be related to my dicument,REBO_EMOTION_POSITIVE_ANNOTATION+GENERAL_AI_JUDGEMENT_ON_IMPLICATION_OPTIMISTIC_ANNOTATION+SEARCH_ENGINE_PLANNING_DETAILED_HAVE_PLAN_ANNOTATION+REBO_JUDGEMENT_ON_IMPLICATION_OPTIMISTIC_ANNOTATION+SEARCH_ENGINE_JUDGEMENT_ON_IMPLICATION_OPTIMISTIC_ANNOTATION+GENERAL_AI_PLANNING_DETAILED_HAVE_PLAN_ANNOTATION+REBO_PLANNING_DETAILED_HAVE_PLAN_ANNOTATION+SEARCH_ENGINE_JUDGEMENT_ON_RELEVANCE_POSITIVE_ANNOTATION+GENERAL_AI_JUDGEMENT_ON_RELEVANCE_POSITIVE_ANNOTATION
+2020-02-05,16:54:23,0,Rebo4AI,1580918065604,It seems you figure it out.,TUTOR
+2020-02-05,16:54:23,0,Rebo4AI,1580918065605,"OK, good. Thank you for discussing this with me!",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-07,10:17:47,0,Rebo4AI,1581067068067,Hi debugger!,TUTOR
+2020-02-07,10:17:54,0,debugger,1581067074566,hi,GREETING
+2020-02-07,10:17:54,0,Rebo4AI,1581067076111,My name is Rebo4AI. Google Let's see in what extent you encounter AI on your personal life or professional career and how much AI changes our life.,TUTOR
+2020-02-07,10:17:54,0,Rebo4AI,1581067076116,"In your daily life, where or how do you encounter artificial intelligence? Please name some concrete examples which you use such as Google's search engine, Youtube, GoogleMap, or ridesharing apps.",TUTOR
+2020-02-07,10:27:55,0,Rebo4AI,1581067676580,"As far as I know, Google and Youtube are the most well-known companies in which many AI-based systems are used in order to make it more convenient for us accessing the content that we look for.",TUTOR
+2020-02-07,10:27:55,0,Rebo4AI,1581067676585,"So, if you try at least one of these, you definitely deal with AI in your life.",TUTOR
+2020-02-07,10:27:55,0,Rebo4AI,1581067676587,"In our life, where are AI technologies being used right now and where will they come next? Are they useful or useless?",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-07,13:36:57,0,Rebo4AI,1581079018954,Hi debugger!,TUTOR
+2020-02-07,13:37:05,0,debugger,1581079026055,hi,GREETING
+2020-02-07,13:37:06,0,Rebo4AI,1581079027022,"I'm Rebo4AI and here to talk about various perspectives on how AI is important in your life, the impact of AI on your life, and your own role in interacting with AI-based technologies.",TUTOR
+2020-02-07,13:37:06,0,Rebo4AI,1581079027025,"What kind of AI-based systems do you use in a day or week? How? Please name some concrete examples which you use such as Google's search engine, Youtube, GoogleMap, or ridesharing apps.",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-07,13:39:21,0,Rebo4AI,1581079162545,Hi debugger!,TUTOR
+2020-02-07,13:39:25,0,debugger,1581079165823,hi,GREETING
+2020-02-07,13:39:25,0,Rebo4AI,1581079166582,"I'm Rebo4AI and here to talk about various perspectives on how AI is important in your life, the impact of AI on your life, and your own role in interacting with AI-based technologies.",TUTOR
+2020-02-07,13:39:25,0,Rebo4AI,1581079166588,"Can you tell me which AI-based systems you usually use? And how? Please name some concrete examples which you use such as Google's search engine, Youtube, GoogleMap, or ridesharing apps.",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-07,14:06:08,0,Rebo4AI,1581080769303,Hello debugger!,TUTOR
+2020-02-07,14:06:18,0,debugger,1581080778276,hi,GREETING
+2020-02-07,14:06:18,0,Rebo4AI,1581080779373,My name is Rebo4AI. Google Let's see in what extent you encounter AI on your personal life or professional career and how much AI changes our life.,TUTOR
+2020-02-07,14:06:18,0,Rebo4AI,1581080779375,"What Do you think about how many times and how you use an AI-based system in a week? Please name some concrete examples which you use such as Google's search engine, Youtube, GoogleMap, or ridesharing apps.",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-07,14:06:28,0,Rebo4AI,1581080789648,Hi debugger!,TUTOR
+2020-02-07,14:07:14,0,debugger,1581080834392,animals,ANIMALS
+2020-02-07,14:07:19,0,debugger,1581080839276,animal,
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-07,14:09:18,0,Rebo4AI,1581080958893,Hi debugger!,TUTOR
+2020-02-07,14:09:26,0,debugger,1581080966770,hi,GREETING
+2020-02-07,14:09:26,0,Rebo4AI,1581080966967,"My name is Rebo4AI, but can call me Rebo. We're going to discuss AI and the its impact on your personal or professional life .",TUTOR
+2020-02-07,14:09:26,0,Rebo4AI,1581080966970,"What Do you think about how many times and how you use an AI-based system in a week? Please name some concrete examples which you use such as Google's search engine, Youtube, GoogleMap, or ridesharing apps.",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-07,14:12:28,0,debugger,1581081148904,hi,GREETING
+2020-02-07,14:12:30,0,debugger,1581081150792,animal,
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-07,14:13:40,0,Rebo4AI,1581081221875,Hi debugger!,TUTOR
+2020-02-07,14:13:44,0,debugger,1581081224517,animal,
+2020-02-07,14:13:46,0,debugger,1581081226592,animals,ANIMALS
+2020-02-07,14:13:49,0,debugger,1581081229836,hi,GREETING
+2020-02-07,14:13:49,0,Rebo4AI,1581081229900,Please write whole sentences.,TUTOR
+2020-02-07,14:13:49,0,Rebo4AI,1581081229902,"My name is Rebo4AI, but can call me Rebo. We're going to discuss AI and the its impact on your personal or professional life .",TUTOR
+2020-02-07,14:13:49,0,Rebo4AI,1581081229902,"How many times and how you use an AI-based system in a day or week? Please name some concrete examples which you use such as Google's search engine, Youtube, GoogleMap, or ridesharing apps.",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-07,14:15:06,0,Rebo4AI,1581081307306,We can work on your basic zoology. Are you ready?,TUTOR
+2020-02-07,14:15:11,0,debugger,1581081311636,animal,
+2020-02-07,14:15:16,0,debugger,1581081316428,animals,ANIMALS
+2020-02-07,14:15:19,0,debugger,1581081319761,hi,GREETING
+2020-02-07,14:15:49,0,debugger,1581081349455,ok,AFFIRMATIVE
+2020-02-07,14:15:49,0,Rebo4AI,1581081351369,Let's get started.,TUTOR
+2020-02-07,14:15:49,0,Rebo4AI,1581081353376,Please write whole sentences.,TUTOR
+2020-02-07,14:15:49,0,Rebo4AI,1581081353377,"There are three kinds of animals - birds, fish, and mammals.",TUTOR
+2020-02-07,14:15:49,0,Rebo4AI,1581081353378,Can you tell me something about some kind of animal?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-07,14:16:15,0,Rebo4AI,1581081376039,We can work on your basic zoology. Are you ready?,TUTOR
+2020-02-07,14:16:41,0,debugger,1581081401843,ok,AFFIRMATIVE
+2020-02-07,14:16:41,0,Rebo4AI,1581081402135,Let's get started.,TUTOR
+2020-02-07,14:16:41,0,Rebo4AI,1581081404142,"There are three kinds of animals - birds, fish, and mammals.",TUTOR
+2020-02-07,14:16:41,0,Rebo4AI,1581081404144,Can you tell me something about some kind of animal?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-07,14:18:42,0,Rebo4AI,1581081523327,We can work on your basic zoology. Are you ready?,TUTOR
+2020-02-07,14:18:46,0,debugger,1581081526826,no,NEGATIVE
+2020-02-07,14:18:46,0,Rebo4AI,1581081527345,Okay - I'm here when you need me.,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-07,14:19:46,0,Rebo4AI,1581081587976,We can work on your basic zoology. Are you ready?,TUTOR
+2020-02-07,14:19:49,0,debugger,1581081590139,no,NEGATIVE
+2020-02-07,14:19:50,0,Rebo4AI,1581081592006,Okay - I'm here when you need me.,TUTOR
+2020-02-07,14:19:56,0,debugger,1581081596150,ok,AFFIRMATIVE
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-07,14:23:24,0,Rebo4AI,1581081806130,We can work on your basic zoology. Are you ready?,TUTOR
+2020-02-07,14:23:33,0,debugger,1581081813878,no,NEGATIVE
+2020-02-07,14:23:33,0,Rebo4AI,1581081814166,Okay - I'm here when you need me.,TUTOR
+2020-02-07,14:23:34,0,Rebo4AI,1581081816173,It sounds like you're confused. Would you like some help?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-07,14:24:22,0,Rebo4AI,1581081863620,We can work on your basic zoology. Are you ready?,TUTOR
+2020-02-07,14:24:25,0,debugger,1581081865388,no,NEGATIVE
+2020-02-07,14:24:25,0,Rebo4AI,1581081865655,Okay - I'm here when you need me.,TUTOR
+2020-02-07,14:24:32,0,Rebo4AI,1581081873663,It sounds like you're confused. Would you like some help?,TUTOR
+2020-02-07,14:24:38,0,debugger,1581081878627,ok,AFFIRMATIVE
+2020-02-07,14:24:38,0,Rebo4AI,1581081879670,Great!,TUTOR
+2020-02-07,14:24:38,0,Rebo4AI,1581081881675,Would you like a hug?,TUTOR
+2020-02-07,14:24:46,0,debugger,1581081886373,ok,AFFIRMATIVE
+2020-02-07,14:24:48,0,Rebo4AI,1581081889684,Please write whole sentences.,TUTOR
+2020-02-07,14:24:48,0,Rebo4AI,1581081889685,...hug!,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-07,14:26:13,0,Rebo4AI,1581081974272,We can work on your basic zoology. Are you ready?,TUTOR
+2020-02-07,14:26:23,0,Rebo4AI,1581081984316,It sounds like you're confused. Would you like some help?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-07,14:48:36,0,Rebo4AI,1581083316367,Hello debugger!,TUTOR
+2020-02-07,14:48:45,0,debugger,1581083325140,hi,GREETING
+2020-02-07,14:48:45,0,Rebo4AI,1581083326411,"I'm Rebo4AI and here to talk about various perspectives on how AI is important in your life, the impact of AI on your life, and your own role in interacting with AI-based technologies.",TUTOR
+2020-02-07,14:48:45,0,Rebo4AI,1581083326412,"In your daily life, where or how do you encounter artificial intelligence? Please name some concrete examples which you use such as Google's search engine, Youtube, GoogleMap, or ridesharing apps.",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-07,14:51:28,0,Rebo4AI,1581083489454,Hi GENERAL_AIdebugger!,TUTOR
+2020-02-07,14:51:38,0,Rebo4AI,1581083499477,Hi SEARCH_ENGINERebo4AI!,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-07,14:53:03,0,Rebo4AI,1581083584527,Hi GENERAL_AIdebugger!,TUTOR
+2020-02-07,14:53:13,0,Rebo4AI,1581083594569,Hi SEARCH_ENGINERebo4AI!,TUTOR
+2020-02-07,14:53:18,0,Rebo4AI,1581083598577,Hi REBO4AIRebo4AI!,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-07,14:54:52,0,Rebo4AI,1581083693213,Hi GENERAL_AIdebugger!,TUTOR
+2020-02-07,14:55:04,0,debugger,1581083704306,hi,GREETING
+2020-02-07,14:55:04,0,Rebo4AI,1581083705241,Let's get started.,TUTOR
+2020-02-07,14:55:04,0,Rebo4AI,1581083707250,My name is Rebo4AI. We are here to have a conversation about ups and downs of AI and how it affects our life.,TUTOR
+2020-02-07,14:55:04,0,Rebo4AI,1581083707253,"What kind of AI-based systems do you use in a day or week? How? Please name some concrete examples which you use such as Google's search engine, Youtube, GoogleMap, or ridesharing apps.",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-07,14:55:18,0,Rebo4AI,1581083719377,Hi GENERAL_AIdebugger!,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-07,14:56:03,0,Rebo4AI,1581083765102,Hi REBO4AIdebugger!,TUTOR
+2020-02-07,14:56:34,0,debugger,1581083794316,no,NEGATIVE
+2020-02-07,14:56:34,0,Rebo4AI,1581083795153,Okay - you can continue discussing other topics.,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-07,14:57:12,0,Rebo4AI,1581083833318,Hi REBO4AIdebugger!,TUTOR
+2020-02-07,14:57:15,0,debugger,1581083835179,no,NEGATIVE
+2020-02-07,14:57:15,0,Rebo4AI,1581083835338,Okay - you can continue discussing other topics.,TUTOR
+2020-02-07,14:57:50,0,debugger,1581083870582,no,NEGATIVE
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-07,14:57:57,0,Rebo4AI,1581083878577,Hi REBO4AIdebugger!,TUTOR
+2020-02-07,14:58:12,0,debugger,1581083892438,no,NEGATIVE
+2020-02-07,14:58:12,0,Rebo4AI,1581083892611,Okay - you can continue discussing other topics.,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-07,14:58:56,0,Rebo4AI,1581083937903,Hi REBO4AIdebugger!,TUTOR
+2020-02-07,14:59:05,0,debugger,1581083945328,hi,GREETING
+2020-02-07,14:59:05,0,Rebo4AI,1581083945932,Let's get started.,TUTOR
+2020-02-07,14:59:05,0,Rebo4AI,1581083947936,"I'm Rebo4AI and here to talk about various perspectives on how AI is important in your life, the impact of AI on your life, and your own role in interacting with AI-based technologies.",TUTOR
+2020-02-07,14:59:05,0,Rebo4AI,1581083947939,"Now, do you have a good feeling about AI?",TUTOR
+2020-02-07,14:59:33,0,debugger,1581083973084,ddsss,
+2020-02-07,14:59:36,0,Rebo4AI,1581083977966,Could you explain more about your feeling? Why do you like or dislike it?,TUTOR
+2020-02-07,14:59:40,0,debugger,1581083980461,sfffffffffffffffffffffffffffvf,
+2020-02-07,14:59:41,0,Rebo4AI,1581083981969,Please write whole sentences.,TUTOR
+2020-02-07,14:59:41,0,Rebo4AI,1581083981970,How do you see AI affecting you in the future?,TUTOR
+2020-02-07,14:59:45,0,debugger,1581083985947,"s ""type"" determines which StepHandler handles the step - see PlanExecutor.properties.-->
+		<!-- ""timeout"" for a step is an upper-bound duration for the step, afte",
+2020-02-07,15:00:06,0,debugger,1581084006566,ddssfv,
+2020-02-07,15:00:18,0,debugger,1581084018734,sd,
+2020-02-07,15:00:18,0,debugger,1581084019053,s,
+2020-02-07,15:00:19,0,debugger,1581084019265,ss,
+2020-02-07,15:00:19,0,debugger,1581084019975,sd,
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-07,15:01:13,0,Rebo4AI,1581084074928,Hi REBO4AIdebugger!,TUTOR
+2020-02-07,15:01:17,0,debugger,1581084078011,hi,GREETING
+2020-02-07,15:01:18,0,Rebo4AI,1581084078949,Let's get started.,TUTOR
+2020-02-07,15:01:18,0,Rebo4AI,1581084080956,"My name is Rebo4AI and I'm here to find out what you know about AI. 
+I hope you have read the AI essential course",TUTOR
+2020-02-07,15:01:18,0,Rebo4AI,1581084080957,"Now, do you have a good feeling about AI?",TUTOR
+2020-02-07,15:01:23,0,debugger,1581084084047,etermines which StepHandler handles the step ,
+2020-02-07,15:01:28,0,Rebo4AI,1581084088965,Could you explain more about your feeling? Why do you like or dislike it?,TUTOR
+2020-02-07,15:01:29,0,debugger,1581084090014,etermines which StepHandler handles the step ,
+2020-02-07,15:01:33,0,Rebo4AI,1581084094975,How do you see AI affecting you in the future?,TUTOR
+2020-02-07,15:01:36,0,debugger,1581084096262,etermines which StepHandler handles the step ,
+2020-02-07,15:01:53,0,debugger,1581084113662,etermines which StepHandler handles the step ,
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-07,15:06:32,0,Rebo4AI,1581084393872,Hi GENERAL_AIdebugger!,TUTOR
+2020-02-07,15:06:42,0,Rebo4AI,1581084403889,Hi REBO4AIRebo4AI!,TUTOR
+2020-02-07,15:06:52,0,Rebo4AI,1581084413899,Hi SEARCH_ENGINERebo4AI!,TUTOR
+2020-02-07,15:07:11,0,debugger,1581084431946,no,NEGATIVE
+2020-02-07,15:07:11,0,Rebo4AI,1581084433912,Okay - you can continue discussing other topics.,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-07,15:09:48,0,Rebo4AI,1581084588983,Hi GENERAL_AIdebugger!,TUTOR
+2020-02-07,15:09:52,0,Rebo4AI,1581084593012,Hi REBO4AIRebo4AI!,TUTOR
+2020-02-07,15:09:57,0,Rebo4AI,1581084599020,Hi SEARCH_ENGINEdebugger!,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-08,15:42:25,0,Rebo4AI,1581172946163,Hi GENERAL_AIBehzad!,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-08,15:43:31,0,Rebo4AI,1581173012686,Hi GENERAL_AIBehzad!,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-08,15:44:12,0,Rebo4AI,1581173052398,Hi GENERAL_AIBehzad!,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-08,15:44:43,0,Rebo4AI,1581173084733,Hi GENERAL_AIRebo4AI!,TUTOR
+2020-02-08,15:45:40,0,Behzad,1581173140664,no,NEGATIVE
+2020-02-08,15:45:40,0,Rebo4AI,1581173140823,Okay - you can continue discussing other topics.,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-08,15:50:49,0,Rebo4AI,1581173451940,Hi GENERAL_AIRebo4AI!,TUTOR
+2020-02-08,15:51:46,0,Behzad,1581173506858,ni,
+2020-02-08,15:51:48,0,Behzad,1581173508235,no,NEGATIVE
+2020-02-08,15:51:48,0,Rebo4AI,1581173510029,Okay - you can continue discussing other topics.,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-08,15:53:57,0,Rebo4AI,1581173637708,Hi GENERAL_AIBehzad!,TUTOR
+2020-02-08,15:54:09,0,Behzad,1581173649525,no,NEGATIVE
+2020-02-08,15:54:09,0,Rebo4AI,1581173649762,Okay - you can continue discussing other topics.,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-08,15:59:29,0,Rebo4AI,1581173970619,"
+               Would you like to answer some questions related to low pressure and precipitation ?
+        ",TUTOR
+2020-02-08,15:59:34,0,Behzad,1581173974598,no,NEGATIVE
+2020-02-08,15:59:34,0,Rebo4AI,1581173974643,Okay - you can continue discussing other topics.,TUTOR
+2020-02-08,15:59:40,0,Behzad,1581173981014,ok,AFFIRMATIVE
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-08,16:00:36,0,Rebo4AI,1581174037258,"
+               Would you like to answer some questions related to low pressure and precipitation ?
+        ",TUTOR
+2020-02-08,16:00:40,0,Behzad,1581174040189,no,NEGATIVE
+2020-02-08,16:00:40,0,Rebo4AI,1581174041298,Okay - you can continue discussing other topics.,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-08,16:03:04,0,Rebo4AI,1581174185168,Hi GENERAL_AIBehzad!,TUTOR
+2020-02-08,16:03:21,0,Behzad,1581174202010,no,NEGATIVE
+2020-02-08,16:03:22,0,Rebo4AI,1581174203172,Okay - you can continue discussing other topics.,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-09,10:56:57,0,Rebo4AI,1581242218779,Hi GENERAL_AI Behzad!,TUTOR
+2020-02-09,10:57:26,0,Behzad,1581242246948,ok,AFFIRMATIVE
+2020-02-09,10:57:26,0,Rebo4AI,1581242248844,Let's get started.,TUTOR
+2020-02-09,10:57:27,0,Rebo4AI,1581242250852,"I'm Rebo4AI and here to talk about various perspectives on how AI is important in your life, the impact of AI on your life, and your own role in interacting with AI-based technologies.",TUTOR
+2020-02-09,10:57:27,0,Rebo4AI,1581242250856,"Can you tell me how you use an AI-based systems in your daily life? Please name some concrete examples which you use such as Google's search engine, Youtube, GoogleMap, or ridesharing apps.",TUTOR
+2020-02-09,10:59:02,0,Behzad,1581242343074,never,SEARCH_ENGINE_JUDGEMENT_ON_RELEVANCE_NEGATIVE_ANNOTATION+GENERAL_AI_JUDGEMENT_ON_RELEVANCE_NEGATIVE_ANNOTATION
+2020-02-09,10:59:04,0,Rebo4AI,1581242344930,"If you have an email address, play online video games, or at least have access to the Internet, you directly or indirectly derive the benefit from AI-based systems. There are many well-known websites and companies that use AI-based components, such as Youtube, Google, Microsoft.",TUTOR
+2020-02-09,10:59:04,0,Rebo4AI,1581242344933,"In our life, where are AI technologies being used right now and where will they come next? Are they useful or useless?",TUTOR
+2020-02-09,11:00:50,0,Behzad,1581242451090,pessimistic,SEARCH_ENGINE_PLANNING_DETAILED_NO_PLAN_ANNOTATION+REBO_PLANNING_DETAILED_NO_PLAN_ANNOTATION+REBO_EMOTION_NEGATIVE_ANNOTATION+SEARCH_ENGINE_JUDGEMENT_ON_IMPLICATION_PESSIMISTIC_ANNOTATION+REBO_JUDGEMENT_ON_IMPLICATION_PESSIMISTIC_ANNOTATION+GENERAL_AI_PLANNING_DETAILED_NO_PLAN_ANNOTATION+SEARCH_ENGINE_PLANNING_GENERAL_NETAGIVE_ANNOTATION+GENERAL_AI_PLANNING_GENERAL_NETAGIVE_ANNOTATION+GENERAL_AI_JUDGEMENT_ON_IMPLICATION_PESSIMISTIC_ANNOTATION
+2020-02-09,11:00:52,0,Rebo4AI,1581242453023,Please write whole sentences.,TUTOR
+2020-02-09,11:00:52,0,Rebo4AI,1581242453027,That sounds very dark! Do you think there are any positive side-effects as well?,TUTOR
+2020-02-09,11:06:10,0,Behzad,1581242770686,it has,
+2020-02-09,11:06:15,0,Rebo4AI,1581242777272,"Knowing essentials about how AI systems work, what could you do to increase the positive effects, and reduce negative effects?",TUTOR
+2020-02-09,11:06:50,0,Behzad,1581242810605,negative,SEARCH_ENGINE_PLANNING_GENERAL_NETAGIVE_ANNOTATION+SEARCH_ENGINE_PLANNING_DETAILED_NO_PLAN_ANNOTATION+SEARCH_ENGINE_JUDGEMENT_ON_RELEVANCE_NEGATIVE_ANNOTATION+GENERAL_AI_JUDGEMENT_ON_RELEVANCE_NEGATIVE_ANNOTATION+GENERAL_AI_PLANNING_DETAILED_NO_PLAN_ANNOTATION+GENERAL_AI_PLANNING_GENERAL_NETAGIVE_ANNOTATION+REBO_PLANNING_DETAILED_NO_PLAN_ANNOTATION
+2020-02-09,11:06:51,0,Rebo4AI,1581242813304,"Now, you know somethings about AI and its effects on your life. How can it be translated into practice?",TUTOR
+2020-02-09,11:08:20,0,Behzad,1581242900659,abnormal,SEARCH_ENGINE_PLANNING_GENERAL_NETAGIVE_ANNOTATION+SEARCH_ENGINE_PLANNING_DETAILED_NO_PLAN_ANNOTATION+GENERAL_AI_PLANNING_DETAILED_NO_PLAN_ANNOTATION+GENERAL_AI_PLANNING_GENERAL_NETAGIVE_ANNOTATION+REBO_PLANNING_DETAILED_NO_PLAN_ANNOTATION
+2020-02-09,11:08:24,0,Rebo4AI,1581242905376,Wasn't there something interesting for you?,TUTOR
+2020-02-09,11:08:51,0,Behzad,1581242931948,no,NEGATIVE
+2020-02-09,11:08:54,0,Rebo4AI,1581242935399,"OK, good. Thank you for discussing this with me!",TUTOR
+2020-02-09,11:09:23,0,Behzad,1581242963733,ok,AFFIRMATIVE
+2020-02-09,11:09:25,0,Rebo4AI,1581242967421,See you next time :),TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-09,11:10:37,0,Rebo4AI,1581243038062,Hi GENERAL_AI Behzad!,TUTOR
+2020-02-09,11:10:42,0,Behzad,1581243042251,hi,GREETING
+2020-02-09,11:10:45,0,Behzad,1581243045557,ok,AFFIRMATIVE
+2020-02-09,11:10:45,0,Rebo4AI,1581243046094,Let's get started.,TUTOR
+2020-02-09,11:10:45,0,Rebo4AI,1581243048103,"I'm Rebo4AI and here to talk about various perspectives on how AI is important in your life, the impact of AI on your life, and your own role in interacting with AI-based technologies.",TUTOR
+2020-02-09,11:10:45,0,Rebo4AI,1581243048108,"How many times and how you use an AI-based system in a day or week? Please name some concrete examples which you use such as Google's search engine, Youtube, GoogleMap, or ridesharing apps.",TUTOR
+2020-02-09,11:10:53,0,Behzad,1581243053707,4 times,SEARCH_ENGINE_JUDGEMENT_ON_RELEVANCE_POSITIVE_ANNOTATION+GENERAL_AI_JUDGEMENT_ON_RELEVANCE_POSITIVE_ANNOTATION
+2020-02-09,11:10:55,0,Rebo4AI,1581243056118,Good to hear that! So you are familiar with these kinds of stuff.,TUTOR
+2020-02-09,11:10:55,0,Rebo4AI,1581243056120,How is AI likely to change your personal life or job? Do You think these changes lead to a better life or make our life more complicated?,TUTOR
+2020-02-09,11:11:10,0,Behzad,1581243070488,both of them,GENERAL_AI_JUDGEMENT_ON_IMPLICATION_BALANCED_ANNOTATION
+2020-02-09,11:11:11,0,Rebo4AI,1581243072131,That is a balanced answer!,TUTOR
+2020-02-09,11:11:11,0,Rebo4AI,1581243072133,How can the new learning be translated into practice?,TUTOR
+2020-02-09,11:11:20,0,Behzad,1581243080674,by practice more ,REBO_EMOTION_POSITIVE_ANNOTATION+REBO_JUDGEMENT_ON_IMPLICATION_OPTIMISTIC_ANNOTATION+GENERAL_AI_JUDGEMENT_ON_IMPLICATION_OPTIMISTIC_ANNOTATION+SEARCH_ENGINE_JUDGEMENT_ON_IMPLICATION_OPTIMISTIC_ANNOTATION
+2020-02-09,11:11:21,0,Rebo4AI,1581243082144,"Now, you know somethings about AI and its effects on your life. How can it be translated into practice?",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-09,11:12:28,0,Rebo4AI,1581243149019,Hi GENERAL_AI Behzad!,TUTOR
+2020-02-09,11:12:31,0,Behzad,1581243151238,ok,AFFIRMATIVE
+2020-02-09,11:12:31,0,Rebo4AI,1581243153051,Let's get started.,TUTOR
+2020-02-09,11:12:31,0,Rebo4AI,1581243155054,My name is Rebo4AI. Google Let's see in what extent you encounter AI on your personal life or professional career and how much AI changes our life.,TUTOR
+2020-02-09,11:12:31,0,Rebo4AI,1581243155057,"What kind of AI-based systems do you use in a day or week? How? Please name some concrete examples which you use such as Google's search engine, Youtube, GoogleMap, or ridesharing apps.",TUTOR
+2020-02-09,11:12:37,0,Behzad,1581243157943,negative,SEARCH_ENGINE_PLANNING_GENERAL_NETAGIVE_ANNOTATION+SEARCH_ENGINE_PLANNING_DETAILED_NO_PLAN_ANNOTATION+SEARCH_ENGINE_JUDGEMENT_ON_RELEVANCE_NEGATIVE_ANNOTATION+GENERAL_AI_JUDGEMENT_ON_RELEVANCE_NEGATIVE_ANNOTATION+GENERAL_AI_PLANNING_DETAILED_NO_PLAN_ANNOTATION+GENERAL_AI_PLANNING_GENERAL_NETAGIVE_ANNOTATION+REBO_PLANNING_DETAILED_NO_PLAN_ANNOTATION
+2020-02-09,11:12:41,0,Rebo4AI,1581243163066,"If you have an email address, play online video games, or at least have access to the Internet, you directly or indirectly derive the benefit from AI-based systems. There are many well-known websites and companies that use AI-based components, such as Youtube, Google, Microsoft.",TUTOR
+2020-02-09,11:12:41,0,Rebo4AI,1581243163069,"What is the effects, positive or negative one, of such artificial intelligence systems or issues on your own life (professional or private)?",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-09,11:13:21,0,Rebo4AI,1581243202315,Hi GENERAL_AI Rebo4AI!,TUTOR
+2020-02-09,11:13:24,0,Behzad,1581243204401,ok,AFFIRMATIVE
+2020-02-09,11:13:24,0,Rebo4AI,1581243206346,Let's get started.,TUTOR
+2020-02-09,11:13:24,0,Rebo4AI,1581243208355,"I'm Rebo4AI and here to talk about various perspectives on how AI is important in your life, the impact of AI on your life, and your own role in interacting with AI-based technologies.",TUTOR
+2020-02-09,11:13:24,0,Rebo4AI,1581243208359,"In your daily life, where or how do you encounter artificial intelligence? Please name some concrete examples which you use such as Google's search engine, Youtube, GoogleMap, or ridesharing apps.",TUTOR
+2020-02-09,11:13:29,0,Behzad,1581243209600,negative,SEARCH_ENGINE_PLANNING_GENERAL_NETAGIVE_ANNOTATION+SEARCH_ENGINE_PLANNING_DETAILED_NO_PLAN_ANNOTATION+SEARCH_ENGINE_JUDGEMENT_ON_RELEVANCE_NEGATIVE_ANNOTATION+GENERAL_AI_JUDGEMENT_ON_RELEVANCE_NEGATIVE_ANNOTATION+GENERAL_AI_PLANNING_DETAILED_NO_PLAN_ANNOTATION+GENERAL_AI_PLANNING_GENERAL_NETAGIVE_ANNOTATION+REBO_PLANNING_DETAILED_NO_PLAN_ANNOTATION
+2020-02-09,11:13:34,0,Rebo4AI,1581243216369,"As far as I know, Google and Youtube are the most well-known companies in which many AI-based systems are used in order to facilitate accessing the content that we look for.",TUTOR
+2020-02-09,11:13:34,0,Rebo4AI,1581243216372,"So, if you try at least one of these, you definitely gain from AI in daily life.",TUTOR
+2020-02-09,11:13:34,0,Rebo4AI,1581243216375,Could you talk about advantages and disadvantages of these kinds of systems?,TUTOR
+2020-02-09,11:13:49,0,Behzad,1581243229789,negative,SEARCH_ENGINE_PLANNING_GENERAL_NETAGIVE_ANNOTATION+SEARCH_ENGINE_PLANNING_DETAILED_NO_PLAN_ANNOTATION+SEARCH_ENGINE_JUDGEMENT_ON_RELEVANCE_NEGATIVE_ANNOTATION+GENERAL_AI_JUDGEMENT_ON_RELEVANCE_NEGATIVE_ANNOTATION+GENERAL_AI_PLANNING_DETAILED_NO_PLAN_ANNOTATION+GENERAL_AI_PLANNING_GENERAL_NETAGIVE_ANNOTATION+REBO_PLANNING_DETAILED_NO_PLAN_ANNOTATION
+2020-02-09,11:13:50,0,Rebo4AI,1581243230392,How can the new learning be translated into practice?,TUTOR
+2020-02-09,11:14:07,0,Behzad,1581243247310,negative,SEARCH_ENGINE_PLANNING_GENERAL_NETAGIVE_ANNOTATION+SEARCH_ENGINE_PLANNING_DETAILED_NO_PLAN_ANNOTATION+SEARCH_ENGINE_JUDGEMENT_ON_RELEVANCE_NEGATIVE_ANNOTATION+GENERAL_AI_JUDGEMENT_ON_RELEVANCE_NEGATIVE_ANNOTATION+GENERAL_AI_PLANNING_DETAILED_NO_PLAN_ANNOTATION+GENERAL_AI_PLANNING_GENERAL_NETAGIVE_ANNOTATION+REBO_PLANNING_DETAILED_NO_PLAN_ANNOTATION
+2020-02-09,11:14:10,0,Rebo4AI,1581243252413,What of these plans can you implement already in the next one or two weeks?,TUTOR
+2020-02-09,11:15:14,0,Behzad,1581243314853,negative,SEARCH_ENGINE_PLANNING_GENERAL_NETAGIVE_ANNOTATION+SEARCH_ENGINE_PLANNING_DETAILED_NO_PLAN_ANNOTATION+SEARCH_ENGINE_JUDGEMENT_ON_RELEVANCE_NEGATIVE_ANNOTATION+GENERAL_AI_JUDGEMENT_ON_RELEVANCE_NEGATIVE_ANNOTATION+GENERAL_AI_PLANNING_DETAILED_NO_PLAN_ANNOTATION+GENERAL_AI_PLANNING_GENERAL_NETAGIVE_ANNOTATION+REBO_PLANNING_DETAILED_NO_PLAN_ANNOTATION
+2020-02-09,11:15:17,0,Rebo4AI,1581243318460,Wasn't there something interesting for you?,TUTOR
+2020-02-09,11:15:24,0,Behzad,1581243324433,negative,SEARCH_ENGINE_PLANNING_GENERAL_NETAGIVE_ANNOTATION+SEARCH_ENGINE_PLANNING_DETAILED_NO_PLAN_ANNOTATION+SEARCH_ENGINE_JUDGEMENT_ON_RELEVANCE_NEGATIVE_ANNOTATION+GENERAL_AI_JUDGEMENT_ON_RELEVANCE_NEGATIVE_ANNOTATION+GENERAL_AI_PLANNING_DETAILED_NO_PLAN_ANNOTATION+GENERAL_AI_PLANNING_GENERAL_NETAGIVE_ANNOTATION+REBO_PLANNING_DETAILED_NO_PLAN_ANNOTATION
+2020-02-09,11:15:27,0,Rebo4AI,1581243328463,"OK, good. Thank you for discussing this with me!",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-09,11:17:12,0,Rebo4AI,1581243433958,Hi GENERAL_AI Rebo4AI!,TUTOR
+2020-02-09,11:17:15,0,Behzad,1581243436127,ok,AFFIRMATIVE
+2020-02-09,11:17:16,0,Rebo4AI,1581243437997,Let's get started.,TUTOR
+2020-02-09,11:17:16,0,Rebo4AI,1581243440004,"I'm Rebo4AI and here to talk about various perspectives on how AI is important in your life, the impact of AI on your life, and your own role in interacting with AI-based technologies.",TUTOR
+2020-02-09,11:17:16,0,Rebo4AI,1581243440010,"Can you tell me how you use an AI-based systems in your daily life? Please name some concrete examples which you use such as Google's search engine, Youtube, GoogleMap, or ridesharing apps.",TUTOR
+2020-02-09,11:17:25,0,Behzad,1581243445125,negative,SEARCH_ENGINE_PLANNING_GENERAL_NETAGIVE_ANNOTATION+SEARCH_ENGINE_PLANNING_DETAILED_NO_PLAN_ANNOTATION+SEARCH_ENGINE_JUDGEMENT_ON_RELEVANCE_NEGATIVE_ANNOTATION+GENERAL_AI_JUDGEMENT_ON_RELEVANCE_NEGATIVE_ANNOTATION+GENERAL_AI_PLANNING_DETAILED_NO_PLAN_ANNOTATION+GENERAL_AI_PLANNING_GENERAL_NETAGIVE_ANNOTATION+REBO_PLANNING_DETAILED_NO_PLAN_ANNOTATION
+2020-02-09,11:17:26,0,Rebo4AI,1581243448007,"As far as I know, Google and Youtube are the most well-known companies in which many AI-based systems are used in order to facilitate accessing the content that we look for.",TUTOR
+2020-02-09,11:17:26,0,Rebo4AI,1581243448010,"So, if you try at least one of these, you definitely gain from AI in daily life.",TUTOR
+2020-02-09,11:17:26,0,Rebo4AI,1581243448012,Could you address some drawbacks or benefits of these kinds of systems? How these systems affect on what you do in your personal or professional life?,TUTOR
+2020-02-09,11:18:03,0,Behzad,1581243768630,negative,SEARCH_ENGINE_PLANNING_GENERAL_NETAGIVE_ANNOTATION+SEARCH_ENGINE_PLANNING_DETAILED_NO_PLAN_ANNOTATION+SEARCH_ENGINE_JUDGEMENT_ON_RELEVANCE_NEGATIVE_ANNOTATION+GENERAL_AI_JUDGEMENT_ON_RELEVANCE_NEGATIVE_ANNOTATION+GENERAL_AI_PLANNING_DETAILED_NO_PLAN_ANNOTATION+GENERAL_AI_PLANNING_GENERAL_NETAGIVE_ANNOTATION+REBO_PLANNING_DETAILED_NO_PLAN_ANNOTATION
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-09,11:28:20,0,Rebo4AI,1581244102145,Hi GENERAL_AI Behzad!,TUTOR
+2020-02-09,11:28:23,0,Behzad,1581244299853,ok,AFFIRMATIVE
+2020-02-09,11:36:17,0,Rebo4AI,1581244588708,Let's get started.,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-09,11:48:41,0,Rebo4AI,1581245323302,Hi GENERAL_AI Behzad!,TUTOR
+2020-02-09,11:48:47,0,Behzad,1581245327587,ok,AFFIRMATIVE
+2020-02-09,11:48:47,0,Rebo4AI,1581245329352,Let's get started.,TUTOR
+2020-02-09,11:48:47,0,Rebo4AI,1581245331361,My name is Rebo4AI. We are here to have a conversation about ups and downs of AI and how it affects our life.,TUTOR
+2020-02-09,11:48:47,0,Rebo4AI,1581245331366,"Can you tell me how you use an AI-based systems in your daily life? Please name some concrete examples which you use such as Google's search engine, Youtube, GoogleMap, or ridesharing apps.",TUTOR
+2020-02-09,11:49:56,0,Behzad,1581245396746,ldksa;ld ks;l ksadk sakd;l as negative asld sa'ld ,SEARCH_ENGINE_PLANNING_GENERAL_NETAGIVE_ANNOTATION+SEARCH_ENGINE_PLANNING_DETAILED_NO_PLAN_ANNOTATION+SEARCH_ENGINE_JUDGEMENT_ON_RELEVANCE_NEGATIVE_ANNOTATION+GENERAL_AI_JUDGEMENT_ON_RELEVANCE_NEGATIVE_ANNOTATION+GENERAL_AI_PLANNING_DETAILED_NO_PLAN_ANNOTATION+GENERAL_AI_PLANNING_GENERAL_NETAGIVE_ANNOTATION+REBO_PLANNING_DETAILED_NO_PLAN_ANNOTATION
+2020-02-09,11:49:59,0,Rebo4AI,1581245401434,"If you have an email address, play online video games, or at least have access to the Internet, you directly or indirectly derive the benefit from AI-based systems. There are many well-known websites and companies that use AI-based components, such as Youtube, Google, Microsoft.",TUTOR
+2020-02-09,11:49:59,0,Rebo4AI,1581245401439,"What is the effects, positive or negative one, of such artificial intelligence systems or issues on your own life (professional or private)?",TUTOR
+2020-02-09,11:53:22,0,Behzad,1581245602643,negative,SEARCH_ENGINE_PLANNING_GENERAL_NETAGIVE_ANNOTATION+SEARCH_ENGINE_PLANNING_DETAILED_NO_PLAN_ANNOTATION+SEARCH_ENGINE_JUDGEMENT_ON_RELEVANCE_NEGATIVE_ANNOTATION+GENERAL_AI_JUDGEMENT_ON_RELEVANCE_NEGATIVE_ANNOTATION+GENERAL_AI_PLANNING_DETAILED_NO_PLAN_ANNOTATION+GENERAL_AI_PLANNING_GENERAL_NETAGIVE_ANNOTATION+REBO_PLANNING_DETAILED_NO_PLAN_ANNOTATION
+2020-02-09,11:53:25,0,Rebo4AI,1581245605644,What kind of work could you do to overcome negative consequences and increase positive ones?,TUTOR
+2020-02-09,11:55:00,0,Behzad,1581245700827,negative,SEARCH_ENGINE_PLANNING_GENERAL_NETAGIVE_ANNOTATION+SEARCH_ENGINE_PLANNING_DETAILED_NO_PLAN_ANNOTATION+SEARCH_ENGINE_JUDGEMENT_ON_RELEVANCE_NEGATIVE_ANNOTATION+GENERAL_AI_JUDGEMENT_ON_RELEVANCE_NEGATIVE_ANNOTATION+GENERAL_AI_PLANNING_DETAILED_NO_PLAN_ANNOTATION+GENERAL_AI_PLANNING_GENERAL_NETAGIVE_ANNOTATION+REBO_PLANNING_DETAILED_NO_PLAN_ANNOTATION
+2020-02-09,11:55:03,0,Rebo4AI,1581245703748,What of these plans can you implement already in the next one or two weeks?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-09,11:56:47,0,Rebo4AI,1581245807815,Hi GENERAL_AI Rebo4AI!,TUTOR
+2020-02-09,11:56:49,0,Behzad,1581245810184,ok,AFFIRMATIVE
+2020-02-09,11:56:50,0,Rebo4AI,1581245811865,Let's get started.,TUTOR
+2020-02-09,11:56:50,0,Rebo4AI,1581245813874,My name is Rebo4AI. We are here to have a conversation about ups and downs of AI and how it affects our life.,TUTOR
+2020-02-09,11:56:50,0,Rebo4AI,1581245813881,"Can you tell me how you use an AI-based systems in your daily life? Please name some concrete examples which you use such as Google's search engine, Youtube, GoogleMap, or ridesharing apps.",TUTOR
+2020-02-09,11:56:56,0,Behzad,1581245816670,negative,SEARCH_ENGINE_PLANNING_GENERAL_NETAGIVE_ANNOTATION+SEARCH_ENGINE_PLANNING_DETAILED_NO_PLAN_ANNOTATION+SEARCH_ENGINE_JUDGEMENT_ON_RELEVANCE_NEGATIVE_ANNOTATION+GENERAL_AI_JUDGEMENT_ON_RELEVANCE_NEGATIVE_ANNOTATION+GENERAL_AI_PLANNING_DETAILED_NO_PLAN_ANNOTATION+GENERAL_AI_PLANNING_GENERAL_NETAGIVE_ANNOTATION+REBO_PLANNING_DETAILED_NO_PLAN_ANNOTATION
+2020-02-09,11:57:00,0,Rebo4AI,1581245821898,"If you have an email address, play online video games, or at least have access to the Internet, you directly or indirectly derive the benefit from AI-based systems. There are many well-known websites and companies that use AI-based components, such as Youtube, Google, Microsoft.",TUTOR
+2020-02-09,11:57:00,0,Rebo4AI,1581245821902,What is the effect of such artificial intelligence systems or issues on your own life (professional or private)?,TUTOR
+2020-02-09,11:57:04,0,Behzad,1581245824548,negative,SEARCH_ENGINE_PLANNING_GENERAL_NETAGIVE_ANNOTATION+SEARCH_ENGINE_PLANNING_DETAILED_NO_PLAN_ANNOTATION+SEARCH_ENGINE_JUDGEMENT_ON_RELEVANCE_NEGATIVE_ANNOTATION+GENERAL_AI_JUDGEMENT_ON_RELEVANCE_NEGATIVE_ANNOTATION+GENERAL_AI_PLANNING_DETAILED_NO_PLAN_ANNOTATION+GENERAL_AI_PLANNING_GENERAL_NETAGIVE_ANNOTATION+REBO_PLANNING_DETAILED_NO_PLAN_ANNOTATION
+2020-02-09,11:57:05,0,Rebo4AI,1581245825913,How can the new learning be translated into practice?,TUTOR
+2020-02-09,11:57:09,0,Behzad,1581245829332,negative,SEARCH_ENGINE_PLANNING_GENERAL_NETAGIVE_ANNOTATION+SEARCH_ENGINE_PLANNING_DETAILED_NO_PLAN_ANNOTATION+SEARCH_ENGINE_JUDGEMENT_ON_RELEVANCE_NEGATIVE_ANNOTATION+GENERAL_AI_JUDGEMENT_ON_RELEVANCE_NEGATIVE_ANNOTATION+GENERAL_AI_PLANNING_DETAILED_NO_PLAN_ANNOTATION+GENERAL_AI_PLANNING_GENERAL_NETAGIVE_ANNOTATION+REBO_PLANNING_DETAILED_NO_PLAN_ANNOTATION
+2020-02-09,11:57:10,0,Rebo4AI,1581245831927,Wasn't there something interesting for you?,TUTOR
+2020-02-09,11:57:26,0,Behzad,1581245846293,in has but... | i kdont knoew,
+2020-02-09,11:57:31,0,Rebo4AI,1581245851950,What of these plans can you implement already in the next one or two weeks?,TUTOR
+2020-02-09,11:57:39,0,Behzad,1581245859904,negative,SEARCH_ENGINE_PLANNING_GENERAL_NETAGIVE_ANNOTATION+SEARCH_ENGINE_PLANNING_DETAILED_NO_PLAN_ANNOTATION+SEARCH_ENGINE_JUDGEMENT_ON_RELEVANCE_NEGATIVE_ANNOTATION+GENERAL_AI_JUDGEMENT_ON_RELEVANCE_NEGATIVE_ANNOTATION+GENERAL_AI_PLANNING_DETAILED_NO_PLAN_ANNOTATION+GENERAL_AI_PLANNING_GENERAL_NETAGIVE_ANNOTATION+REBO_PLANNING_DETAILED_NO_PLAN_ANNOTATION
+2020-02-09,11:57:41,0,Rebo4AI,1581245861970,Wasn't there something interesting for you?,TUTOR
+2020-02-09,11:57:48,0,Behzad,1581245868505,no,NEGATIVE
+2020-02-09,11:57:51,0,Rebo4AI,1581245873986,"OK, good. Thank you for discussing this with me!",TUTOR
+2020-02-09,12:07:52,0,Rebo4AI,1581246472528,Thank you and see you next time;),TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-09,12:15:19,0,Rebo4AI,1581246920453,Hello! I'm Rebo4AI. Take a minute to introduce yourselves.,INTRODUCE
+2020-02-09,12:15:27,0,Rebo4AI,1581246928474,Hi GENERAL_AI Rebo4AI!,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-09,12:17:04,0,Rebo4AI,1581247025704,Hello! I'm Rebo4AI. Take a minute to introduce yourselves.,INTRODUCE
+2020-02-09,12:17:12,0,Rebo4AI,1581247033733,Hello! I'm Rebo4AI. Take a minute to introduce yourselves.,INTRODUCE
+2020-02-09,12:17:37,0,Rebo4AI,1581247057758,Hi GENERAL_AI Rebo4AI!,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-09,12:18:10,0,Rebo4AI,1581247091317,Hello! I'm Rebo4AI. Take a minute to introduce yourselves.,INTRODUCE
+2020-02-09,12:18:18,0,Rebo4AI,1581247099341,"aaaHowdy, [NAME]!",GREETINGS
+2020-02-09,12:18:28,0,Rebo4AI,1581247109363,Hi GENERAL_AI Rebo4AI!,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-09,12:26:20,0,Rebo4AI,1581247581381,Hello! I'm Rebo4AI. Take a minute to introduce yourselves.,INTRODUCE
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-09,12:29:06,0,Rebo4AI,1581247746566,Hello! I'm Rebo4AI. I'm here to talk about AI.,INTRODUCE
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-09,12:29:56,0,Rebo4AI,1581247796458,Hello! I'm Rebo4AI. I'm here to talk about AI.,INTRODUCE
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-09,12:32:08,0,Rebo4AI,1581247929583,Hello! I'm Rebo4AI. I'm here to talk about AI.,INTRODUCE
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-09,12:33:32,0,Rebo4AI,1581248012930,Hello! I'm Rebo4AI. I'm here to talk about AI.,INTRODUCE
+2020-02-09,12:33:35,0,Rebo4AI,1581248016944,Hi GENERAL_AI Behzad!,TUTOR
+2020-02-09,12:38:20,0,Behzad,1581248300942,ok,AFFIRMATIVE
+2020-02-09,12:38:20,0,Rebo4AI,1581248301126,Let's get started.,TUTOR
+2020-02-09,12:38:20,0,Rebo4AI,1581248303129,"My name is Rebo4AI, but can call me Rebo. We're going to discuss AI and the its impact on your personal or professional life .",TUTOR
+2020-02-09,12:38:20,0,Rebo4AI,1581248303129,"What kind of AI-based systems do you use in a day or week? How? Please name some concrete examples which you use such as Google's search engine, Youtube, GoogleMap, or ridesharing apps.",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-09,12:39:15,0,Rebo4AI,1581248357702,Hello! I'm Rebo4AI. I'm here to talk about AI.,INTRODUCE
+2020-02-09,12:39:18,0,Rebo4AI,1581248359725,Hi GENERAL_AI Behzad!,TUTOR
+2020-02-09,12:39:25,0,Behzad,1581248365772,ok,AFFIRMATIVE
+2020-02-09,12:39:25,0,Rebo4AI,1581248367737,Let's get started.,TUTOR
+2020-02-09,12:39:25,0,Rebo4AI,1581248369743,My name is Rebo4AI. We are here to have a conversation about ups and downs of AI and how it affects our life.,TUTOR
+2020-02-09,12:39:25,0,Rebo4AI,1581248369746,"What kind of AI-based systems do you use in a day or week? How? Please name some concrete examples which you use such as Google's search engine, Youtube, GoogleMap, or ridesharing apps.",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-09,12:39:41,0,Rebo4AI,1581248382793,Hello! I'm Rebo4AI. I'm here to talk about AI.,INTRODUCE
+2020-02-09,12:39:44,0,Rebo4AI,1581248384807,Hi GENERAL_AI Behzad!,TUTOR
+2020-02-09,12:39:45,0,Behzad,1581248385411,trigger,TRIGGER
+2020-02-09,12:39:50,0,Behzad,1581248391066,trigger,TRIGGER
+2020-02-09,12:40:01,0,Behzad,1581248401834,ok,AFFIRMATIVE
+2020-02-09,12:40:01,0,Rebo4AI,1581248402827,Let's get started.,TUTOR
+2020-02-09,12:40:01,0,Rebo4AI,1581248404833,"I'm Rebo4AI and here to talk about various perspectives on how AI is important in your life, the impact of AI on your life, and your own role in interacting with AI-based technologies.",TUTOR
+2020-02-09,12:40:01,0,Rebo4AI,1581248404835,"Can you tell me how you use an AI-based systems in your daily life? Please name some concrete examples which you use such as Google's search engine, Youtube, GoogleMap, or ridesharing apps.",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-09,12:40:56,0,Rebo4AI,1581248457833,Hello! I'm Rebo4AI. I'm here to talk about AI.,INTRODUCE
+2020-02-09,12:40:59,0,Rebo4AI,1581248459868,Hi GENERAL_AI Behzad!,TUTOR
+2020-02-09,12:41:01,0,Behzad,1581248462027,no,NEGATIVE
+2020-02-09,12:41:02,0,Rebo4AI,1581248463875,Okay - you can continue discussing other topics.,TUTOR
+2020-02-09,12:42:01,0,Behzad,1581248521562,ok,AFFIRMATIVE
+2020-02-09,12:42:04,0,Behzad,1581248524795,no,NEGATIVE
+2020-02-09,12:42:06,0,Behzad,1581248526421,trigger,TRIGGER
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-09,12:43:27,0,Rebo4AI,1581248609149,Hello! I'm Rebo4AI. I'm here to talk about AI.,INTRODUCE
+2020-02-09,12:43:30,0,Rebo4AI,1581248611166,Hi GENERAL_AI Behzad!,TUTOR
+2020-02-09,12:43:32,0,Behzad,1581248613011,no,NEGATIVE
+2020-02-09,12:43:33,0,Rebo4AI,1581248613172,Okay - you can continue discussing other topics.,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-09,12:44:25,0,Rebo4AI,1581248665485,Hello! I'm Rebo4AI. I'm here to talk about AI.,INTRODUCE
+2020-02-09,12:44:28,0,Rebo4AI,1581248669507,Hi GENERAL_AI Behzad!,TUTOR
+2020-02-09,12:44:32,0,Behzad,1581248672501,no,NEGATIVE
+2020-02-09,12:44:32,0,Rebo4AI,1581248673512,Okay - you can continue discussing other topics.,TUTOR
+2020-02-09,12:44:43,0,Behzad,1581248683189,ok,AFFIRMATIVE
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-09,12:45:55,0,Rebo4AI,1581248755824,Hello! I'm Rebo4AI. I'm here to talk about AI.,INTRODUCE
+2020-02-09,12:45:58,0,Rebo4AI,1581248759840,Hi GENERAL_AI Behzad!,TUTOR
+2020-02-09,12:46:03,0,Behzad,1581248763183,no,NEGATIVE
+2020-02-09,12:46:03,0,Rebo4AI,1581248763849,Okay - you can continue discussing other topics.,TUTOR
+2020-02-09,12:46:10,0,Behzad,1581248770370,trigger,TRIGGER
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-09,12:48:24,0,Rebo4AI,1581248905350,Hello! I'm Rebo4AI. I'm here to talk about AI.,INTRODUCE
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-09,12:48:49,0,Rebo4AI,1581248929976,Hi REBO4AI Behzad!,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-09,12:50:09,0,Rebo4AI,1581249010293,Hello! I'm Rebo4AI. I'm here to talk about AI.,INTRODUCE
+2020-02-09,12:50:12,0,Rebo4AI,1581249014320,Hi GENERAL_AI Behzad!,TUTOR
+2020-02-09,12:50:24,0,Behzad,1581249024296,no,NEGATIVE
+2020-02-09,12:50:24,0,Rebo4AI,1581249024330,Okay - you can continue discussing other topics.,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-09,12:52:56,0,Rebo4AI,1581249177523,Hello! I'm Rebo4AI. I'm here to talk about AI.,INTRODUCE
+2020-02-09,12:52:59,0,Rebo4AI,1581249179546,Do you want to talk about general AI? Behzad!,TUTOR
+2020-02-09,12:53:02,0,Behzad,1581249182832,no,NEGATIVE
+2020-02-09,12:53:02,0,Rebo4AI,1581249183552,Okay - you can continue discussing other topics.,TUTOR
+2020-02-09,12:53:16,0,Behzad,1581249196338,ok,AFFIRMATIVE
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-09,12:54:03,0,Rebo4AI,1581249245387,Hello! I'm Rebo4AI. I'm here to talk about AI.,INTRODUCE
+2020-02-09,12:54:06,0,Rebo4AI,1581249247401,Do you want to talk about general AI? Behzad!,TUTOR
+2020-02-09,12:54:11,0,Rebo4AI,1581249253409,Hi REBO4AI Behzad!,TUTOR
+2020-02-09,12:54:22,0,Behzad,1581249262641,no,NEGATIVE
+2020-02-09,12:54:22,0,Rebo4AI,1581249263422,Okay - you can continue discussing other topics.,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-09,12:55:19,0,Rebo4AI,1581249320510,Hello! I'm Rebo4AI. I'm here to talk about AI.,INTRODUCE
+2020-02-09,12:55:22,0,Rebo4AI,1581249322536,Do you want to talk about general AI? Behzad!,TUTOR
+2020-02-09,12:55:26,0,Behzad,1581249326558,ok,AFFIRMATIVE
+2020-02-09,12:55:26,0,Rebo4AI,1581249328546,Let's get started.,TUTOR
+2020-02-09,12:55:26,0,Rebo4AI,1581249330551,My name is Rebo4AI. We are here to have a conversation about ups and downs of AI and how it affects our life.,TUTOR
+2020-02-09,12:55:26,0,Rebo4AI,1581249330555,"Can you tell me which AI-based systems you usually use? And how? Please name some concrete examples which you use such as Google's search engine, Youtube, GoogleMap, or ridesharing apps.",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-09,12:58:13,0,Rebo4AI,1581249494571,Hello! I'm Rebo4AI. I'm here to talk about AI.,INTRODUCE
+2020-02-09,12:58:16,0,Rebo4AI,1581249498588,Hi SEARCH_ENGINE Behzad!,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-09,12:59:37,0,Rebo4AI,1581249578364,Hello! I'm Rebo4AI. I'm here to talk about AI.,INTRODUCE
+2020-02-09,12:59:39,0,Rebo4AI,1581249580388,Hi SEARCH_ENGINE Behzad!,TUTOR
+2020-02-09,12:59:54,0,Behzad,1581249594597,no,NEGATIVE
+2020-02-09,12:59:54,0,Rebo4AI,1581249596404,Okay - you can continue discussing other topics.,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-09,16:08:37,0,Rebo4AI,1581260919167,Hello! I'm Rebo4AI.,INTRODUCE
+2020-02-09,16:08:38,0,Rebo4AI,1581260921199,Do you want to talk about general AI? Behzad!,TUTOR
+2020-02-09,16:08:55,0,Behzad,1581260936075,yes,AFFIRMATIVE
+2020-02-09,16:08:56,0,Rebo4AI,1581260937219,Let's get started.,TUTOR
+2020-02-09,16:08:56,0,Rebo4AI,1581260939229,"I'm Rebo4AI and here to talk about various perspectives on how AI is important in your life, the impact of AI on your life, and your own role in interacting with AI-based technologies.",TUTOR
+2020-02-09,16:08:56,0,Rebo4AI,1581260939234,"What kind of AI-based systems do you use in a day or week? How? Please name some concrete examples which you use such as Google's search engine, Youtube, GoogleMap, or ridesharing apps.",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-10,13:34:20,0,Rebo4AI,1581338061047,Hello! I'm Rebo4AI.,INTRODUCE
+2020-02-10,13:34:22,0,Rebo4AI,1581338063062,"Behzad, do you want to talk about general AI?",TUTOR
+2020-02-10,13:34:33,0,Behzad,1581338073194,ok,AFFIRMATIVE
+2020-02-10,13:34:33,0,Rebo4AI,1581338075077,Let's get started.,TUTOR
+2020-02-10,13:34:33,0,Rebo4AI,1581338077085,Let's see in what extent you encounter AI on your personal life or professional career and how much AI changes our life.,TUTOR
+2020-02-10,13:34:33,0,Rebo4AI,1581338077091,"What kind of AI-based systems do you use in a day or week? How? Please name some concrete examples which you use such as Google's search engine, Youtube, GoogleMap, or ridesharing apps.",TUTOR
+2020-02-10,13:35:56,0,Behzad,1581338156671,i dont like to use them at all,REBO_EMOTION_POSITIVE_ANNOTATION+REBO_JUDGEMENT_ON_IMPLICATION_OPTIMISTIC_ANNOTATION+SEARCH_ENGINE_JUDGEMENT_ON_RELEVANCE_NEGATIVE_ANNOTATION+GENERAL_AI_JUDGEMENT_ON_IMPLICATION_OPTIMISTIC_ANNOTATION+GENERAL_AI_JUDGEMENT_ON_RELEVANCE_NEGATIVE_ANNOTATION+SEARCH_ENGINE_JUDGEMENT_ON_IMPLICATION_OPTIMISTIC_ANNOTATION
+2020-02-10,13:36:00,0,Rebo4AI,1581338161168,"If you have an email address, play online video games, or at least have access to the Internet, you directly or indirectly derive the benefit from AI-based systems. There are many well-known websites and companies that use AI-based components, such as Youtube, Google, Microsoft.",TUTOR
+2020-02-10,13:36:00,0,Rebo4AI,1581338161172,What is the effect of such artificial intelligence systems or issues on your own life (professional or private)?,TUTOR
+2020-02-10,13:37:10,0,Behzad,1581338230632,these kinds of systems help me to have a more convenient life,REBO_EMOTION_POSITIVE_ANNOTATION+REBO_JUDGEMENT_ON_IMPLICATION_OPTIMISTIC_ANNOTATION+GENERAL_AI_JUDGEMENT_ON_IMPLICATION_OPTIMISTIC_ANNOTATION+SEARCH_ENGINE_JUDGEMENT_ON_IMPLICATION_OPTIMISTIC_ANNOTATION
+2020-02-10,13:37:12,0,Rebo4AI,1581338233235,You are a positive person! It may have some dark sides. What do you think?,TUTOR
+2020-02-10,13:37:51,0,Behzad,1581338271270,i dont know,SEARCH_ENGINE_PLANNING_GENERAL_NETAGIVE_ANNOTATION+SEARCH_ENGINE_PLANNING_DETAILED_NO_PLAN_ANNOTATION+SEARCH_ENGINE_JUDGEMENT_ON_RELEVANCE_NEGATIVE_ANNOTATION+GENERAL_AI_JUDGEMENT_ON_RELEVANCE_NEGATIVE_ANNOTATION+GENERAL_AI_PLANNING_DETAILED_NO_PLAN_ANNOTATION+GENERAL_AI_PLANNING_GENERAL_NETAGIVE_ANNOTATION+REBO_PLANNING_DETAILED_NO_PLAN_ANNOTATION
+2020-02-10,13:37:53,0,Rebo4AI,1581338275282,What kind of work could you do to overcome negative consequences and increase positive ones?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-10,13:39:44,0,Rebo4AI,1581338385264,Hello! I'm Rebo4AI.,INTRODUCE
+2020-02-10,13:39:45,0,Rebo4AI,1581338387300,"Behzad, do you want to talk about general AI?",TUTOR
+2020-02-10,13:39:55,0,Behzad,1581338395489,yes,AFFIRMATIVE
+2020-02-10,13:39:55,0,Rebo4AI,1581338397314,Let's get started.,TUTOR
+2020-02-10,13:39:55,0,Rebo4AI,1581338399322,We are here to have a conversation about ups and downs of AI and how it affects our life.,TUTOR
+2020-02-10,13:39:55,0,Rebo4AI,1581338399326,"Can you tell me how you use an AI-based systems in your daily life? Please name some concrete examples which you use such as Google's search engine, Youtube, GoogleMap, or ridesharing apps.",TUTOR
+2020-02-10,13:40:31,0,Behzad,1581338432126,I have a fitness tracker.,REBO_EMOTION_POSITIVE_ANNOTATION+REBO_JUDGEMENT_ON_IMPLICATION_OPTIMISTIC_ANNOTATION+GENERAL_AI_JUDGEMENT_ON_IMPLICATION_OPTIMISTIC_ANNOTATION+SEARCH_ENGINE_JUDGEMENT_ON_IMPLICATION_OPTIMISTIC_ANNOTATION
+2020-02-10,13:40:36,0,Rebo4AI,1581338437362,"As far as I know, Google and Youtube are the most well-known companies in which many AI-based systems are used in order to make it more convenient for us accessing the content that we look for.",TUTOR
+2020-02-10,13:40:36,0,Rebo4AI,1581338437364,"So, if you try at least one of these, you definitely deal with AI in your life.",TUTOR
+2020-02-10,13:40:36,0,Rebo4AI,1581338437366,How is AI likely to change your personal life or job? Do You think these changes lead to a better life or make our life more complicated?,TUTOR
+2020-02-10,13:43:59,0,Behzad,1581338639914,Bad. Yes.,SEARCH_ENGINE_PLANNING_DETAILED_NO_PLAN_ANNOTATION+REBO_PLANNING_DETAILED_NO_PLAN_ANNOTATION+REBO_EMOTION_NEGATIVE_ANNOTATION+AFFIRMATIVE+SEARCH_ENGINE_JUDGEMENT_ON_IMPLICATION_PESSIMISTIC_ANNOTATION+REBO_JUDGEMENT_ON_IMPLICATION_PESSIMISTIC_ANNOTATION+GENERAL_AI_PLANNING_DETAILED_NO_PLAN_ANNOTATION+SEARCH_ENGINE_PLANNING_GENERAL_NETAGIVE_ANNOTATION+GENERAL_AI_PLANNING_GENERAL_NETAGIVE_ANNOTATION+GENERAL_AI_JUDGEMENT_ON_IMPLICATION_PESSIMISTIC_ANNOTATION
+2020-02-10,13:44:01,0,Rebo4AI,1581338643547,That sounds very dark! Do you think there are any positive side-effects as well?,TUTOR
+2020-02-10,13:44:22,0,Behzad,1581338662352,Probably.,
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-10,13:45:55,0,Rebo4AI,1581338756155,Hello! I'm Rebo4AI.,INTRODUCE
+2020-02-10,13:45:56,0,Rebo4AI,1581338758193,Hi REBO4AI Behzad!,TUTOR
+2020-02-10,13:46:01,0,Behzad,1581338761752,hi,GREETING
+2020-02-10,13:46:10,0,Behzad,1581338770663,ok,AFFIRMATIVE
+2020-02-10,13:46:10,0,Rebo4AI,1581338772212,Let's get started.,TUTOR
+2020-02-10,13:46:10,0,Rebo4AI,1581338774221,"I'm Rebo4AI and here to talk about various perspectives on how AI is important in your life, the impact of AI on your life, and your own role in interacting with AI-based technologies.",TUTOR
+2020-02-10,13:46:10,0,Rebo4AI,1581338774226,"Now, do you have a good feeling about AI?",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-10,14:00:48,0,Rebo4AI,1581339649179,Hello! I'm Rebo4AI.,INTRODUCE
+2020-02-10,14:00:49,0,Rebo4AI,1581339651213,"Behzad, do you want to talk about general AI?",TUTOR
+2020-02-10,14:00:57,0,Behzad,1581339658139,ok,AFFIRMATIVE
+2020-02-10,14:00:58,0,Rebo4AI,1581339659228,Let's get started.,TUTOR
+2020-02-10,14:00:58,0,Rebo4AI,1581339661234,We are here to have a conversation about ups and downs of AI and how it affects our life.,TUTOR
+2020-02-10,14:00:58,0,Rebo4AI,1581339661237,"In your daily life, where or how do you encounter artificial intelligence? Please name some concrete examples which you use such as Google's search engine, Youtube, GoogleMap, or ridesharing apps.",TUTOR
+2020-02-10,14:02:22,0,Behzad,1581339742949,i definitely use Google for searching; also for email i rarely use Youtube. Sometimes GoogleMap. I try to use less data-crawling services... | I think in my home I haven't any real AI. Probably my car uses a few rule-based things.,SEARCH_ENGINE_JUDGEMENT_ON_RELEVANCE_NEGATIVE_ANNOTATION+REBO_EMOTION_POSITIVE_ANNOTATION+GENERAL_AI_JUDGEMENT_ON_IMPLICATION_OPTIMISTIC_ANNOTATION+REBO_JUDGEMENT_ON_IMPLICATION_OPTIMISTIC_ANNOTATION+SEARCH_ENGINE_JUDGEMENT_ON_IMPLICATION_OPTIMISTIC_ANNOTATION+REBO_PLANNING_DETAILED_HAVE_PLAN_ANNOTATION+GENERAL_AI_JUDGEMENT_ON_RELEVANCE_NEGATIVE_ANNOTATION+SEARCH_ENGINE_JUDGEMENT_ON_RELEVANCE_POSITIVE_ANNOTATION+GENERAL_AI_JUDGEMENT_ON_RELEVANCE_POSITIVE_ANNOTATION
+2020-02-10,14:02:25,0,Rebo4AI,1581339747322,"If you have an email address, play online video games, or at least have access to the Internet, you directly or indirectly derive the benefit from AI-based systems. There are many well-known websites and companies that use AI-based components, such as Youtube, Google, Microsoft.",TUTOR
+2020-02-10,14:02:25,0,Rebo4AI,1581339747326,Could you address some drawbacks or benefits of these kinds of systems? How these systems affect on what you do in your personal or professional life?,TUTOR
+2020-02-10,14:05:54,0,Behzad,1581339954692,"these services are very convenient to use of course... | Google search allows me to use the complete Internet for instance - everywhere, naytime.",REBO_EMOTION_POSITIVE_ANNOTATION+REBO_JUDGEMENT_ON_IMPLICATION_OPTIMISTIC_ANNOTATION+SEARCH_ENGINE_JUDGEMENT_ON_RELEVANCE_POSITIVE_ANNOTATION+GENERAL_AI_JUDGEMENT_ON_IMPLICATION_OPTIMISTIC_ANNOTATION+AFFIRMATIVE+GENERAL_AI_JUDGEMENT_ON_RELEVANCE_POSITIVE_ANNOTATION+SEARCH_ENGINE_JUDGEMENT_ON_IMPLICATION_OPTIMISTIC_ANNOTATION
+2020-02-10,14:05:56,0,Rebo4AI,1581339957511,You are optimistic!,TUTOR
+2020-02-10,14:05:56,0,Rebo4AI,1581339957514,"What about negative consequences, Do you think it maybe has negative side-effects as well?",TUTOR
+2020-02-10,14:06:18,0,Behzad,1581339978379,"of course, Google uses my data. but this is really their business. i couldn't sell the data anyway!",SEARCH_ENGINE_JUDGEMENT_ON_RELEVANCE_POSITIVE_ANNOTATION+AFFIRMATIVE+GENERAL_AI_JUDGEMENT_ON_RELEVANCE_POSITIVE_ANNOTATION
+2020-02-10,14:06:21,0,Rebo4AI,1581339983543,How can the new learning be translated into practice?,TUTOR
+2020-02-10,14:09:53,0,Behzad,1581340193268,i dont think i learned anything new!,SEARCH_ENGINE_JUDGEMENT_ON_RELEVANCE_NEGATIVE_ANNOTATION+GENERAL_AI_JUDGEMENT_ON_RELEVANCE_NEGATIVE_ANNOTATION+REBO_PLANNING_DETAILED_HAVE_PLAN_ANNOTATION
+2020-02-10,14:09:57,0,Rebo4AI,1581340197705,What of these plans can you implement already in the next one or two weeks?,TUTOR
+2020-02-10,14:10:04,0,Behzad,1581340204352,??,
+2020-02-10,14:10:07,0,Rebo4AI,1581340207717,"OK, good. Thank you for discussing this with me!",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-10,14:11:38,0,Rebo4AI,1581340299316,Hello! I'm Rebo4AI.,INTRODUCE
+2020-02-10,14:11:40,0,Rebo4AI,1581340301357,Hi SEARCH_ENGINE Behzad!,TUTOR
+2020-02-10,14:11:43,0,Behzad,1581340303805,hi,GREETING
+2020-02-10,14:11:55,0,Behzad,1581340316051,hi,GREETING
+2020-02-10,14:12:35,0,Behzad,1581340355647,ok,AFFIRMATIVE
+2020-02-10,14:12:35,0,Rebo4AI,1581340357412,Let's get started.,TUTOR
+2020-02-10,14:12:35,0,Rebo4AI,1581340359419,My name is Rebo4AI and we're here to have a conversation about a search engine.,TUTOR
+2020-02-10,14:12:35,0,Rebo4AI,1581340359421,"In your daily life, when and how do you use a search engine?",TUTOR
+2020-02-10,14:22:36,0,Rebo4AI,1581340957899,"As far as I know, Google and Youtube are the most well-known companies in which many AI-based systems are used in order to make it more convenient for us accessing the content that we look for.",TUTOR
+2020-02-10,14:22:36,0,Rebo4AI,1581340957902,"So, if you try at least one of these, you definitely deal with AI in your life.",TUTOR
+2020-02-10,14:22:36,0,Rebo4AI,1581340957905,Could you address some drawbacks or benefits of these kinds of systems? How these systems affect on what you do in your personal or professional life?,TUTOR
+2020-02-10,14:32:36,0,Rebo4AI,1581341558331,What kind of work could you do to overcome negative consequences and increase positive ones?,TUTOR
+2020-02-10,14:42:36,0,Rebo4AI,1581342158781,"Next time we will talk about what you are going to do to gain more from positive outcomes and avoid from negative results. So, what exactly would you do for it?",TUTOR
+2020-02-10,14:52:37,0,Rebo4AI,1581342757198,"OK, good. Thank you for discussing this with me!",TUTOR
+2020-02-10,15:02:37,0,Rebo4AI,1581343357625,Thank you and see you next time;),TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-10,15:56:38,0,Behzad,1581346598481,hi,GREETING
+2020-02-10,15:56:39,0,Rebo4AI,1581346600722,Hello! I'm Rebo4AI.,INTRODUCE
+2020-02-10,15:56:40,0,Rebo4AI,1581346602731,"Rebo4AI, do you want to talk about general AI?",TUTOR
+2020-02-10,15:56:45,0,Behzad,1581346605919,hi,GREETING
+2020-02-10,15:56:56,0,Behzad,1581346616918,i}m behzad... | no,NEGATIVE
+2020-02-10,15:56:56,0,Rebo4AI,1581346618747,Okay - you can continue discussing other topics.,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-10,15:57:17,0,Behzad,1581346637623,hi,GREETING
+2020-02-10,15:57:19,0,Rebo4AI,1581346639251,Hello! I'm Rebo4AI.,INTRODUCE
+2020-02-10,15:57:20,0,Rebo4AI,1581346641260,"Rebo4AI, do you want to talk about general AI?",TUTOR
+2020-02-10,15:57:23,0,Behzad,1581346643422,hi ,GREETING
+2020-02-10,15:57:27,0,Behzad,1581346647505,"yes, i'd love to.",AFFIRMATIVE
+2020-02-10,15:57:27,0,Rebo4AI,1581346649270,Let's get started.,TUTOR
+2020-02-10,15:57:27,0,Rebo4AI,1581346651278,We're going to discuss AI and the its impact on your personal or professional life .,TUTOR
+2020-02-10,15:57:27,0,Rebo4AI,1581346651283,"Can you tell me how you use an AI-based systems in your daily life? Please name some concrete examples which you use such as Google's search engine, Youtube, GoogleMap, or ridesharing apps.",TUTOR
+2020-02-10,15:58:45,0,Behzad,1581346726314,"i'm not sure. is my temperature control an AI-based system? it probably is a rule-based system. or more probably even a simple control system with a threshold value. does that count?... | so let's see, something more AI-ey. I use Amazon, and Google Search, and Youtube, and GoogleMaps. So yes, all of the above. I'm not actually sure - are there any other AI-based systems in my life?",SEARCH_ENGINE_JUDGEMENT_ON_RELEVANCE_NEGATIVE_ANNOTATION+REBO_EMOTION_POSITIVE_ANNOTATION+GENERAL_AI_JUDGEMENT_ON_IMPLICATION_OPTIMISTIC_ANNOTATION+SEARCH_ENGINE_PLANNING_DETAILED_HAVE_PLAN_ANNOTATION+AFFIRMATIVE+REBO_JUDGEMENT_ON_IMPLICATION_OPTIMISTIC_ANNOTATION+SEARCH_ENGINE_JUDGEMENT_ON_IMPLICATION_OPTIMISTIC_ANNOTATION+GENERAL_AI_PLANNING_DETAILED_HAVE_PLAN_ANNOTATION+SEARCH_ENGINE_PLANNING_GENERAL_POSITIVE_ANNOTATION+GENERAL_AI_PLANNING_GENERAL_POSITIVE_ANNOTATION+REBO_PLANNING_DETAILED_HAVE_PLAN_ANNOTATION+SEARCH_ENGINE_JUDGEMENT_ON_RELEVANCE_POSITIVE_ANNOTATION+GENERAL_AI_JUDGEMENT_ON_RELEVANCE_NEGATIVE_ANNOTATION+SEARCH+GENERAL_AI_JUDGEMENT_ON_RELEVANCE_POSITIVE_ANNOTATION
+2020-02-10,15:58:49,0,Rebo4AI,1581346731344,"As far as I know, Google and Youtube are the most well-known companies in which many AI-based systems are used in order to facilitate accessing the content that we look for.",TUTOR
+2020-02-10,15:58:49,0,Rebo4AI,1581346731346,"So, if you try at least one of these, you definitely gain from AI in daily life.",TUTOR
+2020-02-10,15:58:49,0,Rebo4AI,1581346731349,How do you see AI affecting on your life (personal or professional) in the future? Could you talk about positive or negative effects?,TUTOR
+2020-02-10,16:00:25,0,Behzad,1581346825796,"hm. positive effects - some are already there. my life is quite convenient because of these systems. earch engines make a lot of resources avilable to me. and Google alternatives like duckduckgo even do it without violoating my privacy... | ... and decision-support systems in medicine would probably help me if i have, at one point in the future, a rare disease... | as it is now, i do think I benefit. mostly.",REBO_EMOTION_POSITIVE_ANNOTATION+REBO_JUDGEMENT_ON_IMPLICATION_OPTIMISTIC_ANNOTATION+SEARCH_ENGINE_JUDGEMENT_ON_RELEVANCE_POSITIVE_ANNOTATION+GENERAL_AI_JUDGEMENT_ON_IMPLICATION_OPTIMISTIC_ANNOTATION+AFFIRMATIVE+GENERAL_AI_JUDGEMENT_ON_RELEVANCE_POSITIVE_ANNOTATION+REBO_PLANNING_DETAILED_HAVE_PLAN_ANNOTATION+SEARCH_ENGINE_JUDGEMENT_ON_IMPLICATION_OPTIMISTIC_ANNOTATION
+2020-02-10,16:00:27,0,Rebo4AI,1581346827428,You are optimistic!,TUTOR
+2020-02-10,16:00:27,0,Rebo4AI,1581346827430,"What about negative consequences, Do you think it maybe has negative side-effects as well?",TUTOR
+2020-02-10,16:01:26,0,Behzad,1581346886433,"side-effects are clarly pivacy. or democracy is threatened... | it is said... | but that is pretty vague overall. i'm not sure i can really say how democracy is threatened. personally, i thik democracy is threatened more by fake news than by AI.",SEARCH_ENGINE_PLANNING_DETAILED_NO_PLAN_ANNOTATION+REBO_PLANNING_DETAILED_NO_PLAN_ANNOTATION+REBO_EMOTION_NEGATIVE_ANNOTATION+AFFIRMATIVE+SEARCH_ENGINE_JUDGEMENT_ON_IMPLICATION_PESSIMISTIC_ANNOTATION+REBO_JUDGEMENT_ON_IMPLICATION_PESSIMISTIC_ANNOTATION+GENERAL_AI_PLANNING_DETAILED_NO_PLAN_ANNOTATION+SEARCH_ENGINE_PLANNING_GENERAL_NETAGIVE_ANNOTATION+GENERAL_AI_PLANNING_GENERAL_NETAGIVE_ANNOTATION+GENERAL_AI_JUDGEMENT_ON_IMPLICATION_PESSIMISTIC_ANNOTATION
+2020-02-10,16:01:28,0,Rebo4AI,1581346889475,How can the new learning be translated into practice?,TUTOR
+2020-02-10,16:03:27,0,Behzad,1581347007573,???,
+2020-02-10,16:03:31,0,Rebo4AI,1581347013294,"Now, you know somethings about AI and its effects on your life. How can it be translated into practice?",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-10,16:07:40,0,Rebo4AI,1581347262077,Hello! I'm Rebo4AI.,INTRODUCE
+2020-02-10,16:07:41,0,Rebo4AI,1581347264120,Hi REBO4AI Behzad!,TUTOR
+2020-02-10,16:07:44,0,Behzad,1581347264788,hi,GREETING
+2020-02-10,16:07:48,0,Behzad,1581347268887,ok,AFFIRMATIVE
+2020-02-10,16:07:48,0,Rebo4AI,1581347270146,Let's get started.,TUTOR
+2020-02-10,16:07:48,0,Rebo4AI,1581347272153,"I'm Rebo4AI and here to talk about various perspectives on how AI is important in your life, the impact of AI on your life, and your own role in interacting with AI-based technologies.",TUTOR
+2020-02-10,16:07:48,0,Rebo4AI,1581347272156,"Now, do you have a good feeling about AI?",TUTOR
+2020-02-10,16:08:08,0,Behzad,1581347288529,hm. i actually don't know. i'm ambivalent i would say.,SEARCH_ENGINE_PLANNING_GENERAL_NETAGIVE_ANNOTATION+SEARCH_ENGINE_PLANNING_DETAILED_NO_PLAN_ANNOTATION+SEARCH_ENGINE_JUDGEMENT_ON_RELEVANCE_NEGATIVE_ANNOTATION+GENERAL_AI_JUDGEMENT_ON_RELEVANCE_NEGATIVE_ANNOTATION+GENERAL_AI_PLANNING_DETAILED_NO_PLAN_ANNOTATION+GENERAL_AI_PLANNING_GENERAL_NETAGIVE_ANNOTATION+REBO_PLANNING_DETAILED_NO_PLAN_ANNOTATION
+2020-02-10,16:08:09,0,Rebo4AI,1581347290176,Could you explain more about your feeling? Why do you like or dislike it?,TUTOR
+2020-02-10,16:08:58,0,Behzad,1581347338514,"it's not that i like or dislike AI. it's just ""here"". i'm just not sure whether it is really so important, or maybe less important for instance than climate change.",AFFIRMATIVE
+2020-02-10,16:09:00,0,Rebo4AI,1581347342225,How do you see AI affecting you in the future?,TUTOR
+2020-02-10,16:10:09,0,Behzad,1581347410162,"i think AI is here; in the fture we will probably see many decision support systems. hopefully, ones which deliver good ""evidence"", in the sense of good statistics, reliable statistics, that help us in deciding. maybe also, in figuring out, what are the important decision criteria?",REBO_EMOTION_POSITIVE_ANNOTATION+GENERAL_AI_JUDGEMENT_ON_IMPLICATION_OPTIMISTIC_ANNOTATION+SEARCH_ENGINE_PLANNING_DETAILED_HAVE_PLAN_ANNOTATION+REBO_JUDGEMENT_ON_IMPLICATION_OPTIMISTIC_ANNOTATION+SEARCH_ENGINE_JUDGEMENT_ON_IMPLICATION_OPTIMISTIC_ANNOTATION+GENERAL_AI_PLANNING_DETAILED_HAVE_PLAN_ANNOTATION+REBO_PLANNING_DETAILED_HAVE_PLAN_ANNOTATION+SEARCH_ENGINE_JUDGEMENT_ON_RELEVANCE_POSITIVE_ANNOTATION+GENERAL_AI_JUDGEMENT_ON_RELEVANCE_POSITIVE_ANNOTATION
+2020-02-10,16:10:12,0,Rebo4AI,1581347414286,You are optimistic!,TUTOR
+2020-02-10,16:10:12,0,Rebo4AI,1581347414289,"What about negative consequences, Do you think it maybe has bad effects?",TUTOR
+2020-02-10,16:10:46,0,Behzad,1581347446825,"well, sure - the danger, and reality, now is that those (global organisations) who have large amounts of data, have the power. and so much money, they are seemingly above the law.",SEARCH_ENGINE_PLANNING_DETAILED_NO_PLAN_ANNOTATION+REBO_PLANNING_DETAILED_NO_PLAN_ANNOTATION+REBO_EMOTION_NEGATIVE_ANNOTATION+AFFIRMATIVE+SEARCH_ENGINE_JUDGEMENT_ON_IMPLICATION_PESSIMISTIC_ANNOTATION+REBO_JUDGEMENT_ON_IMPLICATION_PESSIMISTIC_ANNOTATION+GENERAL_AI_PLANNING_DETAILED_NO_PLAN_ANNOTATION+SEARCH_ENGINE_PLANNING_GENERAL_NETAGIVE_ANNOTATION+GENERAL_AI_PLANNING_GENERAL_NETAGIVE_ANNOTATION+SEARCH_ENGINE_JUDGEMENT_ON_RELEVANCE_POSITIVE_ANNOTATION+GENERAL_AI_JUDGEMENT_ON_IMPLICATION_PESSIMISTIC_ANNOTATION+GENERAL_AI_JUDGEMENT_ON_RELEVANCE_POSITIVE_ANNOTATION
+2020-02-10,16:10:48,0,Rebo4AI,1581347450317,What did you learn from this course?,TUTOR
+2020-02-10,16:11:07,0,Behzad,1581347467357,??,
+2020-02-10,16:11:09,0,Rebo4AI,1581347470335,What will you pay special attention next time you read or hear about AI?,TUTOR
+2020-02-10,16:11:30,0,Behzad,1581347490898,jalfjdalk;fj,
+2020-02-10,16:11:34,0,Rebo4AI,1581347496358,"Based on the new things that you learned from the course, what is the first thing that comes to your mind when read or hear about AI?",TUTOR
+2020-02-10,16:11:59,0,Behzad,1581347519654,fja;dfja;kdf,
+2020-02-10,16:12:00,0,Rebo4AI,1581347522382,Thank you for discussing this with me!,TUTOR
+2020-02-10,16:12:16,0,Behzad,1581347536460,bye,
+2020-02-10,16:12:21,0,Rebo4AI,1581347542398,Until the days!,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-11,15:55:03,0,Rebo4AI,1581432986965,Hello! I'm Rebo4AI.,INTRODUCE
+2020-02-11,16:01:33,0,Rebo4AI,1581433295298,Hi REBO4AI Rebo4AI!,TUTOR
+2020-02-11,16:16:34,0,Rebo4AI,1581434196082,"To start the conversation, please welcome Rebo :)",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-11,16:51:13,0,Rebo4AI,1581436274675,Hello [Name1]! I'm Rebo4AI.,INTRODUCE
+2020-02-11,16:53:07,0,Rebo4AI,1581436388822,Hi REBO4AI debugger!,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-11,17:07:41,0,Rebo4AI,1581437262538,Hello debugger! I'm Rebo4AI.,INTRODUCE
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-11,17:08:21,0,Rebo4AI,1581437301306,Hello debugger! I'm Rebo4AI.,INTRODUCE
+2020-02-11,17:08:22,0,debugger,1581437302677,general,GENERAL_AI+TRIGGER_GENERAL_AI
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-11,17:09:53,0,Rebo4AI,1581437395262,Hello [Name1]! I'm Rebo4AI.,INTRODUCE
+2020-02-11,17:10:01,0,debugger,1581437401790,general,GENERAL_AI+TRIGGER_GENERAL_AI
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-11,17:11:41,0,Rebo4AI,1581437503860,Hello [Name1]! I'm Rebo4AI.,INTRODUCE
+2020-02-11,17:11:53,0,debugger,1581437513779,genreal,
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-11,17:38:33,0,Rebo4AI,1581439115323,Hello debugger! I'm Rebo4AI.,INTRODUCE
+2020-02-11,17:38:34,0,Rebo4AI,1581439117358,"debugger, which one do you like?",TUTOR
+2020-02-11,17:38:45,0,debugger,1581439125330,general,GENERAL_AI+TRIGGER_GENERAL_AI
+2020-02-11,17:40:28,0,debugger,1581439228413,dsafs,
+2020-02-11,17:41:37,0,debugger,1581439297610,no,NEGATIVE
+2020-02-11,17:41:37,0,Rebo4AI,1581439299513,Okay - you can continue discussing other topics.,TUTOR
+2020-02-11,17:41:47,0,debugger,1581439307181,general,GENERAL_AI+TRIGGER_GENERAL_AI
+2020-02-11,17:41:59,0,debugger,1581439319760,ok,AFFIRMATIVE
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-11,17:42:32,0,Rebo4AI,1581439353517,Hello debugger! I'm Rebo4AI.,INTRODUCE
+2020-02-11,17:42:33,0,Rebo4AI,1581439355563,"debugger, which one do you like?",TUTOR
+2020-02-11,17:42:38,0,debugger,1581439358649,general,GENERAL_AI+TRIGGER_GENERAL_AI
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-11,17:45:11,0,Rebo4AI,1581439513200,Hello debugger! I'm Rebo4AI.,INTRODUCE
+2020-02-11,17:45:13,0,Rebo4AI,1581439515242,"debugger, which one do you like?",TUTOR
+2020-02-11,17:45:39,0,debugger,1581439539243,hi,GREETING
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-11,17:46:42,0,Rebo4AI,1581439602898,Hello debugger! I'm Rebo4AI.,INTRODUCE
+2020-02-11,17:46:43,0,Rebo4AI,1581439604935,"debugger, which one do you like?",TUTOR
+2020-02-11,17:46:51,0,debugger,1581439612098,general,TRIGGER_GENERAL_AI
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-11,17:48:41,0,Rebo4AI,1581439722942,Hello debugger! I'm Rebo4AI.,INTRODUCE
+2020-02-11,17:48:49,0,Rebo4AI,1581439730970,"debugger, which one do you like?",TUTOR
+2020-02-11,17:48:56,0,debugger,1581439803487,general,TRIGGER_GENERAL_AI
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-11,17:51:08,0,Rebo4AI,1581439869521,Hello debugger! I'm Rebo4AI.,INTRODUCE
+2020-02-11,17:51:10,0,Rebo4AI,1581439871557,"debugger, which one do you like?",TUTOR
+2020-02-11,17:51:14,0,debugger,1581439874753,ok,AFFIRMATIVE
+2020-02-11,17:51:14,0,Rebo4AI,1581439875568,Let's get started.,TUTOR
+2020-02-11,17:51:14,0,Rebo4AI,1581439877577,ssssssssssssssssssssssssssssss s,TUTOR
+2020-02-11,17:51:25,0,debugger,1581439885358,general,TRIGGER_GENERAL_AI
+2020-02-11,17:51:30,0,Rebo4AI,1581439891596,"Now, do you have a good feeling about AI?",TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-11,17:52:36,0,Rebo4AI,1581439957817,Hello debugger! I'm Rebo4AI.,INTRODUCE
+2020-02-11,17:52:37,0,Rebo4AI,1581439959854,"debugger, which one do you like?",TUTOR
+2020-02-11,17:52:42,0,debugger,1581439962559,ok,AFFIRMATIVE
+2020-02-11,17:52:42,0,Rebo4AI,1581439963866,Let's get started.,TUTOR
+2020-02-11,17:52:42,0,Rebo4AI,1581439965875,ssssssssssssssssssssssssssssss s,TUTOR
+2020-02-11,17:52:50,0,debugger,1581439971054,general,TRIGGER_GENERAL_AI

@@ -1,0 +1,26 @@
+2020-02-04,10:48:45,0,Rebo4AI,1580809726633,Hi Kathrin!,TUTOR
+2020-02-04,10:48:50,0,Kathrin,1580809730479,H,
+2020-02-04,10:48:51,0,Kathrin,1580809731605,hi,GREETING
+2020-02-04,10:48:51,0,Rebo4AI,1580809732667,"I'm Rebo4AI and here to talk about various perspectives on how AI is important in your life, the impact of AI on your life, and your own role in interacting with AI-based technologies.",TUTOR
+2020-02-04,10:48:51,0,Rebo4AI,1580809732673,"In your daily life, where or how do you encounter artificial intelligence? Please name some concrete examples which you use such as Google's search engine, Youtube, GoogleMap, or ridesharing apps.",TUTOR
+2020-02-04,10:49:21,0,Kathrin,1580809761501,i use all of them everyday,
+2020-02-04,10:49:22,0,Rebo4AI,1580809762708,Please write whole sentences.,TUTOR
+2020-02-04,10:49:22,0,Rebo4AI,1580809762709,"As far as I know, Google and Youtube are the most well-known companies in which many AI-based systems are used in order to make it more convenient for us accessing the content that we look for.",TUTOR
+2020-02-04,10:49:22,0,Rebo4AI,1580809762710,"So, if you try at least one of these, you definitely deal with AI in your life.",TUTOR
+2020-02-04,10:49:22,0,Rebo4AI,1580809762711,Could you talk about advantages and disadvantages of these kinds of systems?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-04,10:50:31,0,Rebo4AI,1580809832257,Hello Kathrin!,TUTOR
+2020-02-04,10:50:34,0,Kathrin,1580809834241,hi,GREETING
+2020-02-04,10:50:34,0,Rebo4AI,1580809836286,My name is Rebo4AI. Let's see in what extent you encounter AI on your personal life or professional career and how much AI changes our life.,TUTOR
+2020-02-04,10:50:34,0,Rebo4AI,1580809836288,"Can you tell me how you use an AI-based systems in your daily life? Please name some concrete examples which you use such as Google's search engine, Youtube, GoogleMap, or ridesharing apps.",TUTOR
+2020-02-04,10:50:45,0,Kathrin,1580809845460,i use all of them,JUDGEMENT_ON_RELEVANCE_POSITIVE_ANNOTATION
+2020-02-04,10:50:49,0,Rebo4AI,1580809850302,Good to hear that! So you are familiar with these kinds of stuff.,TUTOR
+2020-02-04,10:50:49,0,Rebo4AI,1580809850306,Could you talk about advantages and disadvantages of these kinds of systems?,TUTOR
+2020-02-04,10:53:18,0,Kathrin,1580809998593,they are useful. help us to have a better life bl baaasd sadsa ds dsa,JUDGEMENT_ON_IMPLICATION_OPTIMISTIC_ANNOTATION+PLANNING_GENERAL_POSITIVE_ANNOTATION+PLANNING_DETAILED_POSITIVE_ANNOTATION
+2020-02-04,10:53:23,0,Rebo4AI,1580810004412,That's very optimistic! Do you think there are any negative side-effects as well?,TUTOR
+2020-02-04,10:55:08,0,Kathrin,1580810108606,sadas dasd sad ,
+2020-02-04,10:55:11,0,Rebo4AI,1580810112475,"Now, you know somethings about AI and its effects on our life. How can the new learning be translated into practice?",TUTOR
+2020-02-04,10:55:40,0,Kathrin,1580810140455,"by reading more, knowing more about AI and applying into our life ",
+2020-02-04,10:55:41,0,Rebo4AI,1580810142492,What of these plans can you implement already in the next one or two weeks?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-04,10:58:01,0,Rebo4AI,1580810282584,Hello Rebo4AI!,TUTOR

@@ -1,0 +1,35 @@
+<entry timestamp="2020-03-05#09:18:00" user="NewAgentRunner" level="INFO">Logger initialized</entry>
+<entry timestamp="2020-03-05#09:18:00" user="NewAgentRunner" level="NORMAL">AgentOperator NewAgentRunner created</entry>
+<entry timestamp="2020-03-05#09:18:00" user="NewAgentRunner" level="NORMAL">Operation Created</entry>
+<entry timestamp="2020-03-05#09:18:00" user="NewAgentRunner" level="NORMAL">Classes: [class basilica2.agents.listeners.PresenceWatcher, class rebo4AI.MessageAnnotator.Rebo4AIMessageAnnotator, class basilica2.tutor.listeners.TutorialTriggerWatcher, class basilica2.tutor.listeners.TutorTurnWatcher]</entry>
+<entry timestamp="2020-03-05#09:18:00" user="NewAgentRunner" level="NORMAL">Classes: [class basilica2.agents.listeners.plan.PlanExecutor, class basilica2.tutor.listeners.TutorActor]</entry>
+<entry timestamp="2020-03-05#09:18:00" user="NewAgentRunner" level="NORMAL">Starting operation</entry>
+<entry timestamp="2020-03-05#09:18:00" user="NewAgentRunner" level="NORMAL">Operation started</entry>
+<entry timestamp="2020-03-05#09:18:00" user="NewAgentRunner" level="NORMAL">launching hands-free!</entry>
+<entry timestamp="2020-03-05#09:18:00" user="NewAgentRunner" level="NORMAL">setting basilica2.agents.room_name to debug</entry>
+<entry timestamp="2020-03-05#09:18:00" user="NewAgentRunner" level="NORMAL"><launching room=debug/></entry>
+<entry timestamp="2020-03-05#09:18:00" user="AgentFactory" level="NORMAL">Making Agent from agent.xml</entry>
+<entry timestamp="2020-03-05#09:18:00" user="AgentFactory" level="NORMAL">File Read</entry>
+<entry timestamp="2020-03-05#09:18:00" user="AgentFactory" level="NORMAL">Agent Tag Read</entry>
+<entry timestamp="2020-03-05#09:18:00" user="AgentFactory" level="NORMAL">Components Tag Read</entry>
+<entry timestamp="2020-03-05#09:18:00" user="AgentFactory" level="NORMAL">Components read. N=4</entry>
+<entry timestamp="2020-03-05#09:18:00" user="AgentFactory" level="NORMAL">Agent build. Rebo4AI_debug</entry>
+<entry timestamp="2020-03-05#09:18:00" user="NewAgentRunner" level="NORMAL">Adding agent Rebo4AI_debug</entry>
+<entry timestamp="2020-03-05#09:18:00" user="NewAgentRunner" level="INFO">Added. 1 agents now working</entry>
+<entry timestamp="2020-03-05#09:18:00" user="NewAgentRunner" level="INFO">Initializing new agent</entry>
+<entry timestamp="2020-03-05#09:18:00" user="PromptStepHandler" level="NORMAL">default priority=0.75, wait 0.1 seconds after prompts, +3.3333333333333335 wps</entry>
+<entry timestamp="2020-03-05#09:18:01" user="NewAgentRunner" level="INFO">Starting new Agent</entry>
+<entry timestamp="2020-03-05#09:18:01" user="NewAgentRunner" level="NORMAL">notified UI of agent launch for Rebo4AI_debug</entry>
+<entry timestamp="2020-03-05#09:18:01" user="NewAgentRunner" level="NORMAL">Agent added Rebo4AI_debug</entry>
+<entry timestamp="2020-03-05#09:18:06" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 1</entry>
+<entry timestamp="2020-03-05#09:18:07" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 1</entry>
+<entry timestamp="2020-03-05#09:18:07" user="PlanExecutor" level="NORMAL">PLAN: activiating next stage: initiate</entry>
+<entry timestamp="2020-03-05#09:18:07" user="PlanExecutor" level="NORMAL">Firing Stage 'initiate'</entry>
+<entry timestamp="2020-03-05#09:18:07" user="Step" level="NORMAL">Handlers for IDSAI(dialogue): [basilica2.tutor.listeners.DialogStepHandler@3bd3a0b9]</entry>
+<entry timestamp="2020-03-05#09:18:08" user="" level="NORMAL">ACCEPTED! Message from Rebo4AI: Hi, I'm Rebo4AI; a prototype conversational agent. With me, you can currently discuss only about intelligence. Is that OK with you; do you want to start a conversation? TUTOR</entry>
+<entry timestamp="2020-03-05#09:18:16" user="" level="NORMAL">ACCEPTED! Message from Rebo4AI: In the TUGraz lecture "<i>Introduction to Data Science and Artificial Intelligence (IDSA)</i>", different definitions of intelligence have been discussed. According to different definitions, something or someone would be called intelligent if it <b>thinks humanly</b>, <b>acts humanly</b>, <b>thinks rationally</b>, <b>acts rationally</b>; or if it is able to adapt behaviour to a changing environment in order to achieve its goals. I'm not sure I completely understand. | I have this information from <a href="https://tc.tugraz.at/main/pluginfile.php/181506/mod_resource/content/1/1a%20-%20IDSAI%202020%20Introduction.pdf" target="_blank">HERE</a>|I'm curious: Is a baby now intelligent or not? Why? TUTOR</entry>
+<entry timestamp="2020-03-05#09:21:08" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 1</entry>
+<entry timestamp="2020-03-05#09:21:08" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 1</entry>
+<entry timestamp="2020-03-05#09:21:16" user="" level="NORMAL">ACCEPTED! Message from Rebo4AI: I'm not sure I understood - which definition of intelligence did you make in deciding that a baby is (not) intelligent? TUTOR</entry>
+<entry timestamp="2020-03-05#09:21:25" user="NewAgentRunner" level="NORMAL">Starting operation</entry>
+<entry timestamp="2020-03-05#09:21:25" user="NewAgentRunner" level="NORMAL">Operation started</entry>

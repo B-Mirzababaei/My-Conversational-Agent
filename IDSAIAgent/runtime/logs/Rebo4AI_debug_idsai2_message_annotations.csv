@@ -1,0 +1,13 @@
+2020-02-27,09:59:10,0,Rebo4AI,1582793950810,I'm Rebo4AI; I'm a prototype conversational agent.,INTRODUCE
+2020-02-27,09:59:12,0,Rebo4AI,1582793952844,How are you?,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-02-28,09:46:41,0,Rebo4AI,1582879601968,I'm Rebo4AI; I'm a prototype conversational agent.,INTRODUCE
+2020-02-28,09:46:43,0,Rebo4AI,1582879604000,How are you?,TUTOR
+2020-02-28,09:47:07,0,debugger,1582879627245,ssss ...  | dsds ...  | sdsds... | ...dsdsd,IDSAI_QUESTION1_WITHOUT_REASON+TRUE
+2020-02-28,09:47:07,0,Rebo4AI,1582879628026,"You have learned in the ""Introduction to Data Science and Artificial Intelligence"" different definitions of intelligence; I have not been able to follow!",TUTOR
+2020-02-28,09:47:07,0,Rebo4AI,1582879628033,But I'm curious: Is a duck now intelligent or not? Why?,TUTOR
+2020-02-28,09:57:07,0,Rebo4AI,1582880228449,Are you personally satisfied with this decision and definition?,TUTOR
+2020-02-28,10:07:08,0,Rebo4AI,1582880828853,How interesting is it for you to know whether a duck is intelligent or not?,TUTOR
+2020-02-28,10:17:08,0,Rebo4AI,1582881429250,"What in your life would change, depending on whether you see a duck as intelligent or not?",TUTOR
+2020-02-28,10:27:08,0,Rebo4AI,1582882029711,Interesting! Thanks!,TUTOR
+2020-02-28,10:27:08,0,Rebo4AI,1582882029712,See you soon!,TUTOR
