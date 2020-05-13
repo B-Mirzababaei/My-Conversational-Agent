@@ -3,8 +3,11 @@ MTurkAgent/runtime/logs/
 MTurkAgent/runtime/behaviors/
 MTurkAgent/runtime/planstatus/
 
+IDSAIAgent/runtime/logs/
+IDSAIAgent/runtime/planstatus/
+
 .metadata/
 
 *.class
 
-*.dat
+*.

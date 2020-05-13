@@ -24,3 +24,9 @@ DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
 2020-02-04,10:55:41,0,Rebo4AI,1580810142492,What of these plans can you implement already in the next one or two weeks?,TUTOR
 DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
 2020-02-04,10:58:01,0,Rebo4AI,1580810282584,Hello Rebo4AI!,TUTOR
+DATE,TIME,TYPING_DURATION,AUTHOR,NOTE,TEXT,ANNOTATIONS
+2020-05-13,09:46:32,0,Rebo4AI,1589355992482,"Hi, I'm Rebo4AI; a prototype conversational agent. With me, you can currently discuss only about intelligence. Is that OK with you; do you want to start a conversation? (please answer: yes)",TUTOR
+2020-05-13,09:46:44,0,ss,1589356004211,yes,IDSAI_QUESTION1_WITHOUT_REASON+TRUE+ACCEPT_SCENARIO+YES
+2020-05-13,09:46:44,0,Rebo4AI,1589356004517,"In the TUGraz lecture ""<i>Introduction to Data Science and Artificial Intelligence (IDSA)</i>"", different definitions of intelligence have been discussed. According to different definitions, something or someone would be called intelligent if it <b>thinks humanly</b>, <b>acts humanly</b>, <b>thinks rationally</b>, <b>acts rationally</b>; or if it is <b>able to adapt behaviour</b> to a changing environment in order to achieve its goals.",TUTOR
+2020-05-13,09:46:44,0,Rebo4AI,1589356004518,"I have this information from <a target=""_blank"" rel=""noopener noreferrer"" href=""http://rebo4ai.know-center.tugraz.at/bazaar/data/IDSAI/1a_Introduction.pdf"" download=""http://rebo4ai.know-center.tugraz.at/bazaar/data/IDSAI/1a_Introduction.pdf"">here</a>. But, I'm not sure I completely understand.",TUTOR
+2020-05-13,09:46:44,0,Rebo4AI,1589356004519,I'm curious: Is a notebook now intelligent or not? Why?,TUTOR

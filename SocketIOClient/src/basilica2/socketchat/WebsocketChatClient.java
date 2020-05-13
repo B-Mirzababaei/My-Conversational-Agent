@@ -205,8 +205,8 @@ public class WebsocketChatClient extends Component implements ChatClient
 	protected void insertMessage(String message)
 	{
 		/* Behzad
-		 * when the client emits 'adduser', this listens and executes
-		 * socket.on('adduser', function(room, username, temporary, id, perspective){
+		 * when the client emits 'sendchat', this listens and executes
+		 * socket.on('sendchat', function(room, username, temporary, id, perspective){
 		 * (check server_bdemooc_xu.js to find out what happen)
 		 * 
 		 */
