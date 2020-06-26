@@ -11,5 +11,14 @@ IDSAIAgent/runtime/planstatus/
 *.class
 
 *.
-/Rebo4aiAgent/runtime/LightSide_2.3.1_20141107
+/Rebo4aiAgent/logs
+/IDSAIAgent/.idea
+/Rebo4aiAgent/.idea
+/IDSAIAgent/runtime/logs
+/IDSAIAgent/logs
+/Rebo4aiAgent/runtime/logs
 /RemoteSystemsTempFiles
+/Rebo4aiAgent/runtime/LightSide_2.3.1_20141107
+IDSAIAgent/IDSAIAgent.launch
+Rebo4aiAgent/Rebo4aiAgent.launch
+IDSAIAgent/IDSAIAgent.launch

@@ -39,7 +39,7 @@
 	<concepts>
 	
 		<concept label="introduction">
-			<phrase>In the TUGraz lecture "IDSAI_COURSE_TITLE", different definitions of intelligence have been discussed. According to different definitions, something or someone would be called intelligent if it IDSAI_TH, IDSAI_AH, IDSAI_TR, IDSAI_AR; or if it is IDSAI_AB to a changing environment in order to achieve its goals. | I have this information from IDSAI_COURSE_SLIDES. But, I'm not sure I completely understand.</phrase>
+			<phrase>In the TUGraz lecture "IDSAI_COURSE_TITLE", different definitions of intelligence have been discussed. According to different definitions, something or someone would be called intelligent if it IDSAI_TH, IDSAI_AH, IDSAI_TR, IDSAI_AR; or if it is IDSAI_AB to learn from experience. | I have this information from IDSAI_COURSE_SLIDES. But, I'm not sure I completely understand.</phrase>
 			
 		</concept>
 		<concept label="question1">
