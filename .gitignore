@@ -1,9 +1,7 @@
 
-MTurkAgent/runtime/logs/
 MTurkAgent/runtime/behaviors/
 MTurkAgent/runtime/planstatus/
 
-IDSAIAgent/runtime/logs/
 IDSAIAgent/runtime/planstatus/
 
 .metadata/
@@ -11,15 +9,13 @@ IDSAIAgent/runtime/planstatus/
 *.class
 
 *.
-/Rebo4aiAgent/logs
-/IDSAIAgent/.idea
-/Rebo4aiAgent/.idea
-/IDSAIAgent/runtime/logs
-/IDSAIAgent/logs
-/Rebo4aiAgent/runtime/logs
+logs
+*/.idea
+.project
 /RemoteSystemsTempFiles
 /Rebo4aiAgent/runtime/LightSide_2.3.1_20141107
 IDSAIAgent/IDSAIAgent.launch
 Rebo4aiAgent/Rebo4aiAgent.launch
 IDSAIAgent/IDSAIAgent.launch
 Rebo4aiAgent/bin/.gitignore
+/lightside/*
