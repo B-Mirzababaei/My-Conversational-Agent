@@ -39,6 +39,5 @@
 	<classpathentry combineaccessrules="false" kind="src" path="/SocketIOClient"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/LightSideMessageAnnotator"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/lightside"/>
-
 	<classpathentry kind="output" path="bin"/>
 </classpath>
