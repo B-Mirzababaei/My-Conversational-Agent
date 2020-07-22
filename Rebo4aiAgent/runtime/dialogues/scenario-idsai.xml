@@ -110,6 +110,14 @@
 			<phrase>Just think about four different concepts of an intelligent entity which are act rationally, think humanly, act humanly, and think rationally then use these concepts for reasoning. | Based on these concepts, do you think RANDOM_EXAMPLE is intelligent or not? Why?</phrase>
 		</concept>
 		
+		<concept label="question1_lyes_exp">
+			<phrase>SO YOU THINK IT IS INTELLIGET!!!</phrase>
+		</concept>
+		
+		<concept label="question1_lno_exp">
+			<phrase>SO YOU THINK IT IS NOT INTELLIGENT!!!</phrase>
+		</concept>
+		
 		<concept label="question2">
 			<phrase>Are you personally satisfied with this decision and definition?</phrase>
 		</concept>
@@ -147,6 +155,8 @@
 			<phrase>See you next time!</phrase>
 		</concept>
 		
+		
+		
 		<!-- these match against external (MessageAnnotator) annotations. -->
 
 		<concept label="question1_dont_know_annotation" type="annotation">
@@ -172,6 +182,12 @@
 		</concept>
 		<concept label="question1_adaption_annotation" type="annotation">
 			<phrase>IDSAI_QUESTION1_ADAPTION</phrase>
+		</concept>
+		<concept label="question1_lyes_annotation" type="annotation">
+			<phrase>LYES</phrase>
+		</concept>
+		<concept label="question1_lno_annotation" type="annotation">
+			<phrase>LNO</phrase>
 		</concept>
 		<!--  <concept label="question1_act_reasonably_no_annotation" type="annotation">
 			<phrase>IDSAI_QUESTION1_ACT_REASONABLY_NO</phrase>
@@ -224,15 +240,19 @@
 			</step>
 			<step >
 				<initiation>question1</initiation>
-				<response push="question1_without_reason">question1_without_reason_annotation</response>
-				<response push="question1_dont_know">question1_dont_know_annotation</response>
+
+				<response push="question1_lyes">question1_lyes_annotation</response>
+				<response push="question1_lno">question1_lno_annotation</response>
 				
+				<!--
+								<response push="question1_without_reason">question1_without_reason_annotation</response>
+				<response push="question1_dont_know">question1_dont_know_annotation</response>
 				<response push="question1_act_reasonably">question1_act_reasonably_annotation</response>				
 				<response push="question1_act_humanly">question1_act_humanly_annotation</response>
 				<response push="question1_think_reasonably">question1_think_reasonably_annotation</response>
 				<response push="question1_think_humanly">question1_think_humanly_annotation</response>
 				<response push="question1_adaption">question1_adaption_annotation</response>
-				
+				-->
 				<!-- 
 				
 				<response push="question1_act_reasonably_no">question1_act_reasonably_no_annotation</response>
@@ -299,7 +319,16 @@
 		<!-- Behzad Goals are referenced by their names. "difficulty" is meaningless for now. -->
 
 		
-		
+		<goal name="question1_lyes" difficulty="1">
+			<step>
+				<initiation>question1_lyes_exp</initiation>
+			</step>
+		</goal>
+		<goal name="question1_lno" difficulty="1">
+			<step>
+				<initiation>question1_lno_exp</initiation>
+			</step>
+		</goal>
 		<goal name="question1_dont_know" difficulty="1">
 			<step>
 				<initiation>question1_dont_know_exp</initiation>
