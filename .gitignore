@@ -19,3 +19,4 @@ Rebo4aiAgent/Rebo4aiAgent.launch
 IDSAIAgent/IDSAIAgent.launch
 Rebo4aiAgent/bin/.gitignore
 /lightside/*
+*/build.xml
