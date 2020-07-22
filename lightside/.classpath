@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
-		<attributes>
-			<attribute name="module" value="true"/>
-			<attribute name="limit-modules" value="java.se,jdk.accessibility,jdk.httpserver,jdk.jartool,jdk.javadoc,jdk.jconsole,jdk.jshell,jdk.jsobject,jdk.management.jfr,jdk.net,jdk.scripting.nashorn,jdk.sctp,jdk.security.auth,jdk.security.jgss,jdk.unsupported,jdk.unsupported.desktop"/>
-		</attributes>
-	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="src" path="plugins"/>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="wekafiles/packages/bayesianLogisticRegression/src/main/java"/>
-	<classpathentry kind="src" path="wekafiles/packages/bayesianLogisticRegression/src/test/java"/>
 	<classpathentry kind="src" path="wekafiles/packages/chiSquaredAttributeEval/src/main/java"/>
 	<classpathentry kind="src" path="wekafiles/packages/chiSquaredAttributeEval/src/test/java"/>
 	<classpathentry kind="src" path="wekafiles/packages/LibLINEAR/src/main/java"/>
@@ -83,16 +77,5 @@
 	<classpathentry kind="lib" path="wekafiles/packages/LibLINEAR/toys/LibLINEAR.jar"/>
 	<classpathentry kind="lib" path="wekafiles/packages/LibSVM/lib/libsvm.jar"/>
 	<classpathentry kind="lib" path="wekafiles/packages/LibSVM/LibSVM.jar"/>
-	<classpathentry kind="lib" path="C:/Users/bmirzababaei/.m2/repository/nz/ac/waikato/cms/weka/weka-dev/3.9.4/weka-dev-3.9.4-tests.jar" sourcepath="C:/Users/bmirzababaei/.m2/repository/nz/ac/waikato/cms/weka/weka-dev/3.9.4/weka-dev-3.9.4-test-sources.jar">
-		<attributes>
-			<attribute name="test" value="true"/>
-			<attribute name="maven.pomderived" value="true"/>
-			<attribute name="maven.groupId" value="nz.ac.waikato.cms.weka"/>
-			<attribute name="maven.artifactId" value="weka-dev"/>
-			<attribute name="maven.version" value="3.9.4"/>
-			<attribute name="maven.classifier" value="tests"/>
-			<attribute name="maven.scope" value="test"/>
-		</attributes>
-	</classpathentry>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

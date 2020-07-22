@@ -31,6 +31,7 @@ import org.simpleframework.http.core.ContainerServer;
 import org.simpleframework.transport.Server;
 import org.simpleframework.transport.connect.Connection;
 import org.simpleframework.transport.connect.SocketConnection;
+import java.util.logging.Logger;
 
 import edu.cmu.side.model.data.DocumentList;
 import edu.cmu.side.model.data.PredictionResult;
@@ -46,12 +47,14 @@ import edu.cmu.side.model.data.PredictionResult;
 public class PredictionServer implements Container
 {
 	protected static Map<String, Predictor> predictors = new HashMap<String, Predictor>();
+	protected static final Logger logger = Logger.getLogger(Logger.GLOBAL_LOGGER_NAME);
 
 	private final Executor executor;
 
 	public static void serve(int port, int threads) throws Exception
 	{
 		Container container = new PredictionServer(threads);
+		logger.info("PredictionServer -----------------------------57---------------------------------------------- ");
 
 		Server server = new ContainerServer(container);
 		Connection connection = new SocketConnection(server);
@@ -247,6 +250,8 @@ public class PredictionServer implements Container
 	 */
 	protected String handleUpload(Request request, Response response) throws IOException, FileNotFoundException
 	{
+		logger.info("PredictionServer -------------------------253-------------------");
+
 		Part part = request.getPart("model");
 		String nick = request.getPart("modelNick").getContent();
 		String path = part.getFileName();
@@ -385,6 +390,8 @@ public class PredictionServer implements Container
 
 	public static void main(String[] args) throws Exception
 	{
+		logger.info("This is the main function of PredictionServer.java");
+
 		if (args.length < 1)
 		{
 			printUsage();
@@ -413,7 +420,8 @@ public class PredictionServer implements Container
 			String[] modelConfig = args[i].split(":");
 			String modelNick = modelConfig[0];
 			String modelPath = modelConfig[1];
-
+			logger.info("ATTACHING modelNick:" + modelNick+ " ------");
+			logger.info("ATTACHING modelPath:" + modelPath+ " ------");
 			attachModel(modelNick, modelPath);
 		}
 
