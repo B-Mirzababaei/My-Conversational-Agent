@@ -21,3 +21,5 @@ Rebo4aiAgent/bin/.gitignore
 /lightside/*
 */build.xml
 lightside/lightside_log.log
+Rebo4aiAgent/Rebo4aiAgent.jar
+lightside.tar
