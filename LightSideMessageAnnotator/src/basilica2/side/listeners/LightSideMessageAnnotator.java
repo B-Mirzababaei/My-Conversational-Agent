@@ -67,7 +67,7 @@ public class LightSideMessageAnnotator extends BasilicaAdapter
 			System.err.println("--------------------pos:saved/pos.model.side-------------------------0-0-0-0-0-0-0-0-0-0-0-0-0-----------------pos:saved/pos.model.side------------------");
 
 
-			ProcessBuilder pb = new ProcessBuilder(predictionCommand,port,modelNickname + ":" + modelPath + modelName + " pos:saved/pos.model.side");
+			ProcessBuilder pb = new ProcessBuilder(predictionCommand,port,modelNickname + ":" + modelPath + modelName);
 			log(Logger.LOG_NORMAL, "-------------------2222-------------------- 64  ================================= ");
 
 			pb.directory(lightSideLocation);
@@ -134,62 +134,10 @@ public class LightSideMessageAnnotator extends BasilicaAdapter
 			me.addAnnotations(label);
 			
 		}
-		String label1 = annotateText_pos(text);
 
-		if (label1 != null)
-		{
-			log(Logger.LOG_WARNING, "-------------------7777------------------preProcessEvent-- " + label1 + " ==============" + label1.toUpperCase() +"=================== ");
-
-			me.addAnnotations(label1.toUpperCase());
-			
-		}
 	}
 
-	public String annotateText_pos(String text)
-	{
-		log(Logger.LOG_NORMAL, "-------------------3333-------------------- annotateText_pos ================================= ");
-
-		try {
-			System.err.println("=== LightSideMessageAnnotator - classification " + text + " =================================");
-			log(Logger.LOG_NORMAL, "-------------------3333--------------------0 annotateText ============"+ host+ "===================== ");
-			log(Logger.LOG_NORMAL, "-------------------3333--------------------0 annotateText =============" + port + "==================== ");
-			log(Logger.LOG_NORMAL, "-------------------3333--------------------0 annotateText =============" + "pos.model.xml"  + "=================== ");
-			log(Logger.LOG_NORMAL, "-------------------3333--------------------0 annotateText ==============" +charset + "=================== ");
-			log(Logger.LOG_ERROR, "-------------------3333--------------------0 annotateText ==============" +host + ":" + port + "/try/pos" + "=================== ");
-
-			MultipartUtility mUtil = new MultipartUtility(host + ":" + port + "/try/pos" , charset);
-			log(Logger.LOG_NORMAL, "-------------------3333--------------------1 annotateText ================================= ");
-		
-            mUtil.addFormField("sample", text);
-    		log(Logger.LOG_NORMAL, "-------------------3333--------------------2 annotateText ================================= ");
-
-            mUtil.addFormField("model", modelPath + "pos.model.xml" );
-			log(Logger.LOG_NORMAL, "-------------------3333--------------------3 annotateText ============"+ modelPath+ "===================== ");
-            List<String> finish = mUtil.finish();
-    		log(Logger.LOG_NORMAL, "-------------------3333--------------------4 annotateText ================================= ");
-            StringBuilder response = new StringBuilder();
-            for (String line : finish) {
-                response.append(line);
-                response.append('\r');
-            }
-    		log(Logger.LOG_NORMAL, "-------------------3333--------------------5 annotateText ================================= ");
-
-            String classifications = parseLightSideResponse(response);
-    		log(Logger.LOG_NORMAL, "-------------------3333--------------------6 annotateText ================================= ");
-
-            return classifications; 
-	    } catch (IOException e) {
-	    	StringWriter sw = new StringWriter();
-            e.printStackTrace(new PrintWriter(sw));
-            String exceptionAsString = sw.toString();
-            
-			log(Logger.LOG_NORMAL, "-------------------3333 outer-------------------- annotateText ====LightSide returned null============================= " + exceptionAsString);
-
-	    	e.printStackTrace();
-	    	return "LightSide returned null"; 
-//	    	return "DETECTED" 
-	    }	
-	}
+	
 	public String annotateText(String text)
 	{
 		log(Logger.LOG_NORMAL, "-------------------3333-------------------- annotateText ================================= ");
