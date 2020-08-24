@@ -9,7 +9,7 @@ IDSAIAgent/runtime/planstatus/
 .metadata/
 
 *.class
-.project
+*.project
 
 *.
 /Rebo4aiAgent/logs
@@ -25,3 +25,13 @@ Rebo4aiAgent/Rebo4aiAgent.launch
 IDSAIAgent/IDSAIAgent.launch
 /lightside/wekafiles/packages
 /lightside/bin/wekafiles/packages
+AccountableTalkAgent/.project
+Rebo4aiAgent/bin/build.xml
+SocialAgent/.project
+Synonymizer/.project
+lightside/.project
+lightside/wekafiles/packages/LibLINEAR/.project
+lightside/wekafiles/packages/LibSVM/.project
+lightside/wekafiles/packages/bayesianLogisticRegression/.project
+lightside/wekafiles/packages/chiSquaredAttributeEval/.project
+*/build.xml
