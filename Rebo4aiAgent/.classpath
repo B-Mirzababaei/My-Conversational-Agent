@@ -39,5 +39,7 @@
 	<classpathentry combineaccessrules="false" kind="src" path="/SocketIOClient"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/LightSideMessageAnnotator"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/lightside"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/LightSideMessageAnnotator2"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/PythonMessageAnnotator"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

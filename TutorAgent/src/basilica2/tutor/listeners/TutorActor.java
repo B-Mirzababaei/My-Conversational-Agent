@@ -36,9 +36,11 @@ import java.io.File;
 import java.io.FileReader;
 import java.nio.file.Path;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+import java.util.Random;
 
 import org.apache.xerces.parsers.DOMParser;
 import org.w3c.dom.Document;
@@ -119,6 +121,7 @@ public class TutorActor extends BasilicaAdapter implements TimeoutReceiver
 		public String cancelText;
 		public Map<String, List<String>> randomElements = new HashMap<String, List<String>>();
 		public Map<String, String> htmlTagElements = new HashMap<String, String>();
+		public Map<String, List<String>> knowledge_base = new HashMap<String, List<String>>();
 
 		public Map<String, String> selectedRandomElement = new HashMap<String, String>();
 
@@ -159,16 +162,24 @@ public class TutorActor extends BasilicaAdapter implements TimeoutReceiver
 				loadDictionaryFolder(folder);
 				for (Map.Entry<String,List<String>> entry : randomElements.entrySet()) {
 					String key= entry.getKey();
-					if (key.equals("RANDOM_EXAMPLE")) {
-						List<String> values = entry.getValue();
-						selectedRandomElement.put(key, values.get((int) Math.floor(values.size() * Math.random())));
-					}
+					
 					if (key.equals("HTML_TAGS")) {
 						List<String> values = entry.getValue();
 						for (String tag : values) {
 							htmlTagElements.put(tag.split("\t")[0], tag.split("\t")[1]);	
 						}
 						
+					}
+					if (key.equals("RANDOM_EXAMPLE")) {
+						List<String> values = entry.getValue();
+						selectedRandomElement.put(key, values.get((int) Math.floor(values.size() * Math.random())));
+					}
+					if (key.equals("KNOWLEDGE_BASE")) {
+						List<String> values = entry.getValue();
+						for (String tag : values) {
+							List<String> items = Arrays.asList(tag.split("\t"));
+							knowledge_base.put(items.get(0), items.subList(1, items.size()));
+						}
 					}
 					
 					
@@ -283,6 +294,8 @@ public class TutorActor extends BasilicaAdapter implements TimeoutReceiver
 							introText = introElement.getTextContent();
 							/* Behzad, if you want to add hyperlink in dialog-config.xml, you need to do sth here!!!
 							 * Right now, you don't know, but you will figure it out. Maybe this place is wrong at all.
+							 * 
+							 * IT IS A WRONG PLACE. USE HTML_TAGS IN DATA FOLDER of YOUR AGENT
 							 */
 							//introText = introText + " " + "<a href=\"https://www.google.com\">HERE.</a>";
 						}
@@ -301,7 +314,16 @@ public class TutorActor extends BasilicaAdapter implements TimeoutReceiver
 							cancelAnnotation = cancelElement.getAttribute("annotation");
 							cancelText = cancelElement.getTextContent();
 						}
+						/* Behzad:
+						 *	You can randomly select your dialog file here. It helps to know your dialog before reading the knowledge_base file
+						 *	If you know your entity here, you can prune the knowledge_base file or having several knowledge_based files
+						 */
+						//name = chooseDialogFileRandomly();
+						//-----------------------------------------
+						
 						Dialog d = new Dialog(conceptName, name, introText, cueAnnotation, cueText, cancelAnnotation, cancelText);
+						
+						
 						proposedDialogs.put(conceptName, d);
 					}
 				}
@@ -427,6 +449,36 @@ public class TutorActor extends BasilicaAdapter implements TimeoutReceiver
 		}
 	}
 		
+	public List<String> getListOfScenarios(File dir) 
+	{
+		List<String> scenarios = new ArrayList<String>();
+		File[] dictNames = dir.listFiles();
+
+		for (File dictFile : dictNames)
+		{
+			if (dictFile.isDirectory())
+				getListOfScenarios(dictFile);
+			else if(dictFile.getName().endsWith(".xml") && dictFile.getName().startsWith("scenario"))
+			{
+				String name = dictFile.getName().replace(".xml", "");
+				scenarios.add(name);
+			}
+		}		
+		return scenarios;
+	}
+	
+	
+	public String chooseDialogFileRandomly()
+	{
+		File folder = new File("dialogues/");
+		List<String> scenario_files = getListOfScenarios(folder);
+		Random rand = new Random();
+	    String randomElement = scenario_files.get(rand.nextInt(scenario_files.size()));
+	    source.dialog_name = randomElement;
+	    return randomElement;
+
+	}
+	
 	
 	public void startDialog(Dialog d)
 	{
@@ -435,6 +487,14 @@ public class TutorActor extends BasilicaAdapter implements TimeoutReceiver
 		currentConcept = d.conceptName;
 		currentAutomata = new TuTalkAutomata("tutor", "students");
 		currentAutomata.setEvaluator(new FuzzyTurnEvaluator());
+		
+		
+		/* 
+		 * Behzad: By this part of code you can choose a dialog file randomly:
+		*/
+		d.scenarioName = chooseDialogFileRandomly();
+		//-----------------------------------------------------------------------
+		
 		currentAutomata.setScenario(Scenario.loadScenario(dialogueFolder  + File.separator + d.scenarioName + ".xml"));
 		
 		TutoringStartedEvent tse = new TutoringStartedEvent(source, d.scenarioName, d.conceptName);
@@ -578,10 +638,39 @@ public class TutorActor extends BasilicaAdapter implements TimeoutReceiver
 		return texts[(int)(Math.random()*texts.length)];
 	}
 	
+	//Behzad replaceRandomPhrase
 	private List<String> replaceRandomPhrase(List<String> tutorTurns) {
 		for (int i = 0; i < tutorTurns.size(); i++) {
 			for (Map.Entry<String,String> entry : this.proposedDialogs.get(this.currentConcept).selectedRandomElement.entrySet()) {
 				tutorTurns.set(i, tutorTurns.get(i).replace(entry.getKey(), entry.getValue()));
+			}
+			for (Map.Entry<String,String> entry : this.proposedDialogs.get(this.currentConcept).htmlTagElements.entrySet()) {
+				tutorTurns.set(i, tutorTurns.get(i).replace(entry.getKey(), entry.getValue()));	
+			}
+			for (Map.Entry<String, List<String>> entry : this.proposedDialogs.get(this.currentConcept).knowledge_base.entrySet()) {
+				String tmp = entry.getValue().get((int) Math.floor(entry.getValue().size() * Math.random()));
+				tutorTurns.set(i, tutorTurns.get(i).replace(entry.getKey(), tmp));	
+			}
+		}
+		
+		
+		return tutorTurns;
+	}
+	
+	/* Behzad: When you want to use one dialog for all entities and also use USER_CLAIM_IS_POSITIVE in dialog file and finally write all dialog expression in knowledge_base.txt file
+	 * 
+	 * 	private List<String> replaceRandomPhrase(List<String> tutorTurns) {
+		for (int i = 0; i < tutorTurns.size(); i++) {
+			for (Map.Entry<String,String> entry : this.proposedDialogs.get(this.currentConcept).selectedRandomElement.entrySet()) {
+				if (tutorTurns.get(i).equals("USER_CLAIM_IS_POSITIVE") && this.proposedDialogs.get(this.currentConcept).selectedRandomElement.get("INTELLIGENCE").equals("negative")) {
+					tutorTurns.set(i, tutorTurns.get(i).replace("USER_CLAIM_IS_POSITIVE", this.proposedDialogs.get(this.currentConcept).selectedRandomElement.get("OPPOSITE_CLAIM")));
+				}
+				else if (tutorTurns.get(i).equals("USER_CLAIM_IS_NEGATIVE") && this.proposedDialogs.get(this.currentConcept).selectedRandomElement.get("INTELLIGENCE").equals("positive")) {
+					tutorTurns.set(i, tutorTurns.get(i).replace("USER_CLAIM_IS_NEGATIVE", this.proposedDialogs.get(this.currentConcept).selectedRandomElement.get("OPPOSITE_CLAIM")));
+				}
+				else {
+					tutorTurns.set(i, tutorTurns.get(i).replace(entry.getKey(), entry.getValue()));
+				}
 			}
 			for (Map.Entry<String,String> entry : this.proposedDialogs.get(this.currentConcept).htmlTagElements.entrySet()) {
 				tutorTurns.set(i, tutorTurns.get(i).replace(entry.getKey(), entry.getValue()));	
@@ -591,11 +680,14 @@ public class TutorActor extends BasilicaAdapter implements TimeoutReceiver
 		
 		return tutorTurns;
 	}
+	 * 
+	 * 
+	 */
 	
 	private void processTutorTurns(List<String> tutorTurns)
 	{
 		/* Behzad
-		 * Replace RANDOM_ELEMENT with a random phrase which is loacated into data/<conceptName>
+		 * Replace RANDOM_ELEMENT with a random phrase which is located into data/<conceptName>
 		 * 
 		 */
 		tutorTurns = replaceRandomPhrase(tutorTurns);

@@ -51,6 +51,7 @@ public class InputCoordinator extends Component
     Set<PriorityEvent> proposals = new HashSet<PriorityEvent>();
     private OutputCoordinator outputCoordinator;
     public UserMessageHistory userMessages = new UserMessageHistory();
+    public String dialog_name = null; 
     public String user = null;
     
     

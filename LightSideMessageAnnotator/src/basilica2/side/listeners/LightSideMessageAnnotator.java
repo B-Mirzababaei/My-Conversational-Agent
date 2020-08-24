@@ -31,6 +31,13 @@ public class LightSideMessageAnnotator extends BasilicaAdapter
     MultipartUtility mUtil; 
     Hashtable<String, Double> classify_dict = new Hashtable<String, Double>();
 	
+    //Behzad: for replacing the entities to ENT
+    Map<String, String> similarNames = new HashMap<String, String>();
+	
+   
+
+    
+    
 	public LightSideMessageAnnotator(Agent a)
 	{
 		super(a);
@@ -53,10 +60,21 @@ public class LightSideMessageAnnotator extends BasilicaAdapter
 		for (int i=0; i<listLength; i+=2) {
 			classify_dict.put(classificationList[i],Double.parseDouble(classificationList[i+1]));
 		}
-		classify_dict.put("detected",Double.parseDouble("60"));
-		classify_dict.put("notdetected",Double.parseDouble("60"));
+//		classify_dict.put("detected",Double.parseDouble("60"));
+//		classify_dict.put("notdetected",Double.parseDouble("60"));
 		log(Logger.LOG_NORMAL, "-------------------2222-------------------- 52 ================================= ");
-
+//
+		log(Logger.LOG_NORMAL, "--------------------------------------- Loading similar names of each entity ================================= ");
+		similarNames.put("scenario-idsai-google", "\\b(a|an|the)?\\s?\\b(google('s)? search engine|google)(s)?\\b");
+		similarNames.put("scenario-idsai-liberty", "\\b(a|an|the)?\\s?\\b(new york statue of liberty|statue of liberty|thenew york statue of liberty|new york state of liberty|ny statue of liberty|new york status of liberty|newyork statue of liberty)(s)?\\b");
+		similarNames.put("scenario-idsai-tree", "\\b(a|an|the)?\\s?\\b(tree)(s)?\\b");
+		similarNames.put("scenario-idsai-monkey", "\\b(a|an|the)?\\s?\\b(google('s)? search engine|google)(s)?\\b");
+		similarNames.put("scenario-idsai-sunflower", "\\b(a|an|the)?\\s?\\b(sun\\s?flower|flower)(s)?\\b");
+		similarNames.put("scenario-idsai-self-driving-car", "\\b(a|an|the)?\\s?\\b(self (- )?driving car)(s)?\\b");
+		similarNames.put("scenario-idsai-venus-trap", "\\b(a|an|the)?\\s?\\b(venus fly trap|venus fly\\s?(trap)?)(s)?\\b");
+		similarNames.put("scenario-idsai-cat", "\\b(a|an|the)?\\s?\\b(cat)(s)?\\b");
+		
+		
 		try {
 			log(Logger.LOG_NORMAL, "-------------------2222-------------------- 55  ================================= " + predictionCommand);
 			log(Logger.LOG_NORMAL, "-------------------2222-------------------- 55  ================================= " + port);
@@ -64,7 +82,6 @@ public class LightSideMessageAnnotator extends BasilicaAdapter
 			log(Logger.LOG_NORMAL, "-------------------2222-------------------- 55  ================================= " + modelPath);
 			log(Logger.LOG_NORMAL, "-------------------2222-------------------- 55  ================================= " + modelName);
 			log(Logger.LOG_NORMAL, "-------------------2222-------------------- 55  ================================= " + lightSideLocation);
-			System.err.println("--------------------pos:saved/pos.model.side-------------------------0-0-0-0-0-0-0-0-0-0-0-0-0-----------------pos:saved/pos.model.side------------------");
 
 
 			ProcessBuilder pb = new ProcessBuilder(predictionCommand,port,modelNickname + ":" + modelPath + modelName);
@@ -118,25 +135,71 @@ public class LightSideMessageAnnotator extends BasilicaAdapter
 	@Override
 	public void preProcessEvent(InputCoordinator source, Event event)
 	{
-		log(Logger.LOG_NORMAL, "-------------------3333-------------------- preProcessEvent ================================= ");
-
+		
+		log(Logger.LOG_NORMAL, "-------------------3333-------------------- cleaning the text ================================= ");
+		
 		MessageEvent me = (MessageEvent) event;
 		System.out.println(me);
 
 		String text = me.getText();
+		text = cleanText(text);
+		text = replaceEntity(text, source.dialog_name);
+
+		
 		log(Logger.LOG_NORMAL, "-------------------3333------------------preProcessEvent-- " + text + " ================================= ");
 
 		String label = annotateText(text);
-		if (label != null)
+		if (label != null && !label.equals(""))
 		{
 			log(Logger.LOG_WARNING, "-------------------7777------------------preProcessEvent-- " + label + " ================================= ");
-
+				
 			me.addAnnotations(label);
 			
+		}
+		else {
+			me.addAnnotations("CLAIM_NONE");
 		}
 
 	}
 
+	public String replaceEntity(String text, String dialog_name)
+	{
+		if (similarNames.containsKey(dialog_name)) {
+			text = text.replaceAll(similarNames.get(dialog_name), " ENT ");
+			text = text.replaceAll(" ( )+", " ");
+
+		}
+		
+		return text.trim();
+	}
+	
+	public String cleanText(String text)
+	{
+		// ([.":,;\-\)\(!?]) => \s\1\s
+	   if(text == null)
+			return text;
+		
+		String rettext = text.replaceAll("([.\":,\\[\\]\\{\\}_\\\\\\/;\\-\\)\\(!?])", " $1 ");
+//		rettext = rettext.replace(".", " . ");
+//		rettext = rettext.replace("?", " ? ");
+//		rettext = rettext.replace("!", " ! ");
+//		rettext = rettext.replace(":", " : ");
+//		rettext = rettext.replace("\"", " \" ");
+//		rettext = rettext.replace("-", " - ");
+//		rettext = rettext.replace(")", " ) ");
+//		rettext = rettext.replace("\"", " \" ");
+//		rettext = rettext.replace("\"", " \" ");
+//		
+		rettext = rettext.replace("’", "'");
+		rettext = rettext.replaceAll(" ( )+", " ");
+//		rettext = rettext.replace("  ", " ");
+//		rettext = rettext.replace("  ", " ");
+//		rettext = rettext.replace("\t", " ");
+		rettext = rettext.toLowerCase();
+		rettext = rettext.trim();
+		
+		return rettext;
+	}
 	
 	public String annotateText(String text)
 	{

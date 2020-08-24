@@ -350,7 +350,8 @@ public class WebsocketChatClient extends Component implements ChatClient
 					PresenceEvent pe = new PresenceEvent(WebsocketChatClient.this, 
 							(String)args[0], 
 							message.equals("join")?PresenceEvent.PRESENT:PresenceEvent.ABSENT,
-							(String)args[2],
+							//(String)args[2],
+							String.valueOf(args[2]),
 							(String)args[3]);
 					
 					// Behzad: Maybe - increase the num_users by one if message is PRESENT, decrease if it is ABSENT

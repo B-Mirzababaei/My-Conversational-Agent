@@ -27,7 +27,8 @@ public class Rebo4AIMessageAnnotator implements BasilicaPreProcessor {
 
 	protected Map<String, List<String>> dictionaries = new HashMap<String, List<String>>();
 	public static Map<String, List<String>> data = new HashMap<String, List<String>>();
-
+    //Behzad: for replacing the entities to ENT
+    Map<String, String> similarNames = new HashMap<String, String>();
 
 	public Rebo4AIMessageAnnotator()
 	{
@@ -36,6 +37,14 @@ public class Rebo4AIMessageAnnotator implements BasilicaPreProcessor {
 		File dir = new File("dictionaries");
 		
 		loadDictionaryFolder(dir);
+		similarNames.put("scenario-idsai-google", "\\b(a|an|the)?\\s?\\b(google('s)? search engine|google)(s)?\\b");
+		similarNames.put("scenario-idsai-liberty", "\\b(a|an|the)?\\s?\\b(new york statue of liberty|statue of liberty|thenew york statue of liberty|new york state of liberty|ny statue of liberty|new york status of liberty|newyork statue of liberty)(s)?\\b");
+		similarNames.put("scenario-idsai-tree", "\\b(a|an|the)?\\s?\\b(tree)(s)?\\b");
+		similarNames.put("scenario-idsai-monkey", "\\b(a|an|the)?\\s?\\b(google('s)? search engine|google)(s)?\\b");
+		similarNames.put("scenario-idsai-sunflower", "\\b(a|an|the)?\\s?\\b(sun\\s?flower|flower)(s)?\\b");
+		similarNames.put("scenario-idsai-self-driving-car", "\\b(a|an|the)?\\s?\\b(self (- )?driving car)(s)?\\b");
+		similarNames.put("scenario-idsai-venus-trap", "\\b(a|an|the)?\\s?\\b(venus fly trap|venus fly\\s?(trap)?)(s)?\\b");
+		similarNames.put("scenario-idsai-cat", "\\b(a|an|the)?\\s?\\b(cat)(s)?\\b");
 	}
 	
 	
@@ -111,7 +120,16 @@ public class Rebo4AIMessageAnnotator implements BasilicaPreProcessor {
 			handleMessageEvent(source, (MessageEvent) e);
 		}
 	}
+	public String replaceEntity(String text, String dialog_name)
+	{
+		if (similarNames.containsKey(dialog_name)) {
+			text = text.replaceAll(similarNames.get(dialog_name), " ENT ");
+			text = text.replaceAll(" ( )+", " ");
 
+		}
+		
+		return text.trim();
+	}
 	private void handleMessageEvent(InputCoordinator source, MessageEvent me)
 	{
 		/* Behzad
@@ -119,7 +137,9 @@ public class Rebo4AIMessageAnnotator implements BasilicaPreProcessor {
 		 * Then add the annotation to this property Map<String, List<String>> annotations in MessageEvent.java; 
 		 */
 		String text = me.getText();
-		String normalizedText = normalize(text);
+		String normalizedText = cleanText(text);
+		text = replaceEntity(text, source.dialog_name);
+
 		MessageEvent newme = me;// new MessageEvent(source, me.getFrom(),
 								// me.getText());
 
@@ -145,20 +165,20 @@ public class Rebo4AIMessageAnnotator implements BasilicaPreProcessor {
 		 * Behzad's code
 		 * for unk situation
 		 */
-		if(!Arrays.asList(newme.getAllAnnotations()).contains("IDSAI_QUESTION1_CONCEPTS")){
-		    // is present ... :)
-			
-			List<String> matchedTerms = new ArrayList<String>();
-			matchedTerms.add("without reason");
-			newme.addMyAnnotation("IDSAI_QUESTION1_WITHOUT_REASON", matchedTerms);
-//			newme.addMyAnnotation("QUESTION1_WITHOUT_REASON_ANNOTATION", matchedTerms);	
-		}
+//		if(!Arrays.asList(newme.getAllAnnotations()).contains("IDSAI_QUESTION1_CONCEPTS")){
+//		    // is present ... :)
+//			
+//			List<String> matchedTerms = new ArrayList<String>();
+//			matchedTerms.add("without reason");
+//			newme.addMyAnnotation("IDSAI_QUESTION1_WITHOUT_REASON", matchedTerms);
+////			newme.addMyAnnotation("QUESTION1_WITHOUT_REASON_ANNOTATION", matchedTerms);	
+//		}
 		
 		
 		
 	}
 
-	public static String normalize(String text)
+	public static String cleanText(String text)
 	{
 		/* Behzad
 		 * Definitely we need a better normalizer. Covering more punctuation ...
@@ -166,19 +186,28 @@ public class Rebo4AIMessageAnnotator implements BasilicaPreProcessor {
 		if(text == null)
 			return text;
 		
-		String rettext = text.replace(",", " , ");
-		rettext = rettext.replace(".", " . ");
-		rettext = rettext.replace("?", " ? ");
-		rettext = rettext.replace("!", " ! ");
-		rettext = rettext.replace("'", "'");
-		rettext = rettext.replace("\"", " \" ");
-		rettext = rettext.trim();
-		rettext = rettext.replace("  ", " ");
-		rettext = rettext.replace("  ", " ");
-		rettext = rettext.replace("  ", " ");
-		rettext = rettext.replace("\t", " ");
+		String rettext = text.replaceAll("([.\":,\\[\\]\\{\\}_\\\\\\/;\\-\\)\\(!?])", " $1 ");
+//		rettext = rettext.replace(".", " . ");
+//		rettext = rettext.replace("?", " ? ");
+//		rettext = rettext.replace("!", " ! ");
+//		rettext = rettext.replace(":", " : ");
+//		rettext = rettext.replace("\"", " \" ");
+//		rettext = rettext.replace("-", " - ");
+//		rettext = rettext.replace(")", " ) ");
+//		rettext = rettext.replace("\"", " \" ");
+//		rettext = rettext.replace("\"", " \" ");
+//		
+		rettext = rettext.replace("’", "'");
+
+		rettext = rettext.replaceAll(" ( )+", " ");
+//		rettext = rettext.replace("  ", " ");
+//		rettext = rettext.replace("  ", " ");
+//		rettext = rettext.replace("\t", " ");
 		rettext = rettext.toLowerCase();
+		rettext = rettext.trim();
+		
 		return rettext;
+	
 	}
 
 	@Override
