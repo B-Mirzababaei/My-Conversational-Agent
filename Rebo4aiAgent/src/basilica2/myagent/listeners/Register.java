@@ -4,7 +4,17 @@ import java.sql.Timestamp;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.HashMap;
+
 import java.util.Map;
+
+import edu.cmu.cs.lti.basilica2.core.Event;
+import basilica2.agents.components.InputCoordinator;
+import basilica2.agents.events.MessageEvent;
+import basilica2.agents.events.PresenceEvent;
+import basilica2.agents.events.PromptEvent;
+import basilica2.agents.listeners.BasilicaPreProcessor;
+
+import basilica2.agents.data.PromptTable;
 
 import org.apache.commons.lang3.StringUtils;
 import org.apache.xerces.parsers.DOMParser;
@@ -12,14 +22,10 @@ import org.w3c.dom.Document;
 import org.w3c.dom.Element;
 import org.w3c.dom.NodeList;
 
-import basilica2.agents.components.InputCoordinator;
-import basilica2.agents.events.MessageEvent;
-import basilica2.agents.events.PresenceEvent;
-import basilica2.agents.events.PromptEvent;
-import basilica2.agents.listeners.BasilicaPreProcessor;
+
 import basilica2.myagent.Topic;
 import basilica2.myagent.User;
-import edu.cmu.cs.lti.basilica2.core.Event;
+import edu.cmu.cs.lti.project911.utils.log.Logger;
 import edu.cmu.cs.lti.project911.utils.time.TimeoutReceiver;
 import edu.cmu.cs.lti.project911.utils.time.Timer;
 
@@ -36,7 +42,9 @@ public class Register implements BasilicaPreProcessor, TimeoutReceiver
 
 	public Register() 
     {
-    	
+		System.err.println("000000000000000000000000000000000000000000000000000000000000000Prompt for _NOT_DETECTED not found");
+		log(Logger.LOG_NORMAL, "-------------------4444-------------------- 46  ================================= ", "sssssssssssssssssss____________sssssssssssss");
+
     	topicList = new ArrayList<Topic>();
     	userList = new ArrayList<User>();
     	lastConsolidation = 0;
@@ -75,9 +83,10 @@ public class Register implements BasilicaPreProcessor, TimeoutReceiver
     	planList.add("PLAN2");
     	planList.add("PLAN3");
     	planList.add("PLAN4");
+    	  	
+    	lightSidePrompts = new PromptTable(lightSidePromptsPath);
     	
-    	
-		String dialogueConfigFile="dialogues/dialogues-example.xml";
+		String dialogueConfigFile="dialogues/dialogues-config.xml";
     	loadconfiguration(dialogueConfigFile);
     	startTimer();
 	}    
@@ -106,6 +115,9 @@ public class Register implements BasilicaPreProcessor, TimeoutReceiver
          
     public int bazaarstate=1;//bazaarstate= 1, prompt, bazaarstate=0, not prompt, after 10 minutes.
     public int totalseconds= 600;// countdown of 10 minutes;
+   
+    String lightSidePromptsPath="dialogues/lightside-prompts.xml";
+	private PromptTable lightSidePrompts;
     
 	private void loadconfiguration(String f)
 	{
@@ -181,6 +193,8 @@ public class Register implements BasilicaPreProcessor, TimeoutReceiver
 	@Override
 	public void preProcessEvent(InputCoordinator source, Event event)
 	{
+		System.err.println("111111111111111111111111111111111111111Prompt for DETECTED not found");
+
 		src = source;
 		if(bazaarstate==1){
 		if (event instanceof MessageEvent)
@@ -190,6 +204,60 @@ public class Register implements BasilicaPreProcessor, TimeoutReceiver
 			
 			User user = getUser(me.getFrom());
 			if(user == null) return;
+
+			Boolean promptFound = false; 
+			String promptRaw = ""; 
+			if (me.hasAnnotations("DETECTED")) {
+				promptRaw=lightSidePrompts.lookup("DETECTED");
+				if (promptRaw != "DETECTED") {
+					promptFound = true; 
+				}
+				else {
+					System.err.println("Prompt for DETECTED not found");
+				}
+					
+			}
+			else if (me.hasAnnotations("NOTDETECTED")) {
+				promptRaw=lightSidePrompts.lookup("NOTDETECTED");
+				if (promptRaw != "NOTDETECTED") {
+					promptFound = true; 
+				}
+				else {
+					System.err.println("Prompt for _NOT_DETECTED not found");
+				}
+			}	
+			if (promptFound) {
+
+				
+				int plan = 0; 
+				if (me.hasAnnotations("PLAN1"))
+				{
+					plan = 1;
+				}
+				else if (me.hasAnnotations("PLAN2"))
+				{
+					plan = 2;
+				}
+				else if (me.hasAnnotations("PLAN3"))
+				{
+					plan = 3;
+				}						
+				else if (me.hasAnnotations("PLAN4"))
+				{
+					plan = 4;
+				}
+
+				Map<String, String> lightSidePromptVariables = new HashMap<String, String>();
+				lightSidePromptVariables.put("%this_student%",me.getFrom());
+				lightSidePromptVariables.put("%this_student_plan%",String.valueOf(plan));
+				String prompt_message = promptRaw;
+				for (Map.Entry<String, String> entry : lightSidePromptVariables.entrySet())
+				    prompt_message = prompt_message.replace(entry.getKey(), entry.getValue().toString());
+				System.err.println("=== prompt_message: " + prompt_message); 
+				
+				PromptEvent prompt = new PromptEvent(source,prompt_message,"plan_reasoning");
+				source.queueNewEvent(prompt);
+			}
 			
 			if(me.hasAnnotations("pos"))
 			{
