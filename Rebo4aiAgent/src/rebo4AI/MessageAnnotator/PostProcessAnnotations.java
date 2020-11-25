@@ -32,12 +32,8 @@ public class PostProcessAnnotations implements BasilicaPreProcessor {
 	public static Map<String, String> similarNames = new HashMap<String, String>();
     //Behzad: minimum length for each part of a response
 	public static Map<String, Integer> minimumLengthForEachPart = new HashMap<String, Integer>() {{
-	    put("CLAIM_POS", 3);
-	    put("IDSAI_QUESTION1_IS_INTELLIGENT", 3);
-	    put("CLAIM_NEG", 3);
-	    put("IDSAI_QUESTION1_IS_NOT_INTELLIGENT", 3);
-	    put("WARRANT_WITH", 4);
-	    put("IDSAI_QUESTION1_WITH_WARRANT", 4);
+	    put("CLAIM", 3);
+	    put("WARRANT", 4);
 	 }};
 
     
@@ -91,22 +87,35 @@ public class PostProcessAnnotations implements BasilicaPreProcessor {
 		
 		return text.trim();
 	}
-	private String hasEvidence(String normalizedText, List<String> all_annotations)
+	private int hasEvidence_rulebased(String normalizedText, List<String> all_annotations)
 	{
 		//BEHZAD: predict the evidence based on the length of resonses
 		int word_number = normalizedText.replaceAll("[^a-z ]", "").split("\\s+").length;
 		if (word_number <= 5) {
-			return "EVIDENCE_WITHOUT";
+			return word_number;
 		}
-		for (String lable : all_annotations) {
-			if (minimumLengthForEachPart.containsKey(lable)) {
-				word_number-= minimumLengthForEachPart.get(lable);
-			}
+		if (all_annotations.contains("CLAIM_POS") || 
+				all_annotations.contains("IDSAI_QUESTION1_IS_INTELLIGENT")||
+				all_annotations.contains("CLAIM_NEG")||
+				all_annotations.contains("IDSAI_QUESTION1_IS_NOT_INTELLIGENT")) {
+			word_number-= minimumLengthForEachPart.get("CLAIM");
+			
 		}
-		if (word_number <= 5) {
-			return "WITHOUT_EVIDENCE";
+		if (all_annotations.contains("WARRANT_WITH") || 
+				all_annotations.contains("IDSAI_QUESTION1_WITH_WARRANT")) {
+			word_number-= minimumLengthForEachPart.get("WARRANT");
 		}
-		return "WITH_EVIDENCE";
+		
+//		for (String label : all_annotations) {
+//			if (minimumLengthForEachPart.containsKey(label)) {
+//				word_number-= minimumLengthForEachPart.get(label);
+//			}
+//		}
+		return word_number;
+//		if (word_number <= 5) {
+//			return "WITHOUT_EVIDENCE";
+//		}
+//		return "WITH_EVIDENCE";
 	}
 
 	private void handleMessageEvent(InputCoordinator source, MessageEvent me)
@@ -119,8 +128,32 @@ public class PostProcessAnnotations implements BasilicaPreProcessor {
 		String normalizedText = cleanText(text);
 		normalizedText = replaceEntity(normalizedText, source.dialog_name);
 
-		String evidence_label = hasEvidence(normalizedText, Arrays.asList(newme.getAllAnnotations()));
-		newme.addMyAnnotation(evidence_label, Arrays.asList("this is for the evidence"));
+		
+		// =============================check based on length============================
+		int word_number = hasEvidence_rulebased(normalizedText, Arrays.asList(newme.getAllAnnotations()));
+		
+		String evidence_label = "";
+		
+		if (word_number <= 5) {
+			 if (Arrays.asList(newme.getAllAnnotations()).contains("WITH_EVIDENCE") ) { 
+				newme.removeAnnotation("WITH_EVIDENCE");
+				newme.addMyAnnotation("WITHOUT_EVIDENCE", Arrays.asList("this is for the evidence"));
+			 }		
+			 evidence_label = "WITHOUT_EVIDENCE";
+		}
+		else {
+			if (Arrays.asList(newme.getAllAnnotations()).contains("WITH_EVIDENCE") ) { 
+				evidence_label = "WITH_EVIDENCE";
+			}
+			else {
+				evidence_label = "WITHOUT_EVIDENCE";
+			}
+		}
+		
+		//=============================END check based on length============================
+//		newme.addMyAnnotation(evidence_label, Arrays.asList("this is for the evidence"));
+		
+		
 		
 		//===========================================================================
 		

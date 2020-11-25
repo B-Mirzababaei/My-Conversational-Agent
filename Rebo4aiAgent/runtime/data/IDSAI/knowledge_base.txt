@@ -1,18 +1,88 @@
-MONKEY-AR	Monkeys can act rationally	Their actions are rational and reasonable
-MONKEY-TR	Monkeys can think rationally
-MONKEY-AD	Monkeys can learn and adapt but not like a human
-MONKEY-OPPOSITE_CLAIM	they act and think reasonably or they can learn somehow
-AN_OFFICE_CHAIR-DESCRIPTION	Office chairs are inanimate entity, so they could not be intelligent.
-AN_OFFICE_CHAIR-OPPOSITE_CLAIM	How an inanimate object could be intelligent? Could you tell me based on which definitions you think it is intelligent?
-THE_NEW_YORK_STATUE_OF_LIBERTY-DESCRIPTION	The statue is inanimate entity, so, they could not be intelligent.
-THE_NEW_YORK_STATUE_OF_LIBERTY-OPPOSITE_CLAIM	How an inanimate object could be intelligent? Could you tell me based on which definitions you think it is intelligent?
-A_SELF_DRIVING_CAR-AR	Self-driving cars can act rationally.
-A_SELF_DRIVING_CAR-TR	Self-driving cars can think rationally.
-A_SELF_DRIVING_CAR-AD	Self-driving cars can learn and adapt but not like a human.
-A_SELF_DRIVING_CAR-OPPOSITE_CLAIM	To me, they can act reasonably or rationally. They do what we do as a driver. What do you think?
-GOOGLE_SEARCH_ENGINE-AR	it always retrieves the most relevant webpages based on users' query. I think we can say that in digital enviroment the search engine can act rationally.
-GOOGLE_SEARCH_ENGINE-AD	the results of our queries will be modified through the time. In other word, the results will be changed based on our previous queries.|So, I think it can to adapt its behaviour to achieve goals and better results. The changing behaviour is one of the definitions of being intelligence
-SNAKE-AR	Snakes can act rationally.
-SNAKE-OPPOSITE_CLAIM	Based on which definition you think snakes are intelligent?
-SUNFLOWER-OPPOSITE_CLAIM	Based on which definition you think they are intelligent?
-VENUS_FLYTRAP-OPPOSITE_CLAIM	Are you sure?|||I think they do not act or think humanly or rationally. All Venus flytraps do are based on their instinct.|||Based on which definition do you think they are intelligent?
+=============SELF_DRIVING_CARS==============
+ENTITY__SELF_DRIVING_CARS	a self-driving car
+ENTITY_THE__SELF_DRIVING_CARS	the self-driving car
+ENTITIES__SELF_DRIVING_CARS	self-driving cars are
+ENTITIES_PRONOUN__SELF_DRIVING_CARS	they are
+REASON1_AGREEMENT_INTRO__SELF_DRIVING_CARS	Now both of us know that self-driving cars are intelligent
+REASON1__SELF_DRIVING_CARS	they act in a reasonable manner. For example, they avoid collisions with other cars let alone a head-on one. It means they can act and also think rationally.
+REASON1_WARRANT__SELF_DRIVING_CARS	Trying to avoid dangerous situations can be considered as thinking and acting rationally which are the definitions of being intelligent.
+REASON2_AGREEMENT_INTRO__SELF_DRIVING_CARS	To sum up, we find out that we can call self-driving cars intelligent
+REASON2__SELF_DRIVING_CARS	self-driving cars can act or think in a way that is similar to human drivers. They do whatever drivers do (not exactly) when they sit on the driver seat. So, to me, self-driving cars can act and think similar to humans
+REASON2_WARRANT__SELF_DRIVING_CARS	This behavior could be considered as acting humanly which is one of the definitions of being intelligent.
+=============GOOGLE_SEARCH_ENGINE==============
+ENTITY__GOOGLE_SEARCH_ENGINE	Google search engine
+ENTITY_THE__GOOGLE_SEARCH_ENGINE	Google search engine
+ENTITIES__GOOGLE_SEARCH_ENGINE	the search engine is
+ENTITIES_PRONOUN__GOOGLE_SEARCH_ENGINE	it is
+REASON1_AGREEMENT_INTRO__GOOGLE_SEARCH_ENGINE	Now both of us know that Google search engine is intelligent
+REASON1__GOOGLE_SEARCH_ENGINE	it always retrieves the most relevant webpages based on users' query. In my view, we can say that in digital environment the search engine can act and think rationally.
+REASON1_WARRANT__GOOGLE_SEARCH_ENGINE	It means they can act and also think rationally which are the definitions of being intelligent.
+REASON2_AGREEMENT_INTRO__GOOGLE_SEARCH_ENGINE	To sum up, we find out that we can call the search engine intelligent
+REASON2__GOOGLE_SEARCH_ENGINE	it is programmed to learn trough the time. Based on the documents that we select, it will learn what exactly we are looking for. 
+REASON2_WARRANT__GOOGLE_SEARCH_ENGINE	This behavior could be considered as adapting behaviors in order to achieve its goals, which is suggesting us the most relevant pages.
+============CHAIR===============
+ENTITY__CHAIR	an office chair
+ENTITY_THE__CHAIR	the office chair
+ENTITIES__CHAIR	office chairs are
+ENTITIES_PRONOUN__CHAIR	they are
+REASON1_AGREEMENT_INTRO__CHAIR	Now both of us know that office chairs are not intelligent
+REASON1__CHAIR	they are not living creatures and also do not have a brain or something for analyzing their environment.
+REASON1_WARRANT__CHAIR	It means they are not able to think or act let alone rationally or humanly.
+REASON2_AGREEMENT_INTRO__CHAIR	To sum up, we find out that we can not call office chairs intelligent
+REASON2__CHAIR	they are static inanimate objects that can not do or learn anything. We can not consider them as a doer.  
+REASON2_WARRANT__CHAIR	In general, all the objects or entities that have these characteristic, being inanimate and not a doer, can not be considered as an intelligent entities. They are not able to act, think. or learn new things.
+===========MONKEY================
+ENTITY__MONKEY	a monkey
+ENTITY_THE__MONKEY	the monkey
+ENTITIES__MONKEY	monkeys are
+ENTITIES_PRONOUN__MONKEY	they are
+REASON1_AGREEMENT_INTRO__MONKEY	Now both of us know that monkeys are intelligent
+REASON1__MONKEY	they can learn how to use some basic tools or they can use rocks and sticks like tools. Theirs acts also change based on the situations.
+REASON1_WARRANT__MONKEY	Thus, we can say that monkeys can learn from experiences and also adapt to new circumstances.
+REASON2_AGREEMENT_INTRO__MONKEY	To sum up, we find out that we can call monkeys intelligent
+REASON2__MONKEY	monkeys can act or think in a way that is similar to human. For example, when they encounter dangerous situation, they escape and also notify others.
+REASON2_WARRANT__MONKEY	This behavior could be considered as acting and humanly and rationally which are the definitions of being intelligent.
+============THE_NEW_YORK_STATUE_OF_LIBERTY===============
+ENTITY__THE_NEW_YORK_STATUE_OF_LIBERTY	the Statue of Liberty
+ENTITY_THE__THE_NEW_YORK_STATUE_OF_LIBERTY	the Statue of Liberty
+ENTITIES__THE_NEW_YORK_STATUE_OF_LIBERTY	the Statue of Liberty is
+ENTITIES_PRONOUN__THE_NEW_YORK_STATUE_OF_LIBERTY	it is
+REASON1_AGREEMENT_INTRO__THE_NEW_YORK_STATUE_OF_LIBERTY	Now both of us know that the Statue of Liberty is not intelligent
+REASON1__THE_NEW_YORK_STATUE_OF_LIBERTY	it is not a living creature and also do not have a brain or something for analyzing its environment.
+REASON1_WARRANT__THE_NEW_YORK_STATUE_OF_LIBERTY	It means the Statue of Liberty is not able to think or act let alone rationally or humanly.
+REASON2_AGREEMENT_INTRO__THE_NEW_YORK_STATUE_OF_LIBERTY	To sum up, we find out that we can not call the Statue of Liberty intelligent
+REASON2__THE_NEW_YORK_STATUE_OF_LIBERTY	it is a static inanimate object that can not do or learn anything. We can not consider it as a doer.  
+REASON2_WARRANT__THE_NEW_YORK_STATUE_OF_LIBERTY	In general, all the objects or entities that have these characteristic, being inanimate and not a doer, can not be considered as an intelligent entities. It is not able to act, think. or learn new things.
+===========SUNFLOWER================
+ENTITY__SUNFLOWER	a sunflower
+ENTITY_THE__SUNFLOWER	the sunflower
+ENTITIES__SUNFLOWER	sunflowers are
+ENTITIES_PRONOUN__SUNFLOWER	they are
+REASON1_AGREEMENT_INTRO__SUNFLOWER	Now both of us know that sunflowers are not intelligent
+REASON1__SUNFLOWER	they exist and live and also react but without consciousness. So, we can not say they literally think or act.
+REASON1_WARRANT__SUNFLOWER	It means they are not able to think or act let alone rationally or humanly.
+REASON2_AGREEMENT_INTRO__SUNFLOWER	To sum up, we find out that we can not call sunflowers intelligent
+REASON2__SUNFLOWER	they adapt to new environment but via evolution. The species adapts and "learns", but this is too far from the definition of intelligence.  
+REASON2_WARRANT__SUNFLOWER	So, they are not able to learn. In addition to that, they are not able to act, think consciously.
+============SNAKE===============
+ENTITY__SNAKE	a snake
+ENTITY_THE__SNAKE	the snake
+ENTITIES__SNAKE	snakes are
+ENTITIES_PRONOUN__SNAKE	they are
+REASON1_AGREEMENT_INTRO__SNAKE	Now both of us know that snakes are intelligent
+REASON1__SNAKE	they can track their prey with ease and also lure them into a trap. They also wiggle their tails to appear like an insect in order to attract prey.
+REASON1_WARRANT__SNAKE	These behaviors can be considered as acting rationally which is one the definitions of intelligence.
+REASON2_AGREEMENT_INTRO__SNAKE	To sum up, we find out that we can call snakes intelligent
+REASON2__SNAKE	snakes can learn some basic things such as swimming and climbing trees. As a pet, a snake can also change their behavior to its owner.
+REASON2_WARRANT__SNAKE	These behaviors could be considered as adapting to new environment to achieve their goals which are the definitions of being intelligent.
+============FLYTRAP===============
+ENTITY__FLYTRAP	a Venus flytrap
+ENTITY_THE__FLYTRAP	the Venus flytrap
+ENTITIES__FLYTRAP	Venus flytraps are
+ENTITIES_PRONOUN__FLYTRAP	they are
+REASON1_AGREEMENT_INTRO__FLYTRAP	Now both of us know that Venus flytraps are not intelligent
+REASON1__FLYTRAP	they exist and live and also react but without consciousness. Trapping insects is a reaction to stimuli created by the insects, or by anything else that triggering flytraps' closing mechanism. So, we can not say they do consciously.
+REASON1_WARRANT__FLYTRAP	It means they are not able to think first then act on purpose.
+REASON2_AGREEMENT_INTRO__FLYTRAP	To sum up, we find out that we can not call sunflowers intelligent
+REASON2__FLYTRAP	they can adapt to new environment but just via evolution. The species adapts, but this is too far from the definition of intelligence.  
+REASON2_WARRANT__FLYTRAP	So, they are not able to learn. In addition to that, they are not able to act, think consciously.

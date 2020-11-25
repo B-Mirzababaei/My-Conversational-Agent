@@ -135,8 +135,7 @@ public class TutorActor extends BasilicaAdapter implements TimeoutReceiver
 			this.cancelAnnotation = cancelAnnotation;
 			this.cancelText = cancelText;
 			
-			/* Behzad 
-			 * It is about adding random elements in whatever the agent wants to say. In this version, a phrase is selected randomly when a Dialog object wants to be created.
+			/* Behzad: It is about adding random elements in whatever the agent wants to say. In this version, a phrase is selected randomly when a Dialog object wants to be created.
 			 * If you want to add random elements in a specific scenario, follow these steps:
 			 * 1. create this folder: runtime/data
 			 * 2. create this folder: runtime/data/<conceptName of scenario> 
@@ -177,6 +176,9 @@ public class TutorActor extends BasilicaAdapter implements TimeoutReceiver
 					if (key.equals("KNOWLEDGE_BASE")) {
 						List<String> values = entry.getValue();
 						for (String tag : values) {
+							if (tag.startsWith("=")) {
+								continue;
+							}
 							List<String> items = Arrays.asList(tag.split("\t"));
 							knowledge_base.put(items.get(0), items.subList(1, items.size()));
 						}
@@ -314,10 +316,10 @@ public class TutorActor extends BasilicaAdapter implements TimeoutReceiver
 							cancelAnnotation = cancelElement.getAttribute("annotation");
 							cancelText = cancelElement.getTextContent();
 						}
-						/* Behzad:
-						 *	You can randomly select your dialog file here. It helps to know your dialog before reading the knowledge_base file
-						 *	If you know your entity here, you can prune the knowledge_base file or having several knowledge_based files
-						 */
+						/* Behzad: If you randomly select your dialog file HERE. It helps you to know your dialog before reading the knowledge_base file
+						 *	If you know your entity here, you can prune the knowledge_base file or having several knowledge_based files.
+						 *	BUT you did it here: look for "chooseDialogFileRandomly" in the current file.
+						 */ 
 						//name = chooseDialogFileRandomly();
 						//-----------------------------------------
 						
@@ -336,8 +338,7 @@ public class TutorActor extends BasilicaAdapter implements TimeoutReceiver
 
 	protected void processEvent(Event e)
 	{
-		/* Behzad
-		 * Based on the type of event, a function is called to handle it. I need a definition for each Event.
+		/* Behzad: Based on the type of event, a function is called to handle it. I need a definition for each Event.
 		 */
 		if (e instanceof DoTutoringEvent)
 		{
@@ -398,8 +399,7 @@ public class TutorActor extends BasilicaAdapter implements TimeoutReceiver
 
 	private synchronized void handleRequestDetectedEvent(MessageEvent e)
 	{
-		/* Behzad
-		 * Check here, this function check "accept" and "reject" annotations in dialogues-config
+		/* Behzad: Check here, this function check "accept" and "reject" annotations in dialogues-config
 		 * maybe you find a way to choose a dialog by a prompt
 		 */
 		for(String concept : e.getAllAnnotations())
@@ -470,6 +470,7 @@ public class TutorActor extends BasilicaAdapter implements TimeoutReceiver
 	
 	public String chooseDialogFileRandomly()
 	{
+		// BEHZAD chooseDialogFileRandomly
 		File folder = new File("dialogues/");
 		List<String> scenario_files = getListOfScenarios(folder);
 		Random rand = new Random();
@@ -613,8 +614,7 @@ public class TutorActor extends BasilicaAdapter implements TimeoutReceiver
 
 	private void launchDialogOffer(Dialog d, String userName)
 	{
-		/* Behzad:
-		 * In this function, one of greetings sentences will be selected.
+		/* Behzad: In this function, one of greetings sentences will be selected.
 		 * The list of greetings are located in /runtime/dialogues/dialogues-config.xml 
 		 */
 		prioritySource.setBlocking(true);
@@ -686,8 +686,7 @@ public class TutorActor extends BasilicaAdapter implements TimeoutReceiver
 	
 	private void processTutorTurns(List<String> tutorTurns)
 	{
-		/* Behzad
-		 * Replace RANDOM_ELEMENT with a random phrase which is located into data/<conceptName>
+		/* Behzad: Replace RANDOM_ELEMENT with a random phrase which is located into data/<conceptName>
 		 * 
 		 */
 		tutorTurns = replaceRandomPhrase(tutorTurns);

@@ -23,21 +23,87 @@ import org.json.simple.parser.ParseException;
 
 public class PythonMessageAnnotator extends BasilicaAdapter
 {
+//	public static String ip = "http://172.17.0.1"; // http://127.0.0.1 
+	public static String ip = "http://127.0.0.1"; // 
+
+	public static String port = "8030";
+	public static String warrant = "/v1/warrant";
+	public static String claim = "/v1/claim";
+	public static String evidence = "/v1/evidence";
+
 	
 	public PythonMessageAnnotator(Agent a)
 	{
 		super(a);
+		ip = getProperties().getProperty("ip", ip);
+		port = getProperties().getProperty("port", port);
+
+
 		log(Logger.LOG_NORMAL, "-------------------8888-------------------- PYTHON            constructor ================================= ");
+		
 
 	}
 
     public String warrant(String text) throws UnirestException, ParseException {
-        String lable = null;
+        String label = null;
+        // TODO: Handle connection problems etc.
+		log(Logger.LOG_NORMAL, "-------------------8888-------------------- PYTHON            before request ================================= ");
+
+        
+//        HttpResponse<String> response = Unirest.post("http://127.0.0.1:8030/v1/warrant")
+		HttpResponse<String> response = Unirest.post(ip+":"+port+warrant)
+                .basicAuth("behzad", "goorj")
+                .queryString("text", text)
+                .asString();
+		log(Logger.LOG_NORMAL, "-------------------8888-------------------- PYTHON            after request ================================= ");
+        
+        // TODO: A better alternative?
+//                .ifSuccess(response -> {
+//                    try {
+//                        resultBodyJson = (JSONObject) new JSONParser().parse(response.getBody());
+//                    } catch (ParseException e) {
+//                        e.printStackTrace();
+//                    }
+//                })
+//                .ifFailure(response -> {
+//                    System.out.println("Error " + response.getStatus());
+//                    response.getParsingError().ifPresent(e -> {
+//                        System.out.println("Parsing exception: " + e);
+//                        System.out.println("Original body: " + e.getOriginalBody());
+//                    });
+//                });
+
+//        Unirest.shutDown();
+
+        if(response.getStatus() == 200) {
+    		log(Logger.LOG_NORMAL, "-------------------8888-------------------- PYTHON            after request 2000000 ================================= ");
+
+            JSONObject resultBodyJson = (JSONObject) new JSONParser().parse(response.getBody());
+            label = resultBodyJson.get("label").toString();
+            if (label.equals("[1]")) {
+            	label = "WARRANT_WITH";
+			} else {
+				label = "WARRANT_WITHOUT";
+			}
+    		log(Logger.LOG_NORMAL, "-------------------8888-------------------- PYTHON            after request label is =========== "+label+" ====================== ");
+
+        } else {
+    		log(Logger.LOG_NORMAL, "-------------------8888-------------------- PYTHON            after request not 20000000================================= ");
+    		log(Logger.LOG_NORMAL, "-------------------8888-------------------- PYTHON            after request not 20000000============== " + response.getStatus() + " ― Response: " + response.getBody() + "=================== ");
+
+    		
+            throw new UnirestException("OCR API: Error " + response.getStatus() + " ― Response: " + response.getBody());
+        }
+        return label;
+    }
+    public String claim(String text) throws UnirestException, ParseException {
+
+        String label = null;
         // TODO: Handle connection problems etc.
 		log(Logger.LOG_NORMAL, "-------------------8888-------------------- PYTHON            before request ================================= ");
 
 //        HttpResponse<String> response = Unirest.post("http://172.17.0.1:8030/warrant")
-        HttpResponse<String> response = Unirest.post("http://127.0.0.1:8030/warrant")
+        HttpResponse<String> response = Unirest.post(ip+":"+port+claim)
 
                 .basicAuth("behzad", "goorj")
                 .queryString("text", text)
@@ -66,9 +132,17 @@ public class PythonMessageAnnotator extends BasilicaAdapter
     		log(Logger.LOG_NORMAL, "-------------------8888-------------------- PYTHON            after request 2000000 ================================= ");
 
             JSONObject resultBodyJson = (JSONObject) new JSONParser().parse(response.getBody());
-            lable = resultBodyJson.get("lable").toString();
-    		log(Logger.LOG_NORMAL, "-------------------8888-------------------- PYTHON            after request label is =========== "+lable+" ====================== ");
-
+            label = resultBodyJson.get("label").toString();
+    		log(Logger.LOG_NORMAL, "-------------------8888-------------------- PYTHON            after request label is =========== "+label+" ====================== ");
+    		if (label.equals("[1]")) {
+             	label = "CLAIM_POS";
+ 			} else if (label.equals("[-1]")) {
+ 				label = "CLAIM_NEG";
+ 			}
+ 			else {
+ 				label = "CLAIM_NONE";
+ 			}
+ 				
         } else {
     		log(Logger.LOG_NORMAL, "-------------------8888-------------------- PYTHON            after request not 20000000================================= ");
     		log(Logger.LOG_NORMAL, "-------------------8888-------------------- PYTHON            after request not 20000000============== " + response.getStatus() + " ― Response: " + response.getBody() + "=================== ");
@@ -76,9 +150,8 @@ public class PythonMessageAnnotator extends BasilicaAdapter
     		
             throw new UnirestException("OCR API: Error " + response.getStatus() + " ― Response: " + response.getBody());
         }
-        return lable;
+        return label;
     }
-	
 	/**
 	 * @param source
 	 *            the InputCoordinator - to push new events to. (Modified events
@@ -92,7 +165,71 @@ public class PythonMessageAnnotator extends BasilicaAdapter
 	 *            will be passed by the InputCoordinator to the second-stage
 	 *            Reactors ("BasilicaListener" instances).
 	 */
-	@Override
+    public String evidence(String text, String label_claim, String label_warrant) throws UnirestException, ParseException {
+        String label = null;
+        // TODO: Handle connection problems etc.
+		log(Logger.LOG_NORMAL, "-------------------8888-------------------- PYTHON            before request ================================= ");
+		
+        if (label_claim.equals("CLAIM_NONE")) {
+        	label_claim = "0";
+		} else {
+			label_claim = "1";	
+		}
+        if (label_warrant.equals("WARRANT_WITH")) {
+        	label_warrant = "1";
+		} else {
+			label_warrant = "0";	
+		}
+//        HttpResponse<String> response = Unirest.post("http://127.0.0.1:8030/v1/warrant")
+		HttpResponse<String> response = Unirest.post(ip+":"+port+evidence)
+                .basicAuth("behzad", "goorj")
+                .queryString("text", text)
+                .queryString("claim", label_claim)
+                .queryString("warrant", label_warrant)
+                .asString();
+		log(Logger.LOG_NORMAL, "-------------------8888-------------------- PYTHON            after request ================================= ");
+        
+        // TODO: A better alternative?
+//                .ifSuccess(response -> {
+//                    try {
+//                        resultBodyJson = (JSONObject) new JSONParser().parse(response.getBody());
+//                    } catch (ParseException e) {
+//                        e.printStackTrace();
+//                    }
+//                })
+//                .ifFailure(response -> {
+//                    System.out.println("Error " + response.getStatus());
+//                    response.getParsingError().ifPresent(e -> {
+//                        System.out.println("Parsing exception: " + e);
+//                        System.out.println("Original body: " + e.getOriginalBody());
+//                    });
+//                });
+
+//        Unirest.shutDown();
+
+        if(response.getStatus() == 200) {
+    		log(Logger.LOG_NORMAL, "-------------------8888-------------------- PYTHON            after request 2000000 ================================= ");
+
+            JSONObject resultBodyJson = (JSONObject) new JSONParser().parse(response.getBody());
+            label = resultBodyJson.get("label").toString();
+            if (label.equals("[1]")) {
+            	label = "WITH_EVIDENCE";
+			} else {
+				label = "WITHOUT_EVIDENCE";
+			}
+    		log(Logger.LOG_NORMAL, "-------------------8888-------------------- PYTHON            after request label is =========== "+label+" ====================== ");
+
+        } else {
+    		log(Logger.LOG_NORMAL, "-------------------8888-------------------- PYTHON            after request not 20000000================================= ");
+    		log(Logger.LOG_NORMAL, "-------------------8888-------------------- PYTHON            after request not 20000000============== " + response.getStatus() + " ― Response: " + response.getBody() + "=================== ");
+
+    		
+            throw new UnirestException("OCR API: Error " + response.getStatus() + " ― Response: " + response.getBody());
+        }
+        return label;
+    }
+    
+    @Override
 	public void preProcessEvent(InputCoordinator source, Event event)
 	{
 		MessageEvent me = (MessageEvent) event;
@@ -101,10 +238,17 @@ public class PythonMessageAnnotator extends BasilicaAdapter
 		log(Logger.LOG_NORMAL, "-------------------8888-------------------- PYTHON            cleaning the text ================================= ");
 		try {
 			
-			String lable = warrant(text);
-            me.addAnnotations(lable);
-    		log(Logger.LOG_NORMAL, "-------------------8888-------------------- PYTHON            the label is added to the list ================================= ");
+			String label_warrant = warrant(text);
+            me.addAnnotations(label_warrant);
+    		log(Logger.LOG_NORMAL, "-------------------8888-------------------- PYTHON            the label of warrant is added to the list ================================= ");
+    		
+    		String label_claim = claim(text);
+            me.addAnnotations(label_claim);
+    		log(Logger.LOG_NORMAL, "-------------------8888-------------------- PYTHON            the label of claim is added to the list ================================= ");
 
+    		String label_evidence = evidence(text,label_claim, label_warrant );
+            me.addAnnotations(label_evidence);
+    		log(Logger.LOG_NORMAL, "-------------------8888-------------------- PYTHON            the label of claim is added to the list ================================= ");
 
 		} catch (UnirestException e) {
 			// TODO Auto-generated catch block

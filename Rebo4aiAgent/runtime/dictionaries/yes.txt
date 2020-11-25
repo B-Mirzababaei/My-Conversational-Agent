@@ -7,7 +7,7 @@ yea
 aye
 yup
 definitely
-lets 
+lets
 let's
 /ok+/
 want
@@ -16,3 +16,12 @@ i am
 uhum
 aha
 /zes+/
+ja
+sure
+why not
+/ye[sdawxzcf]/
+/[ujhgt]es/
+/y[rfdsw]s/
+/ze[sdawxzcf]/
+/z[rfdsw]s/
+certainly

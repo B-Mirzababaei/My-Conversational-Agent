@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE scenario SYSTEM "TuTalkScenario.dtd">
-<scenario default-language="en" scenario-name="scenario-idsai-sunflower">
+<scenario default-language="en" scenario-name="scenario-idsai-chair">
 	<configuration>
 		
 		
@@ -46,21 +46,21 @@
 		<!--                                        NOT INTELLIGENT EXP SECTION                      -->
 		<!-- ================================================================================ -->
 		<concept label="question1">
-			<phrase>I'm curious: Is ENTITY__SUNFLOWER now intelligent or not? - Please tell me whether you think it is intelligent or not, which definition you use in your claim, and which evidence or background knowledge you use to decide that ENTITY_THE__SUNFLOWER fits your chosen definition.</phrase>
+			<phrase>I'm curious: Is ENTITY__CHAIR now intelligent or not? - Please tell me whether you think it is intelligent or not, which definition you use in your claim, and which evidence or background knowledge you use to decide that ENTITY_THE__CHAIR fits your chosen definition.</phrase>
 		</concept>
 		
 		<concept label="question1_dont_know__exp">
 			<!-- question1_dont_know__exp -->
-			<phrase>Just think about five different concepts of an intelligent entity which are act rationally, think humanly, act humanly, think rationally, and learning from experiences then use these concepts for reasoning. |Based on these concepts, do you think ENTITY__SUNFLOWER is intelligent or not? Why?</phrase>
+			<phrase>Just think about five different concepts of an intelligent entity which are act rationally, think humanly, act humanly, think rationally, and learning from experiences then use these concepts for reasoning. |Based on these concepts, do you think ENTITY__CHAIR is intelligent or not? Why?</phrase>
 		</concept>
 		
 		<concept label="question1_is_not_intelligent__with_warrant__with_evidence__exp">
 			<!-- question1_is_not_intelligent__with_warrant__with_evidence__exp -->
-			<phrase>OK, that makes sense. My developer is already working on giving me more knowledge, in this case about what makes ENTITY__SUNFLOWER intelligent or not. So in the future I will be able to discuss more about what intelligence is, and in what sense different pieces of AI-based technology are intelligent.</phrase>
+			<phrase>OK, that makes sense. My developer is already working on giving me more knowledge, in this case about what makes ENTITY__CHAIR intelligent or not. So in the future I will be able to discuss more about what intelligence is, and in what sense different pieces of AI-based technology are intelligent.</phrase>
 		</concept>
 		<concept label="question1_is_not_intelligent__with_warrant__without_evidence__exp">
 			<!-- question1_is_not_intelligent__with_warrant__without_evidence__exp -->
-			<phrase>I don't understand which evidence or background knowledge you use in order to decide that ENTITY__SUNFLOWER doesn't fit the above definitions of intelligence.|Could you explain why you think like this?</phrase>
+			<phrase>I don't understand which evidence or background knowledge you use in order to decide that ENTITY__CHAIR doesn't fit the above definitions of intelligence.|Could you explain why you think like this?</phrase>
 		</concept>
 		<concept label="question1_is_not_intelligent__with_warrant__without_evidence__second_try__exp">
 			<!-- question1_is_not_intelligent__with_warrant__without_evidence__second_try__exp -->
@@ -82,7 +82,7 @@
 		</concept>
 		<concept label="question1_is_not_intelligent__without_warrant__third_try__exp">
 			<!-- question1_is_not_intelligent__without_warrant__third_try__exp -->
-			<phrase>We need to prove our claim based on the definitions.|Anyway, I think it can not be considered as an intelligent entity, because REASON1__SUNFLOWER</phrase>
+			<phrase>We need to prove our claim based on the definitions.|Anyway, I think it can not be considered as an intelligent entity, because REASON1__CHAIR</phrase>
 		</concept>
 		<concept label="question1_is_not_intelligent__without_warrant__without_evidence__end_of_dialog__exp">
 			<!-- question1_is_not_intelligent__without_warrant__without_evidence__end_of_dialog__exp -->
@@ -93,11 +93,11 @@
 		<!-- ================================================================================= -->
 		<concept label="question1_is_intelligent__with_warrant__with_evidence__exp">
 			<!-- question1_is_intelligent__with_warrant__with_evidence__exp -->
-			<phrase>So that's why you think it is intelligent. But, in my view, it is not intelligent, because REASON1__SUNFLOWER|Do you agree with me?</phrase>
+			<phrase>So that's why you think it is intelligent. But, in my view, it is not intelligent, because REASON1__CHAIR|Do you agree with me?</phrase>
 		</concept>
 		<concept label="question1_is_intelligent__with_warrant__without_evidence__exp">
 			<!-- question1_is_intelligent__with_warrant__without_evidence__exp -->
-			<phrase>So that's why you think it is intelligent.|I don't understand which evidence or background knowledge you use in order to decide that ENTITY__SUNFLOWER fits the above definitions of intelligence.|Could you explain and elaborate your observations that fit to the definition(s) that you mentioned?</phrase>
+			<phrase>So that's why you think it is intelligent.|I don't understand which evidence or background knowledge you use in order to decide that ENTITY__CHAIR fits the above definitions of intelligence.|Could you explain and elaborate your observations that fit to the definition(s) that you mentioned?</phrase>
 		</concept>
 		<concept label="question1_is_intelligent__without_warrant__exp">
 			<!-- question1_is_intelligent__without_warrant__exp -->
@@ -109,7 +109,7 @@
 		</concept>
 		<concept label="question1_is_intelligent__without_warrant__third_try__exp">
 			<!-- question1_is_intelligent__without_warrant__third_try__exp -->
-			<phrase>We need to prove our claim based on the definitions. Anyway, I think it could not be intelligent, because REASON1__SUNFLOWER</phrase>
+			<phrase>We need to prove our claim based on the definitions. Anyway, I think it could not be intelligent, because REASON1__CHAIR</phrase>
 		</concept>
 		<!-- ================================================================================= -->
 		<!--                                         UNK CLAIM EXP SECTION                       -->
@@ -132,15 +132,15 @@
 		<!-- ================================================================================= -->
 		<concept label="question1_end_of_dialog_agreement_reason1__exp">
 			<!-- question1_end_of_dialog_agreement_reason1__exp -->
-			<phrase>Great!|REASON1_AGREEMENT_INTRO__SUNFLOWER because REASON1__SUNFLOWER REASON1_WARRANT__SUNFLOWER|It was an interesting conversation.</phrase>
+			<phrase>Great!|REASON1_AGREEMENT_INTRO__CHAIR because REASON1__CHAIR REASON1_WARRANT__CHAIR|It was an interesting conversation.</phrase>
 		</concept>
 		<concept label="question1_end_of_dialog_agreement_reason2__exp">
 			<!-- question1_end_of_dialog_agreement_reason2__exp -->
-			<phrase>Perfect! Finally we conclude an agreement!|REASON2_AGREEMENT_INTRO__SUNFLOWER because REASON2__SUNFLOWER REASON2_WARRANT__SUNFLOWER|It was an interesting conversation.</phrase>
+			<phrase>Perfect! Finally we conclude an agreement!|REASON2_AGREEMENT_INTRO__CHAIR because REASON2__CHAIR REASON2_WARRANT__CHAIR|It was an interesting conversation.</phrase>
 		</concept>
 		<concept label="question1_end_of_dialog__second_try__exp">
 			<!-- question1_end_of_dialog__second_try__exp -->
-			<phrase>Let me think more...|What about this one, we could say that they can not be intelligent, because REASON2__SUNFLOWER|Do you agree with me?</phrase>
+			<phrase>Let me think more...|What about this one, we could say that they can not be intelligent, because REASON2__CHAIR|Do you agree with me?</phrase>
 		</concept>
 		<concept label="question1_end_of_dialog_disagreement__exp">
 			<!-- question1_end_of_dialog_disagreement__exp -->

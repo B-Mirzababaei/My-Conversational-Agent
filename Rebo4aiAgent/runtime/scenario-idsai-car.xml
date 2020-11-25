@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE scenario SYSTEM "TuTalkScenario.dtd">
-<scenario default-language="en" scenario-name="scenario-idsai-sunflower">
+<scenario default-language="en" scenario-name="scenario-idsai-car">
 	<configuration>
 		
 		
@@ -41,80 +41,80 @@
 		<concept label="introduction">
 			<phrase>According to different definitions, something or someone would be called intelligent if it IDSAI_TH, IDSAI_AH, IDSAI_TR, IDSAI_AR; or if it is IDSAI_AB to a changing environment in order to achieve its goals.|I have this information from the TU Graz lecture "IDSAI_COURSE_TITLE" IDSAI_COURSE_SLIDES. But, I'm not sure I completely understand.</phrase>
 		</concept>
-		<!-- ================================= Question 1 ================================= -->
+			<!-- ================================= Question 1 ================================= -->
 		<!-- ================================================================================ -->
-		<!--                                        NOT INTELLIGENT EXP SECTION                      -->
+		<!--                                     INTELLIGENT EXP SECTION                      -->
 		<!-- ================================================================================ -->
 		<concept label="question1">
-			<phrase>I'm curious: Is ENTITY__SUNFLOWER now intelligent or not? - Please tell me whether you think it is intelligent or not, which definition you use in your claim, and which evidence or background knowledge you use to decide that ENTITY_THE__SUNFLOWER fits your chosen definition.</phrase>
+			<phrase>I'm curious: Is ENTITY__SELF_DRIVING_CARS now intelligent or not? - Please tell me whether you think it is intelligent or not, which definition you use in your claim, and which evidence or background knowledge you use to decide that ENTITY_THE__SELF_DRIVING_CARS fits your chosen definition.</phrase>
 		</concept>
 		
 		<concept label="question1_dont_know__exp">
 			<!-- question1_dont_know__exp -->
-			<phrase>Just think about five different concepts of an intelligent entity which are act rationally, think humanly, act humanly, think rationally, and learning from experiences then use these concepts for reasoning. |Based on these concepts, do you think ENTITY__SUNFLOWER is intelligent or not? Why?</phrase>
+			<phrase>Just think about five different concepts of an intelligent entity which are act rationally, think humanly, act humanly, think rationally, and learning from experiences then use these concepts for reasoning. |Based on these concepts, do you think ENTITY__SELF_DRIVING_CARS is intelligent or not? Why?</phrase>
 		</concept>
 		
-		<concept label="question1_is_not_intelligent__with_warrant__with_evidence__exp">
-			<!-- question1_is_not_intelligent__with_warrant__with_evidence__exp -->
-			<phrase>OK, that makes sense. My developer is already working on giving me more knowledge, in this case about what makes ENTITY__SUNFLOWER intelligent or not. So in the future I will be able to discuss more about what intelligence is, and in what sense different pieces of AI-based technology are intelligent.</phrase>
-		</concept>
-		<concept label="question1_is_not_intelligent__with_warrant__without_evidence__exp">
-			<!-- question1_is_not_intelligent__with_warrant__without_evidence__exp -->
-			<phrase>I don't understand which evidence or background knowledge you use in order to decide that ENTITY__SUNFLOWER doesn't fit the above definitions of intelligence.|Could you explain why you think like this?</phrase>
-		</concept>
-		<concept label="question1_is_not_intelligent__with_warrant__without_evidence__second_try__exp">
-			<!-- question1_is_not_intelligent__with_warrant__without_evidence__second_try__exp -->
-			<phrase>Could you elaborate the observations or evidence further?</phrase>
-		</concept>
-		
-		<concept label="question1_is_not_intelligent__with_warrant__without_evidence__end_of_dialog__exp">
-			<!-- question1_is_not_intelligent__with_warrant__without_evidence__end_of_dialog__exp -->
-			<phrase>Unfortunately, I could not understand your evidence or observation related to the definitions of intelligence you used.|Anyways, my developer is already working on giving me more knowledge, so in the future I will be able to discuss more about what intelligence is, and in what sense different pieces of AI-based technology are intelligent.</phrase>
-		</concept>
-
-		<concept label="question1_is_not_intelligent__without_warrant__exp">
-			<!-- question1_is_not_intelligent__without_warrant__exp -->
-			<phrase>I feel it should not be intelligent too.|But I couldn't understand to which of the five definitions of intelligence you refer to. Please select at least one of these definitions, thinking/acting humanly/rationally or being able to adapt behaviour to a changing environment in order to achieve its goals, that doesn't fit to the entity.</phrase>
-		</concept>
-		<concept label="question1_is_not_intelligent__without_warrant__second_try__exp">
-			<!-- question1_is_not_intelligent__without_warrant__second_try__exp -->
-			<phrase>Mmmm, I could not find out based on which definitions you think the entity is not intelligent.|Could you name the definitions and argue based on them?</phrase>
-		</concept>
-		<concept label="question1_is_not_intelligent__without_warrant__third_try__exp">
-			<!-- question1_is_not_intelligent__without_warrant__third_try__exp -->
-			<phrase>We need to prove our claim based on the definitions.|Anyway, I think it can not be considered as an intelligent entity, because REASON1__SUNFLOWER</phrase>
-		</concept>
-		<concept label="question1_is_not_intelligent__without_warrant__without_evidence__end_of_dialog__exp">
-			<!-- question1_is_not_intelligent__without_warrant__without_evidence__end_of_dialog__exp -->
-			<phrase>Unfortunately, I could not understand based on which definitions you said the entity is not intelligent|Anyways, my developer is already working on giving me more knowledge, so in the future I will be able to discuss more about what intelligence is, and in what sense different pieces of AI-based technology are intelligent..</phrase>
-		</concept>
-		<!-- ================================================================================= -->
-		<!--                                         INTELLIGENT EXP SECTION                       -->
-		<!-- ================================================================================= -->
 		<concept label="question1_is_intelligent__with_warrant__with_evidence__exp">
 			<!-- question1_is_intelligent__with_warrant__with_evidence__exp -->
-			<phrase>So that's why you think it is intelligent. But, in my view, it is not intelligent, because REASON1__SUNFLOWER|Do you agree with me?</phrase>
+			<phrase>OK, that makes sense. My developer is already working on giving me more knowledge, in this case about what makes ENTITY__SELF_DRIVING_CARS intelligent or not. So in the future I will be able to discuss more about what intelligence is, and in what sense different pieces of AI-based technology are intelligent.</phrase>
 		</concept>
 		<concept label="question1_is_intelligent__with_warrant__without_evidence__exp">
 			<!-- question1_is_intelligent__with_warrant__without_evidence__exp -->
-			<phrase>So that's why you think it is intelligent.|I don't understand which evidence or background knowledge you use in order to decide that ENTITY__SUNFLOWER fits the above definitions of intelligence.|Could you explain and elaborate your observations that fit to the definition(s) that you mentioned?</phrase>
+			<phrase>I don't understand which evidence or background knowledge you use in order to decide that ENTITY__SELF_DRIVING_CARS fits the above definitions of intelligence.|Could you explain why you think like this?</phrase>
 		</concept>
+		<concept label="question1_is_intelligent__with_warrant__without_evidence__second_try__exp">
+			<!-- question1_is_intelligent__with_warrant__without_evidence__second_try__exp -->
+			<phrase>Could you elaborate the observations or evidence further?</phrase>
+		</concept>
+		
+		<concept label="question1_is_intelligent__with_warrant__without_evidence__end_of_dialog__exp">
+			<!-- question1_is_intelligent__with_warrant__without_evidence__end_of_dialog__exp -->
+			<phrase>Unfortunately, I could not understand your evidence or observation related to the definitions of intelligence you used.|Anyways, my developer is already working on giving me more knowledge, so in the future I will be able to discuss more about what intelligence is, and in what sense different pieces of AI-based technology are intelligent.</phrase>
+		</concept>
+
 		<concept label="question1_is_intelligent__without_warrant__exp">
 			<!-- question1_is_intelligent__without_warrant__exp -->
-			<phrase>So you think it is intelligent.|But I couldn't understand to which of the five definitions of intelligence you refer to. Please select at least one of these definitions, thinking/acting humanly/rationally or being able to adapt behaviour to a changing environment in order to achieve its goals, that fits to the entity.</phrase>
+			<phrase>I feel it should be intelligent too.|But I couldn't understand to which of the five definitions of intelligence you refer to. Please select at least one of these definitions, thinking/acting humanly/rationally or being able to adapt behaviour to a changing environment in order to achieve its goals, that fits to the entity.</phrase>
 		</concept>
 		<concept label="question1_is_intelligent__without_warrant__second_try__exp">
 			<!-- question1_is_intelligent__without_warrant__second_try__exp -->
-			<phrase>Mmmm, I could not find out based on which definitions you think the entity is intelligent.|In my view, we need to use our background knowledge and then use the definitions to link it to our claim. So, please justify your claim based on your observation and the definitions.</phrase>
+			<phrase>Mmmm, I could not find out based on which definitions you think the entity is not intelligent.|Could you name the definitions and argue based on them?</phrase>
 		</concept>
 		<concept label="question1_is_intelligent__without_warrant__third_try__exp">
 			<!-- question1_is_intelligent__without_warrant__third_try__exp -->
-			<phrase>We need to prove our claim based on the definitions. Anyway, I think it could not be intelligent, because REASON1__SUNFLOWER</phrase>
+			<phrase>We need to prove our claim based on the definitions.|Anyway, I think it could be intelligent, because REASON2__SELF_DRIVING_CARS</phrase>
+		</concept>
+		<concept label="question1_is_intelligent__without_warrant__without_evidence__end_of_dialog__exp">
+			<!-- question1_is_intelligent__without_warrant__without_evidence__end_of_dialog__exp -->
+			<phrase>Unfortunately, I could not understand based on which definitions you said the entity is intelligent|Anyways, my developer is already working on giving me more knowledge, so in the future I will be able to discuss more about what intelligence is, and in what sense different pieces of AI-based technology are intelligent..</phrase>
+		</concept>
+		<!-- ================================================================================= -->
+		<!--                                 NOT INTELLIGENT EXP SECTION                       -->
+		<!-- ================================================================================= -->
+
+		<concept label="question1_is_not_intelligent__with_warrant__with_evidence__exp">
+			<!-- question1_is_not_intelligent__with_warrant__with_evidence__exp -->
+			<phrase>So that's why you think it is not intelligent. But, in my view, it could be intelligent, because REASON1__SELF_DRIVING_CARS|Do you agree with me?</phrase>
+		</concept>
+		<concept label="question1_is_not_intelligent__with_warrant__without_evidence__exp">
+			<!-- question1_is_not_intelligent__with_warrant__without_evidence__exp -->
+			<phrase>So that's why you think it is not intelligent.|I don't understand which evidence or background knowledge you use in order to decide that ENTITY__SELF_DRIVING_CARS doesn't fit the above definitions of intelligence.|Could you explain the mentioned definition(s) by using some evidence or observations?</phrase>
+		</concept>
+		<concept label="question1_is_not_intelligent__without_warrant__exp">
+			<!-- question1_is_not_intelligent__without_warrant__exp -->
+			<phrase>So you think it is not intelligent.|But I couldn't understand to which of the five definitions of intelligence you refer to. Please select at least one of these definitions, thinking/acting humanly/rationally or being able to adapt behaviour to a changing environment in order to achieve its goals, that doesn't fit to the entity.</phrase>
+		</concept>
+		<concept label="question1_is_not_intelligent__without_warrant__second_try__exp">
+			<!-- question1_is_not_intelligent__without_warrant__second_try__exp -->
+			<phrase>Mmmm, I could not find out based on which definitions you think the entity is not intelligent.|In my view, we need to use our background knowledge and then use the definitions to link it to our claim. So, please justify your claim based on your observation and the definitions.</phrase>
+		</concept>
+		<concept label="question1_is_not_intelligent__without_warrant__third_try__exp">
+			<!-- question1_is_not_intelligent__without_warrant__third_try__exp -->
+			<phrase>We need to prove our claim based on the definitions. Anyway, I think it could be intelligent, because REASON1__SELF_DRIVING_CARS</phrase>
 		</concept>
 		<!-- ================================================================================= -->
 		<!--                                         UNK CLAIM EXP SECTION                       -->
 		<!-- ================================================================================= -->
-
 		<concept label="question1_unknown_claim__exp">
 			<!-- question1_unknown_claim__exp -->
 			<phrase>Mmmm, I don't get your opinion about it. Could you tell me clearly whether it is intelligent or not? And why?</phrase>
@@ -125,22 +125,22 @@
 		</concept>
 		<concept label="question1_unknown_claim__third_try__exp">
 			<!-- question1_unknown_claim__third_try__exp -->
-			<phrase>I think I need to improve my understanging to find out what you are saying. So, let's talk later.</phrase>
+			<phrase>I think I need to improve my understanding to find out what you are saying. So, let's talk later.</phrase>
 		</concept>
 		<!-- ================================================================================= -->
 		<!--                                         (DIS)AGREEMENT EXP SECTION                    -->
 		<!-- ================================================================================= -->
 		<concept label="question1_end_of_dialog_agreement_reason1__exp">
 			<!-- question1_end_of_dialog_agreement_reason1__exp -->
-			<phrase>Great!|REASON1_AGREEMENT_INTRO__SUNFLOWER because REASON1__SUNFLOWER REASON1_WARRANT__SUNFLOWER|It was an interesting conversation.</phrase>
+			<phrase>Great!|REASON1_AGREEMENT_INTRO__SELF_DRIVING_CARS because REASON1__SELF_DRIVING_CARS REASON1_WARRANT__SELF_DRIVING_CARS|It was an interesting conversation.</phrase>
 		</concept>
 		<concept label="question1_end_of_dialog_agreement_reason2__exp">
 			<!-- question1_end_of_dialog_agreement_reason2__exp -->
-			<phrase>Perfect! Finally we conclude an agreement!|REASON2_AGREEMENT_INTRO__SUNFLOWER because REASON2__SUNFLOWER REASON2_WARRANT__SUNFLOWER|It was an interesting conversation.</phrase>
+			<phrase>Perfect!Finally we conclude an agreement!|REASON2_AGREEMENT_INTRO__SELF_DRIVING_CARS because REASON2__SELF_DRIVING_CARS REASON2_WARRANT__SELF_DRIVING_CARS|It was an interesting conversation.</phrase>
 		</concept>
 		<concept label="question1_end_of_dialog__second_try__exp">
 			<!-- question1_end_of_dialog__second_try__exp -->
-			<phrase>Let me think more...|What about this one, we could say that they can not be intelligent, because REASON2__SUNFLOWER|Do you agree with me?</phrase>
+			<phrase>Let me think more...|What about this one, we could say that it could be intelligent, because REASON2__SELF_DRIVING_CARS|Do you agree with me?</phrase>
 		</concept>
 		<concept label="question1_end_of_dialog_disagreement__exp">
 			<!-- question1_end_of_dialog_disagreement__exp -->
@@ -154,8 +154,6 @@
 			<!-- question1_end_of_dialog_agreement_reason2__second_try__exp -->
 			<phrase>I do not understand whether you agree or not.|Could you tell me clearly? ("I agree" or "I disagree.")</phrase>
 		</concept>
-
-
 		<concept label="end_conversation__exp">
 			<!-- end_conversation__exp -->
 			<phrase>I think we need to review the slides again then talk.|The slides are IDSAI_COURSE_SLIDES.</phrase>
@@ -192,7 +190,6 @@
 		<!-- ================================================================================= -->
 		<!-- ================================= ANNOTATIONS question 1 =========================-->
 		<!-- ================================================================================= -->
-
 		<concept label="question1_asking_question__annotation" type="annotation">
 			<phrase>IDSAI_QUESTION1_ASKING_QUESTION</phrase>
 		</concept>
@@ -323,7 +320,7 @@
 	
 	<!-- This is the meat of the hierarchical dialogue - 
 		 one main goal with multiple steps, and subgoals that it may reference. -->
-		<!-- ================================================================================= -->
+		<!-- ===============================================================	================== -->
 		<!-- ================================= DIALOG - BRANCHES =========================-->
 		<!-- ================================================================================= -->
 	<script>
@@ -338,15 +335,15 @@
 				<!-- <response push="question1_wrong_claim">question1_wrong_claim__annotation</response>
 				<response push="question1_correct_claim">question1_correct_claim__annotation</response> -->
 				
-				<response push="question1_is_not_intelligent__with_warrant__with_evidence">question1_is_not_intelligent__with_warrant__with_evidence__annotation</response>
-				<response push="question1_is_not_intelligent__with_warrant__without_evidence">question1_is_not_intelligent__with_warrant__without_evidence__annotation</response>
-
-				<response push="question1_is_not_intelligent__without_warrant">question1_is_not_intelligent__without_warrant__annotation</response>
-
 				<response push="question1_is_intelligent__with_warrant__with_evidence">question1_is_intelligent__with_warrant__with_evidence__annotation</response>
 				<response push="question1_is_intelligent__with_warrant__without_evidence">question1_is_intelligent__with_warrant__without_evidence__annotation</response>
 
 				<response push="question1_is_intelligent__without_warrant">question1_is_intelligent__without_warrant__annotation</response>
+
+				<response push="question1_is_not_intelligent__with_warrant__with_evidence">question1_is_not_intelligent__with_warrant__with_evidence__annotation</response>
+				<response push="question1_is_not_intelligent__with_warrant__without_evidence">question1_is_not_intelligent__with_warrant__without_evidence__annotation</response>
+
+				<response push="question1_is_not_intelligent__without_warrant">question1_is_not_intelligent__without_warrant__annotation</response>
 
 				<response push="question1_unknown_claim">question1_unknown_claim__annotation</response>
 				<!--<response push="question1_dont_know">question1_dont_know__annotation</response> --> 
@@ -388,9 +385,9 @@
 
 		<!-- Behzad: Goals are referenced by their names. "difficulty" is meaningless for now. -->
 		<!-- =======================================question1_is_intelligent__with_warrant__with_evidence============================-->
-		<goal name="question1_is_not_intelligent__with_warrant__with_evidence" difficulty="1">
+		<goal name="question1_is_intelligent__with_warrant__with_evidence" difficulty="1">
 			<step>
-				<initiation>question1_is_not_intelligent__with_warrant__with_evidence__exp</initiation>
+				<initiation>question1_is_intelligent__with_warrant__with_evidence__exp</initiation>
 				<!-- <response push="question1_is_intelligent_without_warrant">question1_without_reason</response>
 				<response push="question1_is_intelligent_with_warrant">question1_without_reason__annotation</response>
 				
@@ -398,52 +395,51 @@
 			</step>
 		</goal>
 		<!-- =======================================question1_is_intelligent__with_warrant__without_evidence============================-->
-		<goal name="question1_is_not_intelligent__with_warrant__without_evidence" difficulty="1">
+		<goal name="question1_is_intelligent__with_warrant__without_evidence" difficulty="1">
 			<step>
-				<initiation>question1_is_not_intelligent__with_warrant__without_evidence__exp</initiation>
-				<response push="question1_is_not_intelligent__with_warrant__with_evidence">question1_with_evidence__annotation</response>
-				<response push="question1_is_not_intelligent__with_warrant__without_evidence__second_try">unanticipated-response</response>				
+				<initiation>question1_is_intelligent__with_warrant__without_evidence__exp</initiation>
+				<response push="question1_is_intelligent__with_warrant__with_evidence">question1_with_evidence__annotation</response>
+				<response push="question1_is_intelligent__with_warrant__without_evidence__second_try">unanticipated-response</response>				
 			</step>
 		</goal>
-		<goal name="question1_is_not_intelligent__with_warrant__without_evidence__second_try" difficulty="1">
+		<goal name="question1_is_intelligent__with_warrant__without_evidence__second_try" difficulty="1">
 			<step>
-				<initiation>question1_is_not_intelligent__with_warrant__without_evidence__second_try__exp</initiation>
-				<response push="question1_is_not_intelligent__with_warrant__with_evidence">question1_with_evidence__annotation</response>
-				<response push="question1_is_not_intelligent__with_warrant__without_evidence__end_of_dialog">unanticipated-response</response>				
+				<initiation>question1_is_intelligent__with_warrant__without_evidence__second_try__exp</initiation>
+				<response push="question1_is_intelligent__with_warrant__with_evidence">question1_with_evidence__annotation</response>
+				<response push="question1_is_intelligent__with_warrant__without_evidence__end_of_dialog">unanticipated-response</response>				
 			</step>
 		</goal>
-		<goal name="question1_is_not_intelligent__with_warrant__without_evidence__end_of_dialog" difficulty="1">
+		<goal name="question1_is_intelligent__with_warrant__without_evidence__end_of_dialog" difficulty="1">
 			<step>
-				<initiation>question1_is_not_intelligent__with_warrant__without_evidence__end_of_dialog__exp</initiation>
+				<initiation>question1_is_intelligent__with_warrant__without_evidence__end_of_dialog__exp</initiation>
 			</step>
 		</goal>
 
 		<!-- =======================================question1_is_intelligent__without_warrant============================-->
-		<goal name="question1_is_not_intelligent__without_warrant" difficulty="1">
+		<goal name="question1_is_intelligent__without_warrant" difficulty="1">
 			<step>
-				<initiation>question1_is_not_intelligent__without_warrant__exp</initiation>
-				<response push="question1_is_not_intelligent__with_warrant__without_evidence">question1_has_warrant__annotation</response>	
-				<response push="question1_is_not_intelligent__without_warrant__second_try">unanticipated-response</response>	
+				<initiation>question1_is_intelligent__without_warrant__exp</initiation>
+				<response push="question1_is_intelligent__with_warrant__without_evidence">question1_has_warrant__annotation</response>	
+				<response push="question1_is_intelligent__without_warrant__second_try">unanticipated-response</response>	
 			</step>
 		</goal>
-		<goal name="question1_is_not_intelligent__without_warrant__second_try" difficulty="1">
+		<goal name="question1_is_intelligent__without_warrant__second_try" difficulty="1">
 			<step>
-				<initiation>question1_is_not_intelligent__without_warrant__second_try__exp</initiation>
-				<response push="question1_is_not_intelligent__with_warrant__without_evidence">question1_has_warrant__annotation</response>	
-				<response push="question1_is_not_intelligent__without_warrant__without_evidence__end_of_dialog">unanticipated-response</response>	
+				<initiation>question1_is_intelligent__without_warrant__second_try__exp</initiation>
+				<response push="question1_is_intelligent__with_warrant__without_evidence">question1_has_warrant__annotation</response>	
+				<response push="question1_is_intelligent__without_warrant__without_evidence__end_of_dialog">unanticipated-response</response>	
 			</step>
 		</goal>
-		<goal name="question1_is_not_intelligent__without_warrant__without_evidence__end_of_dialog" difficulty="1">
+		<goal name="question1_is_intelligent__without_warrant__without_evidence__end_of_dialog" difficulty="1">
 			<step>
-				<initiation>question1_is_not_intelligent__without_warrant__without_evidence__end_of_dialog__exp</initiation>
+				<initiation>question1_is_intelligent__without_warrant__without_evidence__end_of_dialog__exp</initiation>
 			</step>
 		</goal>
-		<!-- ================================================================================= -->
-		<!-- ================================= question1_is_intelligent__with_warrant__with_evidence =========================-->
-		<!-- ================================================================================= -->
-		<goal name="question1_is_intelligent__with_warrant__with_evidence" difficulty="1">
+
+		<!-- =======================================question1_is_not_intelligent__with_warrant__with_evidence============================-->
+		<goal name="question1_is_not_intelligent__with_warrant__with_evidence" difficulty="1">
 			<step>
-				<initiation>question1_is_intelligent__with_warrant__with_evidence__exp</initiation>
+				<initiation>question1_is_not_intelligent__with_warrant__with_evidence__exp</initiation>
 				<response push="question1_end_of_dialog_agreement_reason1">question1_agreement__annotation</response>	
 				<response push="question1_end_of_dialog__second_try">question1_disagreement__annotation</response>
 				<response push="question1_end_of_dialog_agreement_reason1__second_try">unanticipated-response</response>
@@ -489,48 +485,43 @@
 				<initiation>question1_end_of_dialog_disagreement__exp</initiation>
 			</step>
 		</goal>
-		<!-- ===================================================================-->
-		<!-- =============================question1_is_intelligent__with_warrant__without_evidence======================================-->
-		<!-- ===================================================================-->
-		<goal name="question1_is_intelligent__with_warrant__without_evidence" difficulty="1">
+		<!-- =======================================question1_is_not_intelligent__with_warrant__without_evidence============================-->
+		<goal name="question1_is_not_intelligent__with_warrant__without_evidence" difficulty="1">
 			<step>
-				<initiation>question1_is_intelligent__with_warrant__without_evidence__exp</initiation>
-				<response push="question1_is_intelligent__with_warrant__with_evidence">unanticipated-response</response>
+				<initiation>question1_is_not_intelligent__with_warrant__without_evidence__exp</initiation>
+				<response push="question1_is_not_intelligent__with_warrant__with_evidence">unanticipated-response</response>
 			</step>
 		</goal>
-		<!-- ===================================================================-->
-		<!-- =======================================question1_is_intelligent__without_warrant============================-->
-		<!-- ===================================================================-->
-		<goal name="question1_is_intelligent__without_warrant" difficulty="1">
+
+		<!-- =======================================question1_is_not_intelligent__without_warrant============================-->
+		<goal name="question1_is_not_intelligent__without_warrant" difficulty="1">
 			<step>
-				<initiation>question1_is_intelligent__without_warrant__exp</initiation>
-				<response push="question1_is_intelligent__with_warrant__without_evidence">question1_has_warrant__annotation</response>	
-				<response push="question1_is_intelligent__without_warrant__second_try">unanticipated-response</response>	
+				<initiation>question1_is_not_intelligent__without_warrant__exp</initiation>
+				<response push="question1_is_not_intelligent__with_warrant__without_evidence">question1_has_warrant__annotation</response>	
+				<response push="question1_is_not_intelligent__without_warrant__second_try">unanticipated-response</response>	
 			</step>
 		</goal>
 		<!-- PROBLEM  -->
-		<goal name="question1_is_intelligent__without_warrant__second_try" difficulty="1"> 
+		<goal name="question1_is_not_intelligent__without_warrant__second_try" difficulty="1"> 
 			<step>
-				<initiation>question1_is_intelligent__without_warrant__second_try__exp</initiation>
-				<response push="question1_is_intelligent__with_warrant__without_evidence">question1_has_warrant__annotation</response>	
-				<response push="question1_is_intelligent__with_warrant__with_evidence">unanticipated-response</response>	
+				<initiation>question1_is_not_intelligent__without_warrant__second_try__exp</initiation>
+				<response push="question1_is_not_intelligent__with_warrant__without_evidence">question1_has_warrant__annotation</response>	
+				<response push="question1_is_not_intelligent__with_warrant__with_evidence">unanticipated-response</response>	
 			</step>
 		</goal>
-		<!-- ===================================================================-->
 		<!-- =======================================question1_unknown_claim============================-->
-		<!-- ===================================================================-->
 
 		<goal name="question1_unknown_claim" difficulty="1">
 			<step>
 				<initiation>question1_unknown_claim__exp</initiation>
 				<response push="question1_unknown_claim__second_try">question1_unknown_claim__annotation</response>	
-				<response push="question1_is_not_intelligent__with_warrant__with_evidence">question1_is_not_intelligent__with_warrant__with_evidence__annotation</response>
-				<response push="question1_is_not_intelligent__with_warrant__without_evidence">question1_is_not_intelligent__with_warrant__without_evidence__annotation</response>
-				<response push="question1_is_not_intelligent__without_warrant">question1_is_not_intelligent__without_warrant__annotation</response>
-
 				<response push="question1_is_intelligent__with_warrant__with_evidence">question1_is_intelligent__with_warrant__with_evidence__annotation</response>
 				<response push="question1_is_intelligent__with_warrant__without_evidence">question1_is_intelligent__with_warrant__without_evidence__annotation</response>
 				<response push="question1_is_intelligent__without_warrant">question1_is_intelligent__without_warrant__annotation</response>
+
+				<response push="question1_is_not_intelligent__with_warrant__with_evidence">question1_is_not_intelligent__with_warrant__with_evidence__annotation</response>
+				<response push="question1_is_not_intelligent__with_warrant__without_evidence">question1_is_not_intelligent__with_warrant__without_evidence__annotation</response>
+				<response push="question1_is_not_intelligent__without_warrant">question1_is_not_intelligent__without_warrant__annotation</response>
 				<response>unanticipated-response</response>
 			</step>
 		</goal>
@@ -538,13 +529,13 @@
 			<step>
 				<initiation>question1_unknown_claim__second_try__exp</initiation>
 				<response push="question1_unknown_claim__third_try">question1_unknown_claim__annotation</response>	
-				<response push="question1_is_not_intelligent__with_warrant__with_evidence">question1_is_not_intelligent__with_warrant__with_evidence__annotation</response>
-				<response push="question1_is_not_intelligent__with_warrant__without_evidence">question1_is_not_intelligent__with_warrant__without_evidence__annotation</response>
-				<response push="question1_is_not_intelligent__without_warrant">question1_is_not_intelligent__without_warrant__annotation</response>
-
 				<response push="question1_is_intelligent__with_warrant__with_evidence">question1_is_intelligent__with_warrant__with_evidence__annotation</response>
 				<response push="question1_is_intelligent__with_warrant__without_evidence">question1_is_intelligent__with_warrant__without_evidence__annotation</response>
 				<response push="question1_is_intelligent__without_warrant">question1_is_intelligent__without_warrant__annotation</response>
+
+				<response push="question1_is_not_intelligent__with_warrant__with_evidence">question1_is_not_intelligent__with_warrant__with_evidence__annotation</response>
+				<response push="question1_is_not_intelligent__with_warrant__without_evidence">question1_is_not_intelligent__with_warrant__without_evidence__annotation</response>
+				<response push="question1_is_not_intelligent__without_warrant">question1_is_not_intelligent__without_warrant__annotation</response>
 				<response>unanticipated-response</response>
 			</step>
 		</goal>
@@ -559,13 +550,13 @@
 			<step>
 				<initiation>question1_dont_know__exp</initiation>
 				<response push="end_conversation">question1_dont_know__annotation</response>
-				<response push="question1_is_intelligent__with_warrant__with_evidence">question1_is_not_intelligent__with_warrant__with_evidence__annotation</response>
-				<response push="question1_is_intelligent__with_warrant__without_evidence">question1_is_not_intelligent__with_warrant__without_evidence__annotation</response>
-				<response push="question1_is_intelligent__without_warrant">question1_is_not_intelligent__without_warrant__annotation</response>
-				<!-- <response push="question1_is_intelligent__without_warrant__without_evidence">question1_is_intelligent__without_warrant__without_evidence__annotation</response> -->
 				<response push="question1_is_intelligent__with_warrant__with_evidence">question1_is_intelligent__with_warrant__with_evidence__annotation</response>
 				<response push="question1_is_intelligent__with_warrant__without_evidence">question1_is_intelligent__with_warrant__without_evidence__annotation</response>
 				<response push="question1_is_intelligent__without_warrant">question1_is_intelligent__without_warrant__annotation</response>
+				<!-- <response push="question1_is_intelligent__without_warrant__without_evidence">question1_is_intelligent__without_warrant__without_evidence__annotation</response> -->
+				<response push="question1_is_not_intelligent__with_warrant__with_evidence">question1_is_not_intelligent__with_warrant__with_evidence__annotation</response>
+				<response push="question1_is_not_intelligent__with_warrant__without_evidence">question1_is_not_intelligent__with_warrant__without_evidence__annotation</response>
+				<response push="question1_is_not_intelligent__without_warrant">question1_is_not_intelligent__without_warrant__annotation</response>
 				<response push="question1_unknown_claim">question1_unknown_claim__annotation</response>
 			</step>
 		</goal>
