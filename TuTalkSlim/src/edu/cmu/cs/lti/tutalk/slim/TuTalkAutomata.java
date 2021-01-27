@@ -156,8 +156,7 @@ public class TuTalkAutomata {
         {
             cs.add(expected.get(i).getConcept());
         }
-        /* Behzad
-         * it is a bug!!!
+        /* Behzad it is a bug!!!
          * 
          */
 //        cs.add(currentScenario.getConceptLibrary().getConcept("_dont_know_"));

@@ -81,9 +81,9 @@ public class PythonMessageAnnotator extends BasilicaAdapter
             JSONObject resultBodyJson = (JSONObject) new JSONParser().parse(response.getBody());
             label = resultBodyJson.get("label").toString();
             if (label.equals("[1]")) {
-            	label = "WARRANT_WITH";
+            	label = "WITH_WARRANT";
 			} else {
-				label = "WARRANT_WITHOUT";
+				label = "WITHOUT_WARRANT";
 			}
     		log(Logger.LOG_NORMAL, "-------------------8888-------------------- PYTHON            after request label is =========== "+label+" ====================== ");
 
@@ -135,12 +135,12 @@ public class PythonMessageAnnotator extends BasilicaAdapter
             label = resultBodyJson.get("label").toString();
     		log(Logger.LOG_NORMAL, "-------------------8888-------------------- PYTHON            after request label is =========== "+label+" ====================== ");
     		if (label.equals("[1]")) {
-             	label = "CLAIM_POS";
+             	label = "POS_CLAIM";
  			} else if (label.equals("[-1]")) {
- 				label = "CLAIM_NEG";
+ 				label = "NEG_CLAIM";
  			}
  			else {
- 				label = "CLAIM_NONE";
+ 				label = "UNK_CLAIM";
  			}
  				
         } else {
@@ -170,12 +170,12 @@ public class PythonMessageAnnotator extends BasilicaAdapter
         // TODO: Handle connection problems etc.
 		log(Logger.LOG_NORMAL, "-------------------8888-------------------- PYTHON            before request ================================= ");
 		
-        if (label_claim.equals("CLAIM_NONE")) {
+        if (label_claim.equals("UNK_CLAIM")) {
         	label_claim = "0";
 		} else {
 			label_claim = "1";	
 		}
-        if (label_warrant.equals("WARRANT_WITH")) {
+        if (label_warrant.equals("WITH_WARRANT")) {
         	label_warrant = "1";
 		} else {
 			label_warrant = "0";	
@@ -238,14 +238,15 @@ public class PythonMessageAnnotator extends BasilicaAdapter
 		log(Logger.LOG_NORMAL, "-------------------8888-------------------- PYTHON            cleaning the text ================================= ");
 		try {
 			
+			
+			String label_claim = claim(text);
+            me.addAnnotations(label_claim);
+    		log(Logger.LOG_NORMAL, "-------------------8888-------------------- PYTHON            the label of claim is added to the list ================================= ");
+
 			String label_warrant = warrant(text);
             me.addAnnotations(label_warrant);
     		log(Logger.LOG_NORMAL, "-------------------8888-------------------- PYTHON            the label of warrant is added to the list ================================= ");
     		
-    		String label_claim = claim(text);
-            me.addAnnotations(label_claim);
-    		log(Logger.LOG_NORMAL, "-------------------8888-------------------- PYTHON            the label of claim is added to the list ================================= ");
-
     		String label_evidence = evidence(text,label_claim, label_warrant );
             me.addAnnotations(label_evidence);
     		log(Logger.LOG_NORMAL, "-------------------8888-------------------- PYTHON            the label of claim is added to the list ================================= ");

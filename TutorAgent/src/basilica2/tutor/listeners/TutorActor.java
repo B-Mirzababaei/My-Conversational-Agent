@@ -451,6 +451,7 @@ public class TutorActor extends BasilicaAdapter implements TimeoutReceiver
 		
 	public List<String> getListOfScenarios(File dir) 
 	{
+		//Behzad: Get list of scenarios files in dialogue folder
 		List<String> scenarios = new ArrayList<String>();
 		File[] dictNames = dir.listFiles();
 
@@ -638,9 +639,11 @@ public class TutorActor extends BasilicaAdapter implements TimeoutReceiver
 		return texts[(int)(Math.random()*texts.length)];
 	}
 	
-	//Behzad replaceRandomPhrase
+	//Behzad replaceRandomPhrase: Here the agent replaces all the KEWWORDS (random stuff) which are in all random files (html, entity, KB)
 	private List<String> replaceRandomPhrase(List<String> tutorTurns) {
+		
 		for (int i = 0; i < tutorTurns.size(); i++) {
+			
 			for (Map.Entry<String,String> entry : this.proposedDialogs.get(this.currentConcept).selectedRandomElement.entrySet()) {
 				tutorTurns.set(i, tutorTurns.get(i).replace(entry.getKey(), entry.getValue()));
 			}

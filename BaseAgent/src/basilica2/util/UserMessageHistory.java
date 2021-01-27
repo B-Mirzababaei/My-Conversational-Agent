@@ -59,8 +59,7 @@ public class UserMessageHistory {
     }
     
     private boolean checkForToShortAnswers() {
-    	/* Behzad:
-    	 * The response's length will be checked
+    	/* Behzad: The response's length will be checked
     	 */
     	if(messages.size() > 2 && userPoked == false) {
     		Iterator<MessageEvent> iter = messages.iterator(); 

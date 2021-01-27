@@ -1,8 +1,8 @@
-a monkey
-a office chair
-Google search engine
-a self-driving car
-the New York statue of Liberty
-a snake
-a sunflower
-a Venus flytrap
+CHAIR
+SELF_DRIVING_CARS
+GOOGLE_SEARCH_ENGINE
+MONKEY
+THE_NEW_YORK_STATUE_OF_LIBERTY
+SUNFLOWER
+SNAKE
+FLYTRAP

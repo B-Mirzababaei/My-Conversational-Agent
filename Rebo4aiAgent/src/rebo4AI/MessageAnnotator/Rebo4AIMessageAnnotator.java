@@ -132,8 +132,7 @@ public class Rebo4AIMessageAnnotator implements BasilicaPreProcessor {
 	}
 	private void handleMessageEvent(InputCoordinator source, MessageEvent me)
 	{
-		/* Behzad
-		 * This function normalizes the response and tries to match it to a specific annotation.
+		/* Behzad: This function normalizes the response and tries to match it to a specific annotation.
 		 * Then add the annotation to this property Map<String, List<String>> annotations in MessageEvent.java; 
 		 */
 		String text = me.getText();

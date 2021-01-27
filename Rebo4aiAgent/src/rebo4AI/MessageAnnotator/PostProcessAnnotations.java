@@ -67,8 +67,7 @@ public class PostProcessAnnotations implements BasilicaPreProcessor {
 	@Override
 	public void preProcessEvent(InputCoordinator source, Event e)
 	{
-		/* Behzad
-		 * If the event is a MessageEvent, it will be handled by handleMessageEvent.
+		/* Behzad If the event is a MessageEvent, it will be handled by handleMessageEvent.
 		 */
 		if (e instanceof MessageEvent)
 		{
@@ -91,7 +90,7 @@ public class PostProcessAnnotations implements BasilicaPreProcessor {
 	{
 		//BEHZAD: predict the evidence based on the length of resonses
 		int word_number = normalizedText.replaceAll("[^a-z ]", "").split("\\s+").length;
-		if (word_number <= 5) {
+		if (word_number <= 4) {
 			return word_number;
 		}
 		if (all_annotations.contains("CLAIM_POS") || 
@@ -129,71 +128,58 @@ public class PostProcessAnnotations implements BasilicaPreProcessor {
 		normalizedText = replaceEntity(normalizedText, source.dialog_name);
 
 		
+		String evidence_label = "";
+		String claim_label = "";
+		String warrant_label = "";
+
+		
+		
+		if (Arrays.asList(newme.getAllAnnotations()).contains("POS_CLAIM") || Arrays.asList(newme.getAllAnnotations()).contains("IDSAI_QUESTION1_IS_INTELLIGENT")) {
+			claim_label= "POS_CLAIM";
+			
+		}
+		else if (Arrays.asList(newme.getAllAnnotations()).contains("NEG_CLAIM") || Arrays.asList(newme.getAllAnnotations()).contains("IDSAI_QUESTION1_IS_NOT_INTELLIGENT")) {
+			claim_label= "NEG_CLAIM";
+		}
+		else {
+			claim_label = "UNK_CLAIM";
+			
+		}
+		
+		if (Arrays.asList(newme.getAllAnnotations()).contains("WITH_WARRANT") || Arrays.asList(newme.getAllAnnotations()).contains("IDSAI_QUESTION1_WITH_WARRANT")) {
+			warrant_label= "WITH_WARRANT";
+		}
+		else {
+			warrant_label = "WITHOUT_WARRANT";
+		}
+		
+		if (Arrays.asList(newme.getAllAnnotations()).contains("WITH_EVIDENCE")) {
+			evidence_label= "WITH_EVIDENCE";
+		}
+		else {
+			evidence_label = "WITHOUT_EVIDENCE";
+		}
 		// =============================check based on length============================
 		int word_number = hasEvidence_rulebased(normalizedText, Arrays.asList(newme.getAllAnnotations()));
 		
-		String evidence_label = "";
 		
-		if (word_number <= 5) {
+		
+		if (word_number <= 4) {
 			 if (Arrays.asList(newme.getAllAnnotations()).contains("WITH_EVIDENCE") ) { 
 				newme.removeAnnotation("WITH_EVIDENCE");
 				newme.addMyAnnotation("WITHOUT_EVIDENCE", Arrays.asList("this is for the evidence"));
 			 }		
 			 evidence_label = "WITHOUT_EVIDENCE";
 		}
-		else {
-			if (Arrays.asList(newme.getAllAnnotations()).contains("WITH_EVIDENCE") ) { 
-				evidence_label = "WITH_EVIDENCE";
-			}
-			else {
-				evidence_label = "WITHOUT_EVIDENCE";
-			}
-		}
 		
 		//=============================END check based on length============================
-//		newme.addMyAnnotation(evidence_label, Arrays.asList("this is for the evidence"));
-		
-		
-		
-		//===========================================================================
-		
-		// NORMAL ANNOTATIONS
-//		for (String key : dictionaries.keySet())
-//		{
-//			List<String> dictionary = dictionaries.get(key);
-//			List<String> namesFound = matchDictionary(normalizedText, dictionary);
-//			if (namesFound.size() > 0)
-//			{
-//				newme.addAnnotation(key, namesFound);
-//			}
-//		}
-		
-
-		String annotation = "CLAIM_NONE";
 		List<String> matchedTerms = new ArrayList<String>();
-		matchedTerms.add("sth");
-		
-		if (Arrays.asList(newme.getAllAnnotations()).contains("CLAIM_POS") || Arrays.asList(newme.getAllAnnotations()).contains("IDSAI_QUESTION1_IS_INTELLIGENT")) {
-			annotation= "POS_CLAIM";
-			
-		}
-		else if (Arrays.asList(newme.getAllAnnotations()).contains("CLAIM_NEG") || Arrays.asList(newme.getAllAnnotations()).contains("IDSAI_QUESTION1_IS_NOT_INTELLIGENT")) {
-			annotation= "NEG_CLAIM";
-		}
-		if (!annotation.equals("CLAIM_NONE")) {
-			if (Arrays.asList(newme.getAllAnnotations()).contains("WARRANT_WITH") || Arrays.asList(newme.getAllAnnotations()).contains("IDSAI_QUESTION1_WITH_WARRANT")) {
-				annotation +="__WITH_WARRANT";	
-				annotation += "__"+evidence_label;
-			}
-			else {
-				annotation+="__WITHOUT_WARRANT";
-			}
-			newme.addAnnotation(annotation, matchedTerms);
-			if (Arrays.asList(newme.getAllAnnotations()).contains("CLAIM_NONE")){
-				newme.removeAnnotation("CLAIM_NONE");
-				
-			}
-		}
+		matchedTerms.add("concatenate of claim, warrant, and evidence");
+		String c_w_e_label = claim_label + "__" + warrant_label + "__" + evidence_label;
+		newme.addMyAnnotation(c_w_e_label, matchedTerms);
+
+//		if (Arrays.asList(newme.getAllAnnotations()).contains("UNK_CLAIM")){
+//			newme.removeAnnotation("UNK_CLAIM");
 	}
 
 	public String cleanText(String text)
