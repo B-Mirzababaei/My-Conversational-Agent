@@ -3,7 +3,7 @@ cd "$(dirname "$0")"
 
 roomname=$1;
 
-jar_name="Rebo4aiAgent.jar"
+jar_name="PrivacyAgent.jar"
 
 echo $jar_name
 echo $roomname

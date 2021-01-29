@@ -176,6 +176,7 @@ public class WebsocketChatClient extends Component implements ChatClient
 			socket.connect();
 			String type_room = "chatbot";
 			String type_perspective = "perspective";
+            //socket.emit('adduser', room, user, false, type, perspective, root_page, agent_name);
 
 			socket.emit("adduser", agentRoomName, agentUserName, new Boolean(false), type_room, type_perspective);
 		}
