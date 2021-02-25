@@ -1,3 +1,0 @@
-/i do\s?(n't|not) know/
-i have no idea
-/could you expain\s?(it)?(more)?/

@@ -1,5 +1,7 @@
 package basilica2.socketchat;
 
+import java.util.concurrent.TimeUnit;
+import java.io.Console;
 import java.net.URISyntaxException;
 import java.util.Iterator;
 import java.util.Timer;
@@ -211,6 +213,15 @@ public class WebsocketChatClient extends Component implements ChatClient
 		 * (check server_bdemooc_xu.js to find out what happen)
 		 * 
 		 */
+		// Behzad: SLEEP BEFORE SENDING MESSAGE
+//		try {
+//			TimeUnit.MILLISECONDS.sleep(1400);
+//		} catch (InterruptedException e) {
+//			// TODO Auto-generated catch block
+//			e.printStackTrace();
+//		}
+		System.err.println("MESSAGE: "+message);
+
 		socket.emit("sendchat", message);
 	}
 
@@ -323,7 +334,7 @@ public class WebsocketChatClient extends Component implements ChatClient
 
 				}
 			}).on("updatechat", new Emitter.Listener() { 
-
+				// Behzad send message to chat page
 				@Override
 				public void call(Object... args)
 				{

@@ -153,7 +153,7 @@ public class Rebo4AIMessageAnnotator implements BasilicaPreProcessor {
 			}
 		}
 		
-
+		
 		
 		//old rohitk
 //		updateAnnotations(me.getFrom(), me.getText(), newme.getAnnotationString(), source.getAgent().getName());

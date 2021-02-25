@@ -28,11 +28,12 @@ import edu.cmu.cs.lti.project911.utils.time.Timer;
  */
 public class TutorTurnWatcher extends BasilicaAdapter implements TimeoutReceiver
 {
+	// Behzad timeout and other stuff
 	public static String GENERIC_NAME = "TutoringTurnTakingCordinator";
 	public static String GENERIC_TYPE = "Cordinator";
 	private double tickSize = 0.1;
 	private int burst_ticks = 50; // Equals 5 second bursts
-	private int turn_response_timeout = 600;
+	private int turn_response_timeout = 3600;
 	private List<String> studentTurns = null;
 	private List<String> contributors = null;
 	private List<String> annotations = null;
