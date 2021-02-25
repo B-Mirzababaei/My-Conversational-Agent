@@ -10,7 +10,7 @@
         <!-- "delay" for a step is the delay *after* the step completes on its own.-->       
 		<!-- <step type="prompt" prompt="INTRODUCE">INTRODUCE</step> -->
 		<!-- <step type="prompt" delay="0" timeout="5" prompt="ASK_ABOUT_TOPIC"> ASK_ABOUT_TOPIC</step>		-->
- 		<step type="dialogue" dialogue="IDSAI">IDSAI</step>
+ 		<step type="dialogue" dialogue="IDSAI21">IDSAI21</step>
 		<step type="logout">LOG_OUT</step>
 <!--		<step type="dialogue" dialogue="GENERAL_AI">GENERAL_AI</step>
 		<step type="dialogue" dialogue="REBO4AI">REBO4AI</step> -->
